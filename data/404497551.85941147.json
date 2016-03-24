@@ -1,0 +1,397 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-198",
+          "short_name": "100-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Washington Street",
+          "short_name": "Washington St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "West Union",
+          "short_name": "West Union",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "York Township",
+          "short_name": "York Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clark County",
+          "short_name": "Clark County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62477",
+          "short_name": "62477",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "100-198 Washington St, West Union, IL 62477, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2150342,
+            "lng": -87.6648965
+          },
+          "southwest": {
+            "lat": 39.2150164,
+            "lng": -87.6660703
+          }
+        },
+        "location": {
+          "lat": 39.2150145,
+          "lng": -87.6657278
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.21637428029149,
+            "lng": -87.6641344197085
+          },
+          "southwest": {
+            "lat": 39.2136763197085,
+            "lng": -87.66683238029151
+          }
+        }
+      },
+      "place_id": "EjAxMDAtMTk4IFdhc2hpbmd0b24gU3QsIFdlc3QgVW5pb24sIElMIDYyNDc3LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "York Township",
+          "short_name": "York Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clark County",
+          "short_name": "Clark County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "York Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2594579,
+            "lng": -87.5714601
+          },
+          "southwest": {
+            "lat": 39.1574307,
+            "lng": -87.68441990000001
+          }
+        },
+        "location": {
+          "lat": 39.2344764,
+          "lng": -87.6383797
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.2594579,
+            "lng": -87.5714601
+          },
+          "southwest": {
+            "lat": 39.1574307,
+            "lng": -87.68441990000001
+          }
+        }
+      },
+      "place_id": "ChIJswDN-fl7cogR-lXb8hx8u4U",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62477",
+          "short_name": "62477",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "West Union",
+          "short_name": "West Union",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "West Union, IL 62477, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.310932,
+            "lng": -87.57132100000001
+          },
+          "southwest": {
+            "lat": 39.1369848,
+            "lng": -87.7838708
+          }
+        },
+        "location": {
+          "lat": 39.2352669,
+          "lng": -87.67783779999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.310932,
+            "lng": -87.57132100000001
+          },
+          "southwest": {
+            "lat": 39.1369848,
+            "lng": -87.7838708
+          }
+        }
+      },
+      "place_id": "ChIJB9j-IY18cogRqq0cuiUvCMY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clark County",
+          "short_name": "Clark County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clark County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.4873921,
+            "lng": -87.53135490000001
+          },
+          "southwest": {
+            "lat": 39.1574307,
+            "lng": -88.0142049
+          }
+        },
+        "location": {
+          "lat": 39.3824189,
+          "lng": -87.77633329999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.4873921,
+            "lng": -87.53135490000001
+          },
+          "southwest": {
+            "lat": 39.1574307,
+            "lng": -88.0142049
+          }
+        }
+      },
+      "place_id": "ChIJvzdFsV2KcogRX71D0fcd-dI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

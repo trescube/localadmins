@@ -1,0 +1,623 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "938",
+          "short_name": "938",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Bantam Road",
+          "short_name": "Bantam Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Bantam",
+          "short_name": "Bantam",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield",
+          "short_name": "Litchfield",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield",
+          "short_name": "Litchfield",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06750",
+          "short_name": "06750",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1608",
+          "short_name": "1608",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "938 Bantam Rd, Bantam, CT 06750, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.7239552,
+          "lng": -73.2422127
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7253041802915,
+            "lng": -73.2408637197085
+          },
+          "southwest": {
+            "lat": 41.7226062197085,
+            "lng": -73.2435616802915
+          }
+        }
+      },
+      "place_id": "ChIJOSzssqKR54kRzNtT4hQs8w4",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bantam",
+          "short_name": "Bantam",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield",
+          "short_name": "Litchfield",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield",
+          "short_name": "Litchfield",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bantam, Litchfield, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.730941,
+            "lng": -73.229879
+          },
+          "southwest": {
+            "lat": 41.7188159,
+            "lng": -73.2544791
+          }
+        },
+        "location": {
+          "lat": 41.7245409,
+          "lng": -73.23622619999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.730941,
+            "lng": -73.229879
+          },
+          "southwest": {
+            "lat": 41.7188159,
+            "lng": -73.2544791
+          }
+        }
+      },
+      "place_id": "ChIJp361JZOR54kRbTKZsTLyerM",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Litchfield",
+          "short_name": "Litchfield",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield",
+          "short_name": "Litchfield",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Litchfield, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7938119,
+            "lng": -73.068032
+          },
+          "southwest": {
+            "lat": 41.6728479,
+            "lng": -73.298564
+          }
+        },
+        "location": {
+          "lat": 41.7472642,
+          "lng": -73.1887165
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7938119,
+            "lng": -73.068032
+          },
+          "southwest": {
+            "lat": 41.6728479,
+            "lng": -73.298564
+          }
+        }
+      },
+      "place_id": "ChIJtRlrFpiW54kRSBohnWs5Ryg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "06750",
+          "short_name": "06750",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Bantam",
+          "short_name": "Bantam",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bantam, CT 06750, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7541861,
+            "lng": -73.2170699
+          },
+          "southwest": {
+            "lat": 41.6983521,
+            "lng": -73.2958179
+          }
+        },
+        "location": {
+          "lat": 41.7210405,
+          "lng": -73.25884409999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7541861,
+            "lng": -73.2170699
+          },
+          "southwest": {
+            "lat": 41.6983521,
+            "lng": -73.2958179
+          }
+        }
+      },
+      "place_id": "ChIJp361JZOR54kRn0CA97mcMP0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Litchfield",
+          "short_name": "Litchfield",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Litchfield, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7938119,
+            "lng": -73.068032
+          },
+          "southwest": {
+            "lat": 41.6728479,
+            "lng": -73.298564
+          }
+        },
+        "location": {
+          "lat": 41.75668020000001,
+          "lng": -73.2057595
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7938119,
+            "lng": -73.068032
+          },
+          "southwest": {
+            "lat": 41.6728479,
+            "lng": -73.298564
+          }
+        }
+      },
+      "place_id": "ChIJS57YmUaQ54kRXqVqCTF8lcM",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Litchfield County, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -72.8870598
+          },
+          "southwest": {
+            "lat": 41.4678914,
+            "lng": -73.51806499999999
+          }
+        },
+        "location": {
+          "lat": 41.7866294,
+          "lng": -73.2765361
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -72.8870598
+          },
+          "southwest": {
+            "lat": 41.4678914,
+            "lng": -73.51806499999999
+          }
+        }
+      },
+      "place_id": "ChIJvYe7N7eQ54kRL6nZaXRwPkI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Torrington",
+          "short_name": "Torrington",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Torrington, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -72.88706
+          },
+          "southwest": {
+            "lat": 41.4674151,
+            "lng": -73.5182268
+          }
+        },
+        "location": {
+          "lat": 41.7866294,
+          "lng": -73.2765361
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -72.88706
+          },
+          "southwest": {
+            "lat": 41.4674151,
+            "lng": -73.5182268
+          }
+        }
+      },
+      "place_id": "ChIJX8UsmJCa54kRqJju4VTkJYQ",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Connecticut, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.6032207,
+          "lng": -73.087749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJpVER8hFT5okR5XBhBVttmq4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

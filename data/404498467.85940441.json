@@ -1,0 +1,552 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "500-512",
+          "short_name": "500-512",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Jefferson Street",
+          "short_name": "E Jefferson St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Riverton",
+          "short_name": "Riverton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clear Lake Township",
+          "short_name": "Clear Lake Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sangamon County",
+          "short_name": "Sangamon County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62561",
+          "short_name": "62561",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8122",
+          "short_name": "8122",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "500-512 E Jefferson St, Riverton, IL 62561, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8464058,
+            "lng": -89.54087369999999
+          },
+          "southwest": {
+            "lat": 39.8464017,
+            "lng": -89.5422542
+          }
+        },
+        "location": {
+          "lat": 39.8463906,
+          "lng": -89.5411393
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8477527302915,
+            "lng": -89.5402149697085
+          },
+          "southwest": {
+            "lat": 39.8450547697085,
+            "lng": -89.54291293029151
+          }
+        }
+      },
+      "place_id": "Ei81MDAtNTEyIEUgSmVmZmVyc29uIFN0LCBSaXZlcnRvbiwgSUwgNjI1NjEsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Riverton",
+          "short_name": "Riverton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clear Lake Township",
+          "short_name": "Clear Lake Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sangamon County",
+          "short_name": "Sangamon County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Riverton, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.86331,
+            "lng": -89.5207201
+          },
+          "southwest": {
+            "lat": 39.8223861,
+            "lng": -89.55866089999999
+          }
+        },
+        "location": {
+          "lat": 39.8442164,
+          "lng": -89.5395417
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.86331,
+            "lng": -89.5207201
+          },
+          "southwest": {
+            "lat": 39.8223861,
+            "lng": -89.55866089999999
+          }
+        }
+      },
+      "place_id": "ChIJLw4OxsQvdYgRwMRsD36tN4E",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62561",
+          "short_name": "62561",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Riverton",
+          "short_name": "Riverton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sangamon County",
+          "short_name": "Sangamon County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Riverton, IL 62561, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9186131,
+            "lng": -89.444228
+          },
+          "southwest": {
+            "lat": 39.803351,
+            "lng": -89.5868539
+          }
+        },
+        "location": {
+          "lat": 39.8670537,
+          "lng": -89.48366879999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9186131,
+            "lng": -89.444228
+          },
+          "southwest": {
+            "lat": 39.803351,
+            "lng": -89.5647669
+          }
+        }
+      },
+      "place_id": "ChIJ8__-z_oudYgRM_EtYb_rQeo",
+      "postcode_localities": [
+        "Riverton",
+        "Spaulding"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clear Lake Township",
+          "short_name": "Clear Lake Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sangamon County",
+          "short_name": "Sangamon County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clear Lake Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.87489180000001,
+            "lng": -89.48221079999999
+          },
+          "southwest": {
+            "lat": 39.7873299,
+            "lng": -89.59754
+          }
+        },
+        "location": {
+          "lat": 39.8363889,
+          "lng": -89.5308903
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.87489180000001,
+            "lng": -89.48221079999999
+          },
+          "southwest": {
+            "lat": 39.7873299,
+            "lng": -89.59754
+          }
+        }
+      },
+      "place_id": "ChIJE6VaZegvdYgRCtgs0bwO6hk",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sangamon County",
+          "short_name": "Sangamon County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sangamon County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9767359,
+            "lng": -89.2173739
+          },
+          "southwest": {
+            "lat": 39.522052,
+            "lng": -89.994524
+          }
+        },
+        "location": {
+          "lat": 39.7337353,
+          "lng": -89.62516459999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9767359,
+            "lng": -89.2173739
+          },
+          "southwest": {
+            "lat": 39.522052,
+            "lng": -89.994524
+          }
+        }
+      },
+      "place_id": "ChIJjQBm7XBqdYgRe4_c2pUEMSQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Springfield",
+          "short_name": "Springfield",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Springfield, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.1606629,
+            "lng": -89.2173739
+          },
+          "southwest": {
+            "lat": 39.520502,
+            "lng": -89.9950279
+          }
+        },
+        "location": {
+          "lat": 39.898831,
+          "lng": -89.77553379999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.1606629,
+            "lng": -89.2173739
+          },
+          "southwest": {
+            "lat": 39.520502,
+            "lng": -89.9950279
+          }
+        }
+      },
+      "place_id": "ChIJqR95n-M3dYgRcyivJOibk30",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

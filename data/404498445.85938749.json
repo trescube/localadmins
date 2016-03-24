@@ -1,0 +1,540 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-198",
+          "short_name": "100-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Kentucky Avenue",
+          "short_name": "W Kentucky Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Williamsfield",
+          "short_name": "Williamsfield",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Truro Township",
+          "short_name": "Truro Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Knox County",
+          "short_name": "Knox County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61489",
+          "short_name": "61489",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5478",
+          "short_name": "5478",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "100-198 W Kentucky Ave, Williamsfield, IL 61489, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.926656,
+            "lng": -90.018062
+          },
+          "southwest": {
+            "lat": 40.9266488,
+            "lng": -90.0192419
+          }
+        },
+        "location": {
+          "lat": 40.9266353,
+          "lng": -90.0181767
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9280013802915,
+            "lng": -90.0173029697085
+          },
+          "southwest": {
+            "lat": 40.9253034197085,
+            "lng": -90.0200009302915
+          }
+        }
+      },
+      "place_id": "EjQxMDAtMTk4IFcgS2VudHVja3kgQXZlLCBXaWxsaWFtc2ZpZWxkLCBJTCA2MTQ4OSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Williamsfield",
+          "short_name": "Williamsfield",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Truro Township",
+          "short_name": "Truro Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Knox County",
+          "short_name": "Knox County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Williamsfield, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9417479,
+            "lng": -90.00925989999999
+          },
+          "southwest": {
+            "lat": 40.9157349,
+            "lng": -90.0286111
+          }
+        },
+        "location": {
+          "lat": 40.92253729999999,
+          "lng": -90.0145584
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9417479,
+            "lng": -90.00925989999999
+          },
+          "southwest": {
+            "lat": 40.9157349,
+            "lng": -90.0286111
+          }
+        }
+      },
+      "place_id": "ChIJ_V4s_Jff4YcRos4lxMFtMwg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Truro Township",
+          "short_name": "Truro Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Knox County",
+          "short_name": "Knox County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Truro Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9751176,
+            "lng": -89.9855121
+          },
+          "southwest": {
+            "lat": 40.8875619,
+            "lng": -90.09994809999999
+          }
+        },
+        "location": {
+          "lat": 40.9384779,
+          "lng": -90.0559939
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9751176,
+            "lng": -89.9855121
+          },
+          "southwest": {
+            "lat": 40.8875619,
+            "lng": -90.09994809999999
+          }
+        }
+      },
+      "place_id": "ChIJrfQy_EXe4YcRA9XlQ0ekHj8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61489",
+          "short_name": "61489",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Williamsfield",
+          "short_name": "Williamsfield",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Williamsfield, IL 61489, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0257089,
+            "lng": -89.951662
+          },
+          "southwest": {
+            "lat": 40.8298061,
+            "lng": -90.1005179
+          }
+        },
+        "location": {
+          "lat": 40.8980752,
+          "lng": -90.0186555
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0257089,
+            "lng": -89.951662
+          },
+          "southwest": {
+            "lat": 40.8298061,
+            "lng": -90.1005179
+          }
+        }
+      },
+      "place_id": "ChIJcYk6wbzf4YcRMf2Q9XPR6jU",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Knox County",
+          "short_name": "Knox County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Knox County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.152156,
+            "lng": -89.98452200000001
+          },
+          "southwest": {
+            "lat": 40.712257,
+            "lng": -90.4443369
+          }
+        },
+        "location": {
+          "lat": 40.8776411,
+          "lng": -90.2244662
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.152156,
+            "lng": -89.98452200000001
+          },
+          "southwest": {
+            "lat": 40.712257,
+            "lng": -90.4443369
+          }
+        }
+      },
+      "place_id": "ChIJ5YJ-ge_B4YcRxmumfFzTKXo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Galesburg",
+          "short_name": "Galesburg",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Galesburg, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.152156,
+            "lng": -89.984551
+          },
+          "southwest": {
+            "lat": 40.627843,
+            "lng": -90.78957899999999
+          }
+        },
+        "location": {
+          "lat": 40.8772519,
+          "lng": -90.37483540000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.152156,
+            "lng": -89.984551
+          },
+          "southwest": {
+            "lat": 40.627843,
+            "lng": -90.78957899999999
+          }
+        }
+      },
+      "place_id": "ChIJ-8A2the84YcRGYAPdwT_Sy8",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

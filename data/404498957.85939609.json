@@ -1,0 +1,492 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "300-398",
+          "short_name": "300-398",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Short Street",
+          "short_name": "Short St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Norris City",
+          "short_name": "Norris City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indian Creek Township",
+          "short_name": "Indian Creek Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "White County",
+          "short_name": "White County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62869",
+          "short_name": "62869",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3521",
+          "short_name": "3521",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "300-398 Short St, Norris City, IL 62869, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.97865,
+            "lng": -88.327568
+          },
+          "southwest": {
+            "lat": 37.9779069,
+            "lng": -88.327613
+          }
+        },
+        "location": {
+          "lat": 37.9786401,
+          "lng": -88.3276187
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.9796274302915,
+            "lng": -88.3262415197085
+          },
+          "southwest": {
+            "lat": 37.97692946970851,
+            "lng": -88.32893948029151
+          }
+        }
+      },
+      "place_id": "EiwzMDAtMzk4IFNob3J0IFN0LCBOb3JyaXMgQ2l0eSwgSUwgNjI4NjksIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Norris City",
+          "short_name": "Norris City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indian Creek Township",
+          "short_name": "Indian Creek Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "White County",
+          "short_name": "White County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62869",
+          "short_name": "62869",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Norris City, IL 62869, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.988397,
+            "lng": -88.3193749
+          },
+          "southwest": {
+            "lat": 37.966261,
+            "lng": -88.337853
+          }
+        },
+        "location": {
+          "lat": 37.9811576,
+          "lng": -88.3292103
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.988397,
+            "lng": -88.3193749
+          },
+          "southwest": {
+            "lat": 37.966261,
+            "lng": -88.337853
+          }
+        }
+      },
+      "place_id": "ChIJed3r0U0dcYgReOI0vhMtTTg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Indian Creek Township",
+          "short_name": "Indian Creek Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "White County",
+          "short_name": "White County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Indian Creek Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.0394359,
+            "lng": -88.263086
+          },
+          "southwest": {
+            "lat": 37.9083191,
+            "lng": -88.3746939
+          }
+        },
+        "location": {
+          "lat": 37.9874681,
+          "lng": -88.3044908
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.0394359,
+            "lng": -88.263086
+          },
+          "southwest": {
+            "lat": 37.9083191,
+            "lng": -88.3746939
+          }
+        }
+      },
+      "place_id": "ChIJUT5uwLMCcYgRHvFb2v1ATRE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62869",
+          "short_name": "62869",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Norris City",
+          "short_name": "Norris City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Norris City, IL 62869, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.0538691,
+            "lng": -88.1464409
+          },
+          "southwest": {
+            "lat": 37.8783199,
+            "lng": -88.42573089999999
+          }
+        },
+        "location": {
+          "lat": 37.9451028,
+          "lng": -88.3044908
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.0538691,
+            "lng": -88.1464409
+          },
+          "southwest": {
+            "lat": 37.8783199,
+            "lng": -88.42573089999999
+          }
+        }
+      },
+      "place_id": "ChIJkVQwPYH9cIgR2XZS5Sbi0Io",
+      "postcode_localities": [
+        "Herald",
+        "Norris City"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "White County",
+          "short_name": "White County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "White County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.2598119,
+            "lng": -87.910623
+          },
+          "southwest": {
+            "lat": 37.888051,
+            "lng": -88.3746939
+          }
+        },
+        "location": {
+          "lat": 38.0501137,
+          "lng": -88.24611829999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.2598119,
+            "lng": -87.910623
+          },
+          "southwest": {
+            "lat": 37.888051,
+            "lng": -88.3746939
+          }
+        }
+      },
+      "place_id": "ChIJIyo5lH0HcYgRFQT90_dHTEA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

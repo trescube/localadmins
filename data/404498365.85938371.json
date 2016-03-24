@@ -1,0 +1,514 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1045",
+          "short_name": "1045",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Central Avenue",
+          "short_name": "Central Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Highland Park",
+          "short_name": "Highland Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Moraine Township",
+          "short_name": "Moraine Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60035",
+          "short_name": "60035",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3286",
+          "short_name": "3286",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1045 Central Ave, Highland Park, IL 60035, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.182092,
+          "lng": -87.810406
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1834409802915,
+            "lng": -87.80905701970849
+          },
+          "southwest": {
+            "lat": 42.1807430197085,
+            "lng": -87.81175498029151
+          }
+        }
+      },
+      "place_id": "ChIJaWsPoq7BD4gRb9vU3rajLp4",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Highland Park",
+          "short_name": "Highland Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Highland Park, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.223163,
+            "lng": -87.759192
+          },
+          "southwest": {
+            "lat": 42.152361,
+            "lng": -87.8522588
+          }
+        },
+        "location": {
+          "lat": 42.1816918,
+          "lng": -87.8003437
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.223163,
+            "lng": -87.759192
+          },
+          "southwest": {
+            "lat": 42.152361,
+            "lng": -87.8522588
+          }
+        }
+      },
+      "place_id": "ChIJn_Ntc4PBD4gRAeQkrZgk1Ko",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Moraine Township",
+          "short_name": "Moraine Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Moraine Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.240029,
+            "lng": -87.759192
+          },
+          "southwest": {
+            "lat": 42.152361,
+            "lng": -87.84019889999999
+          }
+        },
+        "location": {
+          "lat": 42.1857312,
+          "lng": -87.80584019999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.240029,
+            "lng": -87.759192
+          },
+          "southwest": {
+            "lat": 42.152361,
+            "lng": -87.84019889999999
+          }
+        }
+      },
+      "place_id": "ChIJG_QdvsDBD4gRcSBRGDs3LE0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "60035",
+          "short_name": "60035",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Highland Park",
+          "short_name": "Highland Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Highland Park, IL 60035, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2253969,
+            "lng": -87.750334
+          },
+          "southwest": {
+            "lat": 42.145393,
+            "lng": -87.851967
+          }
+        },
+        "location": {
+          "lat": 42.1857312,
+          "lng": -87.80584019999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2253969,
+            "lng": -87.750334
+          },
+          "southwest": {
+            "lat": 42.145393,
+            "lng": -87.851967
+          }
+        }
+      },
+      "place_id": "ChIJgQHcF6zBD4gRp3NePRtvGaE",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lake County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.49563699999999,
+            "lng": -87.75900469999999
+          },
+          "southwest": {
+            "lat": 42.152361,
+            "lng": -88.1997628
+          }
+        },
+        "location": {
+          "lat": 42.3689363,
+          "lng": -87.8271534
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.49563699999999,
+            "lng": -87.75900469999999
+          },
+          "southwest": {
+            "lat": 42.152361,
+            "lng": -88.1997628
+          }
+        }
+      },
+      "place_id": "ChIJKdUvmscAD4gRZsVGNFFqkhs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chicago Metropolitan Area",
+          "short_name": "Chicago Metropolitan Area",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chicago Metropolitan Area, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        },
+        "location": {
+          "lat": 41.7435073,
+          "lng": -88.0118473
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        }
+      },
+      "place_id": "ChIJg-CZjExEDogRNJNXmgqEe9o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

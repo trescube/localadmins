@@ -1,0 +1,509 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-143",
+          "short_name": "101-143",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Main Street",
+          "short_name": "N Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Alexis",
+          "short_name": "Alexis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61412",
+          "short_name": "61412",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "101-143 N Main St, Alexis, IL 61412, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0642612,
+            "lng": -90.5556088
+          },
+          "southwest": {
+            "lat": 41.0626566,
+            "lng": -90.55564890000001
+          }
+        },
+        "location": {
+          "lat": 41.06290670000001,
+          "lng": -90.55566660000001
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.06480788029149,
+            "lng": -90.55427986970851
+          },
+          "southwest": {
+            "lat": 41.0621099197085,
+            "lng": -90.55697783029152
+          }
+        }
+      },
+      "place_id": "EigxMDEtMTQzIE4gTWFpbiBTdCwgQWxleGlzLCBJTCA2MTQxMiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Alexis",
+          "short_name": "Alexis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Warren County",
+          "short_name": "Warren County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Alexis, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.069806,
+            "lng": -90.54412909999999
+          },
+          "southwest": {
+            "lat": 41.057105,
+            "lng": -90.5632509
+          }
+        },
+        "location": {
+          "lat": 41.0633703,
+          "lng": -90.5559675
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.069806,
+            "lng": -90.54412909999999
+          },
+          "southwest": {
+            "lat": 41.057105,
+            "lng": -90.5632509
+          }
+        }
+      },
+      "place_id": "ChIJhz2eXEWc4YcR8FBQz5W1Cgc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Spring Grove Township",
+          "short_name": "Spring Grove Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Warren County",
+          "short_name": "Warren County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Spring Grove Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0675951,
+            "lng": -90.550511
+          },
+          "southwest": {
+            "lat": 40.976904,
+            "lng": -90.6696049
+          }
+        },
+        "location": {
+          "lat": 41.0175715,
+          "lng": -90.62041649999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0675951,
+            "lng": -90.550511
+          },
+          "southwest": {
+            "lat": 40.976904,
+            "lng": -90.6696049
+          }
+        }
+      },
+      "place_id": "ChIJuW9kGfJ14YcRKcjeb9NQzTA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61412",
+          "short_name": "61412",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Alexis",
+          "short_name": "Alexis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Alexis, IL 61412, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.152417,
+            "lng": -90.44862890000002
+          },
+          "southwest": {
+            "lat": 41.018259,
+            "lng": -90.764809
+          }
+        },
+        "location": {
+          "lat": 41.0882763,
+          "lng": -90.5920027
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.152417,
+            "lng": -90.44862890000002
+          },
+          "southwest": {
+            "lat": 41.018259,
+            "lng": -90.764809
+          }
+        }
+      },
+      "place_id": "ChIJywINFDt24YcRtwr6HTdu_CU",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Warren County",
+          "short_name": "Warren County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Warren County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0687489,
+            "lng": -90.4393939
+          },
+          "southwest": {
+            "lat": 40.627843,
+            "lng": -90.789653
+          }
+        },
+        "location": {
+          "lat": 40.8758777,
+          "lng": -90.6773046
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0687489,
+            "lng": -90.4393939
+          },
+          "southwest": {
+            "lat": 40.627843,
+            "lng": -90.789653
+          }
+        }
+      },
+      "place_id": "ChIJ8zdPVUah4YcRzFGPigaK-nc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Galesburg",
+          "short_name": "Galesburg",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Galesburg, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.152156,
+            "lng": -89.984551
+          },
+          "southwest": {
+            "lat": 40.627843,
+            "lng": -90.78957899999999
+          }
+        },
+        "location": {
+          "lat": 40.8772519,
+          "lng": -90.37483540000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.152156,
+            "lng": -89.984551
+          },
+          "southwest": {
+            "lat": 40.627843,
+            "lng": -90.78957899999999
+          }
+        }
+      },
+      "place_id": "ChIJ-8A2the84YcRGYAPdwT_Sy8",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

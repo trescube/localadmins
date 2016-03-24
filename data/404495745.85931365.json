@@ -1,0 +1,572 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "151",
+          "short_name": "151",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Ann Avenue",
+          "short_name": "Ann Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Mystic",
+          "short_name": "Mystic",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Groton",
+          "short_name": "Groton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Groton",
+          "short_name": "Groton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New London County",
+          "short_name": "New London County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06355",
+          "short_name": "06355",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1105",
+          "short_name": "1105",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "151 Ann Ave, Mystic, CT 06355, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.385322,
+          "lng": -71.984089
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3866709802915,
+            "lng": -71.98274001970849
+          },
+          "southwest": {
+            "lat": 41.3839730197085,
+            "lng": -71.98543798029151
+          }
+        }
+      },
+      "place_id": "ChIJH1BGrlsK5okR2LDBhZAmOug",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Old Mystic",
+          "short_name": "Old Mystic",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Groton",
+          "short_name": "Groton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Groton",
+          "short_name": "Groton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New London County",
+          "short_name": "New London County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Old Mystic, Groton, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.398998,
+            "lng": -71.958617
+          },
+          "southwest": {
+            "lat": 41.367798,
+            "lng": -72.0113191
+          }
+        },
+        "location": {
+          "lat": 41.3914877,
+          "lng": -71.9617401
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.398998,
+            "lng": -71.958617
+          },
+          "southwest": {
+            "lat": 41.367798,
+            "lng": -72.0113191
+          }
+        }
+      },
+      "place_id": "ChIJKenvA4YK5okRHx-XO6sxz40",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Groton",
+          "short_name": "Groton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Groton",
+          "short_name": "Groton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New London County",
+          "short_name": "New London County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Groton, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.40032,
+            "lng": -71.95911699999999
+          },
+          "southwest": {
+            "lat": 41.3063925,
+            "lng": -72.0949837
+          }
+        },
+        "location": {
+          "lat": 41.3497456,
+          "lng": -72.0790717
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.40032,
+            "lng": -71.95911699999999
+          },
+          "southwest": {
+            "lat": 41.3063925,
+            "lng": -72.0949837
+          }
+        }
+      },
+      "place_id": "ChIJ5dn_Iz8J5okRxRzhxTIX_0Q",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "06355",
+          "short_name": "06355",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Mystic",
+          "short_name": "Mystic",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New London County",
+          "short_name": "New London County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mystic, CT 06355, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4236279,
+            "lng": -71.9365238
+          },
+          "southwest": {
+            "lat": 41.309365,
+            "lng": -72.01982679999999
+          }
+        },
+        "location": {
+          "lat": 41.3635197,
+          "lng": -71.9875531
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4236279,
+            "lng": -71.9365238
+          },
+          "southwest": {
+            "lat": 41.309365,
+            "lng": -72.01982679999999
+          }
+        }
+      },
+      "place_id": "ChIJ0wShPBUK5okRDKV7awAFfE8",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Groton",
+          "short_name": "Groton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New London County",
+          "short_name": "New London County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Groton, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.40032,
+            "lng": -71.95911699999999
+          },
+          "southwest": {
+            "lat": 41.3063925,
+            "lng": -72.0949837
+          }
+        },
+        "location": {
+          "lat": 41.3401119,
+          "lng": -72.0231125
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.40032,
+            "lng": -71.95911699999999
+          },
+          "southwest": {
+            "lat": 41.3063925,
+            "lng": -72.0949837
+          }
+        }
+      },
+      "place_id": "ChIJGTTiXGAJ5okRrGaXwq3qcuA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New London County",
+          "short_name": "New London County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New London County, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7145128,
+            "lng": -71.78765779999999
+          },
+          "southwest": {
+            "lat": 41.2728261,
+            "lng": -72.46673
+          }
+        },
+        "location": {
+          "lat": 41.5185189,
+          "lng": -72.0468164
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7145128,
+            "lng": -71.78765779999999
+          },
+          "southwest": {
+            "lat": 41.2728261,
+            "lng": -72.46673
+          }
+        }
+      },
+      "place_id": "ChIJwTIQbvVv5okRU5_gSJczUTQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Connecticut, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.6032207,
+          "lng": -73.087749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJpVER8hFT5okR5XBhBVttmq4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

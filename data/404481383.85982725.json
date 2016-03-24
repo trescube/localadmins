@@ -1,0 +1,408 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "7022-7024",
+          "short_name": "7022-7024",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "120th Avenue Southeast",
+          "short_name": "120th Ave SE",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Fort Ransom",
+          "short_name": "Fort Ransom",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Elliott",
+          "short_name": "Elliott",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ransom County",
+          "short_name": "Ransom County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "58033",
+          "short_name": "58033",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9568",
+          "short_name": "9568",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "7022-7024 120th Ave SE, Fort Ransom, ND 58033, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.3914678,
+            "lng": -97.90895689999999
+          },
+          "southwest": {
+            "lat": 46.3908087,
+            "lng": -97.90896000000001
+          }
+        },
+        "location": {
+          "lat": 46.39116569999999,
+          "lng": -97.9089398
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 46.39248723029151,
+            "lng": -97.9076094697085
+          },
+          "southwest": {
+            "lat": 46.38978926970851,
+            "lng": -97.91030743029151
+          }
+        }
+      },
+      "place_id": "EjI3MDIyLTcwMjQgMTIwdGggQXZlIFNFLCBGb3J0IFJhbnNvbSwgTkQgNTgwMzMsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Elliott",
+          "short_name": "Elliott",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ransom County",
+          "short_name": "Ransom County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Elliott, ND, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.456668,
+            "lng": -97.7832591
+          },
+          "southwest": {
+            "lat": 46.369445,
+            "lng": -97.90906609999999
+          }
+        },
+        "location": {
+          "lat": 46.4197035,
+          "lng": -97.8619318
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.456668,
+            "lng": -97.7832591
+          },
+          "southwest": {
+            "lat": 46.369445,
+            "lng": -97.90906609999999
+          }
+        }
+      },
+      "place_id": "ChIJQbZxBWVIzlIR3JpCaykf-dw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "58033",
+          "short_name": "58033",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Fort Ransom",
+          "short_name": "Fort Ransom",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fort Ransom, ND 58033, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.587486,
+            "lng": -97.804414
+          },
+          "southwest": {
+            "lat": 46.282409,
+            "lng": -98.05490379999999
+          }
+        },
+        "location": {
+          "lat": 46.5098483,
+          "lng": -97.9571654
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.587486,
+            "lng": -97.804414
+          },
+          "southwest": {
+            "lat": 46.282409,
+            "lng": -98.05490379999999
+          }
+        }
+      },
+      "place_id": "ChIJFbo-T1A2zlIR9z_Bi-f2bJM",
+      "postcode_localities": [
+        "Englevale",
+        "Fort Ransom"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ransom County",
+          "short_name": "Ransom County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ransom County, ND, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.630727,
+            "lng": -97.2798219
+          },
+          "southwest": {
+            "lat": 46.2822641,
+            "lng": -98.03492899999999
+          }
+        },
+        "location": {
+          "lat": 46.4937656,
+          "lng": -97.6257919
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.630727,
+            "lng": -97.2798219
+          },
+          "southwest": {
+            "lat": 46.2822641,
+            "lng": -98.03492899999999
+          }
+        }
+      },
+      "place_id": "ChIJjZPnVOz3zlIRyB3K1x9-lKM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Dakota, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 49.000692,
+            "lng": -96.554491
+          },
+          "southwest": {
+            "lat": 45.9350719,
+            "lng": -104.05004
+          }
+        },
+        "location": {
+          "lat": 47.5514926,
+          "lng": -101.0020119
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.000692,
+            "lng": -96.554491
+          },
+          "southwest": {
+            "lat": 45.9350719,
+            "lng": -104.05004
+          }
+        }
+      },
+      "place_id": "ChIJY-nYVxKD11IRyc9egzmahA0",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

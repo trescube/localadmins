@@ -1,0 +1,544 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "47-49",
+          "short_name": "47-49",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Potomac Drive",
+          "short_name": "Potomac Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Fairview Heights",
+          "short_name": "Fairview Heights",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Caseyville",
+          "short_name": "Caseyville",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62208",
+          "short_name": "62208",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1815",
+          "short_name": "1815",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "47-49 Potomac Dr, Fairview Heights, IL 62208, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.5976046,
+            "lng": -90.00539119999999
+          },
+          "southwest": {
+            "lat": 38.5941622,
+            "lng": -90.006973
+          }
+        },
+        "location": {
+          "lat": 38.5973652,
+          "lng": -90.0054452
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5976046,
+            "lng": -90.00483311970848
+          },
+          "southwest": {
+            "lat": 38.5941622,
+            "lng": -90.0075310802915
+          }
+        }
+      },
+      "place_id": "EjE0Ny00OSBQb3RvbWFjIERyLCBGYWlydmlldyBIZWlnaHRzLCBJTCA2MjIwOCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fairview Heights",
+          "short_name": "Fairview Heights",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Caseyville",
+          "short_name": "Caseyville",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fairview Heights, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.625941,
+            "lng": -89.9611209
+          },
+          "southwest": {
+            "lat": 38.567451,
+            "lng": -90.052729
+          }
+        },
+        "location": {
+          "lat": 38.5889386,
+          "lng": -89.990382
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.625941,
+            "lng": -89.9611209
+          },
+          "southwest": {
+            "lat": 38.567451,
+            "lng": -90.052729
+          }
+        }
+      },
+      "place_id": "ChIJ00rDNXGq2IcRepJSWVUSjcs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62208",
+          "short_name": "62208",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Fairview Heights",
+          "short_name": "Fairview Heights",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fairview Heights, IL 62208, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.623353,
+            "lng": -89.9548739
+          },
+          "southwest": {
+            "lat": 38.5696521,
+            "lng": -90.052729
+          }
+        },
+        "location": {
+          "lat": 38.6005324,
+          "lng": -90.0093266
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.623353,
+            "lng": -89.9548739
+          },
+          "southwest": {
+            "lat": 38.5696521,
+            "lng": -90.052729
+          }
+        }
+      },
+      "place_id": "ChIJnUhACHGq2IcRgLCSFrY2H7M",
+      "postcode_localities": [
+        "East Saint Louis",
+        "Fairview Heights"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Caseyville",
+          "short_name": "Caseyville",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Caseyville, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6584499,
+            "lng": -89.928201
+          },
+          "southwest": {
+            "lat": 38.5704748,
+            "lng": -90.037931
+          }
+        },
+        "location": {
+          "lat": 38.6320071,
+          "lng": -89.9813445
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6584499,
+            "lng": -89.928201
+          },
+          "southwest": {
+            "lat": 38.5704748,
+            "lng": -90.037931
+          }
+        }
+      },
+      "place_id": "ChIJAXqpwTUAdogRy7VzTRRDPC8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St Clair County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6606498,
+            "lng": -89.7032468
+          },
+          "southwest": {
+            "lat": 38.2194181,
+            "lng": -90.26637079999999
+          }
+        },
+        "location": {
+          "lat": 38.40081199999999,
+          "lng": -89.9253233
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6606498,
+            "lng": -89.7032468
+          },
+          "southwest": {
+            "lat": 38.2194181,
+            "lng": -90.26637079999999
+          }
+        }
+      },
+      "place_id": "ChIJeRbja679dYgR3ASXSadGyno",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Louis",
+          "short_name": "St. Louis",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Louis, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        },
+        "location": {
+          "lat": 38.8196814,
+          "lng": -90.4502368
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        }
+      },
+      "place_id": "ChIJneBzzj4z34cRFGg2ez6q57o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,394 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "71",
+          "short_name": "71",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Suydam Road",
+          "short_name": "Suydam Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Somerset",
+          "short_name": "Somerset",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Franklin Township",
+          "short_name": "Franklin Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Somerset County",
+          "short_name": "Somerset County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "08873",
+          "short_name": "08873",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7306",
+          "short_name": "7306",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "71 Suydam Rd, Somerset, NJ 08873, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.452716,
+          "lng": -74.569115
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4540649802915,
+            "lng": -74.56776601970849
+          },
+          "southwest": {
+            "lat": 40.4513670197085,
+            "lng": -74.57046398029149
+          }
+        }
+      },
+      "place_id": "ChIJucqifELCw4kRCNNY5mzxXFs",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Franklin Township",
+          "short_name": "Franklin Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Somerset County",
+          "short_name": "Somerset County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Franklin Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.554559,
+            "lng": -74.4590419
+          },
+          "southwest": {
+            "lat": 40.37439690000001,
+            "lng": -74.63746309999999
+          }
+        },
+        "location": {
+          "lat": 40.4933734,
+          "lng": -74.5228916
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.554559,
+            "lng": -74.4590419
+          },
+          "southwest": {
+            "lat": 40.37439690000001,
+            "lng": -74.63746309999999
+          }
+        }
+      },
+      "place_id": "ChIJXwET86zow4kRA_iIvpk-Oeg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "08823",
+          "short_name": "08823",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Franklin Park",
+          "short_name": "Franklin Park",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Franklin Park, NJ 08823, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.460821,
+            "lng": -74.531476
+          },
+          "southwest": {
+            "lat": 40.423908,
+            "lng": -74.5930131
+          }
+        },
+        "location": {
+          "lat": 40.444271,
+          "lng": -74.5639037
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.460821,
+            "lng": -74.531476
+          },
+          "southwest": {
+            "lat": 40.423908,
+            "lng": -74.5930131
+          }
+        }
+      },
+      "place_id": "ChIJvwku21vCw4kRXQ8IHk8nz1o",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Somerset County",
+          "short_name": "Somerset County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Somerset County, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.758005,
+            "lng": -74.4018389
+          },
+          "southwest": {
+            "lat": 40.37439690000001,
+            "lng": -74.79784099999999
+          }
+        },
+        "location": {
+          "lat": 40.5292099,
+          "lng": -74.64004320000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.758005,
+            "lng": -74.4018389
+          },
+          "southwest": {
+            "lat": 40.37439690000001,
+            "lng": -74.79784099999999
+          }
+        }
+      },
+      "place_id": "ChIJSU4MpbK_w4kRscwSKQMFq7o",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Jersey, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9285589,
+            "lng": -75.5597921
+          }
+        },
+        "location": {
+          "lat": 40.0583238,
+          "lng": -74.4056612
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9286032,
+            "lng": -75.5597921
+          }
+        }
+      },
+      "place_id": "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

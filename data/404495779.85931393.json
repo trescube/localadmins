@@ -1,0 +1,633 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1-27",
+          "short_name": "1-27",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Academy Street",
+          "short_name": "Academy St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Madison Center",
+          "short_name": "Madison Center",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Madison",
+          "short_name": "Madison",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Madison",
+          "short_name": "Madison",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06443",
+          "short_name": "06443",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "1-27 Academy St, Madison, CT 06443, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.281186,
+            "lng": -72.6001062
+          },
+          "southwest": {
+            "lat": 41.2792169,
+            "lng": -72.6006657
+          }
+        },
+        "location": {
+          "lat": 41.2795359,
+          "lng": -72.600216
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2815504302915,
+            "lng": -72.59903696970848
+          },
+          "southwest": {
+            "lat": 41.2788524697085,
+            "lng": -72.6017349302915
+          }
+        }
+      },
+      "place_id": "EicxLTI3IEFjYWRlbXkgU3QsIE1hZGlzb24sIENUIDA2NDQzLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Madison Center",
+          "short_name": "Madison Center",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Madison",
+          "short_name": "Madison",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Madison",
+          "short_name": "Madison",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06443",
+          "short_name": "06443",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Madison Center, Madison, CT 06443, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.291098,
+            "lng": -72.581711
+          },
+          "southwest": {
+            "lat": 41.2652981,
+            "lng": -72.6209369
+          }
+        },
+        "location": {
+          "lat": 41.2801225,
+          "lng": -72.59737559999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.291098,
+            "lng": -72.581711
+          },
+          "southwest": {
+            "lat": 41.2652981,
+            "lng": -72.6209369
+          }
+        }
+      },
+      "place_id": "ChIJO6zcHEMp5okR3rU2lRrK7uY",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Madison",
+          "short_name": "Madison",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Madison",
+          "short_name": "Madison",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Madison, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.43829789999999,
+            "lng": -72.536492
+          },
+          "southwest": {
+            "lat": 41.2487012,
+            "lng": -72.6796749
+          }
+        },
+        "location": {
+          "lat": 41.2959908,
+          "lng": -72.5754149
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.43829789999999,
+            "lng": -72.536492
+          },
+          "southwest": {
+            "lat": 41.2487012,
+            "lng": -72.6796749
+          }
+        }
+      },
+      "place_id": "ChIJL_MWupMx5okRvhrl5k8WowE",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Madison",
+          "short_name": "Madison",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Madison, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.43829789999999,
+            "lng": -72.536492
+          },
+          "southwest": {
+            "lat": 41.2487012,
+            "lng": -72.6796749
+          }
+        },
+        "location": {
+          "lat": 41.3595873,
+          "lng": -72.63877
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.43829789999999,
+            "lng": -72.536492
+          },
+          "southwest": {
+            "lat": 41.2487012,
+            "lng": -72.6796749
+          }
+        }
+      },
+      "place_id": "ChIJbVa3_pYt5okR4KfHRlEUMZc",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "06443",
+          "short_name": "06443",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Madison",
+          "short_name": "Madison",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Madison, CT 06443, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4382559,
+            "lng": -72.53270900000001
+          },
+          "southwest": {
+            "lat": 41.246206,
+            "lng": -72.6803371
+          }
+        },
+        "location": {
+          "lat": 41.3595873,
+          "lng": -72.63877
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4382559,
+            "lng": -72.53270900000001
+          },
+          "southwest": {
+            "lat": 41.246206,
+            "lng": -72.6803371
+          }
+        }
+      },
+      "place_id": "ChIJ63wFbM0t5okRT_ML-8mj2_Q",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Haven",
+          "short_name": "New Haven",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Haven, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.578894,
+            "lng": -72.3412563
+          },
+          "southwest": {
+            "lat": 41.234397,
+            "lng": -73.0868521
+          }
+        },
+        "location": {
+          "lat": 41.3583849,
+          "lng": -72.7570024
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.578894,
+            "lng": -72.3412563
+          },
+          "southwest": {
+            "lat": 41.234397,
+            "lng": -73.0868521
+          }
+        }
+      },
+      "place_id": "ChIJA7zwPZTS54kRedMdi-l_M4I",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Haven County, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6443109,
+            "lng": -72.5364987
+          },
+          "southwest": {
+            "lat": 41.1719731,
+            "lng": -73.327114
+          }
+        },
+        "location": {
+          "lat": 41.3266911,
+          "lng": -72.8042797
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6443109,
+            "lng": -72.5364987
+          },
+          "southwest": {
+            "lat": 41.1719731,
+            "lng": -73.327114
+          }
+        }
+      },
+      "place_id": "ChIJiT24cvvP54kR2fSPHkp0Akc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Connecticut, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.6032207,
+          "lng": -73.087749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJpVER8hFT5okR5XBhBVttmq4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

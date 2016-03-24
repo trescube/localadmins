@@ -1,0 +1,623 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "215-235",
+          "short_name": "215-235",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Telcott Street",
+          "short_name": "Telcott St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Hawk Run",
+          "short_name": "Hawk Run",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Morris Township",
+          "short_name": "Morris Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clearfield County",
+          "short_name": "Clearfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "16840",
+          "short_name": "16840",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "215-235 Telcott St, Hawk Run, PA 16840, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.92401359999999,
+            "lng": -78.200937
+          },
+          "southwest": {
+            "lat": 40.922241,
+            "lng": -78.2054332
+          }
+        },
+        "location": {
+          "lat": 40.9227659,
+          "lng": -78.2040196
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.92447628029149,
+            "lng": -78.200937
+          },
+          "southwest": {
+            "lat": 40.9217783197085,
+            "lng": -78.2054332
+          }
+        }
+      },
+      "place_id": "EisyMTUtMjM1IFRlbGNvdHQgU3QsIEhhd2sgUnVuLCBQQSAxNjg0MCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "T683",
+          "short_name": "T683",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Hawk Run",
+          "short_name": "Hawk Run",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Morris Township",
+          "short_name": "Morris Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clearfield County",
+          "short_name": "Clearfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "16840",
+          "short_name": "16840",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "T683, Hawk Run, PA 16840, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.92401359999999,
+            "lng": -78.200937
+          },
+          "southwest": {
+            "lat": 40.922241,
+            "lng": -78.2054332
+          }
+        },
+        "location": {
+          "lat": 40.9231027,
+          "lng": -78.2031803
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 40.92447628029149,
+            "lng": -78.200937
+          },
+          "southwest": {
+            "lat": 40.9217783197085,
+            "lng": -78.2054332
+          }
+        }
+      },
+      "place_id": "ChIJ94f0jQIUzIkR40cZmfhYWkY",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hawk Run",
+          "short_name": "Hawk Run",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Morris Township",
+          "short_name": "Morris Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clearfield County",
+          "short_name": "Clearfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hawk Run, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.932026,
+            "lng": -78.1920068
+          },
+          "southwest": {
+            "lat": 40.915633,
+            "lng": -78.217725
+          }
+        },
+        "location": {
+          "lat": 40.9236016,
+          "lng": -78.2056126
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.932026,
+            "lng": -78.1920068
+          },
+          "southwest": {
+            "lat": 40.915633,
+            "lng": -78.217725
+          }
+        }
+      },
+      "place_id": "ChIJG8j74QIUzIkRzvz18ygMj48",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "16840",
+          "short_name": "16840",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Hawk Run",
+          "short_name": "Hawk Run",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hawk Run, PA 16840, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.94906599999999,
+            "lng": -78.180987
+          },
+          "southwest": {
+            "lat": 40.915633,
+            "lng": -78.2119549
+          }
+        },
+        "location": {
+          "lat": 40.923207,
+          "lng": -78.19776499999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.94906599999999,
+            "lng": -78.180987
+          },
+          "southwest": {
+            "lat": 40.915633,
+            "lng": -78.2119549
+          }
+        }
+      },
+      "place_id": "ChIJnXhdjBEUzIkRpO6Vt29LRrc",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Morris Township",
+          "short_name": "Morris Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clearfield County",
+          "short_name": "Clearfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Morris Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.983834,
+            "lng": -78.15549089999999
+          },
+          "southwest": {
+            "lat": 40.90563,
+            "lng": -78.271968
+          }
+        },
+        "location": {
+          "lat": 40.9460006,
+          "lng": -78.2134346
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.983834,
+            "lng": -78.15549089999999
+          },
+          "southwest": {
+            "lat": 40.90563,
+            "lng": -78.271968
+          }
+        }
+      },
+      "place_id": "ChIJ33sBrDoUzIkRFH6-AZ8gD5c",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clearfield County",
+          "short_name": "Clearfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clearfield County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.25377779999999,
+            "lng": -78.038203
+          },
+          "southwest": {
+            "lat": 40.7244579,
+            "lng": -78.8065979
+          }
+        },
+        "location": {
+          "lat": 40.9519685,
+          "lng": -78.5660852
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.25377779999999,
+            "lng": -78.038203
+          },
+          "southwest": {
+            "lat": 40.7244579,
+            "lng": -78.8065979
+          }
+        }
+      },
+      "place_id": "ChIJjxFfEZA7zIkRJad31RHS2gI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "DuBois",
+          "short_name": "DuBois",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "DuBois, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.253772,
+            "lng": -78.0382041
+          },
+          "southwest": {
+            "lat": 40.724473,
+            "lng": -78.806479
+          }
+        },
+        "location": {
+          "lat": 40.9519685,
+          "lng": -78.5660852
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.253772,
+            "lng": -78.0382041
+          },
+          "southwest": {
+            "lat": 40.724473,
+            "lng": -78.806479
+          }
+        }
+      },
+      "place_id": "ChIJm2jGd3VozIkR1nuzLwZYR2w",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

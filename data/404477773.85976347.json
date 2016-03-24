@@ -1,0 +1,571 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301",
+          "short_name": "301",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Lexington Avenue",
+          "short_name": "Lexington Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lakewood",
+          "short_name": "Lakewood",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lakewood Township",
+          "short_name": "Lakewood Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "08701",
+          "short_name": "08701",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "301 Lexington Ave, Lakewood, NJ 08701, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0942977,
+            "lng": -74.2115905
+          },
+          "southwest": {
+            "lat": 40.0938271,
+            "lng": -74.2121418
+          }
+        },
+        "location": {
+          "lat": 40.0940624,
+          "lng": -74.2118661
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.09541138029149,
+            "lng": -74.21051716970851
+          },
+          "southwest": {
+            "lat": 40.0927134197085,
+            "lng": -74.21321513029152
+          }
+        }
+      },
+      "place_id": "ChIJy0rTfwyCwYkRTbt_GCd1-EA",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "120-198",
+          "short_name": "120-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "4th Street",
+          "short_name": "4th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lakewood",
+          "short_name": "Lakewood",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lakewood Township",
+          "short_name": "Lakewood Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "08701",
+          "short_name": "08701",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "120-198 4th St, Lakewood, NJ 08701, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.094575,
+            "lng": -74.2105589
+          },
+          "southwest": {
+            "lat": 40.094349,
+            "lng": -74.21256799999999
+          }
+        },
+        "location": {
+          "lat": 40.0944217,
+          "lng": -74.2117924
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0958109802915,
+            "lng": -74.2102144697085
+          },
+          "southwest": {
+            "lat": 40.0931130197085,
+            "lng": -74.21291243029151
+          }
+        }
+      },
+      "place_id": "EicxMjAtMTk4IDR0aCBTdCwgTGFrZXdvb2QsIE5KIDA4NzAxLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lakewood",
+          "short_name": "Lakewood",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lakewood Township",
+          "short_name": "Lakewood Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lakewood, Lakewood Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.1125499,
+            "lng": -74.1743061
+          },
+          "southwest": {
+            "lat": 40.0713199,
+            "lng": -74.2493349
+          }
+        },
+        "location": {
+          "lat": 40.0978929,
+          "lng": -74.2176435
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.1125499,
+            "lng": -74.1743061
+          },
+          "southwest": {
+            "lat": 40.0713199,
+            "lng": -74.2493349
+          }
+        }
+      },
+      "place_id": "ChIJecN8cHmCwYkRAqI0XjzX0nc",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lakewood Township",
+          "short_name": "Lakewood Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lakewood Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.120394,
+            "lng": -74.151111
+          },
+          "southwest": {
+            "lat": 40.023834,
+            "lng": -74.258899
+          }
+        },
+        "location": {
+          "lat": 40.08212899999999,
+          "lng": -74.2097014
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.120394,
+            "lng": -74.151111
+          },
+          "southwest": {
+            "lat": 40.023834,
+            "lng": -74.258899
+          }
+        }
+      },
+      "place_id": "ChIJZe936WKCwYkRijagqXaceWs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "08701",
+          "short_name": "08701",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Lakewood",
+          "short_name": "Lakewood",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lakewood, NJ 08701, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.12028000000001,
+            "lng": -74.1490829
+          },
+          "southwest": {
+            "lat": 40.023834,
+            "lng": -74.262529
+          }
+        },
+        "location": {
+          "lat": 40.0807404,
+          "lng": -74.2061931
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.12028000000001,
+            "lng": -74.1490829
+          },
+          "southwest": {
+            "lat": 40.023834,
+            "lng": -74.262529
+          }
+        }
+      },
+      "place_id": "ChIJWwYUi2SCwYkROTqUUXfyFYM",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ocean County, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.17235489999999,
+            "lng": -74.0300122
+          },
+          "southwest": {
+            "lat": 39.5071756,
+            "lng": -74.5531051
+          }
+        },
+        "location": {
+          "lat": 39.9652553,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.17235489999999,
+            "lng": -74.0300122
+          },
+          "southwest": {
+            "lat": 39.5071756,
+            "lng": -74.5531051
+          }
+        }
+      },
+      "place_id": "ChIJh7ZJcChswYkRWgFmCdLUJYw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Jersey, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9285589,
+            "lng": -75.5597921
+          }
+        },
+        "location": {
+          "lat": 40.0583238,
+          "lng": -74.4056612
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9286032,
+            "lng": -75.5597921
+          }
+        }
+      },
+      "place_id": "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

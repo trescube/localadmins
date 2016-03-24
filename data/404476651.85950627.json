@@ -1,0 +1,434 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "63-65",
+          "short_name": "63-65",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Elm Alley",
+          "short_name": "Elm Alley",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Devens",
+          "short_name": "Devens",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Worcester County",
+          "short_name": "Worcester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "01434",
+          "short_name": "01434",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "63-65 Elm Alley, Devens, MA 01434, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.5444095,
+          "lng": -71.61558149999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5457584802915,
+            "lng": -71.6142325197085
+          },
+          "southwest": {
+            "lat": 42.5430605197085,
+            "lng": -71.6169304802915
+          }
+        }
+      },
+      "place_id": "ChIJQzRXvgvr44kRKLAtJZ9pim4",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Devens",
+          "short_name": "Devens",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Worcester County",
+          "short_name": "Worcester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Devens, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.577954,
+            "lng": -71.590669
+          },
+          "southwest": {
+            "lat": 42.51710689999999,
+            "lng": -71.647632
+          }
+        },
+        "location": {
+          "lat": 42.5455027,
+          "lng": -71.6139348
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.577954,
+            "lng": -71.590669
+          },
+          "southwest": {
+            "lat": 42.51710689999999,
+            "lng": -71.647632
+          }
+        }
+      },
+      "place_id": "ChIJSx8EcHbr44kRJwEqIuWa5gE",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "01434",
+          "short_name": "01434",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Devens",
+          "short_name": "Devens",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Devens, MA 01434, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5586,
+            "lng": -71.5742099
+          },
+          "southwest": {
+            "lat": 42.5118389,
+            "lng": -71.6392839
+          }
+        },
+        "location": {
+          "lat": 42.5360141,
+          "lng": -71.6139348
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5586,
+            "lng": -71.5742099
+          },
+          "southwest": {
+            "lat": 42.5118389,
+            "lng": -71.6392839
+          }
+        }
+      },
+      "place_id": "ChIJiQKo623r44kR_NhR120rUB8",
+      "postcode_localities": [
+        "Ayer",
+        "Devens"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Worcester",
+          "short_name": "Worcester",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Worcester, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7215575,
+            "lng": -71.47774290000001
+          },
+          "southwest": {
+            "lat": 42.00806499999999,
+            "lng": -72.31597
+          }
+        },
+        "location": {
+          "lat": 42.4096528,
+          "lng": -71.8571331
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7215575,
+            "lng": -71.47774290000001
+          },
+          "southwest": {
+            "lat": 42.00806499999999,
+            "lng": -72.31597
+          }
+        }
+      },
+      "place_id": "ChIJ_c4P1YL_44kRqbLyVUbmRd8",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Worcester County",
+          "short_name": "Worcester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Worcester County, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.721549,
+            "lng": -71.47774290000001
+          },
+          "southwest": {
+            "lat": 42.0080649,
+            "lng": -72.3065412
+          }
+        },
+        "location": {
+          "lat": 42.4096528,
+          "lng": -71.8571331
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.721549,
+            "lng": -71.47774290000001
+          },
+          "southwest": {
+            "lat": 42.0080649,
+            "lng": -72.3065412
+          }
+        }
+      },
+      "place_id": "ChIJvzRXoh0M5IkRfk1iMRL05dk",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Massachusetts, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390448,
+            "lng": -73.5081419
+          }
+        },
+        "location": {
+          "lat": 42.4072107,
+          "lng": -71.3824374
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390737,
+            "lng": -73.5081419
+          }
+        }
+      },
+      "place_id": "ChIJ_b9z6W1l44kRHA2DVTbQxkU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

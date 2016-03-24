@@ -1,0 +1,551 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2000-2098",
+          "short_name": "2000-2098",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Springhill Road",
+          "short_name": "Springhill Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Portage",
+          "short_name": "Portage",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Portage Township",
+          "short_name": "Portage Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cambria County",
+          "short_name": "Cambria County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "15946",
+          "short_name": "15946",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7124",
+          "short_name": "7124",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "2000-2098 Springhill Rd, Portage, PA 15946, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3713249,
+            "lng": -78.6674097
+          },
+          "southwest": {
+            "lat": 40.3697007,
+            "lng": -78.6680207
+          }
+        },
+        "location": {
+          "lat": 40.3706871,
+          "lng": -78.66780159999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3718617802915,
+            "lng": -78.6663662197085
+          },
+          "southwest": {
+            "lat": 40.3691638197085,
+            "lng": -78.6690641802915
+          }
+        }
+      },
+      "place_id": "Ei8yMDAwLTIwOTggU3ByaW5naGlsbCBSZCwgUG9ydGFnZSwgUEEgMTU5NDYsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Spring Hill",
+          "short_name": "Spring Hill",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Portage Township",
+          "short_name": "Portage Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cambria County",
+          "short_name": "Cambria County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "15946",
+          "short_name": "15946",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Spring Hill, PA 15946, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.382437,
+            "lng": -78.654029
+          },
+          "southwest": {
+            "lat": 40.361356,
+            "lng": -78.68054
+          }
+        },
+        "location": {
+          "lat": 40.3764628,
+          "lng": -78.6700189
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.382437,
+            "lng": -78.654029
+          },
+          "southwest": {
+            "lat": 40.361356,
+            "lng": -78.68054
+          }
+        }
+      },
+      "place_id": "ChIJrbg0yZoKy4kRzlm91591wC4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Portage Township",
+          "short_name": "Portage Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cambria County",
+          "short_name": "Cambria County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Portage Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.4303809,
+            "lng": -78.562828
+          },
+          "southwest": {
+            "lat": 40.3270249,
+            "lng": -78.697171
+          }
+        },
+        "location": {
+          "lat": 40.3686632,
+          "lng": -78.64554749999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4303809,
+            "lng": -78.562828
+          },
+          "southwest": {
+            "lat": 40.3270249,
+            "lng": -78.697171
+          }
+        }
+      },
+      "place_id": "ChIJXzPsFT-gy4kR5wmMBBMjcc4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "15946",
+          "short_name": "15946",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Portage",
+          "short_name": "Portage",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Portage, PA 15946, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.4675071,
+            "lng": -78.5160049
+          },
+          "southwest": {
+            "lat": 40.27397,
+            "lng": -78.9008739
+          }
+        },
+        "location": {
+          "lat": 40.3686632,
+          "lng": -78.64554749999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4675071,
+            "lng": -78.5160049
+          },
+          "southwest": {
+            "lat": 40.27397,
+            "lng": -78.7518059
+          }
+        }
+      },
+      "place_id": "ChIJZ1VZvAygy4kRC_gZIutFbLw",
+      "postcode_localities": [
+        "Portage",
+        "Puritan"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Johnstown",
+          "short_name": "Johnstown",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Johnstown, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.726042,
+            "lng": -78.34838789999999
+          },
+          "southwest": {
+            "lat": 40.242933,
+            "lng": -79.056061
+          }
+        },
+        "location": {
+          "lat": 40.4894231,
+          "lng": -78.74762079999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.726042,
+            "lng": -78.34838789999999
+          },
+          "southwest": {
+            "lat": 40.242933,
+            "lng": -79.056061
+          }
+        }
+      },
+      "place_id": "ChIJCdoPtJp2y4kRU_a7RWsH9WE",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cambria County",
+          "short_name": "Cambria County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cambria County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.726042,
+            "lng": -78.348389
+          },
+          "southwest": {
+            "lat": 40.242933,
+            "lng": -79.056061
+          }
+        },
+        "location": {
+          "lat": 40.4894231,
+          "lng": -78.74762079999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.726042,
+            "lng": -78.348389
+          },
+          "southwest": {
+            "lat": 40.242933,
+            "lng": -79.056061
+          }
+        }
+      },
+      "place_id": "ChIJywJ-44oRy4kRmjN2hZffyLM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,585 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1-3",
+          "short_name": "1-3",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Clark Hill Road",
+          "short_name": "Clark Hill Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lake Pocotopaug",
+          "short_name": "Lake Pocotopaug",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "East Hampton",
+          "short_name": "East Hampton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "East Hampton",
+          "short_name": "East Hampton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Middlesex County",
+          "short_name": "Middlesex County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06424",
+          "short_name": "06424",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1416",
+          "short_name": "1416",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1-3 Clark Hill Rd, East Hampton, CT 06424, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.5961889,
+            "lng": -72.51199299999999
+          },
+          "southwest": {
+            "lat": 41.59618330000001,
+            "lng": -72.5124249
+          }
+        },
+        "location": {
+          "lat": 41.5961694,
+          "lng": -72.51241010000001
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.59753508029151,
+            "lng": -72.51085996970849
+          },
+          "southwest": {
+            "lat": 41.59483711970851,
+            "lng": -72.51355793029151
+          }
+        }
+      },
+      "place_id": "Ei4xLTMgQ2xhcmsgSGlsbCBSZCwgRWFzdCBIYW1wdG9uLCBDVCAwNjQyNCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lake Pocotopaug",
+          "short_name": "Lake Pocotopaug",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "East Hampton",
+          "short_name": "East Hampton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "East Hampton",
+          "short_name": "East Hampton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Middlesex County",
+          "short_name": "Middlesex County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06424",
+          "short_name": "06424",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Lake Pocotopaug, East Hampton, CT 06424, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6106678,
+            "lng": -72.4879069
+          },
+          "southwest": {
+            "lat": 41.572735,
+            "lng": -72.53106009999999
+          }
+        },
+        "location": {
+          "lat": 41.5952723,
+          "lng": -72.5145473
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6106678,
+            "lng": -72.4879069
+          },
+          "southwest": {
+            "lat": 41.572735,
+            "lng": -72.53106009999999
+          }
+        }
+      },
+      "place_id": "ChIJ7XKgef1F5okReUVgPodMAkI",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "East Hampton",
+          "short_name": "East Hampton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "East Hampton",
+          "short_name": "East Hampton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Middlesex County",
+          "short_name": "Middlesex County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East Hampton, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.646999,
+            "lng": -72.4308229
+          },
+          "southwest": {
+            "lat": 41.51105,
+            "lng": -72.56278499999999
+          }
+        },
+        "location": {
+          "lat": 41.5757748,
+          "lng": -72.5026249
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.646999,
+            "lng": -72.4308229
+          },
+          "southwest": {
+            "lat": 41.51105,
+            "lng": -72.56278499999999
+          }
+        }
+      },
+      "place_id": "ChIJ249VNW1G5okRsQ3dRxLGGeM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "06424",
+          "short_name": "06424",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "East Hampton",
+          "short_name": "East Hampton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East Hampton, CT 06424, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.646999,
+            "lng": -72.4307669
+          },
+          "southwest": {
+            "lat": 41.462392,
+            "lng": -72.557405
+          }
+        },
+        "location": {
+          "lat": 41.5705502,
+          "lng": -72.4968189
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.646999,
+            "lng": -72.4307669
+          },
+          "southwest": {
+            "lat": 41.462392,
+            "lng": -72.557405
+          }
+        }
+      },
+      "place_id": "ChIJ43ZZWTBG5okRxOUaR2zQrj8",
+      "postcode_localities": [
+        "East Hampton",
+        "Haddam"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "East Hampton",
+          "short_name": "East Hampton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Middlesex County",
+          "short_name": "Middlesex County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East Hampton, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.646999,
+            "lng": -72.4308229
+          },
+          "southwest": {
+            "lat": 41.51105,
+            "lng": -72.56278499999999
+          }
+        },
+        "location": {
+          "lat": 41.5705502,
+          "lng": -72.4968189
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.646999,
+            "lng": -72.4308229
+          },
+          "southwest": {
+            "lat": 41.51105,
+            "lng": -72.56278499999999
+          }
+        }
+      },
+      "place_id": "ChIJUYO9GtBH5okRVYdbZaDDOsE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Middlesex County",
+          "short_name": "Middlesex County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Middlesex County, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.646999,
+            "lng": -72.305531
+          },
+          "southwest": {
+            "lat": 41.25514099999999,
+            "lng": -72.75294079999999
+          }
+        },
+        "location": {
+          "lat": 41.46985050000001,
+          "lng": -72.4731529
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.646999,
+            "lng": -72.305531
+          },
+          "southwest": {
+            "lat": 41.25514099999999,
+            "lng": -72.75294079999999
+          }
+        }
+      },
+      "place_id": "ChIJWRM2Nakw5okRoTCxHvz_5xw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Connecticut, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.6032207,
+          "lng": -73.087749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJpVER8hFT5okR5XBhBVttmq4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,554 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200-298",
+          "short_name": "200-298",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Division Avenue",
+          "short_name": "IL-26",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Polo",
+          "short_name": "Polo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Buffalo Township",
+          "short_name": "Buffalo Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ogle County",
+          "short_name": "Ogle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61064",
+          "short_name": "61064",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1631",
+          "short_name": "1631",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "200-298 IL-26, Polo, IL 61064, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.98514489999999,
+            "lng": -89.57887989999999
+          },
+          "southwest": {
+            "lat": 41.9841414,
+            "lng": -89.57891839999999
+          }
+        },
+        "location": {
+          "lat": 41.9846919,
+          "lng": -89.5788785
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.98599213029149,
+            "lng": -89.57755016970849
+          },
+          "southwest": {
+            "lat": 41.98329416970849,
+            "lng": -89.5802481302915
+          }
+        }
+      },
+      "place_id": "EisyMDAtMjk4IFMgRGl2aXNpb24gQXZlLCBQb2xvLCBJTCA2MTA2NCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Polo",
+          "short_name": "Polo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Buffalo Township",
+          "short_name": "Buffalo Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ogle County",
+          "short_name": "Ogle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61064",
+          "short_name": "61064",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Polo, IL 61064, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.995148,
+            "lng": -89.5646
+          },
+          "southwest": {
+            "lat": 41.974034,
+            "lng": -89.589208
+          }
+        },
+        "location": {
+          "lat": 41.986141,
+          "lng": -89.57927819999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.995148,
+            "lng": -89.5646
+          },
+          "southwest": {
+            "lat": 41.974034,
+            "lng": -89.589208
+          }
+        }
+      },
+      "place_id": "ChIJ27ryksVNCIgRGQx4sKxDzZY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Buffalo Township",
+          "short_name": "Buffalo Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ogle County",
+          "short_name": "Ogle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61064",
+          "short_name": "61064",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Buffalo Township, IL 61064, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.026775,
+            "lng": -89.5098951
+          },
+          "southwest": {
+            "lat": 41.944634,
+            "lng": -89.629104
+          }
+        },
+        "location": {
+          "lat": 41.9783442,
+          "lng": -89.5686271
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.026775,
+            "lng": -89.5098951
+          },
+          "southwest": {
+            "lat": 41.944634,
+            "lng": -89.629104
+          }
+        }
+      },
+      "place_id": "ChIJ2SMWYsJNCIgRbIkF4GaPBV4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61064",
+          "short_name": "61064",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Polo",
+          "short_name": "Polo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Polo, IL 61064, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.077504,
+            "lng": -89.454373
+          },
+          "southwest": {
+            "lat": 41.8873611,
+            "lng": -89.6959909
+          }
+        },
+        "location": {
+          "lat": 41.9585857,
+          "lng": -89.5874819
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.077504,
+            "lng": -89.454373
+          },
+          "southwest": {
+            "lat": 41.8873611,
+            "lng": -89.6959909
+          }
+        }
+      },
+      "place_id": "ChIJRaP0ndJNCIgRfu3dj2vF1_A",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rochelle",
+          "short_name": "Rochelle",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rochelle, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.204246,
+            "lng": -88.93870009999999
+          },
+          "southwest": {
+            "lat": 41.88617500000001,
+            "lng": -89.688486
+          }
+        },
+        "location": {
+          "lat": 41.9969811,
+          "lng": -89.3226954
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.204246,
+            "lng": -88.93870009999999
+          },
+          "southwest": {
+            "lat": 41.88617500000001,
+            "lng": -89.688486
+          }
+        }
+      },
+      "place_id": "ChIJv7xVnyn6CIgRGhKGK2HPPXE",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ogle County",
+          "short_name": "Ogle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ogle County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.204246,
+            "lng": -88.93893489999999
+          },
+          "southwest": {
+            "lat": 41.88600100000001,
+            "lng": -89.688486
+          }
+        },
+        "location": {
+          "lat": 41.9969811,
+          "lng": -89.3226954
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.204246,
+            "lng": -88.93893489999999
+          },
+          "southwest": {
+            "lat": 41.88600100000001,
+            "lng": -89.688486
+          }
+        }
+      },
+      "place_id": "ChIJT5AG73H7CIgRnYGHvXyzq18",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

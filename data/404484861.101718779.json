@@ -1,0 +1,624 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "3624",
+          "short_name": "3624",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Brownsville Road",
+          "short_name": "Brownsville Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Pittsburgh",
+          "short_name": "Pittsburgh",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Allegheny County",
+          "short_name": "Allegheny County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "15227",
+          "short_name": "15227",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3153",
+          "short_name": "3153",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "3624 Brownsville Rd, Pittsburgh, PA 15227, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3733843,
+            "lng": -79.97565430000002
+          },
+          "southwest": {
+            "lat": 40.373038,
+            "lng": -79.9760831
+          }
+        },
+        "location": {
+          "lat": 40.3732112,
+          "lng": -79.97586869999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.37456013029151,
+            "lng": -79.9745197197085
+          },
+          "southwest": {
+            "lat": 40.37186216970851,
+            "lng": -79.97721768029152
+          }
+        }
+      },
+      "place_id": "ChIJqwCWJJDwNIgRe7GTIcKVjUE",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "3617-3655",
+          "short_name": "3617-3655",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Pary Avenue",
+          "short_name": "Pary Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Brentwood",
+          "short_name": "Brentwood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Allegheny County",
+          "short_name": "Allegheny County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "15227",
+          "short_name": "15227",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "3617-3655 Pary Ave, Brentwood, PA 15227, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3735676,
+            "lng": -79.9760977
+          },
+          "southwest": {
+            "lat": 40.3732359,
+            "lng": -79.9762483
+          }
+        },
+        "location": {
+          "lat": 40.37328919999999,
+          "lng": -79.976102
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3747507302915,
+            "lng": -79.97482401970849
+          },
+          "southwest": {
+            "lat": 40.3720527697085,
+            "lng": -79.9775219802915
+          }
+        }
+      },
+      "place_id": "EiwzNjE3LTM2NTUgUGFyeSBBdmUsIEJyZW50d29vZCwgUEEgMTUyMjcsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brownsville Rd Opp Marylea Ave",
+          "short_name": "Brownsville Rd Opp Marylea Ave",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Brentwood",
+          "short_name": "Brentwood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Allegheny County",
+          "short_name": "Allegheny County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "15227",
+          "short_name": "15227",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Brownsville Rd Opp Marylea Ave, Brentwood, PA 15227, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.37286100000001,
+          "lng": -79.975397
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.37420998029151,
+            "lng": -79.9740480197085
+          },
+          "southwest": {
+            "lat": 40.37151201970851,
+            "lng": -79.97674598029151
+          }
+        }
+      },
+      "place_id": "ChIJMR4wIJDwNIgR4y7Yo4Y-2ks",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brentwood",
+          "short_name": "Brentwood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Allegheny County",
+          "short_name": "Allegheny County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brentwood, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.385765,
+            "lng": -79.96158109999999
+          },
+          "southwest": {
+            "lat": 40.3603689,
+            "lng": -79.9887498
+          }
+        },
+        "location": {
+          "lat": 40.3742729,
+          "lng": -79.97801779999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.385765,
+            "lng": -79.96158109999999
+          },
+          "southwest": {
+            "lat": 40.3603689,
+            "lng": -79.9887498
+          }
+        }
+      },
+      "place_id": "ChIJx1VM34_wNIgRkIjNH6CFvXI",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "15227",
+          "short_name": "15227",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Pittsburgh",
+          "short_name": "Pittsburgh",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Allegheny County",
+          "short_name": "Allegheny County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pittsburgh, PA 15227, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.409915,
+            "lng": -79.9425219
+          },
+          "southwest": {
+            "lat": 40.351332,
+            "lng": -80.00078189999999
+          }
+        },
+        "location": {
+          "lat": 40.3760655,
+          "lng": -79.96962769999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.409915,
+            "lng": -79.9425219
+          },
+          "southwest": {
+            "lat": 40.351332,
+            "lng": -80.00078189999999
+          }
+        }
+      },
+      "place_id": "ChIJI2Afv47wNIgRdc5adhyqdA0",
+      "postcode_localities": [
+        "Brentwood",
+        "Pittsburgh"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Allegheny County",
+          "short_name": "Allegheny County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Allegheny County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.67453,
+            "lng": -79.6899755
+          },
+          "southwest": {
+            "lat": 40.1943428,
+            "lng": -80.36087289999999
+          }
+        },
+        "location": {
+          "lat": 40.4450813,
+          "lng": -80.0087746
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.67453,
+            "lng": -79.6899755
+          },
+          "southwest": {
+            "lat": 40.1943428,
+            "lng": -80.36087289999999
+          }
+        }
+      },
+      "place_id": "ChIJu-PIH-y5NIgRVFV1McCaCyw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pittsburgh",
+          "short_name": "Pittsburgh",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pittsburgh, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1731849,
+            "lng": -78.974649
+          },
+          "southwest": {
+            "lat": 39.7207129,
+            "lng": -80.5192179
+          }
+        },
+        "location": {
+          "lat": 40.3565093,
+          "lng": -79.9192702
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1731849,
+            "lng": -78.974649
+          },
+          "southwest": {
+            "lat": 39.7207129,
+            "lng": -80.5192179
+          }
+        }
+      },
+      "place_id": "ChIJiWjZkAfsNIgRSXopSLGQlS4",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

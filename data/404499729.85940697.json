@@ -1,0 +1,530 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "4500-4648",
+          "short_name": "4500-4648",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Maryland Avenue",
+          "short_name": "Maryland Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Fairmont City",
+          "short_name": "Fairmont City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Canteen Township",
+          "short_name": "Canteen Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62201",
+          "short_name": "62201",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "4500-4648 Maryland Ave, Fairmont City, IL 62201, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.65078,
+            "lng": -90.1008579
+          },
+          "southwest": {
+            "lat": 38.6507403,
+            "lng": -90.103065
+          }
+        },
+        "location": {
+          "lat": 38.6507314,
+          "lng": -90.1014407
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6521091302915,
+            "lng": -90.1006124697085
+          },
+          "southwest": {
+            "lat": 38.6494111697085,
+            "lng": -90.10331043029151
+          }
+        }
+      },
+      "place_id": "EjQ0NTAwLTQ2NDggTWFyeWxhbmQgQXZlLCBGYWlybW9udCBDaXR5LCBJTCA2MjIwMSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fairmont City",
+          "short_name": "Fairmont City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Canteen Township",
+          "short_name": "Canteen Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fairmont City, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.674449,
+            "lng": -90.0370059
+          },
+          "southwest": {
+            "lat": 38.636665,
+            "lng": -90.18125700000002
+          }
+        },
+        "location": {
+          "lat": 38.6497722,
+          "lng": -90.0931629
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.674449,
+            "lng": -90.0370059
+          },
+          "southwest": {
+            "lat": 38.636665,
+            "lng": -90.18125700000002
+          }
+        }
+      },
+      "place_id": "ChIJIUCkEs2s2IcRrG_2nXgEDqA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62201",
+          "short_name": "62201",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "East Saint Louis",
+          "short_name": "East St Louis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East St Louis, IL 62201, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.681214,
+            "lng": -90.0637589
+          },
+          "southwest": {
+            "lat": 38.5672571,
+            "lng": -90.2230599
+          }
+        },
+        "location": {
+          "lat": 38.6634244,
+          "lng": -90.102718
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.681214,
+            "lng": -90.0637589
+          },
+          "southwest": {
+            "lat": 38.5672571,
+            "lng": -90.2230599
+          }
+        }
+      },
+      "place_id": "ChIJJ9-HdyWt2IcRnbp_dT8Civo",
+      "postcode_localities": [
+        "East Saint Louis",
+        "Fairmont City",
+        "Sauget"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Canteen Township",
+          "short_name": "Canteen Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Canteen Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6601541,
+            "lng": -90.035989
+          },
+          "southwest": {
+            "lat": 38.5713549,
+            "lng": -90.14829999999999
+          }
+        },
+        "location": {
+          "lat": 38.6424671,
+          "lng": -90.08402149999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6601541,
+            "lng": -90.035989
+          },
+          "southwest": {
+            "lat": 38.5713549,
+            "lng": -90.14829999999999
+          }
+        }
+      },
+      "place_id": "ChIJ4TIzj_Ss2IcRywlw1hi-L1k",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St Clair County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6606498,
+            "lng": -89.7032468
+          },
+          "southwest": {
+            "lat": 38.2194181,
+            "lng": -90.26637079999999
+          }
+        },
+        "location": {
+          "lat": 38.40081199999999,
+          "lng": -89.9253233
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6606498,
+            "lng": -89.7032468
+          },
+          "southwest": {
+            "lat": 38.2194181,
+            "lng": -90.26637079999999
+          }
+        }
+      },
+      "place_id": "ChIJeRbja679dYgR3ASXSadGyno",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Louis",
+          "short_name": "St. Louis",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Louis, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        },
+        "location": {
+          "lat": 38.8196814,
+          "lng": -90.4502368
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        }
+      },
+      "place_id": "ChIJneBzzj4z34cRFGg2ez6q57o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

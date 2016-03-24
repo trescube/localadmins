@@ -1,0 +1,483 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "810",
+          "short_name": "810",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Lorraine Drive",
+          "short_name": "Lorraine Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Cliffwood Beach",
+          "short_name": "Cliffwood Beach",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Keyport",
+          "short_name": "Keyport",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Aberdeen Township",
+          "short_name": "Aberdeen Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monmouth County",
+          "short_name": "Monmouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "07735",
+          "short_name": "07735",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5419",
+          "short_name": "5419",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "810 Lorraine Dr, Keyport, NJ 07735, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.442586,
+          "lng": -74.218041
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4439349802915,
+            "lng": -74.2166920197085
+          },
+          "southwest": {
+            "lat": 40.4412370197085,
+            "lng": -74.21938998029151
+          }
+        }
+      },
+      "place_id": "ChIJkclmNU3Lw4kRiCnILML5WM8",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cliffwood Beach",
+          "short_name": "Cliffwood Beach",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Aberdeen Township",
+          "short_name": "Aberdeen Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monmouth County",
+          "short_name": "Monmouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cliffwood Beach, Aberdeen Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.453317,
+            "lng": -74.205168
+          },
+          "southwest": {
+            "lat": 40.433147,
+            "lng": -74.232218
+          }
+        },
+        "location": {
+          "lat": 40.4420516,
+          "lng": -74.2168109
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.453317,
+            "lng": -74.205168
+          },
+          "southwest": {
+            "lat": 40.433147,
+            "lng": -74.232218
+          }
+        }
+      },
+      "place_id": "ChIJXa94Bq5NwokRtJmm2-Jd7Oc",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "07735",
+          "short_name": "07735",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Keyport",
+          "short_name": "Keyport",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Keyport, NJ 07735, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.4587001,
+            "lng": -74.14695689999999
+          },
+          "southwest": {
+            "lat": 40.422427,
+            "lng": -74.2465969
+          }
+        },
+        "location": {
+          "lat": 40.4359539,
+          "lng": -74.197388
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4587001,
+            "lng": -74.14695689999999
+          },
+          "southwest": {
+            "lat": 40.422427,
+            "lng": -74.2465969
+          }
+        }
+      },
+      "place_id": "ChIJJZDiZLs0wokRW5c4KII7ayE",
+      "postcode_localities": [
+        "Keyport",
+        "Union Beach"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Aberdeen Township",
+          "short_name": "Aberdeen Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monmouth County",
+          "short_name": "Monmouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Aberdeen Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.453317,
+            "lng": -74.2069884
+          },
+          "southwest": {
+            "lat": 40.382579,
+            "lng": -74.261933
+          }
+        },
+        "location": {
+          "lat": 40.4170948,
+          "lng": -74.2221155
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.453317,
+            "lng": -74.2069884
+          },
+          "southwest": {
+            "lat": 40.382579,
+            "lng": -74.261933
+          }
+        }
+      },
+      "place_id": "ChIJsXMr4evLw4kRYj8tjXqb5NQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Monmouth County",
+          "short_name": "Monmouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Monmouth County, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.4779551,
+            "lng": -73.9721844
+          },
+          "southwest": {
+            "lat": 40.07913,
+            "lng": -74.613529
+          }
+        },
+        "location": {
+          "lat": 40.2589455,
+          "lng": -74.12399599999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4779551,
+            "lng": -73.9721844
+          },
+          "southwest": {
+            "lat": 40.07913,
+            "lng": -74.613529
+          }
+        }
+      },
+      "place_id": "ChIJs-wyjgfPw4kRpyM0wCxA5CQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Jersey, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9285589,
+            "lng": -75.5597921
+          }
+        },
+        "location": {
+          "lat": 40.0583238,
+          "lng": -74.4056612
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9286032,
+            "lng": -75.5597921
+          }
+        }
+      },
+      "place_id": "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

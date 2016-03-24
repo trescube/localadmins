@@ -1,0 +1,496 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "414-498",
+          "short_name": "414-498",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Summer Street",
+          "short_name": "Summer St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Saint Charles",
+          "short_name": "St Charles",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Gregory",
+          "short_name": "North Gregory",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gregory County",
+          "short_name": "Gregory County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "57571",
+          "short_name": "57571",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7107",
+          "short_name": "7107",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "414-498 Summer St, St Charles, SD 57571, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.0879427,
+            "lng": -99.0939265
+          },
+          "southwest": {
+            "lat": 43.086894,
+            "lng": -99.09542049999999
+          }
+        },
+        "location": {
+          "lat": 43.0879514,
+          "lng": -99.0948793
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 43.0887673302915,
+            "lng": -99.09332451970849
+          },
+          "southwest": {
+            "lat": 43.0860693697085,
+            "lng": -99.0960224802915
+          }
+        }
+      },
+      "place_id": "Eiw0MTQtNDk4IFN1bW1lciBTdCwgU3QgQ2hhcmxlcywgU0QgNTc1NzEsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Saint Charles",
+          "short_name": "St Charles",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Gregory",
+          "short_name": "North Gregory",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gregory County",
+          "short_name": "Gregory County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "57571",
+          "short_name": "57571",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "St Charles, SD 57571, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.0914589,
+            "lng": -99.09073190000001
+          },
+          "southwest": {
+            "lat": 43.0828719,
+            "lng": -99.099969
+          }
+        },
+        "location": {
+          "lat": 43.0869262,
+          "lng": -99.0954325
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.0914589,
+            "lng": -99.09073190000001
+          },
+          "southwest": {
+            "lat": 43.0828719,
+            "lng": -99.099969
+          }
+        }
+      },
+      "place_id": "ChIJMzVoemBzhIcRw_F_VxwMtEc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "57571",
+          "short_name": "57571",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Saint Charles",
+          "short_name": "St Charles",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gregory County",
+          "short_name": "Gregory County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St Charles, SD 57571, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.2296871,
+            "lng": -98.9819151
+          },
+          "southwest": {
+            "lat": 43.082339,
+            "lng": -99.11969400000001
+          }
+        },
+        "location": {
+          "lat": 43.1756502,
+          "lng": -99.02394439999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.2296871,
+            "lng": -98.9819151
+          },
+          "southwest": {
+            "lat": 43.129411,
+            "lng": -99.063357
+          }
+        }
+      },
+      "place_id": "ChIJ49CJdLkMhIcRzR7z8R5mO6k",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Gregory",
+          "short_name": "North Gregory",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gregory County",
+          "short_name": "Gregory County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Gregory, SD, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.4528668,
+            "lng": -99.00135209999999
+          },
+          "southwest": {
+            "lat": 43.082321,
+            "lng": -99.53398399999999
+          }
+        },
+        "location": {
+          "lat": 43.3027409,
+          "lng": -99.23421959999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.4528668,
+            "lng": -99.00135209999999
+          },
+          "southwest": {
+            "lat": 43.082321,
+            "lng": -99.53398399999999
+          }
+        }
+      },
+      "place_id": "ChIJo_JnLPv5g4cRpmL46qROkwE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Gregory County",
+          "short_name": "Gregory County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Gregory County, SD, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.4997909,
+            "lng": -98.498544
+          },
+          "southwest": {
+            "lat": 42.997886,
+            "lng": -99.5349081
+          }
+        },
+        "location": {
+          "lat": 43.1983133,
+          "lng": -99.1013498
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.4997909,
+            "lng": -98.498544
+          },
+          "southwest": {
+            "lat": 42.997886,
+            "lng": -99.5349081
+          }
+        }
+      },
+      "place_id": "ChIJ_WoAMoc7hIcR28AeJksyi7c",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "South Dakota, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.945713,
+            "lng": -96.436589
+          },
+          "southwest": {
+            "lat": 42.479686,
+            "lng": -104.0577391
+          }
+        },
+        "location": {
+          "lat": 43.9695148,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.945713,
+            "lng": -96.436589
+          },
+          "southwest": {
+            "lat": 42.479686,
+            "lng": -104.0577391
+          }
+        }
+      },
+      "place_id": "ChIJpTjphS1DfYcRt6SGMSnW8Ac",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

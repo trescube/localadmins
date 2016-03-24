@@ -1,0 +1,482 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-112",
+          "short_name": "100-112",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Laurel Street",
+          "short_name": "Laurel St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Elvaston",
+          "short_name": "Elvaston",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Prairie Township",
+          "short_name": "Prairie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hancock County",
+          "short_name": "Hancock County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62334",
+          "short_name": "62334",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "100-112 Laurel St, Elvaston, IL 62334, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.396254,
+            "lng": -91.2496199
+          },
+          "southwest": {
+            "lat": 40.3949115,
+            "lng": -91.24967679999999
+          }
+        },
+        "location": {
+          "lat": 40.39543889999999,
+          "lng": -91.249624
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3969317302915,
+            "lng": -91.24829936970849
+          },
+          "southwest": {
+            "lat": 40.3942337697085,
+            "lng": -91.2509973302915
+          }
+        }
+      },
+      "place_id": "EioxMDAtMTEyIExhdXJlbCBTdCwgRWx2YXN0b24sIElMIDYyMzM0LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Elvaston",
+          "short_name": "Elvaston",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Prairie Township",
+          "short_name": "Prairie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hancock County",
+          "short_name": "Hancock County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Elvaston, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.40363,
+            "lng": -91.24127000000001
+          },
+          "southwest": {
+            "lat": 40.38807389999999,
+            "lng": -91.25932010000001
+          }
+        },
+        "location": {
+          "lat": 40.3950447,
+          "lng": -91.2495909
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.40363,
+            "lng": -91.24127000000001
+          },
+          "southwest": {
+            "lat": 40.38807389999999,
+            "lng": -91.25932010000001
+          }
+        }
+      },
+      "place_id": "ChIJNRPpg3cz54cRVGNJ2IcBHXA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62334",
+          "short_name": "62334",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Elvaston",
+          "short_name": "Elvaston",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hancock County",
+          "short_name": "Hancock County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Elvaston, IL 62334, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.4023479,
+            "lng": -91.2463279
+          },
+          "southwest": {
+            "lat": 40.394951,
+            "lng": -91.25808400000001
+          }
+        },
+        "location": {
+          "lat": 40.3977301,
+          "lng": -91.2542084
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4023479,
+            "lng": -91.2463279
+          },
+          "southwest": {
+            "lat": 40.394951,
+            "lng": -91.25808400000001
+          }
+        }
+      },
+      "place_id": "ChIJUc0M_nYz54cR1zSEjVI_Kd4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Prairie Township",
+          "short_name": "Prairie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hancock County",
+          "short_name": "Hancock County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Prairie Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.46165,
+            "lng": -91.139555
+          },
+          "southwest": {
+            "lat": 40.3719669,
+            "lng": -91.25375389999999
+          }
+        },
+        "location": {
+          "lat": 40.4047467,
+          "lng": -91.1929114
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.46165,
+            "lng": -91.139555
+          },
+          "southwest": {
+            "lat": 40.3719669,
+            "lng": -91.25375389999999
+          }
+        }
+      },
+      "place_id": "ChIJUTeAktzM4IcRNunKt0SRDY4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hancock County",
+          "short_name": "Hancock County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hancock County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.639202,
+            "lng": -90.9042159
+          },
+          "southwest": {
+            "lat": 40.193086,
+            "lng": -91.5072689
+          }
+        },
+        "location": {
+          "lat": 40.38493649999999,
+          "lng": -91.13530200000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.639202,
+            "lng": -90.9042159
+          },
+          "southwest": {
+            "lat": 40.193086,
+            "lng": -91.5072689
+          }
+        }
+      },
+      "place_id": "ChIJCbK0hcjO4IcRVn_sFsIjLRQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

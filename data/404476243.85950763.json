@@ -1,0 +1,591 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "33",
+          "short_name": "33",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Montague Street",
+          "short_name": "Montague St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Turners Falls",
+          "short_name": "Turners Falls",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montague",
+          "short_name": "Montague",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Franklin County",
+          "short_name": "Franklin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "01376",
+          "short_name": "01376",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2121",
+          "short_name": "2121",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "33 Montague St, Turners Falls, MA 01376, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.59735,
+            "lng": -72.5563237
+          },
+          "southwest": {
+            "lat": 42.5957549,
+            "lng": -72.5577862
+          }
+        },
+        "location": {
+          "lat": 42.5972929,
+          "lng": -72.5577113
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5979014302915,
+            "lng": -72.5557059697085
+          },
+          "southwest": {
+            "lat": 42.5952034697085,
+            "lng": -72.5584039302915
+          }
+        }
+      },
+      "place_id": "EiwzMyBNb250YWd1ZSBTdCwgVHVybmVycyBGYWxscywgTUEgMDEzNzYsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Turners Falls",
+          "short_name": "Turners Falls",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montague",
+          "short_name": "Montague",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Franklin County",
+          "short_name": "Franklin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Turners Falls, Montague, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.6128829,
+            "lng": -72.528622
+          },
+          "southwest": {
+            "lat": 42.587088,
+            "lng": -72.583968
+          }
+        },
+        "location": {
+          "lat": 42.60425230000001,
+          "lng": -72.5564777
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.6128829,
+            "lng": -72.528622
+          },
+          "southwest": {
+            "lat": 42.587088,
+            "lng": -72.583968
+          }
+        }
+      },
+      "place_id": "ChIJHeD8kTAl4YkRr5nNdorYApM",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Montague",
+          "short_name": "Montague",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Franklin County",
+          "short_name": "Franklin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Montague, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.6128829,
+            "lng": -72.4526851
+          },
+          "southwest": {
+            "lat": 42.506737,
+            "lng": -72.583968
+          }
+        },
+        "location": {
+          "lat": 42.5355277,
+          "lng": -72.5353437
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.6128829,
+            "lng": -72.4526851
+          },
+          "southwest": {
+            "lat": 42.506737,
+            "lng": -72.583968
+          }
+        }
+      },
+      "place_id": "ChIJqbxbuykw4YkRP5bKTyKzw6o",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "01376",
+          "short_name": "01376",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Turners Falls",
+          "short_name": "Turners Falls",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Franklin County",
+          "short_name": "Franklin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Turners Falls, MA 01376, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.613298,
+            "lng": -72.5115999
+          },
+          "southwest": {
+            "lat": 42.5690849,
+            "lng": -72.671499
+          }
+        },
+        "location": {
+          "lat": 42.5936643,
+          "lng": -72.5618894
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.613298,
+            "lng": -72.5115999
+          },
+          "southwest": {
+            "lat": 42.5690849,
+            "lng": -72.580708
+          }
+        }
+      },
+      "place_id": "ChIJHxwpTIgv4YkR82CElFXjxgc",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Greenfield",
+          "short_name": "Greenfield",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Greenfield, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7377539,
+            "lng": -72.362307
+          },
+          "southwest": {
+            "lat": 42.506737,
+            "lng": -72.8641985
+          }
+        },
+        "location": {
+          "lat": 42.6373714,
+          "lng": -72.5678041
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7377539,
+            "lng": -72.362307
+          },
+          "southwest": {
+            "lat": 42.506737,
+            "lng": -72.8641985
+          }
+        }
+      },
+      "place_id": "ChIJz5DPONUl4YkRtGhliSSXsrc",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Franklin County",
+          "short_name": "Franklin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Franklin County, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7411329,
+            "lng": -72.2248391
+          },
+          "southwest": {
+            "lat": 42.3132098,
+            "lng": -73.02349389999999
+          }
+        },
+        "location": {
+          "lat": 42.530599,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7411329,
+            "lng": -72.2248391
+          },
+          "southwest": {
+            "lat": 42.3132098,
+            "lng": -73.02349389999999
+          }
+        }
+      },
+      "place_id": "ChIJaVmtyhXU5okR-8mXYJbqHGQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Springfield",
+          "short_name": "Springfield",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Springfield, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7411329,
+            "lng": -72.13479989999999
+          },
+          "southwest": {
+            "lat": 41.997595,
+            "lng": -73.074885
+          }
+        },
+        "location": {
+          "lat": 42.2867339,
+          "lng": -72.5204827
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7411329,
+            "lng": -72.13479989999999
+          },
+          "southwest": {
+            "lat": 41.997595,
+            "lng": -73.074885
+          }
+        }
+      },
+      "place_id": "ChIJpy_MQLfW5okR3vDTqkup2nQ",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Massachusetts, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390448,
+            "lng": -73.5081419
+          }
+        },
+        "location": {
+          "lat": 42.4072107,
+          "lng": -71.3824374
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390737,
+            "lng": -73.5081419
+          }
+        }
+      },
+      "place_id": "ChIJ_b9z6W1l44kRHA2DVTbQxkU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,529 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "6801-6911",
+          "short_name": "6801-6911",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 68th Street",
+          "short_name": "W 68th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Bedford Park",
+          "short_name": "Bedford Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stickney Township",
+          "short_name": "Stickney Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60638",
+          "short_name": "60638",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "6801-6911 W 68th St, Bedford Park, IL 60638, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7682516,
+            "lng": -87.7895582
+          },
+          "southwest": {
+            "lat": 41.7681307,
+            "lng": -87.7930051
+          }
+        },
+        "location": {
+          "lat": 41.76816549999999,
+          "lng": -87.79161409999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7695401302915,
+            "lng": -87.7895582
+          },
+          "southwest": {
+            "lat": 41.7668421697085,
+            "lng": -87.7930051
+          }
+        }
+      },
+      "place_id": "EjA2ODAxLTY5MTEgVyA2OHRoIFN0LCBCZWRmb3JkIFBhcmssIElMIDYwNjM4LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bedford Park",
+          "short_name": "Bedford Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bedford Park, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.78373089999999,
+            "lng": -87.741553
+          },
+          "southwest": {
+            "lat": 41.7481549,
+            "lng": -87.854456
+          }
+        },
+        "location": {
+          "lat": 41.7641723,
+          "lng": -87.7812524
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.78373089999999,
+            "lng": -87.741553
+          },
+          "southwest": {
+            "lat": 41.7481549,
+            "lng": -87.854456
+          }
+        }
+      },
+      "place_id": "ChIJ29dGbjw3DogRpIwC4nqwtcA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "60638",
+          "short_name": "60638",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Chicago",
+          "short_name": "Chicago",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chicago, IL 60638, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.818627,
+            "lng": -87.624724
+          },
+          "southwest": {
+            "lat": 41.753929,
+            "lng": -87.8047879
+          }
+        },
+        "location": {
+          "lat": 41.78874829999999,
+          "lng": -87.7664934
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.818627,
+            "lng": -87.7414639
+          },
+          "southwest": {
+            "lat": 41.753929,
+            "lng": -87.8047879
+          }
+        }
+      },
+      "place_id": "ChIJOd2mTCkxDogRJ0WRi1FA1bw",
+      "postcode_localities": [
+        "Bedford Park",
+        "Chicago"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Stickney Township",
+          "short_name": "Stickney Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Stickney Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.829432,
+            "lng": -87.7408519
+          },
+          "southwest": {
+            "lat": 41.733432,
+            "lng": -87.802656
+          }
+        },
+        "location": {
+          "lat": 41.74896529999999,
+          "lng": -87.7664934
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.774932,
+            "lng": -87.7408519
+          },
+          "southwest": {
+            "lat": 41.733432,
+            "lng": -87.80085509999999
+          }
+        }
+      },
+      "place_id": "ChIJxZvaXOA2DogRz9h2nbTDpX8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cook County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1543239,
+            "lng": -87.52404399999999
+          },
+          "southwest": {
+            "lat": 41.46953389999999,
+            "lng": -88.2634779
+          }
+        },
+        "location": {
+          "lat": 41.7376587,
+          "lng": -87.697554
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1543239,
+            "lng": -87.52404399999999
+          },
+          "southwest": {
+            "lat": 41.46953389999999,
+            "lng": -88.2634779
+          }
+        }
+      },
+      "place_id": "ChIJdRNDZqqxD4gRPOAOIwnX2Yo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chicago Metropolitan Area",
+          "short_name": "Chicago Metropolitan Area",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chicago Metropolitan Area, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        },
+        "location": {
+          "lat": 41.7435073,
+          "lng": -88.0118473
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        }
+      },
+      "place_id": "ChIJg-CZjExEDogRNJNXmgqEe9o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

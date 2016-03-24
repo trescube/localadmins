@@ -1,0 +1,481 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-111",
+          "short_name": "101-111",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Lincoln Avenue",
+          "short_name": "Lincoln Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Arlington",
+          "short_name": "Arlington",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westfield Township",
+          "short_name": "Westfield Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bureau County",
+          "short_name": "Bureau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61312",
+          "short_name": "61312",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "101-111 Lincoln Ave, Arlington, IL 61312, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4720379,
+            "lng": -89.24734
+          },
+          "southwest": {
+            "lat": 41.470727,
+            "lng": -89.2495678
+          }
+        },
+        "location": {
+          "lat": 41.4715593,
+          "lng": -89.24816779999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4727314302915,
+            "lng": -89.24710491970849
+          },
+          "southwest": {
+            "lat": 41.4700334697085,
+            "lng": -89.2498028802915
+          }
+        }
+      },
+      "place_id": "Ei0xMDEtMTExIExpbmNvbG4gQXZlLCBBcmxpbmd0b24sIElMIDYxMzEyLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Arlington",
+          "short_name": "Arlington",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westfield Township",
+          "short_name": "Westfield Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bureau County",
+          "short_name": "Bureau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61312",
+          "short_name": "61312",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Arlington, IL 61312, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.479206,
+            "lng": -89.239589
+          },
+          "southwest": {
+            "lat": 41.466166,
+            "lng": -89.258101
+          }
+        },
+        "location": {
+          "lat": 41.4736452,
+          "lng": -89.24925309999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.479206,
+            "lng": -89.239589
+          },
+          "southwest": {
+            "lat": 41.466166,
+            "lng": -89.258101
+          }
+        }
+      },
+      "place_id": "ChIJo2mHTChwCYgRpkCoWGTlErQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Westfield Township",
+          "short_name": "Westfield Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bureau County",
+          "short_name": "Bureau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Westfield Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.495832,
+            "lng": -89.1653039
+          },
+          "southwest": {
+            "lat": 41.407761,
+            "lng": -89.2775539
+          }
+        },
+        "location": {
+          "lat": 41.458685,
+          "lng": -89.2277026
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.495832,
+            "lng": -89.1653039
+          },
+          "southwest": {
+            "lat": 41.407761,
+            "lng": -89.2775539
+          }
+        }
+      },
+      "place_id": "ChIJ4cgWkpRvCYgROaqFPx64S1c",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61312",
+          "short_name": "61312",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Arlington",
+          "short_name": "Arlington",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Arlington, IL 61312, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.509876,
+            "lng": -89.16478409999999
+          },
+          "southwest": {
+            "lat": 41.37240389999999,
+            "lng": -89.325817
+          }
+        },
+        "location": {
+          "lat": 41.458685,
+          "lng": -89.2277026
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.509876,
+            "lng": -89.16478409999999
+          },
+          "southwest": {
+            "lat": 41.37240389999999,
+            "lng": -89.325817
+          }
+        }
+      },
+      "place_id": "ChIJ-R-POFZlCYgRQWKP6Dr8iPU",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bureau County",
+          "short_name": "Bureau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bureau County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.585383,
+            "lng": -89.1637049
+          },
+          "southwest": {
+            "lat": 41.14850999999999,
+            "lng": -89.86244099999999
+          }
+        },
+        "location": {
+          "lat": 41.35991560000001,
+          "lng": -89.4742177
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.585383,
+            "lng": -89.1637049
+          },
+          "southwest": {
+            "lat": 41.14850999999999,
+            "lng": -89.86244099999999
+          }
+        }
+      },
+      "place_id": "ChIJsZxijf6DCYgRnUJLc3G2mGU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

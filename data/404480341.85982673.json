@@ -1,0 +1,401 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "127-199",
+          "short_name": "127-199",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "2nd Street West",
+          "short_name": "2nd St W",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Columbus",
+          "short_name": "Columbus",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Keller",
+          "short_name": "Keller",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Burke County",
+          "short_name": "Burke County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "58727",
+          "short_name": "58727",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "127-199 2nd St W, Columbus, ND 58727, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.8899169,
+            "lng": -102.8596759
+          },
+          "southwest": {
+            "lat": 48.8888259,
+            "lng": -102.861383
+          }
+        },
+        "location": {
+          "lat": 48.8899085,
+          "lng": -102.861075
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 48.8907203802915,
+            "lng": -102.8591804697085
+          },
+          "southwest": {
+            "lat": 48.8880224197085,
+            "lng": -102.8618784302915
+          }
+        }
+      },
+      "place_id": "EikxMjctMTk5IDJuZCBTdCBXLCBDb2x1bWJ1cywgTkQgNTg3MjcsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Keller",
+          "short_name": "Keller",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Burke County",
+          "short_name": "Burke County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Keller, ND, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.8947461,
+            "lng": -102.808135
+          },
+          "southwest": {
+            "lat": 48.8074299,
+            "lng": -102.9398541
+          }
+        },
+        "location": {
+          "lat": 48.8688029,
+          "lng": -102.8645074
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.8947461,
+            "lng": -102.808135
+          },
+          "southwest": {
+            "lat": 48.8074299,
+            "lng": -102.9398541
+          }
+        }
+      },
+      "place_id": "ChIJ34WF4FZCIFMRa0lXX5CVyqU",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "58727",
+          "short_name": "58727",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Columbus",
+          "short_name": "Columbus",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Columbus, ND 58727, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.9994309,
+            "lng": -102.6330131
+          },
+          "southwest": {
+            "lat": 48.69574,
+            "lng": -102.9613589
+          }
+        },
+        "location": {
+          "lat": 48.8582096,
+          "lng": -102.7770251
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.9994309,
+            "lng": -102.6330131
+          },
+          "southwest": {
+            "lat": 48.69574,
+            "lng": -102.9613589
+          }
+        }
+      },
+      "place_id": "ChIJXf__wBdoIFMRGghv1BPPsWk",
+      "postcode_localities": [
+        "Columbus",
+        "Larson"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Burke County",
+          "short_name": "Burke County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Burke County, ND, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.9994309,
+            "lng": -102.0211441
+          },
+          "southwest": {
+            "lat": 48.54611389999999,
+            "lng": -102.9399361
+          }
+        },
+        "location": {
+          "lat": 48.7704377,
+          "lng": -102.4633691
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.9994309,
+            "lng": -102.0211441
+          },
+          "southwest": {
+            "lat": 48.54611389999999,
+            "lng": -102.9399361
+          }
+        }
+      },
+      "place_id": "ChIJMw1Ve319IFMRq-C0xwdVVHE",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Dakota, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 49.000692,
+            "lng": -96.554491
+          },
+          "southwest": {
+            "lat": 45.9350719,
+            "lng": -104.05004
+          }
+        },
+        "location": {
+          "lat": 47.5514926,
+          "lng": -101.0020119
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.000692,
+            "lng": -96.554491
+          },
+          "southwest": {
+            "lat": 45.9350719,
+            "lng": -104.05004
+          }
+        }
+      },
+      "place_id": "ChIJY-nYVxKD11IRyc9egzmahA0",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

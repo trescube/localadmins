@@ -1,0 +1,465 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "99-101",
+          "short_name": "99-101",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Field Point Road",
+          "short_name": "Field Point Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Greenwich",
+          "short_name": "Greenwich",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fairfield County",
+          "short_name": "Fairfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06830",
+          "short_name": "06830",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "99-101 Field Point Rd, Greenwich, CT 06830, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0256576,
+            "lng": -73.62928579999999
+          },
+          "southwest": {
+            "lat": 41.0245899,
+            "lng": -73.6300938
+          }
+        },
+        "location": {
+          "lat": 41.0249382,
+          "lng": -73.62980859999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.02647273029149,
+            "lng": -73.6283408197085
+          },
+          "southwest": {
+            "lat": 41.0237747697085,
+            "lng": -73.6310387802915
+          }
+        }
+      },
+      "place_id": "Ei85OS0xMDEgRmllbGQgUG9pbnQgUmQsIEdyZWVud2ljaCwgQ1QgMDY4MzAsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Field Point rd and City Hall",
+          "short_name": "Field Point rd and City Hall",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Greenwich",
+          "short_name": "Greenwich",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fairfield County",
+          "short_name": "Fairfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06830",
+          "short_name": "06830",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Field Point rd and City Hall, Greenwich, CT 06830, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.025007,
+          "lng": -73.62965
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.02635598029149,
+            "lng": -73.6283010197085
+          },
+          "southwest": {
+            "lat": 41.0236580197085,
+            "lng": -73.63099898029151
+          }
+        }
+      },
+      "place_id": "ChIJledo-0mYwokRzqxhFMISkBA",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Greenwich",
+          "short_name": "Greenwich",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fairfield County",
+          "short_name": "Fairfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Greenwich, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1527318,
+            "lng": -73.5545582
+          },
+          "southwest": {
+            "lat": 40.98697,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.0262417,
+          "lng": -73.6281964
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1527318,
+            "lng": -73.5545582
+          },
+          "southwest": {
+            "lat": 40.98697,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJly5MDxGYwokR4jAEYCeuMQg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "06830",
+          "short_name": "06830",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Greenwich",
+          "short_name": "Greenwich",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Greenwich, CT 06830, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.099018,
+            "lng": -73.5924478
+          },
+          "southwest": {
+            "lat": 40.976689,
+            "lng": -73.660268
+          }
+        },
+        "location": {
+          "lat": 41.0670166,
+          "lng": -73.6182979
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.099018,
+            "lng": -73.5924478
+          },
+          "southwest": {
+            "lat": 40.976689,
+            "lng": -73.660268
+          }
+        }
+      },
+      "place_id": "ChIJtSb2dGuYwokRBO__5lLKj1k",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fairfield County",
+          "short_name": "Fairfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fairfield County, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.66683,
+            "lng": -73.065051
+          },
+          "southwest": {
+            "lat": 40.98697,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.2559654,
+          "lng": -73.37086959999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.66683,
+            "lng": -73.065051
+          },
+          "southwest": {
+            "lat": 40.98697,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJmeTbuDYH6IkR3xgeNvszpgg",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Connecticut, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.6032207,
+          "lng": -73.087749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJpVER8hFT5okR5XBhBVttmq4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,555 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "171",
+          "short_name": "171",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Hubbard Street",
+          "short_name": "Hubbard St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Glastonbury Center",
+          "short_name": "Glastonbury Center",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Glastonbury",
+          "short_name": "Glastonbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hartford County",
+          "short_name": "Hartford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06033",
+          "short_name": "06033",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3065",
+          "short_name": "3065",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "171 Hubbard St, Glastonbury, CT 06033, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.70191,
+          "lng": -72.60018099999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.70325898029149,
+            "lng": -72.59883201970848
+          },
+          "southwest": {
+            "lat": 41.70056101970849,
+            "lng": -72.6015299802915
+          }
+        }
+      },
+      "place_id": "ChIJq54l3-xR5okRTAnx-lUEWo8",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hubbard St and Willieb St",
+          "short_name": "Hubbard St and Willieb St",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Glastonbury Center",
+          "short_name": "Glastonbury Center",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Glastonbury",
+          "short_name": "Glastonbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hartford County",
+          "short_name": "Hartford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06033",
+          "short_name": "06033",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Hubbard St and Willieb St, Glastonbury, CT 06033, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.701786,
+          "lng": -72.599621
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.70313498029149,
+            "lng": -72.5982720197085
+          },
+          "southwest": {
+            "lat": 41.7004370197085,
+            "lng": -72.60096998029151
+          }
+        }
+      },
+      "place_id": "ChIJx-jJ3OxR5okRZ3fgB57vT2Y",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Glastonbury Center",
+          "short_name": "Glastonbury Center",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Glastonbury",
+          "short_name": "Glastonbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hartford County",
+          "short_name": "Hartford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Glastonbury Center, Glastonbury, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7281989,
+            "lng": -72.5670329
+          },
+          "southwest": {
+            "lat": 41.67549899999999,
+            "lng": -72.6269349
+          }
+        },
+        "location": {
+          "lat": 41.7009327,
+          "lng": -72.59953469999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7281989,
+            "lng": -72.5670329
+          },
+          "southwest": {
+            "lat": 41.67549899999999,
+            "lng": -72.6269349
+          }
+        }
+      },
+      "place_id": "ChIJD_zlTJNR5okRgdaFk2CA8xc",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Glastonbury",
+          "short_name": "Glastonbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hartford County",
+          "short_name": "Hartford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Glastonbury, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7455881,
+            "lng": -72.4522289
+          },
+          "southwest": {
+            "lat": 41.633299,
+            "lng": -72.6488359
+          }
+        },
+        "location": {
+          "lat": 41.6861794,
+          "lng": -72.5450779
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7455881,
+            "lng": -72.4522289
+          },
+          "southwest": {
+            "lat": 41.633299,
+            "lng": -72.6488359
+          }
+        }
+      },
+      "place_id": "ChIJx7rtFOpP5okR66g8Cb0n7I0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "06033",
+          "short_name": "06033",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Glastonbury",
+          "short_name": "Glastonbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Glastonbury, CT 06033, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7455719,
+            "lng": -72.4522289
+          },
+          "southwest": {
+            "lat": 41.6619389,
+            "lng": -72.64051479999999
+          }
+        },
+        "location": {
+          "lat": 41.7056381,
+          "lng": -72.5559746
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7455719,
+            "lng": -72.4522289
+          },
+          "southwest": {
+            "lat": 41.6619389,
+            "lng": -72.64051479999999
+          }
+        }
+      },
+      "place_id": "ChIJEeTTVEBQ5okRo8LDHp3Gn8M",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hartford County",
+          "short_name": "Hartford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hartford County, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.038854,
+            "lng": -72.40812799999999
+          },
+          "southwest": {
+            "lat": 41.5446979,
+            "lng": -73.02953699999999
+          }
+        },
+        "location": {
+          "lat": 41.7924343,
+          "lng": -72.8042797
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.038854,
+            "lng": -72.40812799999999
+          },
+          "southwest": {
+            "lat": 41.5446979,
+            "lng": -73.02953699999999
+          }
+        }
+      },
+      "place_id": "ChIJtxC3p6qs54kRIvK-2bctar0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Connecticut, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.6032207,
+          "lng": -73.087749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJpVER8hFT5okR5XBhBVttmq4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

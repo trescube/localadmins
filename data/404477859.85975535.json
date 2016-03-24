@@ -1,0 +1,383 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "10",
+          "short_name": "10",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Big Look Trail",
+          "short_name": "Big Look Trail",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Medford",
+          "short_name": "Medford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Burlington County",
+          "short_name": "Burlington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "08055",
+          "short_name": "08055",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "10 Big Look Trail, Medford, NJ 08055, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.8581999,
+          "lng": -74.80499999999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8595488802915,
+            "lng": -74.80365101970848
+          },
+          "southwest": {
+            "lat": 39.8568509197085,
+            "lng": -74.8063489802915
+          }
+        }
+      },
+      "place_id": "ChIJ75WrbscwwYkRlCAM3gA0-7Q",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Medford",
+          "short_name": "Medford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Burlington County",
+          "short_name": "Burlington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Medford, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9360579,
+            "lng": -74.7542431
+          },
+          "southwest": {
+            "lat": 39.7851501,
+            "lng": -74.8632909
+          }
+        },
+        "location": {
+          "lat": 39.86618259999999,
+          "lng": -74.8390162
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9360579,
+            "lng": -74.7542431
+          },
+          "southwest": {
+            "lat": 39.7851501,
+            "lng": -74.8632909
+          }
+        }
+      },
+      "place_id": "ChIJ1VMVp8gwwYkR4T-HvMY5R50",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "08055",
+          "short_name": "08055",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Medford",
+          "short_name": "Medford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Medford, NJ 08055, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9360579,
+            "lng": -74.64921799999999
+          },
+          "southwest": {
+            "lat": 39.7566599,
+            "lng": -74.8631171
+          }
+        },
+        "location": {
+          "lat": 39.8630611,
+          "lng": -74.8156199
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9360579,
+            "lng": -74.754367
+          },
+          "southwest": {
+            "lat": 39.774471,
+            "lng": -74.8631171
+          }
+        }
+      },
+      "place_id": "ChIJmTo--kI6wYkRX23SkHdnaaw",
+      "postcode_localities": [
+        "Medford",
+        "Medford Lakes"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Burlington County",
+          "short_name": "Burlington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Burlington County, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.184235,
+            "lng": -74.38978999999999
+          },
+          "southwest": {
+            "lat": 39.540837,
+            "lng": -75.054844
+          }
+        },
+        "location": {
+          "lat": 39.8558488,
+          "lng": -74.6868815
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.184235,
+            "lng": -74.38978999999999
+          },
+          "southwest": {
+            "lat": 39.540837,
+            "lng": -75.054844
+          }
+        }
+      },
+      "place_id": "ChIJe3N0AJddwYkRACBgX3eEhqw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Jersey, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9285589,
+            "lng": -75.5597921
+          }
+        },
+        "location": {
+          "lat": 40.0583238,
+          "lng": -74.4056612
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9286032,
+            "lng": -75.5597921
+          }
+        }
+      },
+      "place_id": "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

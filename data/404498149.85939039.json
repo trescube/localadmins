@@ -1,0 +1,528 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2",
+          "short_name": "2",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Maple Street",
+          "short_name": "N Maple St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Cleveland",
+          "short_name": "Cleveland",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hanna Township",
+          "short_name": "Hanna Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Henry County",
+          "short_name": "Henry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61241",
+          "short_name": "61241",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "2 N Maple St, Cleveland, IL 61241, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.5037052,
+            "lng": -90.3149067
+          },
+          "southwest": {
+            "lat": 41.503665,
+            "lng": -90.31742480000001
+          }
+        },
+        "location": {
+          "lat": 41.5036509,
+          "lng": -90.3174244
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.50503408029149,
+            "lng": -90.31481676970851
+          },
+          "southwest": {
+            "lat": 41.5023361197085,
+            "lng": -90.31751473029152
+          }
+        }
+      },
+      "place_id": "EiYyIE4gTWFwbGUgU3QsIENsZXZlbGFuZCwgSUwgNjEyNDEsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cleveland",
+          "short_name": "Cleveland",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Henry County",
+          "short_name": "Henry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61241",
+          "short_name": "61241",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Cleveland, IL 61241, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.51083390000001,
+            "lng": -90.3080251
+          },
+          "southwest": {
+            "lat": 41.499134,
+            "lng": -90.32333799999999
+          }
+        },
+        "location": {
+          "lat": 41.5061454,
+          "lng": -90.31484789999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.51083390000001,
+            "lng": -90.3080251
+          },
+          "southwest": {
+            "lat": 41.499134,
+            "lng": -90.32333799999999
+          }
+        }
+      },
+      "place_id": "ChIJU9z-wZ894ocRPaEmctchNIg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61241",
+          "short_name": "61241",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Colona",
+          "short_name": "Colona",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Colona, IL 61241, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.5249949,
+            "lng": -90.2410759
+          },
+          "southwest": {
+            "lat": 41.435601,
+            "lng": -90.395209
+          }
+        },
+        "location": {
+          "lat": 41.4907588,
+          "lng": -90.3465971
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.5249949,
+            "lng": -90.2410759
+          },
+          "southwest": {
+            "lat": 41.435601,
+            "lng": -90.395209
+          }
+        }
+      },
+      "place_id": "ChIJg167zBg94ocRyU60BZOFlds",
+      "postcode_localities": [
+        "Cleveland",
+        "Colona"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hanna Township",
+          "short_name": "Hanna Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Henry County",
+          "short_name": "Henry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hanna Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.53926999999999,
+            "lng": -90.2017549
+          },
+          "southwest": {
+            "lat": 41.476434,
+            "lng": -90.3189249
+          }
+        },
+        "location": {
+          "lat": 41.501023,
+          "lng": -90.2432307
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.53926999999999,
+            "lng": -90.2017549
+          },
+          "southwest": {
+            "lat": 41.476434,
+            "lng": -90.3189249
+          }
+        }
+      },
+      "place_id": "ChIJ1VoCuIkW4ocRwID9U8sPkg4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Henry County",
+          "short_name": "Henry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Henry County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.58465289999999,
+            "lng": -89.856639
+          },
+          "southwest": {
+            "lat": 41.14895509999999,
+            "lng": -90.437657
+          }
+        },
+        "location": {
+          "lat": 41.361088,
+          "lng": -90.0746767
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.58465289999999,
+            "lng": -89.856639
+          },
+          "southwest": {
+            "lat": 41.14895509999999,
+            "lng": -90.437657
+          }
+        }
+      },
+      "place_id": "ChIJPbDq2L0c4ocRx2uaeoXVEAw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Дaвенпорт-Молин-Рок-Айленд",
+          "short_name": "Дaвенпорт-Молин-Рок-Айленд",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Дaвенпорт-Молин-Рок-Айленд, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7829647,
+            "lng": -89.856754
+          },
+          "southwest": {
+            "lat": 41.0635931,
+            "lng": -91.1141859
+          }
+        },
+        "location": {
+          "lat": 41.4403733,
+          "lng": -90.4502368
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7829647,
+            "lng": -89.856754
+          },
+          "southwest": {
+            "lat": 41.0635931,
+            "lng": -91.1141859
+          }
+        }
+      },
+      "place_id": "ChIJQa18Q3Qv4ocR3QZj7PkpOt0",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

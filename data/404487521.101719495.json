@@ -1,0 +1,453 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2",
+          "short_name": "2",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Fawn Drive",
+          "short_name": "Fawn Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "New Columbia",
+          "short_name": "New Columbia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "White Deer Township",
+          "short_name": "White Deer Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Union County",
+          "short_name": "Union County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "17856",
+          "short_name": "17856",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9600",
+          "short_name": "9600",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "2 Fawn Dr, New Columbia, PA 17856, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.0426,
+          "lng": -76.87629
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0439489802915,
+            "lng": -76.8749410197085
+          },
+          "southwest": {
+            "lat": 41.0412510197085,
+            "lng": -76.87763898029151
+          }
+        }
+      },
+      "place_id": "ChIJvUl3aKkNz4kRllPDHVBktcU",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "White Deer Township",
+          "short_name": "White Deer Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Union County",
+          "short_name": "Union County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "White Deer Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.090923,
+            "lng": -76.856168
+          },
+          "southwest": {
+            "lat": 41.018726,
+            "lng": -77.061909
+          }
+        },
+        "location": {
+          "lat": 41.0470861,
+          "lng": -76.9527836
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.090923,
+            "lng": -76.856168
+          },
+          "southwest": {
+            "lat": 41.018726,
+            "lng": -77.061909
+          }
+        }
+      },
+      "place_id": "ChIJeUpYj1YOz4kRNn9XVsZFmC0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "17856",
+          "short_name": "17856",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "New Columbia",
+          "short_name": "New Columbia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Columbia, PA 17856, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1006379,
+            "lng": -76.8537049
+          },
+          "southwest": {
+            "lat": 41.018704,
+            "lng": -77.084507
+          }
+        },
+        "location": {
+          "lat": 41.0470861,
+          "lng": -76.9527836
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1006379,
+            "lng": -76.8537049
+          },
+          "southwest": {
+            "lat": 41.018704,
+            "lng": -77.084507
+          }
+        }
+      },
+      "place_id": "ChIJXYowIyAPz4kREA_D6u7CVMU",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lewisburg",
+          "short_name": "Lewisburg",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lewisburg, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.148784,
+            "lng": -76.80018989999999
+          },
+          "southwest": {
+            "lat": 40.8073339,
+            "lng": -77.36349
+          }
+        },
+        "location": {
+          "lat": 40.9894888,
+          "lng": -77.0564464
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.148784,
+            "lng": -76.80018989999999
+          },
+          "southwest": {
+            "lat": 40.8073339,
+            "lng": -77.36349
+          }
+        }
+      },
+      "place_id": "ChIJp9NgKswbz4kR8sIxk0O2J3c",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Union County",
+          "short_name": "Union County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Union County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.148801,
+            "lng": -76.80024209999999
+          },
+          "southwest": {
+            "lat": 40.8073339,
+            "lng": -77.3641798
+          }
+        },
+        "location": {
+          "lat": 40.9894888,
+          "lng": -77.0564464
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.148801,
+            "lng": -76.80024209999999
+          },
+          "southwest": {
+            "lat": 40.8073339,
+            "lng": -77.3641798
+          }
+        }
+      },
+      "place_id": "ChIJhaFiTzz8zokR95mBSyWHYhk",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

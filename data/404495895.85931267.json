@@ -1,0 +1,582 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "44",
+          "short_name": "44",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Lake Street",
+          "short_name": "Lake St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Coventry Lake",
+          "short_name": "Coventry Lake",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coventry",
+          "short_name": "Coventry",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tolland County",
+          "short_name": "Tolland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06238",
+          "short_name": "06238",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3104",
+          "short_name": "3104",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "44 Lake St, Coventry, CT 06238, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7697204,
+            "lng": -72.3061515
+          },
+          "southwest": {
+            "lat": 41.7693989,
+            "lng": -72.30689869999999
+          }
+        },
+        "location": {
+          "lat": 41.7695596,
+          "lng": -72.3065251
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.77090863029151,
+            "lng": -72.30517611970849
+          },
+          "southwest": {
+            "lat": 41.76821066970851,
+            "lng": -72.30787408029151
+          }
+        }
+      },
+      "place_id": "ChIJsUALxUFg5okRXbpvlFFyXh8",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "15",
+          "short_name": "15",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Woodland Road",
+          "short_name": "Woodland Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Coventry Lake",
+          "short_name": "Coventry Lake",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coventry",
+          "short_name": "Coventry",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tolland County",
+          "short_name": "Tolland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06238",
+          "short_name": "06238",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2334",
+          "short_name": "2334",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "15 Woodland Rd, Coventry, CT 06238, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.770058,
+          "lng": -72.30785399999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.77140698029149,
+            "lng": -72.30650501970848
+          },
+          "southwest": {
+            "lat": 41.7687090197085,
+            "lng": -72.3092029802915
+          }
+        }
+      },
+      "place_id": "ChIJz13De2pg5okRPR9yIOqzL8U",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Coventry Lake",
+          "short_name": "Coventry Lake",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coventry",
+          "short_name": "Coventry",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tolland County",
+          "short_name": "Tolland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06238",
+          "short_name": "06238",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Coventry Lake, Coventry, CT 06238, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.790551,
+            "lng": -72.30506989999999
+          },
+          "southwest": {
+            "lat": 41.757334,
+            "lng": -72.35161099999999
+          }
+        },
+        "location": {
+          "lat": 41.77105299999999,
+          "lng": -72.335309
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.790551,
+            "lng": -72.30506989999999
+          },
+          "southwest": {
+            "lat": 41.757334,
+            "lng": -72.35161099999999
+          }
+        }
+      },
+      "place_id": "ChIJAw-q4dhf5okRMKPLJFUUvWg",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Coventry",
+          "short_name": "Coventry",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tolland County",
+          "short_name": "Tolland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Coventry, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.83779699999999,
+            "lng": -72.246596
+          },
+          "southwest": {
+            "lat": 41.717593,
+            "lng": -72.421527
+          }
+        },
+        "location": {
+          "lat": 41.78468,
+          "lng": -72.3393021
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.83779699999999,
+            "lng": -72.246596
+          },
+          "southwest": {
+            "lat": 41.717593,
+            "lng": -72.421527
+          }
+        }
+      },
+      "place_id": "ChIJxf7Jaqdf5okR56qGSfr7DMs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "06238",
+          "short_name": "06238",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Coventry",
+          "short_name": "Coventry",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Coventry, CT 06238, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.83757689999999,
+            "lng": -72.24626289999999
+          },
+          "southwest": {
+            "lat": 41.717571,
+            "lng": -72.421527
+          }
+        },
+        "location": {
+          "lat": 41.7727979,
+          "lng": -72.3074326
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.83757689999999,
+            "lng": -72.24626289999999
+          },
+          "southwest": {
+            "lat": 41.717571,
+            "lng": -72.421527
+          }
+        }
+      },
+      "place_id": "ChIJqd678uBf5okRXsTzIqXBMwg",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tolland County",
+          "short_name": "Tolland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Tolland County, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.034141,
+            "lng": -72.099229
+          },
+          "southwest": {
+            "lat": 41.5889,
+            "lng": -72.51832999999999
+          }
+        },
+        "location": {
+          "lat": 41.8418987,
+          "lng": -72.37846789999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.034141,
+            "lng": -72.099229
+          },
+          "southwest": {
+            "lat": 41.5889,
+            "lng": -72.51832999999999
+          }
+        }
+      },
+      "place_id": "ChIJj-lvZQli5okRGCuGRd6xKt0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Connecticut, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.6032207,
+          "lng": -73.087749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJpVER8hFT5okR5XBhBVttmq4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

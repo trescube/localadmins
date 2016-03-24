@@ -1,0 +1,544 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "13-23",
+          "short_name": "13-23",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Detroiter Road",
+          "short_name": "Detroiter Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Schuylkill Haven",
+          "short_name": "Schuylkill Haven",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Manheim Township",
+          "short_name": "North Manheim Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuylkill County",
+          "short_name": "Schuylkill County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "17972",
+          "short_name": "17972",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8643",
+          "short_name": "8643",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "13-23 Detroiter Rd, Schuylkill Haven, PA 17972, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6501892,
+            "lng": -76.1483384
+          },
+          "southwest": {
+            "lat": 40.6495019,
+            "lng": -76.14854179999999
+          }
+        },
+        "location": {
+          "lat": 40.6496713,
+          "lng": -76.1484078
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6511945302915,
+            "lng": -76.14709111970849
+          },
+          "southwest": {
+            "lat": 40.64849656970851,
+            "lng": -76.1497890802915
+          }
+        }
+      },
+      "place_id": "EjMxMy0yMyBEZXRyb2l0ZXIgUmQsIFNjaHV5bGtpbGwgSGF2ZW4sIFBBIDE3OTcyLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Renningers",
+          "short_name": "Renningers",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Manheim Township",
+          "short_name": "North Manheim Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuylkill County",
+          "short_name": "Schuylkill County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Renningers, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6575149,
+            "lng": -76.132702
+          },
+          "southwest": {
+            "lat": 40.640929,
+            "lng": -76.163073
+          }
+        },
+        "location": {
+          "lat": 40.6500907,
+          "lng": -76.14827439999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6575149,
+            "lng": -76.132702
+          },
+          "southwest": {
+            "lat": 40.640929,
+            "lng": -76.163073
+          }
+        }
+      },
+      "place_id": "ChIJ11tmkhvpxYkRWU9BlKolpEE",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Manheim Township",
+          "short_name": "North Manheim Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuylkill County",
+          "short_name": "Schuylkill County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Manheim Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.695847,
+            "lng": -76.1047869
+          },
+          "southwest": {
+            "lat": 40.607095,
+            "lng": -76.2337428
+          }
+        },
+        "location": {
+          "lat": 40.6560201,
+          "lng": -76.16678069999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.695847,
+            "lng": -76.1047869
+          },
+          "southwest": {
+            "lat": 40.607095,
+            "lng": -76.2337428
+          }
+        }
+      },
+      "place_id": "ChIJK2ElVi_pxYkRy4oGJk8VsBQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "17972",
+          "short_name": "17972",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Schuylkill Haven",
+          "short_name": "Schuylkill Haven",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Schuylkill Haven, PA 17972, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.692253,
+            "lng": -76.1051
+          },
+          "southwest": {
+            "lat": 40.5205289,
+            "lng": -76.3175931
+          }
+        },
+        "location": {
+          "lat": 40.60702089999999,
+          "lng": -76.20080999999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.692253,
+            "lng": -76.1051
+          },
+          "southwest": {
+            "lat": 40.5205289,
+            "lng": -76.3175931
+          }
+        }
+      },
+      "place_id": "ChIJ9fmtM5DlxYkRkI8l1q8QM8Q",
+      "postcode_localities": [
+        "Landingville",
+        "Schuylkill Haven"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pottsville",
+          "short_name": "Pottsville",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pottsville, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9497399,
+            "lng": -75.7577611
+          },
+          "southwest": {
+            "lat": 40.495572,
+            "lng": -76.7014849
+          }
+        },
+        "location": {
+          "lat": 40.6873058,
+          "lng": -76.17837390000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9497399,
+            "lng": -75.7577611
+          },
+          "southwest": {
+            "lat": 40.495572,
+            "lng": -76.7014849
+          }
+        }
+      },
+      "place_id": "ChIJ1QQXITHsxYkRy8JznRSxmfY",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Schuylkill County",
+          "short_name": "Schuylkill County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Schuylkill County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9497399,
+            "lng": -75.7577611
+          },
+          "southwest": {
+            "lat": 40.495434,
+            "lng": -76.7015459
+          }
+        },
+        "location": {
+          "lat": 40.6873058,
+          "lng": -76.17837390000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9497399,
+            "lng": -75.7577611
+          },
+          "southwest": {
+            "lat": 40.495434,
+            "lng": -76.7015459
+          }
+        }
+      },
+      "place_id": "ChIJ7Wj6403lxYkRMXYTV48IeO0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

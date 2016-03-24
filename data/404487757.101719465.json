@@ -1,0 +1,498 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "201",
+          "short_name": "201",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Ross Avenue",
+          "short_name": "Ross Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "New Cumberland",
+          "short_name": "New Cumberland",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fairview Township",
+          "short_name": "Fairview Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "York County",
+          "short_name": "York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "17070",
+          "short_name": "17070",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2649",
+          "short_name": "2649",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "201 Ross Ave, New Cumberland, PA 17070, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.2233398,
+            "lng": -76.8560018
+          },
+          "southwest": {
+            "lat": 40.2228479,
+            "lng": -76.8566666
+          }
+        },
+        "location": {
+          "lat": 40.2230938,
+          "lng": -76.85633419999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.22444283029149,
+            "lng": -76.8549852197085
+          },
+          "southwest": {
+            "lat": 40.22174486970849,
+            "lng": -76.85768318029152
+          }
+        }
+      },
+      "place_id": "ChIJT3w0aDnAyIkRxMonr5JDU8Y",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lenox Road",
+          "short_name": "Lenox Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "New Cumberland",
+          "short_name": "New Cumberland",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fairview Township",
+          "short_name": "Fairview Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "York County",
+          "short_name": "York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "17070",
+          "short_name": "17070",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Lenox Rd, New Cumberland, PA 17070, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.2235289,
+            "lng": -76.85575949999999
+          },
+          "southwest": {
+            "lat": 40.222993,
+            "lng": -76.8559582
+          }
+        },
+        "location": {
+          "lat": 40.2232608,
+          "lng": -76.855858
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 40.2246099302915,
+            "lng": -76.8545098697085
+          },
+          "southwest": {
+            "lat": 40.2219119697085,
+            "lng": -76.8572078302915
+          }
+        }
+      },
+      "place_id": "ChIJ7-OzRjnAyIkRD4xsaC9bDqA",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "17070",
+          "short_name": "17070",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "New Cumberland",
+          "short_name": "New Cumberland",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Cumberland, PA 17070, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.250685,
+            "lng": -76.8008871
+          },
+          "southwest": {
+            "lat": 40.1705161,
+            "lng": -76.931817
+          }
+        },
+        "location": {
+          "lat": 40.1976672,
+          "lng": -76.860565
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.250685,
+            "lng": -76.8008871
+          },
+          "southwest": {
+            "lat": 40.1705161,
+            "lng": -76.931817
+          }
+        }
+      },
+      "place_id": "ChIJXVoSFSrAyIkRkCPNLtkNs14",
+      "postcode_localities": [
+        "NEW CUMBERLND",
+        "New Cumberland"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fairview Township",
+          "short_name": "Fairview Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "York County",
+          "short_name": "York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fairview Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.226244,
+            "lng": -76.76417099999999
+          },
+          "southwest": {
+            "lat": 40.111789,
+            "lng": -76.9316149
+          }
+        },
+        "location": {
+          "lat": 40.1775496,
+          "lng": -76.860565
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.226244,
+            "lng": -76.76417099999999
+          },
+          "southwest": {
+            "lat": 40.111789,
+            "lng": -76.9316149
+          }
+        }
+      },
+      "place_id": "ChIJn4LYNt7qyIkRLQ5VJcP3HLs",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "York County",
+          "short_name": "York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "York County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.226244,
+            "lng": -76.2403266
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -77.1374248
+          }
+        },
+        "location": {
+          "lat": 39.9512496,
+          "lng": -76.7336521
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.226244,
+            "lng": -76.2403266
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -77.1374248
+          }
+        }
+      },
+      "place_id": "ChIJ0d0uysfzyIkRfznnnLSl6k8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

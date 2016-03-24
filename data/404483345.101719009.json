@@ -1,0 +1,446 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "143",
+          "short_name": "143",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Dagus Mines Road",
+          "short_name": "Dagus Mines Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Kersey",
+          "short_name": "Kersey",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fox Township",
+          "short_name": "Fox Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Elk County",
+          "short_name": "Elk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "15846",
+          "short_name": "15846",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "143 Dagus Mines Rd, Kersey, PA 15846, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.357027,
+          "lng": -78.60987
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3583759802915,
+            "lng": -78.6085210197085
+          },
+          "southwest": {
+            "lat": 41.3556780197085,
+            "lng": -78.61121898029151
+          }
+        }
+      },
+      "place_id": "ChIJ60qwQyqrzYkRKdbxZkeQd54",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fox Township",
+          "short_name": "Fox Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Elk County",
+          "short_name": "Elk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fox Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3969381,
+            "lng": -78.533977
+          },
+          "southwest": {
+            "lat": 41.2475479,
+            "lng": -78.6797
+          }
+        },
+        "location": {
+          "lat": 41.3142844,
+          "lng": -78.6114999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3969381,
+            "lng": -78.533977
+          },
+          "southwest": {
+            "lat": 41.2475479,
+            "lng": -78.6797
+          }
+        }
+      },
+      "place_id": "ChIJfee8lvxUzIkRNO8sDpNMYv0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "15846",
+          "short_name": "15846",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Kersey",
+          "short_name": "Kersey",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kersey, PA 15846, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.421549,
+            "lng": -78.420008
+          },
+          "southwest": {
+            "lat": 41.2514309,
+            "lng": -78.686159
+          }
+        },
+        "location": {
+          "lat": 41.3363597,
+          "lng": -78.6341996
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.421549,
+            "lng": -78.420008
+          },
+          "southwest": {
+            "lat": 41.2514309,
+            "lng": -78.686159
+          }
+        }
+      },
+      "place_id": "ChIJrTLDuuRUzIkR_nK1Ewgm0KI",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Elk County",
+          "short_name": "Elk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Elk County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6298981,
+            "lng": -78.2349309
+          },
+          "southwest": {
+            "lat": 41.201859,
+            "lng": -79.0951828
+          }
+        },
+        "location": {
+          "lat": 41.4284924,
+          "lng": -78.5660852
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6298981,
+            "lng": -78.2349309
+          },
+          "southwest": {
+            "lat": 41.201859,
+            "lng": -79.0951828
+          }
+        }
+      },
+      "place_id": "ChIJc3Z7NJQfzYkRFW7yim4li9c",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Marys",
+          "short_name": "St. Marys",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Marys, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6298981,
+            "lng": -78.2349309
+          },
+          "southwest": {
+            "lat": 41.201859,
+            "lng": -79.095184
+          }
+        },
+        "location": {
+          "lat": 41.4284924,
+          "lng": -78.5660852
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6298981,
+            "lng": -78.2349309
+          },
+          "southwest": {
+            "lat": 41.201859,
+            "lng": -79.095184
+          }
+        }
+      },
+      "place_id": "ChIJNRJGDg-qzYkRdSsVudz6WFg",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

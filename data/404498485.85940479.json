@@ -1,0 +1,541 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-198",
+          "short_name": "100-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Main Street",
+          "short_name": "W Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Dawson",
+          "short_name": "Dawson",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mechanicsburg Township",
+          "short_name": "Mechanicsburg Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sangamon County",
+          "short_name": "Sangamon County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62520",
+          "short_name": "62520",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "100-198 W Main St, Dawson, IL 62520, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.85333139999999,
+            "lng": -89.4621131
+          },
+          "southwest": {
+            "lat": 39.8533188,
+            "lng": -89.4633887
+          }
+        },
+        "location": {
+          "lat": 39.8533405,
+          "lng": -89.46265509999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8546740802915,
+            "lng": -89.46140191970849
+          },
+          "southwest": {
+            "lat": 39.8519761197085,
+            "lng": -89.4640998802915
+          }
+        }
+      },
+      "place_id": "EigxMDAtMTk4IFcgTWFpbiBTdCwgRGF3c29uLCBJTCA2MjUyMCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Dawson",
+          "short_name": "Dawson",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mechanicsburg Township",
+          "short_name": "Mechanicsburg Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sangamon County",
+          "short_name": "Sangamon County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dawson, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.86087,
+            "lng": -89.45392509999999
+          },
+          "southwest": {
+            "lat": 39.8461329,
+            "lng": -89.47297999999999
+          }
+        },
+        "location": {
+          "lat": 39.8528262,
+          "lng": -89.4634279
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.86087,
+            "lng": -89.45392509999999
+          },
+          "southwest": {
+            "lat": 39.8461329,
+            "lng": -89.47297999999999
+          }
+        }
+      },
+      "place_id": "ChIJRYojGtcodYgRtl3DwYkj0gA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62520",
+          "short_name": "62520",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Dawson",
+          "short_name": "Dawson",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sangamon County",
+          "short_name": "Sangamon County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dawson, IL 62520, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8681839,
+            "lng": -89.4058951
+          },
+          "southwest": {
+            "lat": 39.7632459,
+            "lng": -89.5205759
+          }
+        },
+        "location": {
+          "lat": 39.8258122,
+          "lng": -89.46476439999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8681839,
+            "lng": -89.4058951
+          },
+          "southwest": {
+            "lat": 39.7632459,
+            "lng": -89.5205759
+          }
+        }
+      },
+      "place_id": "ChIJOzBI-J4odYgRGONkxHa8zNM",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mechanicsburg Township",
+          "short_name": "Mechanicsburg Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sangamon County",
+          "short_name": "Sangamon County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mechanicsburg Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8749369,
+            "lng": -89.3677079
+          },
+          "southwest": {
+            "lat": 39.787431,
+            "lng": -89.483115
+          }
+        },
+        "location": {
+          "lat": 39.8358769,
+          "lng": -89.41746409999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8749369,
+            "lng": -89.3677079
+          },
+          "southwest": {
+            "lat": 39.787431,
+            "lng": -89.483115
+          }
+        }
+      },
+      "place_id": "ChIJi8AcyWgodYgRWalgcWYck4k",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sangamon County",
+          "short_name": "Sangamon County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sangamon County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9767359,
+            "lng": -89.2173739
+          },
+          "southwest": {
+            "lat": 39.522052,
+            "lng": -89.994524
+          }
+        },
+        "location": {
+          "lat": 39.7337353,
+          "lng": -89.62516459999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9767359,
+            "lng": -89.2173739
+          },
+          "southwest": {
+            "lat": 39.522052,
+            "lng": -89.994524
+          }
+        }
+      },
+      "place_id": "ChIJjQBm7XBqdYgRe4_c2pUEMSQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Springfield",
+          "short_name": "Springfield",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Springfield, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.1606629,
+            "lng": -89.2173739
+          },
+          "southwest": {
+            "lat": 39.520502,
+            "lng": -89.9950279
+          }
+        },
+        "location": {
+          "lat": 39.898831,
+          "lng": -89.77553379999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.1606629,
+            "lng": -89.2173739
+          },
+          "southwest": {
+            "lat": 39.520502,
+            "lng": -89.9950279
+          }
+        }
+      },
+      "place_id": "ChIJqR95n-M3dYgRcyivJOibk30",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

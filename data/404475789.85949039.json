@@ -1,0 +1,575 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "3-5",
+          "short_name": "3-5",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "York Street",
+          "short_name": "York St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Kennebunk",
+          "short_name": "Kennebunk",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kennebunk",
+          "short_name": "Kennebunk",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kennebunk",
+          "short_name": "Kennebunk",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "York County",
+          "short_name": "York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "04043",
+          "short_name": "04043",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "3-5 York St, Kennebunk, ME 04043, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.3844301,
+            "lng": -70.5438059
+          },
+          "southwest": {
+            "lat": 43.3836895,
+            "lng": -70.54447549999999
+          }
+        },
+        "location": {
+          "lat": 43.3841016,
+          "lng": -70.54415329999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 43.38540878029149,
+            "lng": -70.54279171970849
+          },
+          "southwest": {
+            "lat": 43.38271081970849,
+            "lng": -70.5454896802915
+          }
+        }
+      },
+      "place_id": "EiUzLTUgWW9yayBTdCwgS2VubmVidW5rLCBNRSAwNDA0MywgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kennebunk",
+          "short_name": "Kennebunk",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kennebunk",
+          "short_name": "Kennebunk",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kennebunk",
+          "short_name": "Kennebunk",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "York County",
+          "short_name": "York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kennebunk, Kennebunk, ME, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.4063329,
+            "lng": -70.50524
+          },
+          "southwest": {
+            "lat": 43.3595429,
+            "lng": -70.578339
+          }
+        },
+        "location": {
+          "lat": 43.38397399999999,
+          "lng": -70.5447751
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.4063329,
+            "lng": -70.50524
+          },
+          "southwest": {
+            "lat": 43.3595429,
+            "lng": -70.578339
+          }
+        }
+      },
+      "place_id": "ChIJF810kdmtskwRdjB6nBZ69Po",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kennebunk",
+          "short_name": "Kennebunk",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kennebunk",
+          "short_name": "Kennebunk",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "York County",
+          "short_name": "York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kennebunk, ME, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.458036,
+            "lng": -70.4743871
+          },
+          "southwest": {
+            "lat": 43.33491490000001,
+            "lng": -70.6701559
+          }
+        },
+        "location": {
+          "lat": 43.3845306,
+          "lng": -70.54399
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.458036,
+            "lng": -70.4743871
+          },
+          "southwest": {
+            "lat": 43.33491490000001,
+            "lng": -70.6701559
+          }
+        }
+      },
+      "place_id": "ChIJGQOOfACuskwRXN6OSUk-DxI",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kennebunk",
+          "short_name": "Kennebunk",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "York County",
+          "short_name": "York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kennebunk, ME, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.458036,
+            "lng": -70.4743871
+          },
+          "southwest": {
+            "lat": 43.33491490000001,
+            "lng": -70.6701559
+          }
+        },
+        "location": {
+          "lat": 43.417317,
+          "lng": -70.58702100000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.458036,
+            "lng": -70.4743871
+          },
+          "southwest": {
+            "lat": 43.33491490000001,
+            "lng": -70.6701559
+          }
+        }
+      },
+      "place_id": "ChIJW8RhZ_itskwREEP67zjodVA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "04043",
+          "short_name": "04043",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Kennebunk",
+          "short_name": "Kennebunk",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "York County",
+          "short_name": "York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kennebunk, ME 04043, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.45854689999999,
+            "lng": -70.472385
+          },
+          "southwest": {
+            "lat": 43.335107,
+            "lng": -70.67010189999999
+          }
+        },
+        "location": {
+          "lat": 43.417317,
+          "lng": -70.58702100000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.45854689999999,
+            "lng": -70.472385
+          },
+          "southwest": {
+            "lat": 43.335107,
+            "lng": -70.67010189999999
+          }
+        }
+      },
+      "place_id": "ChIJW0EAWgCuskwRXHjd2ATWBzk",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "York County",
+          "short_name": "York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "York County, ME, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.8141899,
+            "lng": -70.30737719999999
+          },
+          "southwest": {
+            "lat": 42.9747049,
+            "lng": -70.9890669
+          }
+        },
+        "location": {
+          "lat": 43.4132697,
+          "lng": -70.6702521
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.8141899,
+            "lng": -70.30737719999999
+          },
+          "southwest": {
+            "lat": 42.9747049,
+            "lng": -70.9890669
+          }
+        }
+      },
+      "place_id": "ChIJiT2Nwn2yskwRaplto06yC0U",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Maine, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.4596734,
+            "lng": -66.94539720000002
+          },
+          "southwest": {
+            "lat": 42.9747049,
+            "lng": -71.08433409999999
+          }
+        },
+        "location": {
+          "lat": 45.253783,
+          "lng": -69.4454689
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.4596734,
+            "lng": -66.94539720000002
+          },
+          "southwest": {
+            "lat": 42.9747049,
+            "lng": -71.08433409999999
+          }
+        }
+      },
+      "place_id": "ChIJ1YpTHd4dsEwR0KggZ2_MedY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

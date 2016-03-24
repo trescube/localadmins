@@ -1,0 +1,481 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "250-298",
+          "short_name": "250-298",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Oak Street",
+          "short_name": "E Oak St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Allendale",
+          "short_name": "Allendale",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wabash Precinct",
+          "short_name": "Wabash Precinct",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wabash County",
+          "short_name": "Wabash County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62410",
+          "short_name": "62410",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "250-298 E Oak St, Allendale, IL 62410, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.527991,
+            "lng": -87.70944159999999
+          },
+          "southwest": {
+            "lat": 38.52775889999999,
+            "lng": -87.7101046
+          }
+        },
+        "location": {
+          "lat": 38.5279626,
+          "lng": -87.71006779999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5292239302915,
+            "lng": -87.70842411970848
+          },
+          "southwest": {
+            "lat": 38.5265259697085,
+            "lng": -87.7111220802915
+          }
+        }
+      },
+      "place_id": "EioyNTAtMjk4IEUgT2FrIFN0LCBBbGxlbmRhbGUsIElMIDYyNDEwLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Allendale",
+          "short_name": "Allendale",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wabash Precinct",
+          "short_name": "Wabash Precinct",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wabash County",
+          "short_name": "Wabash County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62410",
+          "short_name": "62410",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Allendale, IL 62410, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.531365,
+            "lng": -87.703439
+          },
+          "southwest": {
+            "lat": 38.5237119,
+            "lng": -87.715807
+          }
+        },
+        "location": {
+          "lat": 38.52671429999999,
+          "lng": -87.7097495
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.531365,
+            "lng": -87.703439
+          },
+          "southwest": {
+            "lat": 38.5237119,
+            "lng": -87.715807
+          }
+        }
+      },
+      "place_id": "ChIJw2CDCL3wcYgRZQCcvAhzymQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wabash Precinct",
+          "short_name": "Wabash Precinct",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wabash County",
+          "short_name": "Wabash County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wabash Precinct, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.5689369,
+            "lng": -87.645118
+          },
+          "southwest": {
+            "lat": 38.465932,
+            "lng": -87.7707509
+          }
+        },
+        "location": {
+          "lat": 38.525873,
+          "lng": -87.7172616
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5689369,
+            "lng": -87.645118
+          },
+          "southwest": {
+            "lat": 38.465932,
+            "lng": -87.7707509
+          }
+        }
+      },
+      "place_id": "ChIJJ2_UlpDwcYgRTFM0LfJgRJ4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62410",
+          "short_name": "62410",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Allendale",
+          "short_name": "Allendale",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Allendale, IL 62410, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.5757149,
+            "lng": -87.645118
+          },
+          "southwest": {
+            "lat": 38.479491,
+            "lng": -87.7992939
+          }
+        },
+        "location": {
+          "lat": 38.525873,
+          "lng": -87.7172616
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5757149,
+            "lng": -87.645118
+          },
+          "southwest": {
+            "lat": 38.479491,
+            "lng": -87.7992939
+          }
+        }
+      },
+      "place_id": "ChIJV3CnCdrwcYgRhxfkInOQyMo",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wabash County",
+          "short_name": "Wabash County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wabash County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.5702059,
+            "lng": -87.645118
+          },
+          "southwest": {
+            "lat": 38.236297,
+            "lng": -87.9922259
+          }
+        },
+        "location": {
+          "lat": 38.4226484,
+          "lng": -87.8156715
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5702059,
+            "lng": -87.645118
+          },
+          "southwest": {
+            "lat": 38.236297,
+            "lng": -87.9922259
+          }
+        }
+      },
+      "place_id": "ChIJeS0hIFWScYgRCHIrugAzRaw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,400 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "10-20",
+          "short_name": "10-20",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Paglia Street",
+          "short_name": "Paglia St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Moultonborough",
+          "short_name": "Moultonborough",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Carroll County",
+          "short_name": "Carroll County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Hampshire",
+          "short_name": "NH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "03254",
+          "short_name": "03254",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4454",
+          "short_name": "4454",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "10-20 Paglia St, Moultonborough, NH 03254, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.7236817,
+            "lng": -71.3618388
+          },
+          "southwest": {
+            "lat": 43.7220728,
+            "lng": -71.36367779999999
+          }
+        },
+        "location": {
+          "lat": 43.7233579,
+          "lng": -71.36216879999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 43.7242262302915,
+            "lng": -71.36140931970849
+          },
+          "southwest": {
+            "lat": 43.7215282697085,
+            "lng": -71.3641072802915
+          }
+        }
+      },
+      "place_id": "Ei4xMC0yMCBQYWdsaWEgU3QsIE1vdWx0b25ib3JvdWdoLCBOSCAwMzI1NCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Moultonborough",
+          "short_name": "Moultonborough",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Carroll County",
+          "short_name": "Carroll County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Hampshire",
+          "short_name": "NH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Moultonborough, NH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.783103,
+            "lng": -71.2454649
+          },
+          "southwest": {
+            "lat": 43.6290736,
+            "lng": -71.53116419999999
+          }
+        },
+        "location": {
+          "lat": 43.7551145,
+          "lng": -71.39653059999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.783103,
+            "lng": -71.2454649
+          },
+          "southwest": {
+            "lat": 43.6290736,
+            "lng": -71.53116419999999
+          }
+        }
+      },
+      "place_id": "ChIJtX7vCxg_s0wRVnq_jrm-hHA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "03254",
+          "short_name": "03254",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Moultonborough",
+          "short_name": "Moultonborough",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Hampshire",
+          "short_name": "NH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Moultonborough, NH 03254, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.783103,
+            "lng": -71.2520289
+          },
+          "southwest": {
+            "lat": 43.616992,
+            "lng": -71.532369
+          }
+        },
+        "location": {
+          "lat": 43.7198979,
+          "lng": -71.36693029999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.783103,
+            "lng": -71.2520289
+          },
+          "southwest": {
+            "lat": 43.616992,
+            "lng": -71.532369
+          }
+        }
+      },
+      "place_id": "ChIJE63c_rY4s0wRzJI95ElYRo8",
+      "postcode_localities": [
+        "MOULTONBORO",
+        "Moultonborough"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Carroll County",
+          "short_name": "Carroll County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Hampshire",
+          "short_name": "NH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Carroll County, NH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.284761,
+            "lng": -70.9508379
+          },
+          "southwest": {
+            "lat": 43.4829809,
+            "lng": -71.564615
+          }
+        },
+        "location": {
+          "lat": 43.8128209,
+          "lng": -71.25060669999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.284761,
+            "lng": -70.9508379
+          },
+          "southwest": {
+            "lat": 43.4829809,
+            "lng": -71.564615
+          }
+        }
+      },
+      "place_id": "ChIJL4j8uf0Ss0wR-WWdErh_dF8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Hampshire",
+          "short_name": "NH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Hampshire, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.3054761,
+            "lng": -70.6026612
+          },
+          "southwest": {
+            "lat": 42.696985,
+            "lng": -72.55718499999999
+          }
+        },
+        "location": {
+          "lat": 43.1938516,
+          "lng": -71.5723953
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.3054761,
+            "lng": -70.6026612
+          },
+          "southwest": {
+            "lat": 42.696985,
+            "lng": -72.55718499999999
+          }
+        }
+      },
+      "place_id": "ChIJ66bAnUtEs0wR64CmJa8CyNc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

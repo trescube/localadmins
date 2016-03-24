@@ -1,0 +1,457 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "122",
+          "short_name": "122",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Creek Road",
+          "short_name": "Creek Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Kempton",
+          "short_name": "Kempton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Albany Township",
+          "short_name": "Albany Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Berks County",
+          "short_name": "Berks County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "19529",
+          "short_name": "19529",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9398",
+          "short_name": "9398",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "122 Creek Rd, Kempton, PA 19529, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.629762,
+          "lng": -75.856605
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6311109802915,
+            "lng": -75.85525601970849
+          },
+          "southwest": {
+            "lat": 40.6284130197085,
+            "lng": -75.8579539802915
+          }
+        }
+      },
+      "place_id": "ChIJNVrErSHPxYkR8TRIZejI1KU",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Albany Township",
+          "short_name": "Albany Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Berks County",
+          "short_name": "Berks County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Albany Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.767611
+          },
+          "southwest": {
+            "lat": 40.5928169,
+            "lng": -75.997742
+          }
+        },
+        "location": {
+          "lat": 40.6302834,
+          "lng": -75.8766333
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.767611
+          },
+          "southwest": {
+            "lat": 40.5928169,
+            "lng": -75.997742
+          }
+        }
+      },
+      "place_id": "ChIJvxBjgW7PxYkRNiP9vbYOd-E",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "19529",
+          "short_name": "19529",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Kempton",
+          "short_name": "Kempton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kempton, PA 19529, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.694121,
+            "lng": -75.723631
+          },
+          "southwest": {
+            "lat": 40.590615,
+            "lng": -75.9962329
+          }
+        },
+        "location": {
+          "lat": 40.6302834,
+          "lng": -75.8766333
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.694121,
+            "lng": -75.723631
+          },
+          "southwest": {
+            "lat": 40.590615,
+            "lng": -75.9962329
+          }
+        }
+      },
+      "place_id": "ChIJZ3OJuS3PxYkRu_W39ONFKII",
+      "postcode_localities": [
+        "Kempton",
+        "Stony Run"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Reading",
+          "short_name": "Reading",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Reading, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.5296219
+          },
+          "southwest": {
+            "lat": 40.137076,
+            "lng": -76.440181
+          }
+        },
+        "location": {
+          "lat": 40.3451566,
+          "lng": -75.9927652
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.5296219
+          },
+          "southwest": {
+            "lat": 40.137076,
+            "lng": -76.440181
+          }
+        }
+      },
+      "place_id": "ChIJsUqmgt93xokRe6bJ_oABq68",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Berks County",
+          "short_name": "Berks County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Berks County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.529623
+          },
+          "southwest": {
+            "lat": 40.1373759,
+            "lng": -76.440181
+          }
+        },
+        "location": {
+          "lat": 40.3451566,
+          "lng": -75.9927652
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.529623
+          },
+          "southwest": {
+            "lat": 40.1373759,
+            "lng": -76.440181
+          }
+        }
+      },
+      "place_id": "ChIJDeYOtrt0xokRZSWVYWC06gU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

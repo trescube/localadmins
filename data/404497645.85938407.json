@@ -1,0 +1,536 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "414",
+          "short_name": "414",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Comfort Lane",
+          "short_name": "N Comfort Ln",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Palatine",
+          "short_name": "Palatine",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Palatine Township",
+          "short_name": "Palatine Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60067",
+          "short_name": "60067",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3510",
+          "short_name": "3510",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "414 N Comfort Ln, Palatine, IL 60067, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.1180329,
+          "lng": -88.04298399999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1193818802915,
+            "lng": -88.04163501970848
+          },
+          "southwest": {
+            "lat": 42.1166839197085,
+            "lng": -88.04433298029149
+          }
+        }
+      },
+      "place_id": "ChIJY64TWvKkD4gRzf2LbnEOMvQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Palatine",
+          "short_name": "Palatine",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Palatine Township",
+          "short_name": "Palatine Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Palatine, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1538478,
+            "lng": -88.00307210000001
+          },
+          "southwest": {
+            "lat": 42.0754019,
+            "lng": -88.094972
+          }
+        },
+        "location": {
+          "lat": 42.1103041,
+          "lng": -88.03424000000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1538478,
+            "lng": -88.00307210000001
+          },
+          "southwest": {
+            "lat": 42.0754019,
+            "lng": -88.094972
+          }
+        }
+      },
+      "place_id": "ChIJVTfJvy9LDogRAHzIzKsjIYc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "60067",
+          "short_name": "60067",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Palatine",
+          "short_name": "Palatine",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Palatine, IL 60067, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.144737,
+            "lng": -88.00329889999999
+          },
+          "southwest": {
+            "lat": 42.062634,
+            "lng": -88.1071149
+          }
+        },
+        "location": {
+          "lat": 42.1112958,
+          "lng": -88.0607565
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.144737,
+            "lng": -88.024208
+          },
+          "southwest": {
+            "lat": 42.062634,
+            "lng": -88.1071149
+          }
+        }
+      },
+      "place_id": "ChIJjwZHTVekD4gRUQ7yLcsVKXY",
+      "postcode_localities": [
+        "HOFFMAN EST",
+        "Hoffman Estates",
+        "Inverness",
+        "Palatine"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Palatine Township",
+          "short_name": "Palatine Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Palatine Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.154183,
+            "lng": -88.00427189999999
+          },
+          "southwest": {
+            "lat": 42.066527,
+            "lng": -88.121788
+          }
+        },
+        "location": {
+          "lat": 42.121343,
+          "lng": -88.0705319
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.154183,
+            "lng": -88.00427189999999
+          },
+          "southwest": {
+            "lat": 42.066527,
+            "lng": -88.121788
+          }
+        }
+      },
+      "place_id": "ChIJob11xUikD4gRusItH5noKow",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cook County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1543239,
+            "lng": -87.52404399999999
+          },
+          "southwest": {
+            "lat": 41.46953389999999,
+            "lng": -88.2634779
+          }
+        },
+        "location": {
+          "lat": 41.7376587,
+          "lng": -87.697554
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1543239,
+            "lng": -87.52404399999999
+          },
+          "southwest": {
+            "lat": 41.46953389999999,
+            "lng": -88.2634779
+          }
+        }
+      },
+      "place_id": "ChIJdRNDZqqxD4gRPOAOIwnX2Yo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chicago Metropolitan Area",
+          "short_name": "Chicago Metropolitan Area",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chicago Metropolitan Area, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        },
+        "location": {
+          "lat": 41.7435073,
+          "lng": -88.0118473
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        }
+      },
+      "place_id": "ChIJg-CZjExEDogRNJNXmgqEe9o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

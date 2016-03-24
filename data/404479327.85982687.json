@@ -1,0 +1,411 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200-204",
+          "short_name": "200-204",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "2nd Avenue Northwest",
+          "short_name": "2nd Ave NW",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Harvey",
+          "short_name": "Harvey",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hagel",
+          "short_name": "Hagel",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pierce County",
+          "short_name": "Pierce County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "58341",
+          "short_name": "58341",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7309",
+          "short_name": "7309",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "200-204 2nd Ave NW, Harvey, ND 58341, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.8597642,
+            "lng": -99.8924691
+          },
+          "southwest": {
+            "lat": 47.8594602,
+            "lng": -99.89390929999999
+          }
+        },
+        "location": {
+          "lat": 47.8596242,
+          "lng": -99.89330869999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 47.8609611802915,
+            "lng": -99.89184021970848
+          },
+          "southwest": {
+            "lat": 47.8582632197085,
+            "lng": -99.89453818029149
+          }
+        }
+      },
+      "place_id": "EikyMDAtMjA0IDJuZCBBdmUgTlcsIEhhcnZleSwgTkQgNTgzNDEsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hagel",
+          "short_name": "Hagel",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pierce County",
+          "short_name": "Pierce County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hagel, ND, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.93457,
+            "lng": -99.81216599999999
+          },
+          "southwest": {
+            "lat": 47.847257,
+            "lng": -99.94085609999999
+          }
+        },
+        "location": {
+          "lat": 47.8741855,
+          "lng": -99.872464
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.93457,
+            "lng": -99.81216599999999
+          },
+          "southwest": {
+            "lat": 47.847257,
+            "lng": -99.94085609999999
+          }
+        }
+      },
+      "place_id": "ChIJv9Q3XMq421IR3jPVp2SYhCk",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "58341",
+          "short_name": "58341",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Harvey",
+          "short_name": "Harvey",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Harvey, ND 58341, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.021594,
+            "lng": -99.469065
+          },
+          "southwest": {
+            "lat": 47.544632,
+            "lng": -100.118717
+          }
+        },
+        "location": {
+          "lat": 47.7795233,
+          "lng": -99.8141654
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.021594,
+            "lng": -99.469065
+          },
+          "southwest": {
+            "lat": 47.544632,
+            "lng": -100.118717
+          }
+        }
+      },
+      "place_id": "ChIJV_4e4aGx21IRq5Ec4kx0qso",
+      "postcode_localities": [
+        "Hamberg",
+        "Harvey",
+        "Heimdal",
+        "Manfred",
+        "Selz"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pierce County",
+          "short_name": "Pierce County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pierce County, ND, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.54521099999999,
+            "lng": -99.492919
+          },
+          "southwest": {
+            "lat": 47.847257,
+            "lng": -100.2768219
+          }
+        },
+        "location": {
+          "lat": 48.0379438,
+          "lng": -100.0575335
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.54521099999999,
+            "lng": -99.492919
+          },
+          "southwest": {
+            "lat": 47.847257,
+            "lng": -100.2768219
+          }
+        }
+      },
+      "place_id": "ChIJCdVe7jDz21IRQXkvcQFcZYY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Dakota, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 49.000692,
+            "lng": -96.554491
+          },
+          "southwest": {
+            "lat": 45.9350719,
+            "lng": -104.05004
+          }
+        },
+        "location": {
+          "lat": 47.5514926,
+          "lng": -101.0020119
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.000692,
+            "lng": -96.554491
+          },
+          "southwest": {
+            "lat": 45.9350719,
+            "lng": -104.05004
+          }
+        }
+      },
+      "place_id": "ChIJY-nYVxKD11IRyc9egzmahA0",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

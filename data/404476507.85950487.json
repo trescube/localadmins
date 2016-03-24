@@ -1,0 +1,589 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "99",
+          "short_name": "99",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Pill Hill Lane",
+          "short_name": "Pill Hill Ln",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "South Duxbury",
+          "short_name": "South Duxbury",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Duxbury",
+          "short_name": "Duxbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Duxbury",
+          "short_name": "Duxbury",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Plymouth County",
+          "short_name": "Plymouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "02332",
+          "short_name": "02332",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5007",
+          "short_name": "5007",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "99 Pill Hill Ln, Duxbury, MA 02332, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0182739,
+            "lng": -70.69115099999999
+          },
+          "southwest": {
+            "lat": 42.01649500000001,
+            "lng": -70.6929349
+          }
+        },
+        "location": {
+          "lat": 42.01649949999999,
+          "lng": -70.6911332
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0187334302915,
+            "lng": -70.69069396970849
+          },
+          "southwest": {
+            "lat": 42.01603546970851,
+            "lng": -70.6933919302915
+          }
+        }
+      },
+      "place_id": "Eic5OSBQaWxsIEhpbGwgTG4sIER1eGJ1cnksIE1BIDAyMzMyLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "South Duxbury",
+          "short_name": "South Duxbury",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Duxbury",
+          "short_name": "Duxbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Duxbury",
+          "short_name": "Duxbury",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Plymouth County",
+          "short_name": "Plymouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "02332",
+          "short_name": "02332",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "South Duxbury, Duxbury, MA 02332, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.035342,
+            "lng": -70.663427
+          },
+          "southwest": {
+            "lat": 42.00022999999999,
+            "lng": -70.7155678
+          }
+        },
+        "location": {
+          "lat": 42.0231585,
+          "lng": -70.68281449999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.035342,
+            "lng": -70.663427
+          },
+          "southwest": {
+            "lat": 42.00022999999999,
+            "lng": -70.7155678
+          }
+        }
+      },
+      "place_id": "ChIJ4ZVKevOk5IkRmZDMJVZwgSM",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Duxbury",
+          "short_name": "Duxbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Duxbury",
+          "short_name": "Duxbury",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Plymouth County",
+          "short_name": "Plymouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Duxbury, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0973028,
+            "lng": -70.60903979999999
+          },
+          "southwest": {
+            "lat": 42.0031515,
+            "lng": -70.7811009
+          }
+        },
+        "location": {
+          "lat": 42.0417525,
+          "lng": -70.6722767
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0973028,
+            "lng": -70.60903979999999
+          },
+          "southwest": {
+            "lat": 42.0031515,
+            "lng": -70.7811009
+          }
+        }
+      },
+      "place_id": "ChIJdQLydD-k5IkRA7TbEqD32TQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Duxbury",
+          "short_name": "Duxbury",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Plymouth County",
+          "short_name": "Plymouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Duxbury, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0973028,
+            "lng": -70.60903979999999
+          },
+          "southwest": {
+            "lat": 42.0031515,
+            "lng": -70.7811009
+          }
+        },
+        "location": {
+          "lat": 42.0342172,
+          "lng": -70.70495199999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0973028,
+            "lng": -70.60903979999999
+          },
+          "southwest": {
+            "lat": 42.0031515,
+            "lng": -70.7811009
+          }
+        }
+      },
+      "place_id": "ChIJE5Qmj-2j5IkRE1RltYhU1NY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "02332",
+          "short_name": "02332",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Duxbury",
+          "short_name": "Duxbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Plymouth County",
+          "short_name": "Plymouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Duxbury, MA 02332, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0997569,
+            "lng": -70.596953
+          },
+          "southwest": {
+            "lat": 41.979646,
+            "lng": -70.78144499999999
+          }
+        },
+        "location": {
+          "lat": 42.0342172,
+          "lng": -70.70495199999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0997569,
+            "lng": -70.596953
+          },
+          "southwest": {
+            "lat": 41.979646,
+            "lng": -70.78144499999999
+          }
+        }
+      },
+      "place_id": "ChIJ2WJf0j2k5IkRJLkYo-_VRHE",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Plymouth County",
+          "short_name": "Plymouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Plymouth County, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.3666882,
+            "lng": -70.52557689999999
+          },
+          "southwest": {
+            "lat": 41.6151192,
+            "lng": -71.0803628
+          }
+        },
+        "location": {
+          "lat": 41.9120406,
+          "lng": -70.7168469
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.3666882,
+            "lng": -70.52557689999999
+          },
+          "southwest": {
+            "lat": 41.6151192,
+            "lng": -71.0803628
+          }
+        }
+      },
+      "place_id": "ChIJgZI3cb8O5IkRWOr57wXcX00",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Massachusetts, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390448,
+            "lng": -73.5081419
+          }
+        },
+        "location": {
+          "lat": 42.4072107,
+          "lng": -71.3824374
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390737,
+            "lng": -73.5081419
+          }
+        }
+      },
+      "place_id": "ChIJ_b9z6W1l44kRHA2DVTbQxkU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

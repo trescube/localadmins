@@ -1,0 +1,630 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "115",
+          "short_name": "115",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Boston Street",
+          "short_name": "Boston St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Guilford Center",
+          "short_name": "Guilford Center",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Guilford",
+          "short_name": "Guilford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Guilford",
+          "short_name": "Guilford",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06437",
+          "short_name": "06437",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2802",
+          "short_name": "2802",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "115 Boston St, Guilford, CT 06437, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.2829118,
+          "lng": -72.6765552
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2842607802915,
+            "lng": -72.67520621970849
+          },
+          "southwest": {
+            "lat": 41.2815628197085,
+            "lng": -72.6779041802915
+          }
+        }
+      },
+      "place_id": "ChIJHYrHKBIr5okRepGpAV54GDk",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Guilford Center",
+          "short_name": "Guilford Center",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Guilford",
+          "short_name": "Guilford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Guilford",
+          "short_name": "Guilford",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06437",
+          "short_name": "06437",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Guilford Center, Guilford, CT 06437, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.295797,
+            "lng": -72.65737490000001
+          },
+          "southwest": {
+            "lat": 41.265397,
+            "lng": -72.691839
+          }
+        },
+        "location": {
+          "lat": 41.2832082,
+          "lng": -72.6801576
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.295797,
+            "lng": -72.65737490000001
+          },
+          "southwest": {
+            "lat": 41.265397,
+            "lng": -72.691839
+          }
+        }
+      },
+      "place_id": "ChIJ-eO08RYr5okRdWOnJQGesmU",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Guilford",
+          "short_name": "Guilford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Guilford",
+          "short_name": "Guilford",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Guilford, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.433797,
+            "lng": -72.632137
+          },
+          "southwest": {
+            "lat": 41.2437152,
+            "lng": -72.7493009
+          }
+        },
+        "location": {
+          "lat": 41.288906,
+          "lng": -72.674364
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.433797,
+            "lng": -72.632137
+          },
+          "southwest": {
+            "lat": 41.2437152,
+            "lng": -72.7493009
+          }
+        }
+      },
+      "place_id": "ChIJ70QutNws5okROdayBL4jR-g",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Guilford",
+          "short_name": "Guilford",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Guilford, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.433797,
+            "lng": -72.632137
+          },
+          "southwest": {
+            "lat": 41.2437152,
+            "lng": -72.7493009
+          }
+        },
+        "location": {
+          "lat": 41.3395325,
+          "lng": -72.6978931
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.433797,
+            "lng": -72.632137
+          },
+          "southwest": {
+            "lat": 41.2437152,
+            "lng": -72.7493009
+          }
+        }
+      },
+      "place_id": "ChIJQ08YELcs5okRkBr0SibpUkQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "06437",
+          "short_name": "06437",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Guilford",
+          "short_name": "Guilford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Guilford, CT 06437, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.433797,
+            "lng": -72.63171179999999
+          },
+          "southwest": {
+            "lat": 41.2412019,
+            "lng": -72.749297
+          }
+        },
+        "location": {
+          "lat": 41.3395325,
+          "lng": -72.6978931
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.433797,
+            "lng": -72.63171179999999
+          },
+          "southwest": {
+            "lat": 41.2412019,
+            "lng": -72.749297
+          }
+        }
+      },
+      "place_id": "ChIJj1zE3sgs5okRNKIQpx2Lr5Q",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Haven",
+          "short_name": "New Haven",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Haven, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.578894,
+            "lng": -72.3412563
+          },
+          "southwest": {
+            "lat": 41.234397,
+            "lng": -73.0868521
+          }
+        },
+        "location": {
+          "lat": 41.3583849,
+          "lng": -72.7570024
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.578894,
+            "lng": -72.3412563
+          },
+          "southwest": {
+            "lat": 41.234397,
+            "lng": -73.0868521
+          }
+        }
+      },
+      "place_id": "ChIJA7zwPZTS54kRedMdi-l_M4I",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Haven County, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6443109,
+            "lng": -72.5364987
+          },
+          "southwest": {
+            "lat": 41.1719731,
+            "lng": -73.327114
+          }
+        },
+        "location": {
+          "lat": 41.3266911,
+          "lng": -72.8042797
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6443109,
+            "lng": -72.5364987
+          },
+          "southwest": {
+            "lat": 41.1719731,
+            "lng": -73.327114
+          }
+        }
+      },
+      "place_id": "ChIJiT24cvvP54kR2fSPHkp0Akc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Connecticut, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.6032207,
+          "lng": -73.087749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJpVER8hFT5okR5XBhBVttmq4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,529 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "94-110",
+          "short_name": "94-110",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Shore Drive",
+          "short_name": "Shore Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Ogden Dunes",
+          "short_name": "Ogden Dunes",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Portage Township",
+          "short_name": "Portage Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Porter County",
+          "short_name": "Porter County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "46368",
+          "short_name": "46368",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "94-110 Shore Dr, Ogden Dunes, IN 46368, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.628056,
+            "lng": -87.1924611
+          },
+          "southwest": {
+            "lat": 41.6276265,
+            "lng": -87.1949599
+          }
+        },
+        "location": {
+          "lat": 41.6280242,
+          "lng": -87.19273009999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6291902302915,
+            "lng": -87.1923615197085
+          },
+          "southwest": {
+            "lat": 41.6264922697085,
+            "lng": -87.1950594802915
+          }
+        }
+      },
+      "place_id": "Eis5NC0xMTAgU2hvcmUgRHIsIE9nZGVuIER1bmVzLCBJTiA0NjM2OCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ogden Dunes",
+          "short_name": "Ogden Dunes",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Portage Township",
+          "short_name": "Portage Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Porter County",
+          "short_name": "Porter County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ogden Dunes, IN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6305705,
+            "lng": -87.183235
+          },
+          "southwest": {
+            "lat": 41.614154,
+            "lng": -87.2022109
+          }
+        },
+        "location": {
+          "lat": 41.6228148,
+          "lng": -87.1917022
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6305705,
+            "lng": -87.183235
+          },
+          "southwest": {
+            "lat": 41.614154,
+            "lng": -87.2022109
+          }
+        }
+      },
+      "place_id": "ChIJvVnmi4O-EYgRHeXkr_-6LQE",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "46368",
+          "short_name": "46368",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Portage",
+          "short_name": "Portage",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Portage, IN 46368, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.651345,
+            "lng": -87.124265
+          },
+          "southwest": {
+            "lat": 41.521512,
+            "lng": -87.224452
+          }
+        },
+        "location": {
+          "lat": 41.596455,
+          "lng": -87.1722037
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.651345,
+            "lng": -87.124265
+          },
+          "southwest": {
+            "lat": 41.521512,
+            "lng": -87.224452
+          }
+        }
+      },
+      "place_id": "ChIJGZfDi0e-EYgRZH-BefyBG7k",
+      "postcode_localities": [
+        "Ogden Dunes",
+        "Portage"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Portage Township",
+          "short_name": "Portage Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Porter County",
+          "short_name": "Porter County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Portage Township, IN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6489675,
+            "lng": -87.123904
+          },
+          "southwest": {
+            "lat": 41.521285,
+            "lng": -87.22273609999999
+          }
+        },
+        "location": {
+          "lat": 41.5463162,
+          "lng": -87.1622344
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6489675,
+            "lng": -87.123904
+          },
+          "southwest": {
+            "lat": 41.521285,
+            "lng": -87.22273609999999
+          }
+        }
+      },
+      "place_id": "ChIJvVnmi4O-EYgRUTF_Fy2Rw50",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Porter County",
+          "short_name": "Porter County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Porter County, IN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.71016059999999,
+            "lng": -86.92925679999999
+          },
+          "southwest": {
+            "lat": 41.219643,
+            "lng": -87.22273609999999
+          }
+        },
+        "location": {
+          "lat": 41.5248577,
+          "lng": -87.10237459999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.71016059999999,
+            "lng": -86.92925679999999
+          },
+          "southwest": {
+            "lat": 41.219643,
+            "lng": -87.22273609999999
+          }
+        }
+      },
+      "place_id": "ChIJM28S1P6TEYgRAeaaObSLSbc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chicago Metropolitan Area",
+          "short_name": "Chicago Metropolitan Area",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chicago Metropolitan Area, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        },
+        "location": {
+          "lat": 41.7435073,
+          "lng": -88.0118473
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        }
+      },
+      "place_id": "ChIJg-CZjExEDogRNJNXmgqEe9o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Indiana, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7606971,
+            "lng": -84.784662
+          },
+          "southwest": {
+            "lat": 37.7717419,
+            "lng": -88.097892
+          }
+        },
+        "location": {
+          "lat": 40.2671941,
+          "lng": -86.1349019
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7606971,
+            "lng": -84.784662
+          },
+          "southwest": {
+            "lat": 37.7717419,
+            "lng": -88.097892
+          }
+        }
+      },
+      "place_id": "ChIJHRv42bxQa4gRcuwyy84vEH4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

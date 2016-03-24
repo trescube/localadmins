@@ -1,0 +1,547 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-198",
+          "short_name": "100-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Market Street",
+          "short_name": "E Market St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Yates City",
+          "short_name": "Yates City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salem Township",
+          "short_name": "Salem Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Knox County",
+          "short_name": "Knox County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61572",
+          "short_name": "61572",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7550",
+          "short_name": "7550",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "100-198 E Market St, Yates City, IL 61572, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7779586,
+            "lng": -90.0129156
+          },
+          "southwest": {
+            "lat": 40.7778776,
+            "lng": -90.01454989999999
+          }
+        },
+        "location": {
+          "lat": 40.7779108,
+          "lng": -90.0138729
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7792670802915,
+            "lng": -90.01238376970849
+          },
+          "southwest": {
+            "lat": 40.7765691197085,
+            "lng": -90.0150817302915
+          }
+        }
+      },
+      "place_id": "Ei4xMDAtMTk4IEUgTWFya2V0IFN0LCBZYXRlcyBDaXR5LCBJTCA2MTU3MiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Yates City",
+          "short_name": "Yates City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salem Township",
+          "short_name": "Salem Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Knox County",
+          "short_name": "Knox County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61572",
+          "short_name": "61572",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Yates City, IL 61572, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7841209,
+            "lng": -90.0047779
+          },
+          "southwest": {
+            "lat": 40.770651,
+            "lng": -90.0364161
+          }
+        },
+        "location": {
+          "lat": 40.7786485,
+          "lng": -90.0148371
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7841209,
+            "lng": -90.0047779
+          },
+          "southwest": {
+            "lat": 40.770651,
+            "lng": -90.0364161
+          }
+        }
+      },
+      "place_id": "ChIJ29TljOnX4YcR-uELo8ZI9E4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61572",
+          "short_name": "61572",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Yates City",
+          "short_name": "Yates City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Yates City, IL 61572, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.866298,
+            "lng": -89.98522589999999
+          },
+          "southwest": {
+            "lat": 40.7122929,
+            "lng": -90.100729
+          }
+        },
+        "location": {
+          "lat": 40.7766596,
+          "lng": -90.0186555
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.866298,
+            "lng": -89.98522589999999
+          },
+          "southwest": {
+            "lat": 40.7122929,
+            "lng": -90.100729
+          }
+        }
+      },
+      "place_id": "ChIJg4KXvnDX4YcR_scRlnJubRo",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Salem Township",
+          "short_name": "Salem Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Knox County",
+          "short_name": "Knox County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Salem Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.800258,
+            "lng": -89.98548000000001
+          },
+          "southwest": {
+            "lat": 40.712257,
+            "lng": -90.10073
+          }
+        },
+        "location": {
+          "lat": 40.7563942,
+          "lng": -90.0373201
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.800258,
+            "lng": -89.98548000000001
+          },
+          "southwest": {
+            "lat": 40.712257,
+            "lng": -90.10073
+          }
+        }
+      },
+      "place_id": "ChIJiTs0R_zW4YcR83TFE693PF4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Knox County",
+          "short_name": "Knox County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Knox County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.152156,
+            "lng": -89.98452200000001
+          },
+          "southwest": {
+            "lat": 40.712257,
+            "lng": -90.4443369
+          }
+        },
+        "location": {
+          "lat": 40.8776411,
+          "lng": -90.2244662
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.152156,
+            "lng": -89.98452200000001
+          },
+          "southwest": {
+            "lat": 40.712257,
+            "lng": -90.4443369
+          }
+        }
+      },
+      "place_id": "ChIJ5YJ-ge_B4YcRxmumfFzTKXo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Galesburg",
+          "short_name": "Galesburg",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Galesburg, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.152156,
+            "lng": -89.984551
+          },
+          "southwest": {
+            "lat": 40.627843,
+            "lng": -90.78957899999999
+          }
+        },
+        "location": {
+          "lat": 40.8772519,
+          "lng": -90.37483540000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.152156,
+            "lng": -89.984551
+          },
+          "southwest": {
+            "lat": 40.627843,
+            "lng": -90.78957899999999
+          }
+        }
+      },
+      "place_id": "ChIJ-8A2the84YcRGYAPdwT_Sy8",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

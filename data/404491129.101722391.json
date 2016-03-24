@@ -1,0 +1,390 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "421st Avenue",
+          "short_name": "421st Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Fedora",
+          "short_name": "Fedora",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clinton Township",
+          "short_name": "Clinton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Miner County",
+          "short_name": "Miner County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "57337",
+          "short_name": "57337",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "421st Ave, Fedora, SD 57337, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.0075131,
+            "lng": -97.7910052
+          },
+          "southwest": {
+            "lat": 44.0002345,
+            "lng": -97.7910199
+          }
+        },
+        "location": {
+          "lat": 44.0038738,
+          "lng": -97.7910125
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 44.0075131,
+            "lng": -97.7896635697085
+          },
+          "southwest": {
+            "lat": 44.0002345,
+            "lng": -97.7923615302915
+          }
+        }
+      },
+      "place_id": "ChIJNdq_0yMohocRsrJv4TrUshM",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clinton Township",
+          "short_name": "Clinton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Miner County",
+          "short_name": "Miner County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clinton Township, SD, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.023807,
+            "lng": -97.73050409999999
+          },
+          "southwest": {
+            "lat": 43.9365521,
+            "lng": -97.8509821
+          }
+        },
+        "location": {
+          "lat": 43.9623175,
+          "lng": -97.8068851
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.023807,
+            "lng": -97.73050409999999
+          },
+          "southwest": {
+            "lat": 43.9365521,
+            "lng": -97.8509821
+          }
+        }
+      },
+      "place_id": "ChIJT-Gs1f0nhocRPla3K0XZGP8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "57337",
+          "short_name": "57337",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Fedora",
+          "short_name": "Fedora",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fedora, SD 57337, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.110892,
+            "lng": -97.691152
+          },
+          "southwest": {
+            "lat": 43.893176,
+            "lng": -97.8915349
+          }
+        },
+        "location": {
+          "lat": 44.0002139,
+          "lng": -97.8068851
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.110892,
+            "lng": -97.691152
+          },
+          "southwest": {
+            "lat": 43.893176,
+            "lng": -97.8915349
+          }
+        }
+      },
+      "place_id": "ChIJ3zBCI-InhocRST-SdGlINV8",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Miner County",
+          "short_name": "Miner County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Miner County, SD, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.19546390000001,
+            "lng": -97.36945809999999
+          },
+          "southwest": {
+            "lat": 43.848526,
+            "lng": -97.8514119
+          }
+        },
+        "location": {
+          "lat": 44.0643951,
+          "lng": -97.69822719999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.19546390000001,
+            "lng": -97.36945809999999
+          },
+          "southwest": {
+            "lat": 43.848526,
+            "lng": -97.8514119
+          }
+        }
+      },
+      "place_id": "ChIJET6yKJaPiIcR_-3Xqb8s5AI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "South Dakota, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.945713,
+            "lng": -96.436589
+          },
+          "southwest": {
+            "lat": 42.479686,
+            "lng": -104.0577391
+          }
+        },
+        "location": {
+          "lat": 43.9695148,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.945713,
+            "lng": -96.436589
+          },
+          "southwest": {
+            "lat": 42.479686,
+            "lng": -104.0577391
+          }
+        }
+      },
+      "place_id": "ChIJpTjphS1DfYcRt6SGMSnW8Ac",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

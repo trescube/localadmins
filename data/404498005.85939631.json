@@ -1,0 +1,541 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-198",
+          "short_name": "100-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Sheldon Avenue",
+          "short_name": "Sheldon Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Campus",
+          "short_name": "Campus",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Round Grove Township",
+          "short_name": "Round Grove Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60920",
+          "short_name": "60920",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "100-198 Sheldon Ave, Campus, IL 60920, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0246395,
+            "lng": -88.3057067
+          },
+          "southwest": {
+            "lat": 41.0246098,
+            "lng": -88.3073849
+          }
+        },
+        "location": {
+          "lat": 41.0245964,
+          "lng": -88.30734
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0259736302915,
+            "lng": -88.30519681970851
+          },
+          "southwest": {
+            "lat": 41.0232756697085,
+            "lng": -88.30789478029152
+          }
+        }
+      },
+      "place_id": "EioxMDAtMTk4IFNoZWxkb24gQXZlLCBDYW1wdXMsIElMIDYwOTIwLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Campus",
+          "short_name": "Campus",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Round Grove Township",
+          "short_name": "Round Grove Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Campus, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.030158,
+            "lng": -88.305058
+          },
+          "southwest": {
+            "lat": 41.0213309,
+            "lng": -88.3114399
+          }
+        },
+        "location": {
+          "lat": 41.0233656,
+          "lng": -88.3061652
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.030158,
+            "lng": -88.305058
+          },
+          "southwest": {
+            "lat": 41.0213309,
+            "lng": -88.3114399
+          }
+        }
+      },
+      "place_id": "ChIJX_mKC0s3DIgR4H-_G59U1v8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "60920",
+          "short_name": "60920",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Campus",
+          "short_name": "Campus",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Campus, IL 60920, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.033825,
+            "lng": -88.28654999999999
+          },
+          "southwest": {
+            "lat": 41.0081401,
+            "lng": -88.3248199
+          }
+        },
+        "location": {
+          "lat": 41.019664,
+          "lng": -88.3215014
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.033825,
+            "lng": -88.28654999999999
+          },
+          "southwest": {
+            "lat": 41.0081401,
+            "lng": -88.3248199
+          }
+        }
+      },
+      "place_id": "ChIJoy4YarMwDIgRSZChIeaugeg",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Round Grove Township",
+          "short_name": "Round Grove Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Round Grove Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.114227,
+            "lng": -88.248329
+          },
+          "southwest": {
+            "lat": 41.022183,
+            "lng": -88.363152
+          }
+        },
+        "location": {
+          "lat": 41.0874347,
+          "lng": -88.3044908
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.114227,
+            "lng": -88.248329
+          },
+          "southwest": {
+            "lat": 41.022183,
+            "lng": -88.363152
+          }
+        }
+      },
+      "place_id": "ChIJHbD3PWAwDIgRDI3hP6NcWhA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pontiac",
+          "short_name": "Pontiac",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pontiac, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1139439,
+            "lng": -88.2348679
+          },
+          "southwest": {
+            "lat": 40.616474,
+            "lng": -88.9314521
+          }
+        },
+        "location": {
+          "lat": 40.8688604,
+          "lng": -88.55653099999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1139439,
+            "lng": -88.2348679
+          },
+          "southwest": {
+            "lat": 40.616474,
+            "lng": -88.9314521
+          }
+        }
+      },
+      "place_id": "ChIJM4-GdHVsDIgRYPMrGRhG9nY",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Livingston County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.114227,
+            "lng": -88.23494889999999
+          },
+          "southwest": {
+            "lat": 40.6165499,
+            "lng": -88.9314519
+          }
+        },
+        "location": {
+          "lat": 40.8688604,
+          "lng": -88.55653099999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.114227,
+            "lng": -88.23494889999999
+          },
+          "southwest": {
+            "lat": 40.6165499,
+            "lng": -88.9314519
+          }
+        }
+      },
+      "place_id": "ChIJt6x97f5kDIgRZM1i1O0I3YQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,489 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1-99",
+          "short_name": "1-99",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Shortridge Trail",
+          "short_name": "Shortridge Trail",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "The Galena Territory",
+          "short_name": "The Galena Territory",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Galena",
+          "short_name": "Galena",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Guilford Township",
+          "short_name": "Guilford Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jo Daviess County",
+          "short_name": "Jo Daviess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61036",
+          "short_name": "61036",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9238",
+          "short_name": "9238",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1-99 Shortridge Trail, Galena, IL 61036, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.395091,
+            "lng": -90.314084
+          },
+          "southwest": {
+            "lat": 42.3931375,
+            "lng": -90.31668900000001
+          }
+        },
+        "location": {
+          "lat": 42.39497009999999,
+          "lng": -90.3163895
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.3954632302915,
+            "lng": -90.3140375197085
+          },
+          "southwest": {
+            "lat": 42.3927652697085,
+            "lng": -90.31673548029151
+          }
+        }
+      },
+      "place_id": "EiwxLTk5IFNob3J0cmlkZ2UgVHJhaWwsIEdhbGVuYSwgSUwgNjEwMzYsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "The Galena Territory",
+          "short_name": "The Galena Territory",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Guilford Township",
+          "short_name": "Guilford Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jo Daviess County",
+          "short_name": "Jo Daviess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "The Galena Territory, Guilford Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.43058389999999,
+            "lng": -90.2760315
+          },
+          "southwest": {
+            "lat": 42.3716594,
+            "lng": -90.3615403
+          }
+        },
+        "location": {
+          "lat": 42.4032046,
+          "lng": -90.3277829
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.43058389999999,
+            "lng": -90.2760315
+          },
+          "southwest": {
+            "lat": 42.3716594,
+            "lng": -90.3615403
+          }
+        }
+      },
+      "place_id": "ChIJteVex3fI4ocR0UJE95nD15g",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Guilford Township",
+          "short_name": "Guilford Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jo Daviess County",
+          "short_name": "Jo Daviess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Guilford Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.460028,
+            "lng": -90.22104399999999
+          },
+          "southwest": {
+            "lat": 42.3717129,
+            "lng": -90.34519689999999
+          }
+        },
+        "location": {
+          "lat": 42.413161,
+          "lng": -90.2807868
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.460028,
+            "lng": -90.22104399999999
+          },
+          "southwest": {
+            "lat": 42.3717129,
+            "lng": -90.34519689999999
+          }
+        }
+      },
+      "place_id": "ChIJgWYc_sC34ocRd_EJ7v85JrI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61036",
+          "short_name": "61036",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Galena",
+          "short_name": "Galena",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Galena, IL 61036, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.50757979999999,
+            "lng": -90.251757
+          },
+          "southwest": {
+            "lat": 42.313451,
+            "lng": -90.504262
+          }
+        },
+        "location": {
+          "lat": 42.41283019999999,
+          "lng": -90.3936722
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.50757979999999,
+            "lng": -90.251757
+          },
+          "southwest": {
+            "lat": 42.313451,
+            "lng": -90.504262
+          }
+        }
+      },
+      "place_id": "ChIJgxyWssLE4ocRDaybRL6DoVQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Jo Daviess County",
+          "short_name": "Jo Daviess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Jo Daviess County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -89.91960309999999
+          },
+          "southwest": {
+            "lat": 42.19357189999999,
+            "lng": -90.65652700000001
+          }
+        },
+        "location": {
+          "lat": 42.3148804,
+          "lng": -90.2244662
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -89.91960309999999
+          },
+          "southwest": {
+            "lat": 42.19357189999999,
+            "lng": -90.65652700000001
+          }
+        }
+      },
+      "place_id": "ChIJ30pmCv284ocRnkh4NymGGZg",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

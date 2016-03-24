@@ -1,0 +1,538 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "12",
+          "short_name": "12",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "McIntosh Avenue",
+          "short_name": "McIntosh Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Clarendon Hills",
+          "short_name": "Clarendon Hills",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Downers Grove Township",
+          "short_name": "Downers Grove Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DuPage County",
+          "short_name": "Dupage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60514",
+          "short_name": "60514",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1143",
+          "short_name": "1143",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "12 McIntosh Ave, Clarendon Hills, IL 60514, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.798108,
+          "lng": -87.95685499999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7994569802915,
+            "lng": -87.9555060197085
+          },
+          "southwest": {
+            "lat": 41.7967590197085,
+            "lng": -87.9582039802915
+          }
+        }
+      },
+      "place_id": "ChIJ4-KV6etODogRM9kD0CiXKN8",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clarendon Hills",
+          "short_name": "Clarendon Hills",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Downers Grove Township",
+          "short_name": "Downers Grove Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DuPage County",
+          "short_name": "Dupage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clarendon Hills, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.8107258,
+            "lng": -87.946525
+          },
+          "southwest": {
+            "lat": 41.7815069,
+            "lng": -87.970888
+          }
+        },
+        "location": {
+          "lat": 41.7975307,
+          "lng": -87.95478349999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.8107258,
+            "lng": -87.946525
+          },
+          "southwest": {
+            "lat": 41.7815069,
+            "lng": -87.970888
+          }
+        }
+      },
+      "place_id": "ChIJzbbbpBhPDogRIRl9KfpZw5c",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "60514",
+          "short_name": "60514",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Clarendon Hills",
+          "short_name": "Clarendon Hills",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Downers Grove Township",
+          "short_name": "Downers Grove Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DuPage County",
+          "short_name": "Dupage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clarendon Hills, IL 60514, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.8121189,
+            "lng": -87.945758
+          },
+          "southwest": {
+            "lat": 41.781188,
+            "lng": -87.97071609999999
+          }
+        },
+        "location": {
+          "lat": 41.7972708,
+          "lng": -87.95798479999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.8121189,
+            "lng": -87.945758
+          },
+          "southwest": {
+            "lat": 41.781188,
+            "lng": -87.97071609999999
+          }
+        }
+      },
+      "place_id": "ChIJhS_qveZODogRh2nCzdR_GHk",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Downers Grove Township",
+          "short_name": "Downers Grove Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DuPage County",
+          "short_name": "Dupage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Downers Grove Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.81895730000001,
+            "lng": -87.91425690000001
+          },
+          "southwest": {
+            "lat": 41.68533,
+            "lng": -88.034066
+          }
+        },
+        "location": {
+          "lat": 41.808919,
+          "lng": -88.0111694
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.81895730000001,
+            "lng": -87.91425690000001
+          },
+          "southwest": {
+            "lat": 41.68533,
+            "lng": -88.034066
+          }
+        }
+      },
+      "place_id": "ChIJAU-hnoVPDogRqOaWhqus-A8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "DuPage County",
+          "short_name": "Dupage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dupage County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.994029,
+            "lng": -87.91425690000001
+          },
+          "southwest": {
+            "lat": 41.68533,
+            "lng": -88.26317809999999
+          }
+        },
+        "location": {
+          "lat": 41.8243831,
+          "lng": -88.0900762
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.994029,
+            "lng": -87.91425690000001
+          },
+          "southwest": {
+            "lat": 41.68533,
+            "lng": -88.26317809999999
+          }
+        }
+      },
+      "place_id": "ChIJa_8YHt6oD4gRaux4XvaID0k",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chicago Metropolitan Area",
+          "short_name": "Chicago Metropolitan Area",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chicago Metropolitan Area, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        },
+        "location": {
+          "lat": 41.7435073,
+          "lng": -88.0118473
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        }
+      },
+      "place_id": "ChIJg-CZjExEDogRNJNXmgqEe9o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

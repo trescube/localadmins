@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-198",
+          "short_name": "100-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Grant Street",
+          "short_name": "N Grant St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Clyde",
+          "short_name": "Clyde",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Elk",
+          "short_name": "Elk",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cloud County",
+          "short_name": "Cloud County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66938",
+          "short_name": "66938",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9452",
+          "short_name": "9452",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "100-198 N Grant St, Clyde, KS 66938, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5921806,
+            "lng": -97.4001674
+          },
+          "southwest": {
+            "lat": 39.5911931,
+            "lng": -97.4001768
+          }
+        },
+        "location": {
+          "lat": 39.5918493,
+          "lng": -97.4001924
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5930358302915,
+            "lng": -97.3988231197085
+          },
+          "southwest": {
+            "lat": 39.5903378697085,
+            "lng": -97.4015210802915
+          }
+        }
+      },
+      "place_id": "EigxMDAtMTk4IE4gR3JhbnQgU3QsIENseWRlLCBLUyA2NjkzOCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clyde",
+          "short_name": "Clyde",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Elk",
+          "short_name": "Elk",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cloud County",
+          "short_name": "Cloud County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66938",
+          "short_name": "66938",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Clyde, KS 66938, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.59771,
+            "lng": -97.387267
+          },
+          "southwest": {
+            "lat": 39.58507410000001,
+            "lng": -97.4133579
+          }
+        },
+        "location": {
+          "lat": 39.5911106,
+          "lng": -97.3989229
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.59771,
+            "lng": -97.387267
+          },
+          "southwest": {
+            "lat": 39.58507410000001,
+            "lng": -97.4133579
+          }
+        }
+      },
+      "place_id": "ChIJ0Z4pki5mvYcRJap93XyWuXI",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Elk",
+          "short_name": "Elk",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cloud County",
+          "short_name": "Cloud County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Elk, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.654043,
+            "lng": -97.3683739
+          },
+          "southwest": {
+            "lat": 39.5523479,
+            "lng": -97.48087989999999
+          }
+        },
+        "location": {
+          "lat": 39.6103184,
+          "lng": -97.4273195
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.654043,
+            "lng": -97.3683739
+          },
+          "southwest": {
+            "lat": 39.5523479,
+            "lng": -97.48087989999999
+          }
+        }
+      },
+      "place_id": "ChIJ26o1U5JnvYcRdxO_FzKuTq4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66938",
+          "short_name": "66938",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Clyde",
+          "short_name": "Clyde",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clyde, KS 66938, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.7556469,
+            "lng": -97.23842789999999
+          },
+          "southwest": {
+            "lat": 39.39311,
+            "lng": -97.5373259
+          }
+        },
+        "location": {
+          "lat": 39.5623779,
+          "lng": -97.3732655
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7556469,
+            "lng": -97.23842789999999
+          },
+          "southwest": {
+            "lat": 39.39311,
+            "lng": -97.5373259
+          }
+        }
+      },
+      "place_id": "ChIJ0Z4pki5mvYcRFNh3AWqMtxQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cloud County",
+          "short_name": "Cloud County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cloud County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.654043,
+            "lng": -97.3683739
+          },
+          "southwest": {
+            "lat": 39.306011,
+            "lng": -97.9319979
+          }
+        },
+        "location": {
+          "lat": 39.4795571,
+          "lng": -97.69822719999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.654043,
+            "lng": -97.3683739
+          },
+          "southwest": {
+            "lat": 39.306011,
+            "lng": -97.9319979
+          }
+        }
+      },
+      "place_id": "ChIJkZPtt_NFvYcR6CCNXkovR4w",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

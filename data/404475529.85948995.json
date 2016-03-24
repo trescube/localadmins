@@ -1,0 +1,581 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "16-26",
+          "short_name": "16-26",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Water Street",
+          "short_name": "Water St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Gorham",
+          "short_name": "Gorham",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gorham",
+          "short_name": "Gorham",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gorham",
+          "short_name": "Gorham",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cumberland County",
+          "short_name": "Cumberland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "04038",
+          "short_name": "04038",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1020",
+          "short_name": "1020",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "16-26 Water St, Gorham, ME 04038, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.68270829999999,
+            "lng": -70.440935
+          },
+          "southwest": {
+            "lat": 43.68159,
+            "lng": -70.4415816
+          }
+        },
+        "location": {
+          "lat": 43.6821902,
+          "lng": -70.4413125
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 43.6834981302915,
+            "lng": -70.43990931970849
+          },
+          "southwest": {
+            "lat": 43.6808001697085,
+            "lng": -70.44260728029151
+          }
+        }
+      },
+      "place_id": "EiUxNi0yNiBXYXRlciBTdCwgR29yaGFtLCBNRSAwNDAzOCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Gorham",
+          "short_name": "Gorham",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gorham",
+          "short_name": "Gorham",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gorham",
+          "short_name": "Gorham",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cumberland County",
+          "short_name": "Cumberland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "04038",
+          "short_name": "04038",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Gorham, Gorham, ME 04038, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.7082039,
+            "lng": -70.409024
+          },
+          "southwest": {
+            "lat": 43.662864,
+            "lng": -70.4880689
+          }
+        },
+        "location": {
+          "lat": 43.6795245,
+          "lng": -70.44421860000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.7082039,
+            "lng": -70.409024
+          },
+          "southwest": {
+            "lat": 43.662864,
+            "lng": -70.4880689
+          }
+        }
+      },
+      "place_id": "ChIJH-uy2zCRskwR_j06SfgsRTU",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Gorham",
+          "short_name": "Gorham",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gorham",
+          "short_name": "Gorham",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cumberland County",
+          "short_name": "Cumberland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Gorham, ME, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.816994,
+            "lng": -70.378068
+          },
+          "southwest": {
+            "lat": 43.6142611,
+            "lng": -70.546605
+          }
+        },
+        "location": {
+          "lat": 43.67953139999999,
+          "lng": -70.44422519999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.816994,
+            "lng": -70.378068
+          },
+          "southwest": {
+            "lat": 43.6142611,
+            "lng": -70.546605
+          }
+        }
+      },
+      "place_id": "ChIJ6VX_cCuSskwRkWOt7eWoZNA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Gorham",
+          "short_name": "Gorham",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cumberland County",
+          "short_name": "Cumberland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Gorham, ME, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.816994,
+            "lng": -70.378068
+          },
+          "southwest": {
+            "lat": 43.6142611,
+            "lng": -70.546605
+          }
+        },
+        "location": {
+          "lat": 43.6920701,
+          "lng": -70.44625789999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.816994,
+            "lng": -70.378068
+          },
+          "southwest": {
+            "lat": 43.6142611,
+            "lng": -70.546605
+          }
+        }
+      },
+      "place_id": "ChIJ4RIgVcaTskwRmeuDY2SMpYk",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "04038",
+          "short_name": "04038",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Gorham",
+          "short_name": "Gorham",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Gorham, ME 04038, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.816994,
+            "lng": -70.3777961
+          },
+          "southwest": {
+            "lat": 43.6142139,
+            "lng": -70.546605
+          }
+        },
+        "location": {
+          "lat": 43.6920701,
+          "lng": -70.44625789999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.816994,
+            "lng": -70.3777961
+          },
+          "southwest": {
+            "lat": 43.6142139,
+            "lng": -70.546605
+          }
+        }
+      },
+      "place_id": "ChIJsVJQJV6RskwRJFQ25fbhwdQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cumberland County",
+          "short_name": "Cumberland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cumberland County, ME, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.171169,
+            "lng": -69.8570721
+          },
+          "southwest": {
+            "lat": 43.5271185,
+            "lng": -70.8664321
+          }
+        },
+        "location": {
+          "lat": 43.81329789999999,
+          "lng": -70.3870587
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.171169,
+            "lng": -69.8570721
+          },
+          "southwest": {
+            "lat": 43.5271185,
+            "lng": -70.8664321
+          }
+        }
+      },
+      "place_id": "ChIJGfsVYqflrUwR7Wk7LavnyfY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Maine",
+          "short_name": "ME",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Maine, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.4596734,
+            "lng": -66.94539720000002
+          },
+          "southwest": {
+            "lat": 42.9747049,
+            "lng": -71.08433409999999
+          }
+        },
+        "location": {
+          "lat": 45.253783,
+          "lng": -69.4454689
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.4596734,
+            "lng": -66.94539720000002
+          },
+          "southwest": {
+            "lat": 42.9747049,
+            "lng": -71.08433409999999
+          }
+        }
+      },
+      "place_id": "ChIJ1YpTHd4dsEwR0KggZ2_MedY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

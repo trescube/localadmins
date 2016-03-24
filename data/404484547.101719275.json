@@ -1,0 +1,469 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-198",
+          "short_name": "100-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Armstrong Court",
+          "short_name": "Armstrong Ct",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Fleetwood",
+          "short_name": "Fleetwood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Richmond Township",
+          "short_name": "Richmond Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Berks County",
+          "short_name": "Berks County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "19522",
+          "short_name": "19522",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "100-198 Armstrong Ct, Fleetwood, PA 19522, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.4472449,
+            "lng": -75.8390596
+          },
+          "southwest": {
+            "lat": 40.4470634,
+            "lng": -75.8400566
+          }
+        },
+        "location": {
+          "lat": 40.4470913,
+          "lng": -75.8399237
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4485031302915,
+            "lng": -75.8382091197085
+          },
+          "southwest": {
+            "lat": 40.4458051697085,
+            "lng": -75.8409070802915
+          }
+        }
+      },
+      "place_id": "Ei4xMDAtMTk4IEFybXN0cm9uZyBDdCwgRmxlZXR3b29kLCBQQSAxOTUyMiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Richmond Township",
+          "short_name": "Richmond Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Berks County",
+          "short_name": "Berks County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Richmond Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.53924689999999,
+            "lng": -75.7503369
+          },
+          "southwest": {
+            "lat": 40.441234,
+            "lng": -75.8913029
+          }
+        },
+        "location": {
+          "lat": 40.4934596,
+          "lng": -75.8185314
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.53924689999999,
+            "lng": -75.7503369
+          },
+          "southwest": {
+            "lat": 40.441234,
+            "lng": -75.8913029
+          }
+        }
+      },
+      "place_id": "ChIJ_UqO9E7RxYkRXk3D9ephEyw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "19522",
+          "short_name": "19522",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Fleetwood",
+          "short_name": "Fleetwood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Berks County",
+          "short_name": "Berks County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fleetwood, PA 19522, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.503922,
+            "lng": -75.7062919
+          },
+          "southwest": {
+            "lat": 40.3894569,
+            "lng": -75.9261949
+          }
+        },
+        "location": {
+          "lat": 40.4649645,
+          "lng": -75.8301537
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.503922,
+            "lng": -75.7062919
+          },
+          "southwest": {
+            "lat": 40.3894569,
+            "lng": -75.9261949
+          }
+        }
+      },
+      "place_id": "ChIJWQRcFIHWxYkRdn4o8udGqAM",
+      "postcode_localities": [
+        "Evansville",
+        "Fleetwood",
+        "RUSCMBMNR Township"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Reading",
+          "short_name": "Reading",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Reading, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.5296219
+          },
+          "southwest": {
+            "lat": 40.137076,
+            "lng": -76.440181
+          }
+        },
+        "location": {
+          "lat": 40.3451566,
+          "lng": -75.9927652
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.5296219
+          },
+          "southwest": {
+            "lat": 40.137076,
+            "lng": -76.440181
+          }
+        }
+      },
+      "place_id": "ChIJsUqmgt93xokRe6bJ_oABq68",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Berks County",
+          "short_name": "Berks County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Berks County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.529623
+          },
+          "southwest": {
+            "lat": 40.1373759,
+            "lng": -76.440181
+          }
+        },
+        "location": {
+          "lat": 40.3451566,
+          "lng": -75.9927652
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.529623
+          },
+          "southwest": {
+            "lat": 40.1373759,
+            "lng": -76.440181
+          }
+        }
+      },
+      "place_id": "ChIJDeYOtrt0xokRZSWVYWC06gU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

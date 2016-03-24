@@ -1,0 +1,411 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "73-107",
+          "short_name": "73-107",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Harris Hill Road",
+          "short_name": "Harris Hill Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Shavertown",
+          "short_name": "Shavertown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kingston Township",
+          "short_name": "Kingston Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Luzerne County",
+          "short_name": "Luzerne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "18708",
+          "short_name": "18708",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "73-107 Harris Hill Rd, Shavertown, PA 18708, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3182953,
+            "lng": -75.9260657
+          },
+          "southwest": {
+            "lat": 41.3081795,
+            "lng": -75.9292311
+          }
+        },
+        "location": {
+          "lat": 41.3101083,
+          "lng": -75.9284115
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3182953,
+            "lng": -75.9260657
+          },
+          "southwest": {
+            "lat": 41.3081795,
+            "lng": -75.9292311
+          }
+        }
+      },
+      "place_id": "EjA3My0xMDcgSGFycmlzIEhpbGwgUmQsIFNoYXZlcnRvd24sIFBBIDE4NzA4LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kingston Township",
+          "short_name": "Kingston Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Luzerne County",
+          "short_name": "Luzerne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kingston Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3647829,
+            "lng": -75.85773999999999
+          },
+          "southwest": {
+            "lat": 41.28798,
+            "lng": -75.95624289999999
+          }
+        },
+        "location": {
+          "lat": 41.317619,
+          "lng": -75.911483
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3647829,
+            "lng": -75.85773999999999
+          },
+          "southwest": {
+            "lat": 41.28798,
+            "lng": -75.95624289999999
+          }
+        }
+      },
+      "place_id": "ChIJodREwHgXxYkR1rznf0cgvy0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "18708",
+          "short_name": "18708",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Shavertown",
+          "short_name": "Shavertown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Luzerne County",
+          "short_name": "Luzerne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shavertown, PA 18708, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.344936,
+            "lng": -75.8934598
+          },
+          "southwest": {
+            "lat": 41.249755,
+            "lng": -76.03925679999999
+          }
+        },
+        "location": {
+          "lat": 41.2896604,
+          "lng": -75.9637413
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.344936,
+            "lng": -75.8934598
+          },
+          "southwest": {
+            "lat": 41.249755,
+            "lng": -76.03925679999999
+          }
+        }
+      },
+      "place_id": "ChIJFa93FQcUxYkRcF3OHh5OMnc",
+      "postcode_localities": [
+        "Shavertown",
+        "Township of Jackson",
+        "Trucksville",
+        "Wilkes-Barre"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Luzerne County",
+          "short_name": "Luzerne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Luzerne County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4272459,
+            "lng": -75.6005771
+          },
+          "southwest": {
+            "lat": 40.901986,
+            "lng": -76.31973599999999
+          }
+        },
+        "location": {
+          "lat": 41.1404353,
+          "lng": -75.9927652
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4272459,
+            "lng": -75.6005771
+          },
+          "southwest": {
+            "lat": 40.901986,
+            "lng": -76.31973599999999
+          }
+        }
+      },
+      "place_id": "ChIJT8UL4YF0xYkRY-bZsVwaZh4",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

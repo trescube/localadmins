@@ -1,0 +1,571 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "10",
+          "short_name": "10",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Hollis Street",
+          "short_name": "Hollis St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Pepperell",
+          "short_name": "Pepperell",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pepperell",
+          "short_name": "Pepperell",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pepperell",
+          "short_name": "Pepperell",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Middlesex County",
+          "short_name": "Middlesex County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "01463",
+          "short_name": "01463",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1411",
+          "short_name": "1411",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "10 Hollis St, Pepperell, MA 01463, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.66915849999999,
+          "lng": -71.5894538
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.6705074802915,
+            "lng": -71.5881048197085
+          },
+          "southwest": {
+            "lat": 42.6678095197085,
+            "lng": -71.59080278029151
+          }
+        }
+      },
+      "place_id": "ChIJKf04RkvH44kR-Csy1xKdLR4",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pepperell",
+          "short_name": "Pepperell",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pepperell",
+          "short_name": "Pepperell",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pepperell",
+          "short_name": "Pepperell",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Middlesex County",
+          "short_name": "Middlesex County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "01463",
+          "short_name": "01463",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Pepperell, Pepperell, MA 01463, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.692689,
+            "lng": -71.564667
+          },
+          "southwest": {
+            "lat": 42.65647389999999,
+            "lng": -71.610776
+          }
+        },
+        "location": {
+          "lat": 42.6659227,
+          "lng": -71.5884018
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.692689,
+            "lng": -71.564667
+          },
+          "southwest": {
+            "lat": 42.65647389999999,
+            "lng": -71.610776
+          }
+        }
+      },
+      "place_id": "ChIJhR4NPWS744kRCWXsWCfXryw",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pepperell",
+          "short_name": "Pepperell",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pepperell",
+          "short_name": "Pepperell",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Middlesex County",
+          "short_name": "Middlesex County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pepperell, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7051881,
+            "lng": -71.532572
+          },
+          "southwest": {
+            "lat": 42.625898,
+            "lng": -71.657714
+          }
+        },
+        "location": {
+          "lat": 42.66592319999999,
+          "lng": -71.5884363
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7051881,
+            "lng": -71.532572
+          },
+          "southwest": {
+            "lat": 42.625898,
+            "lng": -71.657714
+          }
+        }
+      },
+      "place_id": "ChIJBV-yg7XA44kRDMn7ExRbdEs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "01463",
+          "short_name": "01463",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Pepperell",
+          "short_name": "Pepperell",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pepperell, MA 01463, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.705194,
+            "lng": -71.5325129
+          },
+          "southwest": {
+            "lat": 42.62611709999999,
+            "lng": -71.65771090000001
+          }
+        },
+        "location": {
+          "lat": 42.6664257,
+          "lng": -71.5792827
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.705194,
+            "lng": -71.5325129
+          },
+          "southwest": {
+            "lat": 42.62611709999999,
+            "lng": -71.65771090000001
+          }
+        }
+      },
+      "place_id": "ChIJtWqt47XA44kR3WTmZfVaHTM",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pepperell",
+          "short_name": "Pepperell",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Middlesex County",
+          "short_name": "Middlesex County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pepperell, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7051881,
+            "lng": -71.532572
+          },
+          "southwest": {
+            "lat": 42.625898,
+            "lng": -71.657714
+          }
+        },
+        "location": {
+          "lat": 42.662982,
+          "lng": -71.6080009
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7051881,
+            "lng": -71.532572
+          },
+          "southwest": {
+            "lat": 42.625898,
+            "lng": -71.657714
+          }
+        }
+      },
+      "place_id": "ChIJAWDiXiHB44kRsycO3eVpkIo",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Middlesex County",
+          "short_name": "Middlesex County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Middlesex County, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.736102,
+            "lng": -71.020095
+          },
+          "southwest": {
+            "lat": 42.15669,
+            "lng": -71.8987159
+          }
+        },
+        "location": {
+          "lat": 42.467206,
+          "lng": -71.2874209
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.736102,
+            "lng": -71.020095
+          },
+          "southwest": {
+            "lat": 42.15669,
+            "lng": -71.8987159
+          }
+        }
+      },
+      "place_id": "ChIJmQwtQe4L5IkRCLDyk1MVcOI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Massachusetts, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390448,
+            "lng": -73.5081419
+          }
+        },
+        "location": {
+          "lat": 42.4072107,
+          "lng": -71.3824374
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390737,
+            "lng": -73.5081419
+          }
+        }
+      },
+      "place_id": "ChIJ_b9z6W1l44kRHA2DVTbQxkU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

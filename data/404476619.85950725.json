@@ -1,0 +1,666 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1",
+          "short_name": "1",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Highland Lane",
+          "short_name": "Highland Ln",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Fiskdale",
+          "short_name": "Fiskdale",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sturbridge",
+          "short_name": "Sturbridge",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sturbridge",
+          "short_name": "Sturbridge",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Worcester County",
+          "short_name": "Worcester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "01518",
+          "short_name": "01518",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1186",
+          "short_name": "1186",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1 Highland Ln, Fiskdale, MA 01518, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.122565,
+          "lng": -72.10832599999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1239139802915,
+            "lng": -72.10697701970848
+          },
+          "southwest": {
+            "lat": 42.12121601970851,
+            "lng": -72.1096749802915
+          }
+        }
+      },
+      "place_id": "ChIJ15jxTxKj5okRWBlXnFbEM40",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fiskdale",
+          "short_name": "Fiskdale",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sturbridge",
+          "short_name": "Sturbridge",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sturbridge",
+          "short_name": "Sturbridge",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Worcester County",
+          "short_name": "Worcester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fiskdale, Sturbridge, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.136024,
+            "lng": -72.085993
+          },
+          "southwest": {
+            "lat": 42.1077521,
+            "lng": -72.134626
+          }
+        },
+        "location": {
+          "lat": 42.1162056,
+          "lng": -72.11341
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.136024,
+            "lng": -72.085993
+          },
+          "southwest": {
+            "lat": 42.1077521,
+            "lng": -72.134626
+          }
+        }
+      },
+      "place_id": "ChIJuzsIERmj5okRhNjqEMs1gQw",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sturbridge",
+          "short_name": "Sturbridge",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sturbridge",
+          "short_name": "Sturbridge",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Worcester County",
+          "short_name": "Worcester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sturbridge, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1745971,
+            "lng": -72.02387
+          },
+          "southwest": {
+            "lat": 42.028723,
+            "lng": -72.1356869
+          }
+        },
+        "location": {
+          "lat": 42.1084122,
+          "lng": -72.0787059
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1745971,
+            "lng": -72.02387
+          },
+          "southwest": {
+            "lat": 42.028723,
+            "lng": -72.1356869
+          }
+        }
+      },
+      "place_id": "ChIJx7nGLU2i5okRp7g-O7v9284",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "01518",
+          "short_name": "01518",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Fiskdale",
+          "short_name": "Fiskdale",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fiskdale, MA 01518, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1643908,
+            "lng": -72.09279
+          },
+          "southwest": {
+            "lat": 42.0631458,
+            "lng": -72.1353879
+          }
+        },
+        "location": {
+          "lat": 42.1233113,
+          "lng": -72.1238412
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1643908,
+            "lng": -72.09279
+          },
+          "southwest": {
+            "lat": 42.0631458,
+            "lng": -72.1353879
+          }
+        }
+      },
+      "place_id": "ChIJuzsIERmj5okRJI16C4f4kBg",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sturbridge",
+          "short_name": "Sturbridge",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Worcester County",
+          "short_name": "Worcester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sturbridge, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1745971,
+            "lng": -72.02387
+          },
+          "southwest": {
+            "lat": 42.028723,
+            "lng": -72.1356869
+          }
+        },
+        "location": {
+          "lat": 42.1118582,
+          "lng": -72.0823688
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1745971,
+            "lng": -72.02387
+          },
+          "southwest": {
+            "lat": 42.028723,
+            "lng": -72.1356869
+          }
+        }
+      },
+      "place_id": "ChIJc6kfRoKi5okRm7lUHB7DGxw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Worcester",
+          "short_name": "Worcester",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Worcester, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5467159,
+            "lng": -71.54112409999999
+          },
+          "southwest": {
+            "lat": 41.8692749,
+            "lng": -72.2177091
+          }
+        },
+        "location": {
+          "lat": 42.2571058,
+          "lng": -71.8571331
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5467159,
+            "lng": -71.54112409999999
+          },
+          "southwest": {
+            "lat": 41.8692749,
+            "lng": -72.2177091
+          }
+        }
+      },
+      "place_id": "ChIJxU42VAYD5IkR0mtLl1xgGKU",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Worcester",
+          "short_name": "Worcester",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Worcester, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7215575,
+            "lng": -71.47774290000001
+          },
+          "southwest": {
+            "lat": 42.00806499999999,
+            "lng": -72.31597
+          }
+        },
+        "location": {
+          "lat": 42.4096528,
+          "lng": -71.8571331
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7215575,
+            "lng": -71.47774290000001
+          },
+          "southwest": {
+            "lat": 42.00806499999999,
+            "lng": -72.31597
+          }
+        }
+      },
+      "place_id": "ChIJ_c4P1YL_44kRqbLyVUbmRd8",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Worcester County",
+          "short_name": "Worcester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Worcester County, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.721549,
+            "lng": -71.47774290000001
+          },
+          "southwest": {
+            "lat": 42.0080649,
+            "lng": -72.3065412
+          }
+        },
+        "location": {
+          "lat": 42.4096528,
+          "lng": -71.8571331
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.721549,
+            "lng": -71.47774290000001
+          },
+          "southwest": {
+            "lat": 42.0080649,
+            "lng": -72.3065412
+          }
+        }
+      },
+      "place_id": "ChIJvzRXoh0M5IkRfk1iMRL05dk",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Massachusetts, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390448,
+            "lng": -73.5081419
+          }
+        },
+        "location": {
+          "lat": 42.4072107,
+          "lng": -71.3824374
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390737,
+            "lng": -73.5081419
+          }
+        }
+      },
+      "place_id": "ChIJ_b9z6W1l44kRHA2DVTbQxkU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,555 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "601-699",
+          "short_name": "601-699",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Jefferson Street",
+          "short_name": "Jefferson St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Oregon",
+          "short_name": "Oregon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oregon-Nashua Township",
+          "short_name": "Oregon-Nashua Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ogle County",
+          "short_name": "Ogle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61061",
+          "short_name": "61061",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1509",
+          "short_name": "1509",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "601-699 Jefferson St, Oregon, IL 61061, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.013336,
+            "lng": -89.3351818
+          },
+          "southwest": {
+            "lat": 42.0133174,
+            "lng": -89.3363959
+          }
+        },
+        "location": {
+          "lat": 42.0133096,
+          "lng": -89.3355856
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0146756802915,
+            "lng": -89.3344398697085
+          },
+          "southwest": {
+            "lat": 42.0119777197085,
+            "lng": -89.33713783029151
+          }
+        }
+      },
+      "place_id": "Eis2MDEtNjk5IEplZmZlcnNvbiBTdCwgT3JlZ29uLCBJTCA2MTA2MSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Oregon",
+          "short_name": "Oregon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oregon-Nashua Township",
+          "short_name": "Oregon-Nashua Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ogle County",
+          "short_name": "Ogle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61061",
+          "short_name": "61061",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Oregon, IL 61061, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.027416,
+            "lng": -89.313266
+          },
+          "southwest": {
+            "lat": 41.99941889999999,
+            "lng": -89.3528499
+          }
+        },
+        "location": {
+          "lat": 42.0147513,
+          "lng": -89.3323279
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.027416,
+            "lng": -89.313266
+          },
+          "southwest": {
+            "lat": 41.99941889999999,
+            "lng": -89.3528499
+          }
+        }
+      },
+      "place_id": "ChIJpx59oEP5CIgRSc05eX7INVs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Oregon-Nashua Township",
+          "short_name": "Oregon-Nashua Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ogle County",
+          "short_name": "Ogle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Oregon-Nashua Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.02982979999999,
+            "lng": -89.278314
+          },
+          "southwest": {
+            "lat": 41.930993,
+            "lng": -89.39699
+          }
+        },
+        "location": {
+          "lat": 41.97727099999999,
+          "lng": -89.341667
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.02982979999999,
+            "lng": -89.278314
+          },
+          "southwest": {
+            "lat": 41.930993,
+            "lng": -89.39699
+          }
+        }
+      },
+      "place_id": "ChIJEWyMher-CIgRokcQyUmOPyo",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61061",
+          "short_name": "61061",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Oregon",
+          "short_name": "Oregon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ogle County",
+          "short_name": "Ogle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Oregon, IL 61061, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1236169,
+            "lng": -89.189059
+          },
+          "southwest": {
+            "lat": 41.8953251,
+            "lng": -89.4927939
+          }
+        },
+        "location": {
+          "lat": 42.0169039,
+          "lng": -89.341667
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1236169,
+            "lng": -89.189059
+          },
+          "southwest": {
+            "lat": 41.8953251,
+            "lng": -89.4927939
+          }
+        }
+      },
+      "place_id": "ChIJ23nAY7D4CIgRk3QD2hh74dc",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rochelle",
+          "short_name": "Rochelle",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rochelle, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.204246,
+            "lng": -88.93870009999999
+          },
+          "southwest": {
+            "lat": 41.88617500000001,
+            "lng": -89.688486
+          }
+        },
+        "location": {
+          "lat": 41.9969811,
+          "lng": -89.3226954
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.204246,
+            "lng": -88.93870009999999
+          },
+          "southwest": {
+            "lat": 41.88617500000001,
+            "lng": -89.688486
+          }
+        }
+      },
+      "place_id": "ChIJv7xVnyn6CIgRGhKGK2HPPXE",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ogle County",
+          "short_name": "Ogle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ogle County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.204246,
+            "lng": -88.93893489999999
+          },
+          "southwest": {
+            "lat": 41.88600100000001,
+            "lng": -89.688486
+          }
+        },
+        "location": {
+          "lat": 41.9969811,
+          "lng": -89.3226954
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.204246,
+            "lng": -88.93893489999999
+          },
+          "southwest": {
+            "lat": 41.88600100000001,
+            "lng": -89.688486
+          }
+        }
+      },
+      "place_id": "ChIJT5AG73H7CIgRnYGHvXyzq18",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

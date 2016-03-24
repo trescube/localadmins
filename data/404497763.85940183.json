@@ -1,0 +1,525 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "23",
+          "short_name": "23",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Maple Avenue",
+          "short_name": "E Maple Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Roselle",
+          "short_name": "Roselle",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bloomingdale Township",
+          "short_name": "Bloomingdale Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DuPage County",
+          "short_name": "Dupage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60172",
+          "short_name": "60172",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "23 E Maple Ave, Roselle, IL 60172, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9810394,
+            "lng": -88.0855639
+          },
+          "southwest": {
+            "lat": 41.980874,
+            "lng": -88.0866609
+          }
+        },
+        "location": {
+          "lat": 41.9810066,
+          "lng": -88.0861268
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9823056802915,
+            "lng": -88.0847634197085
+          },
+          "southwest": {
+            "lat": 41.9796077197085,
+            "lng": -88.08746138029151
+          }
+        }
+      },
+      "place_id": "EiYyMyBFIE1hcGxlIEF2ZSwgUm9zZWxsZSwgSUwgNjAxNzIsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Roselle",
+          "short_name": "Roselle",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bloomingdale Township",
+          "short_name": "Bloomingdale Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DuPage County",
+          "short_name": "Dupage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Roselle, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0004281,
+            "lng": -88.0464981
+          },
+          "southwest": {
+            "lat": 41.959729,
+            "lng": -88.1258139
+          }
+        },
+        "location": {
+          "lat": 41.9847504,
+          "lng": -88.07979329999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0004281,
+            "lng": -88.0464981
+          },
+          "southwest": {
+            "lat": 41.959729,
+            "lng": -88.1258139
+          }
+        }
+      },
+      "place_id": "ChIJU_LSeAGsD4gRoElQz5W1Cgc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "60172",
+          "short_name": "60172",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Roselle",
+          "short_name": "Roselle",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Roselle, IL 60172, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.001486,
+            "lng": -88.04617689999999
+          },
+          "southwest": {
+            "lat": 41.9518858,
+            "lng": -88.15165089999999
+          }
+        },
+        "location": {
+          "lat": 41.9782668,
+          "lng": -88.09496089999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.001486,
+            "lng": -88.04617689999999
+          },
+          "southwest": {
+            "lat": 41.9518858,
+            "lng": -88.15165089999999
+          }
+        }
+      },
+      "place_id": "ChIJme9hqQCsD4gRGV08LyH7OOo",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bloomingdale Township",
+          "short_name": "Bloomingdale Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DuPage County",
+          "short_name": "Dupage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bloomingdale Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9925179,
+            "lng": -88.031117
+          },
+          "southwest": {
+            "lat": 41.901128,
+            "lng": -88.1458979
+          }
+        },
+        "location": {
+          "lat": 41.9629953,
+          "lng": -88.0705319
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9925179,
+            "lng": -88.031117
+          },
+          "southwest": {
+            "lat": 41.901128,
+            "lng": -88.1458979
+          }
+        }
+      },
+      "place_id": "ChIJoR9loYCrD4gRFCIE62nRol0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "DuPage County",
+          "short_name": "Dupage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dupage County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.994029,
+            "lng": -87.91425690000001
+          },
+          "southwest": {
+            "lat": 41.68533,
+            "lng": -88.26317809999999
+          }
+        },
+        "location": {
+          "lat": 41.8243831,
+          "lng": -88.0900762
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.994029,
+            "lng": -87.91425690000001
+          },
+          "southwest": {
+            "lat": 41.68533,
+            "lng": -88.26317809999999
+          }
+        }
+      },
+      "place_id": "ChIJa_8YHt6oD4gRaux4XvaID0k",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chicago Metropolitan Area",
+          "short_name": "Chicago Metropolitan Area",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chicago Metropolitan Area, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        },
+        "location": {
+          "lat": 41.7435073,
+          "lng": -88.0118473
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        }
+      },
+      "place_id": "ChIJg-CZjExEDogRNJNXmgqEe9o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

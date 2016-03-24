@@ -1,0 +1,547 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-199",
+          "short_name": "101-199",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Jackson Street",
+          "short_name": "S Jackson St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Flanagan",
+          "short_name": "Flanagan",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska Township",
+          "short_name": "Nebraska Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61740",
+          "short_name": "61740",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7528",
+          "short_name": "7528",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "101-199 S Jackson St, Flanagan, IL 61740, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.877921,
+            "lng": -88.8597987
+          },
+          "southwest": {
+            "lat": 40.876773,
+            "lng": -88.8598052
+          }
+        },
+        "location": {
+          "lat": 40.8772075,
+          "lng": -88.85981989999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8786959802915,
+            "lng": -88.8584529697085
+          },
+          "southwest": {
+            "lat": 40.8759980197085,
+            "lng": -88.8611509302915
+          }
+        }
+      },
+      "place_id": "Ei0xMDEtMTk5IFMgSmFja3NvbiBTdCwgRmxhbmFnYW4sIElMIDYxNzQwLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Flanagan",
+          "short_name": "Flanagan",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska Township",
+          "short_name": "Nebraska Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61740",
+          "short_name": "61740",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Flanagan, IL 61740, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8839489,
+            "lng": -88.851744
+          },
+          "southwest": {
+            "lat": 40.8699948,
+            "lng": -88.866064
+          }
+        },
+        "location": {
+          "lat": 40.878089,
+          "lng": -88.8611818
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8839489,
+            "lng": -88.851744
+          },
+          "southwest": {
+            "lat": 40.8699948,
+            "lng": -88.866064
+          }
+        }
+      },
+      "place_id": "ChIJP2GS8fCLC4gRw-BAnlkYR0Q",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska Township",
+          "short_name": "Nebraska Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9302991,
+            "lng": -88.814888
+          },
+          "southwest": {
+            "lat": 40.8404339,
+            "lng": -88.9314519
+          }
+        },
+        "location": {
+          "lat": 40.8926966,
+          "lng": -88.8838834
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9302991,
+            "lng": -88.814888
+          },
+          "southwest": {
+            "lat": 40.8404339,
+            "lng": -88.9314519
+          }
+        }
+      },
+      "place_id": "ChIJla-aNg6MC4gRcKynQar-0m0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61740",
+          "short_name": "61740",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Flanagan",
+          "short_name": "Flanagan",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Flanagan, IL 61740, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9743,
+            "lng": -88.75702
+          },
+          "southwest": {
+            "lat": 40.7965869,
+            "lng": -88.950649
+          }
+        },
+        "location": {
+          "lat": 40.8926966,
+          "lng": -88.8838834
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9743,
+            "lng": -88.75702
+          },
+          "southwest": {
+            "lat": 40.7965869,
+            "lng": -88.950649
+          }
+        }
+      },
+      "place_id": "ChIJmS9z6t2LC4gRiyO7KI5VzEc",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pontiac",
+          "short_name": "Pontiac",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pontiac, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1139439,
+            "lng": -88.2348679
+          },
+          "southwest": {
+            "lat": 40.616474,
+            "lng": -88.9314521
+          }
+        },
+        "location": {
+          "lat": 40.8688604,
+          "lng": -88.55653099999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1139439,
+            "lng": -88.2348679
+          },
+          "southwest": {
+            "lat": 40.616474,
+            "lng": -88.9314521
+          }
+        }
+      },
+      "place_id": "ChIJM4-GdHVsDIgRYPMrGRhG9nY",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Livingston County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.114227,
+            "lng": -88.23494889999999
+          },
+          "southwest": {
+            "lat": 40.6165499,
+            "lng": -88.9314519
+          }
+        },
+        "location": {
+          "lat": 40.8688604,
+          "lng": -88.55653099999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.114227,
+            "lng": -88.23494889999999
+          },
+          "southwest": {
+            "lat": 40.6165499,
+            "lng": -88.9314519
+          }
+        }
+      },
+      "place_id": "ChIJt6x97f5kDIgRZM1i1O0I3YQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

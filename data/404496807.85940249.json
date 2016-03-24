@@ -1,0 +1,437 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "217",
+          "short_name": "217",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Veterans Drive",
+          "short_name": "Veterans Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Waterloo",
+          "short_name": "Waterloo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62298",
+          "short_name": "62298",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1131",
+          "short_name": "1131",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "217 Veterans Dr, Waterloo, IL 62298, USA",
+      "geometry": {
+        "location": {
+          "lat": 38.339821,
+          "lng": -90.1537914
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 38.3411699802915,
+            "lng": -90.1524424197085
+          },
+          "southwest": {
+            "lat": 38.3384720197085,
+            "lng": -90.15514038029151
+          }
+        }
+      },
+      "place_id": "ChIJx9x80TW92IcRtnyg1XPVC1M",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Waterloo",
+          "short_name": "Waterloo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Waterloo, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.379286,
+            "lng": -90.1190451
+          },
+          "southwest": {
+            "lat": 38.2999219,
+            "lng": -90.178299
+          }
+        },
+        "location": {
+          "lat": 38.3358857,
+          "lng": -90.14983409999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.379286,
+            "lng": -90.1190451
+          },
+          "southwest": {
+            "lat": 38.2999219,
+            "lng": -90.178299
+          }
+        }
+      },
+      "place_id": "ChIJwWvw5WKi2IcRoeSRHCL3CJs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62298",
+          "short_name": "62298",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Waterloo",
+          "short_name": "Waterloo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Waterloo, IL 62298, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.400501,
+            "lng": -89.9943808
+          },
+          "southwest": {
+            "lat": 38.2233329,
+            "lng": -90.320312
+          }
+        },
+        "location": {
+          "lat": 38.2953699,
+          "lng": -90.1682271
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.400501,
+            "lng": -89.9943808
+          },
+          "southwest": {
+            "lat": 38.2233329,
+            "lng": -90.320312
+          }
+        }
+      },
+      "place_id": "ChIJV0OSCviX2IcRrC_8p-EE46I",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Monroe County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.5223271,
+            "lng": -89.8971516
+          },
+          "southwest": {
+            "lat": 38.0879691,
+            "lng": -90.3740809
+          }
+        },
+        "location": {
+          "lat": 38.2742526,
+          "lng": -90.1869644
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5223271,
+            "lng": -89.8971516
+          },
+          "southwest": {
+            "lat": 38.0879691,
+            "lng": -90.3740809
+          }
+        }
+      },
+      "place_id": "ChIJv0u1_T-m2IcR9-UTgfKc6Rs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Louis",
+          "short_name": "St. Louis",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Louis, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        },
+        "location": {
+          "lat": 38.8196814,
+          "lng": -90.4502368
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        }
+      },
+      "place_id": "ChIJneBzzj4z34cRFGg2ez6q57o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

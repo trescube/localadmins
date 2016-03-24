@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "300-318",
+          "short_name": "300-318",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Pike Street",
+          "short_name": "N Pike St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Oakland",
+          "short_name": "Oakland",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "East Oakland Township",
+          "short_name": "East Oakland Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coles County",
+          "short_name": "Coles County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61943",
+          "short_name": "61943",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7135",
+          "short_name": "7135",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "300-318 N Pike St, Oakland, IL 61943, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.6584735,
+            "lng": -88.0273632
+          },
+          "southwest": {
+            "lat": 39.6571934,
+            "lng": -88.0273673
+          }
+        },
+        "location": {
+          "lat": 39.6576582,
+          "lng": -88.02734679999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.65918243029149,
+            "lng": -88.02601626970849
+          },
+          "southwest": {
+            "lat": 39.6564844697085,
+            "lng": -88.02871423029151
+          }
+        }
+      },
+      "place_id": "EikzMDAtMzE4IE4gUGlrZSBTdCwgT2FrbGFuZCwgSUwgNjE5NDMsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Oakland",
+          "short_name": "Oakland",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "East Oakland Township",
+          "short_name": "East Oakland Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coles County",
+          "short_name": "Coles County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61943",
+          "short_name": "61943",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Oakland, IL 61943, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.6703179,
+            "lng": -88.01317879999999
+          },
+          "southwest": {
+            "lat": 39.6472849,
+            "lng": -88.043151
+          }
+        },
+        "location": {
+          "lat": 39.6539235,
+          "lng": -88.0261471
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.6703179,
+            "lng": -88.01317879999999
+          },
+          "southwest": {
+            "lat": 39.6472849,
+            "lng": -88.043151
+          }
+        }
+      },
+      "place_id": "ChIJmYHy5D7dcogR0W7GWNxyeUE",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "East Oakland Township",
+          "short_name": "East Oakland Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coles County",
+          "short_name": "Coles County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East Oakland Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.6859279,
+            "lng": -87.9641089
+          },
+          "southwest": {
+            "lat": 39.579093,
+            "lng": -88.0827389
+          }
+        },
+        "location": {
+          "lat": 39.6145533,
+          "lng": -88.0314174
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.6859279,
+            "lng": -87.9641089
+          },
+          "southwest": {
+            "lat": 39.579093,
+            "lng": -88.0827389
+          }
+        }
+      },
+      "place_id": "ChIJUfgtnvfncogRLCRhGPaEaHQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61943",
+          "short_name": "61943",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Oakland",
+          "short_name": "Oakland",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Oakland, IL 61943, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.768657,
+            "lng": -87.83444899999999
+          },
+          "southwest": {
+            "lat": 39.578859,
+            "lng": -88.1197119
+          }
+        },
+        "location": {
+          "lat": 39.6558372,
+          "lng": -88.0314174
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.768657,
+            "lng": -87.9376448
+          },
+          "southwest": {
+            "lat": 39.578859,
+            "lng": -88.1197119
+          }
+        }
+      },
+      "place_id": "ChIJGcKGFxDdcogR9vvoJh2y2eY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Coles County",
+          "short_name": "Coles County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Coles County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.6859279,
+            "lng": -87.96029589999999
+          },
+          "southwest": {
+            "lat": 39.373638,
+            "lng": -88.472073
+          }
+        },
+        "location": {
+          "lat": 39.5560011,
+          "lng": -88.24611829999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.6859279,
+            "lng": -87.96029589999999
+          },
+          "southwest": {
+            "lat": 39.373638,
+            "lng": -88.472073
+          }
+        }
+      },
+      "place_id": "ChIJZaKnLzkDc4gRlUI9Q1egHVE",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

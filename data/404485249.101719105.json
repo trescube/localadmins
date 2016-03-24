@@ -1,0 +1,547 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "106",
+          "short_name": "106",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Fritz Lane",
+          "short_name": "Fritz Ln",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Williamsport",
+          "short_name": "Williamsport",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Old Lycoming Township",
+          "short_name": "Old Lycoming Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lycoming County",
+          "short_name": "Lycoming County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "17701",
+          "short_name": "17701",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1478",
+          "short_name": "1478",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "106 Fritz Ln, Williamsport, PA 17701, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.25647,
+            "lng": -77.049159
+          },
+          "southwest": {
+            "lat": 41.2549511,
+            "lng": -77.0494617
+          }
+        },
+        "location": {
+          "lat": 41.2564678,
+          "lng": -77.0491405
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2570595302915,
+            "lng": -77.0479613697085
+          },
+          "southwest": {
+            "lat": 41.2543615697085,
+            "lng": -77.05065933029151
+          }
+        }
+      },
+      "place_id": "EikxMDYgRnJpdHogTG4sIFdpbGxpYW1zcG9ydCwgUEEgMTc3MDEsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Garden View",
+          "short_name": "Garden View",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Old Lycoming Township",
+          "short_name": "Old Lycoming Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lycoming County",
+          "short_name": "Lycoming County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "17701",
+          "short_name": "17701",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Garden View, PA 17701, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.268172,
+            "lng": -77.039458
+          },
+          "southwest": {
+            "lat": 41.24595110000001,
+            "lng": -77.0626849
+          }
+        },
+        "location": {
+          "lat": 41.2542441,
+          "lng": -77.0460792
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.268172,
+            "lng": -77.039458
+          },
+          "southwest": {
+            "lat": 41.24595110000001,
+            "lng": -77.0626849
+          }
+        }
+      },
+      "place_id": "ChIJmc_5mtCoz4kRReaNMaIkSkE",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Old Lycoming Township",
+          "short_name": "Old Lycoming Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lycoming County",
+          "short_name": "Lycoming County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Old Lycoming Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.29476409999999,
+            "lng": -77.039458
+          },
+          "southwest": {
+            "lat": 41.243373,
+            "lng": -77.12535110000002
+          }
+        },
+        "location": {
+          "lat": 41.2608137,
+          "lng": -77.09098089999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.29476409999999,
+            "lng": -77.039458
+          },
+          "southwest": {
+            "lat": 41.243373,
+            "lng": -77.12535110000002
+          }
+        }
+      },
+      "place_id": "ChIJeyeT1bSuz4kRSbcZD7TCALo",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "17701",
+          "short_name": "17701",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Williamsport",
+          "short_name": "Williamsport",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Williamsport, PA 17701, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4957,
+            "lng": -76.6983499
+          },
+          "southwest": {
+            "lat": 41.218075,
+            "lng": -77.123915
+          }
+        },
+        "location": {
+          "lat": 41.24118199999999,
+          "lng": -77.0010648
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4957,
+            "lng": -76.6983499
+          },
+          "southwest": {
+            "lat": 41.218075,
+            "lng": -77.123915
+          }
+        }
+      },
+      "place_id": "ChIJ7aGVAcOUz4kRN7O3Vviv9Rs",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Williamsport",
+          "short_name": "Williamsport",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Williamsport, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.596793,
+            "lng": -76.447597
+          },
+          "southwest": {
+            "lat": 41.0687079,
+            "lng": -77.599605
+          }
+        },
+        "location": {
+          "lat": 41.2720004,
+          "lng": -77.10249019999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.596793,
+            "lng": -76.447597
+          },
+          "southwest": {
+            "lat": 41.0687079,
+            "lng": -77.599605
+          }
+        }
+      },
+      "place_id": "ChIJlwX7ECmuz4kRXelqLOsPhyI",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lycoming County",
+          "short_name": "Lycoming County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lycoming County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.596868,
+            "lng": -76.447597
+          },
+          "southwest": {
+            "lat": 41.0687079,
+            "lng": -77.599605
+          }
+        },
+        "location": {
+          "lat": 41.2720004,
+          "lng": -77.10249019999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.596868,
+            "lng": -76.447597
+          },
+          "southwest": {
+            "lat": 41.0687079,
+            "lng": -77.599605
+          }
+        }
+      },
+      "place_id": "ChIJOZ1ZQsqbz4kRQYbuLs1kpRw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

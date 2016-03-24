@@ -1,0 +1,440 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1424",
+          "short_name": "1424",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Woodland Drive",
+          "short_name": "Woodland Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Spearfish",
+          "short_name": "Spearfish",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lawrence County",
+          "short_name": "Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "57783",
+          "short_name": "57783",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "1424 Woodland Dr, Spearfish, SD 57783, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.4989308,
+            "lng": -103.8196474
+          },
+          "southwest": {
+            "lat": 44.490054,
+            "lng": -103.8286904
+          }
+        },
+        "location": {
+          "lat": 44.49142579999999,
+          "lng": -103.8196722
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 44.4989308,
+            "lng": -103.8196474
+          },
+          "southwest": {
+            "lat": 44.490054,
+            "lng": -103.8286904
+          }
+        }
+      },
+      "place_id": "EioxNDI0IFdvb2RsYW5kIERyLCBTcGVhcmZpc2gsIFNEIDU3NzgzLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Spearfish",
+          "short_name": "Spearfish",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lawrence County",
+          "short_name": "Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Spearfish, SD, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.517497,
+            "lng": -103.714127
+          },
+          "southwest": {
+            "lat": 44.452816,
+            "lng": -103.8902051
+          }
+        },
+        "location": {
+          "lat": 44.4908172,
+          "lng": -103.8593698
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.517497,
+            "lng": -103.714127
+          },
+          "southwest": {
+            "lat": 44.452816,
+            "lng": -103.8902051
+          }
+        }
+      },
+      "place_id": "ChIJ76WrW1iYMlMRqqBdnGHt3eg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "57783",
+          "short_name": "57783",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Spearfish",
+          "short_name": "Spearfish",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Spearfish, SD 57783, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.6048,
+            "lng": -103.7102129
+          },
+          "southwest": {
+            "lat": 44.3093389,
+            "lng": -104.0560399
+          }
+        },
+        "location": {
+          "lat": 44.481587,
+          "lng": -103.9319295
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.6048,
+            "lng": -103.7102129
+          },
+          "southwest": {
+            "lat": 44.3093389,
+            "lng": -104.0560399
+          }
+        }
+      },
+      "place_id": "ChIJb8FM75WXMlMRJRD2jQpEclA",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Spearfish",
+          "short_name": "Spearfish",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Spearfish, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.6047781,
+            "lng": -103.452436
+          },
+          "southwest": {
+            "lat": 44.140665,
+            "lng": -104.0559269
+          }
+        },
+        "location": {
+          "lat": 44.31065299999999,
+          "lng": -103.7979877
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.6047781,
+            "lng": -103.452436
+          },
+          "southwest": {
+            "lat": 44.140665,
+            "lng": -104.0559269
+          }
+        }
+      },
+      "place_id": "ChIJfa5Xn-ikMlMR6eIE0-mDEQI",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lawrence County",
+          "short_name": "Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lawrence County, SD, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.6048,
+            "lng": -103.452436
+          },
+          "southwest": {
+            "lat": 44.1405759,
+            "lng": -104.055971
+          }
+        },
+        "location": {
+          "lat": 44.31065299999999,
+          "lng": -103.7979877
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.6048,
+            "lng": -103.452436
+          },
+          "southwest": {
+            "lat": 44.1405759,
+            "lng": -104.055971
+          }
+        }
+      },
+      "place_id": "ChIJgzdJ6vajMlMRs3gfVRaoiOw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "South Dakota, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.945713,
+            "lng": -96.436589
+          },
+          "southwest": {
+            "lat": 42.479686,
+            "lng": -104.0577391
+          }
+        },
+        "location": {
+          "lat": 43.9695148,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.945713,
+            "lng": -96.436589
+          },
+          "southwest": {
+            "lat": 42.479686,
+            "lng": -104.0577391
+          }
+        }
+      },
+      "place_id": "ChIJpTjphS1DfYcRt6SGMSnW8Ac",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

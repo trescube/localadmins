@@ -1,0 +1,565 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "156-198",
+          "short_name": "156-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Pottstown Pike",
+          "short_name": "PA-100",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Exton",
+          "short_name": "Exton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "West Whiteland Township",
+          "short_name": "West Whiteland Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chester County",
+          "short_name": "Chester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "19341",
+          "short_name": "19341",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "156-198 Pottstown Pike, Exton, PA 19341, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0313477,
+            "lng": -75.6301558
+          },
+          "southwest": {
+            "lat": 40.0306908,
+            "lng": -75.6306192
+          }
+        },
+        "location": {
+          "lat": 40.0307327,
+          "lng": -75.6302067
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0323682302915,
+            "lng": -75.62903851970849
+          },
+          "southwest": {
+            "lat": 40.0296702697085,
+            "lng": -75.63173648029151
+          }
+        }
+      },
+      "place_id": "EiwxNTYtMTk4IFBvdHRzdG93biBQaWtlLCBFeHRvbiwgUEEgMTkzNDEsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Strawbridge & Clothier Exton",
+          "short_name": "Strawbridge & Clothier Exton",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Exton",
+          "short_name": "Exton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "West Whiteland Township",
+          "short_name": "West Whiteland Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chester County",
+          "short_name": "Chester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "19105",
+          "short_name": "19105",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Strawbridge & Clothier Exton, Exton, PA 19105, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.030662,
+          "lng": -75.63020999999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0320109802915,
+            "lng": -75.6288610197085
+          },
+          "southwest": {
+            "lat": 40.0293130197085,
+            "lng": -75.6315589802915
+          }
+        }
+      },
+      "place_id": "ChIJcS8X5pr0xokRLpYUl0Hf1CM",
+      "types": [
+        "airport",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Exton",
+          "short_name": "Exton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "West Whiteland Township",
+          "short_name": "West Whiteland Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chester County",
+          "short_name": "Chester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Exton, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.045268,
+            "lng": -75.60788079999999
+          },
+          "southwest": {
+            "lat": 40.0149288,
+            "lng": -75.65336990000002
+          }
+        },
+        "location": {
+          "lat": 40.0325817,
+          "lng": -75.6274583
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.045268,
+            "lng": -75.60788079999999
+          },
+          "southwest": {
+            "lat": 40.0149288,
+            "lng": -75.65336990000002
+          }
+        }
+      },
+      "place_id": "ChIJheyT-Jr0xokRkxaDD8C78_M",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "West Whiteland Township",
+          "short_name": "West Whiteland Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chester County",
+          "short_name": "Chester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "West Whiteland Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.054316,
+            "lng": -75.575232
+          },
+          "southwest": {
+            "lat": 39.9891329,
+            "lng": -75.673653
+          }
+        },
+        "location": {
+          "lat": 40.0264958,
+          "lng": -75.6091696
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.054316,
+            "lng": -75.575232
+          },
+          "southwest": {
+            "lat": 39.9891329,
+            "lng": -75.673653
+          }
+        }
+      },
+      "place_id": "ChIJTaaqAoH0xokRTDPg512yJmM",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "19341",
+          "short_name": "19341",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Exton",
+          "short_name": "Exton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chester County",
+          "short_name": "Chester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Exton, PA 19341, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0736548,
+            "lng": -75.5813989
+          },
+          "southwest": {
+            "lat": 40.007215,
+            "lng": -75.6990369
+          }
+        },
+        "location": {
+          "lat": 40.04524420000001,
+          "lng": -75.63826569999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0736548,
+            "lng": -75.5813989
+          },
+          "southwest": {
+            "lat": 40.007215,
+            "lng": -75.6990369
+          }
+        }
+      },
+      "place_id": "ChIJyzhGGb30xokR1q8_Y4yH5-s",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chester County",
+          "short_name": "Chester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chester County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.2451251,
+            "lng": -75.361013
+          },
+          "southwest": {
+            "lat": 39.7211468,
+            "lng": -76.13667199999999
+          }
+        },
+        "location": {
+          "lat": 40.0010204,
+          "lng": -75.8069082
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.2451251,
+            "lng": -75.361013
+          },
+          "southwest": {
+            "lat": 39.7211468,
+            "lng": -76.13667199999999
+          }
+        }
+      },
+      "place_id": "ChIJ_w4lRiZdxokRjwDbOR-3-YE",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

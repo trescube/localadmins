@@ -1,0 +1,633 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "9",
+          "short_name": "9",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Lendler Lane",
+          "short_name": "Lendler Ln",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Wallingford Center",
+          "short_name": "Wallingford Center",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wallingford",
+          "short_name": "Wallingford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wallingford",
+          "short_name": "Wallingford",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06492",
+          "short_name": "06492",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4224",
+          "short_name": "4224",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "9 Lendler Ln, Wallingford, CT 06492, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4508604,
+            "lng": -72.8178272
+          },
+          "southwest": {
+            "lat": 41.449888,
+            "lng": -72.8186879
+          }
+        },
+        "location": {
+          "lat": 41.4498998,
+          "lng": -72.8186982
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4517231802915,
+            "lng": -72.8169085697085
+          },
+          "southwest": {
+            "lat": 41.4490252197085,
+            "lng": -72.81960653029151
+          }
+        }
+      },
+      "place_id": "Eig5IExlbmRsZXIgTG4sIFdhbGxpbmdmb3JkLCBDVCAwNjQ5MiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wallingford Center",
+          "short_name": "Wallingford Center",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wallingford",
+          "short_name": "Wallingford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wallingford",
+          "short_name": "Wallingford",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wallingford Center, Wallingford, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4964969,
+            "lng": -72.781142
+          },
+          "southwest": {
+            "lat": 41.420297,
+            "lng": -72.8507439
+          }
+        },
+        "location": {
+          "lat": 41.4510748,
+          "lng": -72.82200639999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4964969,
+            "lng": -72.781142
+          },
+          "southwest": {
+            "lat": 41.420297,
+            "lng": -72.8507439
+          }
+        }
+      },
+      "place_id": "ChIJyZBjdJrO54kRGDx12s9c7GY",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wallingford",
+          "short_name": "Wallingford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wallingford",
+          "short_name": "Wallingford",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wallingford, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.516509,
+            "lng": -72.73388589999999
+          },
+          "southwest": {
+            "lat": 41.396612,
+            "lng": -72.88664589999999
+          }
+        },
+        "location": {
+          "lat": 41.4570108,
+          "lng": -72.8230736
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.516509,
+            "lng": -72.73388589999999
+          },
+          "southwest": {
+            "lat": 41.396612,
+            "lng": -72.88664589999999
+          }
+        }
+      },
+      "place_id": "ChIJXXoGrZ3O54kRsPKu9FzR_Ho",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wallingford",
+          "short_name": "Wallingford",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wallingford, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.516509,
+            "lng": -72.73388589999999
+          },
+          "southwest": {
+            "lat": 41.396612,
+            "lng": -72.88664589999999
+          }
+        },
+        "location": {
+          "lat": 41.45930389999999,
+          "lng": -72.7806422
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.516509,
+            "lng": -72.73388589999999
+          },
+          "southwest": {
+            "lat": 41.396612,
+            "lng": -72.88664589999999
+          }
+        }
+      },
+      "place_id": "ChIJ2QGaR2zM54kRUThPZE5CnjY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "06492",
+          "short_name": "06492",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Wallingford",
+          "short_name": "Wallingford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wallingford, CT 06492, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.516509,
+            "lng": -72.73388589999999
+          },
+          "southwest": {
+            "lat": 41.396662,
+            "lng": -72.886667
+          }
+        },
+        "location": {
+          "lat": 41.45930389999999,
+          "lng": -72.7806422
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.516509,
+            "lng": -72.73388589999999
+          },
+          "southwest": {
+            "lat": 41.396662,
+            "lng": -72.886667
+          }
+        }
+      },
+      "place_id": "ChIJE5o4pCDM54kRZ4--rpIehAk",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Haven",
+          "short_name": "New Haven",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Haven, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.578894,
+            "lng": -72.3412563
+          },
+          "southwest": {
+            "lat": 41.234397,
+            "lng": -73.0868521
+          }
+        },
+        "location": {
+          "lat": 41.3583849,
+          "lng": -72.7570024
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.578894,
+            "lng": -72.3412563
+          },
+          "southwest": {
+            "lat": 41.234397,
+            "lng": -73.0868521
+          }
+        }
+      },
+      "place_id": "ChIJA7zwPZTS54kRedMdi-l_M4I",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Haven County",
+          "short_name": "New Haven County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Haven County, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6443109,
+            "lng": -72.5364987
+          },
+          "southwest": {
+            "lat": 41.1719731,
+            "lng": -73.327114
+          }
+        },
+        "location": {
+          "lat": 41.3266911,
+          "lng": -72.8042797
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6443109,
+            "lng": -72.5364987
+          },
+          "southwest": {
+            "lat": 41.1719731,
+            "lng": -73.327114
+          }
+        }
+      },
+      "place_id": "ChIJiT24cvvP54kR2fSPHkp0Akc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Connecticut, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.6032207,
+          "lng": -73.087749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJpVER8hFT5okR5XBhBVttmq4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

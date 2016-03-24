@@ -1,0 +1,489 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "123-131",
+          "short_name": "123-131",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "White Meadow Road",
+          "short_name": "White Meadow Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "White Meadow Lake",
+          "short_name": "White Meadow Lake",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rockaway",
+          "short_name": "Rockaway",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rockaway Township",
+          "short_name": "Rockaway Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Morris County",
+          "short_name": "Morris County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "07866",
+          "short_name": "07866",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1104",
+          "short_name": "1104",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "123-131 White Meadow Rd, Rockaway, NJ 07866, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9239819,
+            "lng": -74.51169399999999
+          },
+          "southwest": {
+            "lat": 40.92355500000001,
+            "lng": -74.5117964
+          }
+        },
+        "location": {
+          "lat": 40.92393149999999,
+          "lng": -74.5117769
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9251174302915,
+            "lng": -74.5103962197085
+          },
+          "southwest": {
+            "lat": 40.9224194697085,
+            "lng": -74.5130941802915
+          }
+        }
+      },
+      "place_id": "EjAxMjMtMTMxIFdoaXRlIE1lYWRvdyBSZCwgUm9ja2F3YXksIE5KIDA3ODY2LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "White Meadow Lake",
+          "short_name": "White Meadow Lake",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rockaway Township",
+          "short_name": "Rockaway Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Morris County",
+          "short_name": "Morris County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "White Meadow Lake, Rockaway Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.94192400000001,
+            "lng": -74.485265
+          },
+          "southwest": {
+            "lat": 40.907781,
+            "lng": -74.5425171
+          }
+        },
+        "location": {
+          "lat": 40.9237098,
+          "lng": -74.51071209999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.94192400000001,
+            "lng": -74.485265
+          },
+          "southwest": {
+            "lat": 40.907781,
+            "lng": -74.5425171
+          }
+        }
+      },
+      "place_id": "ChIJJ-tzCcMLw4kRWDU1nZPMq94",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "07866",
+          "short_name": "07866",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Rockaway",
+          "short_name": "Rockaway",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rockaway, NJ 07866, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0417909,
+            "lng": -74.424285
+          },
+          "southwest": {
+            "lat": 40.87740489999999,
+            "lng": -74.55609489999999
+          }
+        },
+        "location": {
+          "lat": 40.930976,
+          "lng": -74.519706
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0417909,
+            "lng": -74.424285
+          },
+          "southwest": {
+            "lat": 40.87740489999999,
+            "lng": -74.55609489999999
+          }
+        }
+      },
+      "place_id": "ChIJnxB2FKoOw4kRPkS8lotVcGY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rockaway Township",
+          "short_name": "Rockaway Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Morris County",
+          "short_name": "Morris County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rockaway Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0458969,
+            "lng": -74.4280848
+          },
+          "southwest": {
+            "lat": 40.8796229,
+            "lng": -74.59650309999999
+          }
+        },
+        "location": {
+          "lat": 40.9300943,
+          "lng": -74.4872422
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0458969,
+            "lng": -74.4280848
+          },
+          "southwest": {
+            "lat": 40.8796229,
+            "lng": -74.59650309999999
+          }
+        }
+      },
+      "place_id": "ChIJS-IDUBcMw4kRwH93wPhWs8s",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Morris County",
+          "short_name": "Morris County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Morris County, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0860019,
+            "lng": -74.266638
+          },
+          "southwest": {
+            "lat": 40.649516,
+            "lng": -74.88975289999999
+          }
+        },
+        "location": {
+          "lat": 40.8336038,
+          "lng": -74.54632819999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0860019,
+            "lng": -74.266638
+          },
+          "southwest": {
+            "lat": 40.649516,
+            "lng": -74.88975289999999
+          }
+        }
+      },
+      "place_id": "ChIJye24g0OWw4kRa6osNwPLVyM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Jersey, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9285589,
+            "lng": -75.5597921
+          }
+        },
+        "location": {
+          "lat": 40.0583238,
+          "lng": -74.4056612
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9286032,
+            "lng": -75.5597921
+          }
+        }
+      },
+      "place_id": "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

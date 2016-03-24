@@ -1,0 +1,442 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "15365",
+          "short_name": "15365",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Summit Farm Drive",
+          "short_name": "Summit Farm Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Blue Ridge Summit",
+          "short_name": "Blue Ridge Summit",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington Township",
+          "short_name": "Washington Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Franklin County",
+          "short_name": "Franklin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "17214",
+          "short_name": "17214",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "15365 Summit Farm Dr, Blue Ridge Summit, PA 17214, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.7252979,
+          "lng": -77.46911779999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7266468802915,
+            "lng": -77.46776881970848
+          },
+          "southwest": {
+            "lat": 39.7239489197085,
+            "lng": -77.4704667802915
+          }
+        }
+      },
+      "place_id": "ChIJ3WkdCva7yYkRCK--ooYcvX8",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "17214",
+          "short_name": "17214",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Blue Ridge Summit",
+          "short_name": "Blue Ridge Summit",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Blue Ridge Summit, PA 17214, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.7950239,
+            "lng": -77.45943009999999
+          },
+          "southwest": {
+            "lat": 39.71998689999999,
+            "lng": -77.49857109999999
+          }
+        },
+        "location": {
+          "lat": 39.753684,
+          "lng": -77.4730653
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7950239,
+            "lng": -77.45943009999999
+          },
+          "southwest": {
+            "lat": 39.71998689999999,
+            "lng": -77.49857109999999
+          }
+        }
+      },
+      "place_id": "ChIJ0UH1EIi7yYkRVR8SRP1xGRo",
+      "postcode_localities": [
+        "BLUE RIDGE SM",
+        "Blue Ridge Summit"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Washington Township",
+          "short_name": "Washington Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Franklin County",
+          "short_name": "Franklin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Washington Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.787095,
+            "lng": -77.4591319
+          },
+          "southwest": {
+            "lat": 39.719885,
+            "lng": -77.66956309999999
+          }
+        },
+        "location": {
+          "lat": 39.7469367,
+          "lng": -77.5275463
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.787095,
+            "lng": -77.4591319
+          },
+          "southwest": {
+            "lat": 39.719885,
+            "lng": -77.66956309999999
+          }
+        }
+      },
+      "place_id": "ChIJqVYMUyiWyYkRjhV92WSKcF4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Franklin County",
+          "short_name": "Franklin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Franklin County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.2898851,
+            "lng": -77.454109
+          },
+          "southwest": {
+            "lat": 39.719885,
+            "lng": -78.099403
+          }
+        },
+        "location": {
+          "lat": 39.8923855,
+          "lng": -77.6536125
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.2898851,
+            "lng": -77.454109
+          },
+          "southwest": {
+            "lat": 39.719885,
+            "lng": -78.099403
+          }
+        }
+      },
+      "place_id": "ChIJ9ZoDX8R_yYkRlyMOZLWtPDY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chambersburg",
+          "short_name": "Chambersburg",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chambersburg, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.289825,
+            "lng": -77.4536141
+          },
+          "southwest": {
+            "lat": 39.7200171,
+            "lng": -78.0989755
+          }
+        },
+        "location": {
+          "lat": 39.8923855,
+          "lng": -77.6536125
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.289825,
+            "lng": -77.4536141
+          },
+          "southwest": {
+            "lat": 39.7200171,
+            "lng": -78.0989755
+          }
+        }
+      },
+      "place_id": "ChIJ-dw8zOmcyYkRCB_rmjjbwts",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

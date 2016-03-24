@@ -1,0 +1,394 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "Corliss Avenue",
+          "short_name": "Corliss Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Artesian",
+          "short_name": "Artesian",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Logan Township",
+          "short_name": "Logan Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sanborn County",
+          "short_name": "Sanborn County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "57314",
+          "short_name": "57314",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Corliss Ave, Artesian, SD 57314, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.022027,
+            "lng": -98.1005903
+          },
+          "southwest": {
+            "lat": 44.0219798,
+            "lng": -98.1054149
+          }
+        },
+        "location": {
+          "lat": 44.0220163,
+          "lng": -98.10300180000002
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 44.0233523802915,
+            "lng": -98.1005903
+          },
+          "southwest": {
+            "lat": 44.0206544197085,
+            "lng": -98.1054149
+          }
+        }
+      },
+      "place_id": "ChIJ0XsGzWg2hocRekp-oFj4J4A",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Logan Township",
+          "short_name": "Logan Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sanborn County",
+          "short_name": "Sanborn County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Logan Township, SD, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.025606,
+            "lng": -98.0902809
+          },
+          "southwest": {
+            "lat": 43.938149,
+            "lng": -98.2114589
+          }
+        },
+        "location": {
+          "lat": 43.9757753,
+          "lng": -98.1557066
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.025606,
+            "lng": -98.0902809
+          },
+          "southwest": {
+            "lat": 43.938149,
+            "lng": -98.2114589
+          }
+        }
+      },
+      "place_id": "ChIJ1eB17DtIhocRQH1UmWIrm4Y",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "57314",
+          "short_name": "57314",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Artesian",
+          "short_name": "Artesian",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Artesian, SD 57314, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.1959559,
+            "lng": -97.83095089999999
+          },
+          "southwest": {
+            "lat": 43.8451571,
+            "lng": -98.171943
+          }
+        },
+        "location": {
+          "lat": 44.0812243,
+          "lng": -98.0028892
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.1959559,
+            "lng": -97.83095089999999
+          },
+          "southwest": {
+            "lat": 43.8451571,
+            "lng": -98.171943
+          }
+        }
+      },
+      "place_id": "ChIJUWkFHGkxhocRiNXIQnrOXNA",
+      "postcode_localities": [
+        "Artesian",
+        "Forestburg"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sanborn County",
+          "short_name": "Sanborn County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sanborn County, SD, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.196751,
+            "lng": -97.849492
+          },
+          "southwest": {
+            "lat": 43.849857,
+            "lng": -98.3321759
+          }
+        },
+        "location": {
+          "lat": 44.0403291,
+          "lng": -98.04651849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.196751,
+            "lng": -97.849492
+          },
+          "southwest": {
+            "lat": 43.849857,
+            "lng": -98.3321759
+          }
+        }
+      },
+      "place_id": "ChIJF2scBkVKhocR5JLk0nZel-o",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "South Dakota",
+          "short_name": "SD",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "South Dakota, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.945713,
+            "lng": -96.436589
+          },
+          "southwest": {
+            "lat": 42.479686,
+            "lng": -104.0577391
+          }
+        },
+        "location": {
+          "lat": 43.9695148,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.945713,
+            "lng": -96.436589
+          },
+          "southwest": {
+            "lat": 42.479686,
+            "lng": -104.0577391
+          }
+        }
+      },
+      "place_id": "ChIJpTjphS1DfYcRt6SGMSnW8Ac",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

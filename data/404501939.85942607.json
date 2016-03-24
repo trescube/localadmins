@@ -1,0 +1,452 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "10100-10198",
+          "short_name": "10100-10198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East 700 North",
+          "short_name": "E 700 N",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lafayette",
+          "short_name": "Lafayette",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington township",
+          "short_name": "Washington Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tippecanoe County",
+          "short_name": "Tippecanoe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "47905",
+          "short_name": "47905",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "10100-10198 E 700 N, Lafayette, IN 47905, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.5188057,
+            "lng": -86.7120904
+          },
+          "southwest": {
+            "lat": 40.518794,
+            "lng": -86.713279
+          }
+        },
+        "location": {
+          "lat": 40.5188102,
+          "lng": -86.7122823
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.5201488302915,
+            "lng": -86.7113357197085
+          },
+          "southwest": {
+            "lat": 40.5174508697085,
+            "lng": -86.71403368029151
+          }
+        }
+      },
+      "place_id": "Ei0xMDEwMC0xMDE5OCBFIDcwMCBOLCBMYWZheWV0dGUsIElOIDQ3OTA1LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Washington township",
+          "short_name": "Washington Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tippecanoe County",
+          "short_name": "Tippecanoe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Washington Township, IN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.56188,
+            "lng": -86.6948131
+          },
+          "southwest": {
+            "lat": 40.474499,
+            "lng": -86.843209
+          }
+        },
+        "location": {
+          "lat": 40.5273719,
+          "lng": -86.72151749999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.56188,
+            "lng": -86.6948131
+          },
+          "southwest": {
+            "lat": 40.474499,
+            "lng": -86.843209
+          }
+        }
+      },
+      "place_id": "ChIJb7v603EGE4gRha-wXh-N96c",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "47905",
+          "short_name": "47905",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Lafayette",
+          "short_name": "Lafayette",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lafayette, IN 47905, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.56188300000001,
+            "lng": -86.6752921
+          },
+          "southwest": {
+            "lat": 40.272687,
+            "lng": -86.923909
+          }
+        },
+        "location": {
+          "lat": 40.4064351,
+          "lng": -86.761749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.56188300000001,
+            "lng": -86.6752921
+          },
+          "southwest": {
+            "lat": 40.272687,
+            "lng": -86.923909
+          }
+        }
+      },
+      "place_id": "ChIJ09GeackaE4gREKkTI-l2EMY",
+      "postcode_localities": [
+        "Colburn",
+        "Lafayette"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tippecanoe County",
+          "short_name": "Tippecanoe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Tippecanoe County, IN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.56294,
+            "lng": -86.6945679
+          },
+          "southwest": {
+            "lat": 40.2143609,
+            "lng": -87.09524789999999
+          }
+        },
+        "location": {
+          "lat": 40.34697310000001,
+          "lng": -86.8220341
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.56294,
+            "lng": -86.6945679
+          },
+          "southwest": {
+            "lat": 40.2143609,
+            "lng": -87.09524789999999
+          }
+        }
+      },
+      "place_id": "ChIJ67vJPNT_EogRxiZSAMRus8A",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lafayette",
+          "short_name": "Lafayette",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lafayette, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7375401,
+            "lng": -86.373436
+          },
+          "southwest": {
+            "lat": 40.2143729,
+            "lng": -87.526502
+          }
+        },
+        "location": {
+          "lat": 40.3512562,
+          "lng": -86.9824288
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7375401,
+            "lng": -86.373436
+          },
+          "southwest": {
+            "lat": 40.2143729,
+            "lng": -87.526502
+          }
+        }
+      },
+      "place_id": "ChIJ7XaiT3b-EogRNpmBTznujpk",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Indiana, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7606971,
+            "lng": -84.784662
+          },
+          "southwest": {
+            "lat": 37.7717419,
+            "lng": -88.097892
+          }
+        },
+        "location": {
+          "lat": 40.2671941,
+          "lng": -86.1349019
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7606971,
+            "lng": -84.784662
+          },
+          "southwest": {
+            "lat": 37.7717419,
+            "lng": -88.097892
+          }
+        }
+      },
+      "place_id": "ChIJHRv42bxQa4gRcuwyy84vEH4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

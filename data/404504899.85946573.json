@@ -1,0 +1,530 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas Street",
+          "short_name": "Kansas St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "McConnell Air Force Base",
+          "short_name": "McConnell AFB",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gypsum",
+          "short_name": "Gypsum",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sedgwick County",
+          "short_name": "Sedgwick County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67221",
+          "short_name": "67221",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas St, McConnell AFB, KS 67221, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.62835800000001,
+            "lng": -97.2576038
+          },
+          "southwest": {
+            "lat": 37.6231003,
+            "lng": -97.2605762
+          }
+        },
+        "location": {
+          "lat": 37.6259557,
+          "lng": -97.2591087
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 37.62835800000001,
+            "lng": -97.2576038
+          },
+          "southwest": {
+            "lat": 37.6231003,
+            "lng": -97.2605762
+          }
+        }
+      },
+      "place_id": "ChIJdSt9Y9b6uocRALCg8Jr9ka0",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "McConnell Air Force Base",
+          "short_name": "McConnell AFB",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sedgwick County",
+          "short_name": "Sedgwick County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "McConnell AFB, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.6429149,
+            "lng": -97.232931
+          },
+          "southwest": {
+            "lat": 37.5979619,
+            "lng": -97.28048009999999
+          }
+        },
+        "location": {
+          "lat": 37.631893,
+          "lng": -97.25142459999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.6429149,
+            "lng": -97.232931
+          },
+          "southwest": {
+            "lat": 37.5979619,
+            "lng": -97.28048009999999
+          }
+        }
+      },
+      "place_id": "ChIJ9WsB-dD6uocR4nt42xEmRJ0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67221",
+          "short_name": "67221",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "McConnell Air Force Base",
+          "short_name": "McConnell AFB",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gypsum",
+          "short_name": "Gypsum",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sedgwick County",
+          "short_name": "Sedgwick County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "McConnell AFB, KS 67221, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.6429149,
+            "lng": -97.24446999999999
+          },
+          "southwest": {
+            "lat": 37.61053,
+            "lng": -97.26212679999999
+          }
+        },
+        "location": {
+          "lat": 37.6311517,
+          "lng": -97.2518004
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.6429149,
+            "lng": -97.24446999999999
+          },
+          "southwest": {
+            "lat": 37.61053,
+            "lng": -97.26212679999999
+          }
+        }
+      },
+      "place_id": "ChIJ-ydyCNT6uocRP6XfNAcTZMc",
+      "postcode_localities": [
+        "McConnell Air Force Base",
+        "Wichita"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Gypsum",
+          "short_name": "Gypsum",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sedgwick County",
+          "short_name": "Sedgwick County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Gypsum, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.65370300000001,
+            "lng": -97.15275109999999
+          },
+          "southwest": {
+            "lat": 37.5624861,
+            "lng": -97.26212679999999
+          }
+        },
+        "location": {
+          "lat": 37.610459,
+          "lng": -97.2005806
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.65370300000001,
+            "lng": -97.15275109999999
+          },
+          "southwest": {
+            "lat": 37.5624861,
+            "lng": -97.26212679999999
+          }
+        }
+      },
+      "place_id": "ChIJTfF8NGf6uocRJju_Jixar8Q",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sedgwick County",
+          "short_name": "Sedgwick County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sedgwick County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.9127329,
+            "lng": -97.1521449
+          },
+          "southwest": {
+            "lat": 37.4741841,
+            "lng": -97.80835800000001
+          }
+        },
+        "location": {
+          "lat": 37.6537367,
+          "lng": -97.5247243
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.9127329,
+            "lng": -97.1521449
+          },
+          "southwest": {
+            "lat": 37.4741841,
+            "lng": -97.80835800000001
+          }
+        }
+      },
+      "place_id": "ChIJYdTfu-7fuocR5CnuybPf61c",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wichita",
+          "short_name": "Wichita",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wichita, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.174845,
+            "lng": -96.52278199999999
+          },
+          "southwest": {
+            "lat": 36.998682,
+            "lng": -97.808684
+          }
+        },
+        "location": {
+          "lat": 37.56345719999999,
+          "lng": -97.6114217
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.174845,
+            "lng": -96.52278199999999
+          },
+          "southwest": {
+            "lat": 36.998682,
+            "lng": -97.808684
+          }
+        }
+      },
+      "place_id": "ChIJBR4vHiP7uocRb5iXYk82f7k",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

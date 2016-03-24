@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "201-299",
+          "short_name": "201-299",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Poplar Street",
+          "short_name": "E Poplar St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "El Dorado Springs",
+          "short_name": "El Dorado Springs",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Box Township",
+          "short_name": "Box Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cedar County",
+          "short_name": "Cedar County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64744",
+          "short_name": "64744",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1625",
+          "short_name": "1625",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "201-299 E Poplar St, El Dorado Springs, MO 64744, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.869181,
+            "lng": -94.0193029
+          },
+          "southwest": {
+            "lat": 37.8691369,
+            "lng": -94.02063919999999
+          }
+        },
+        "location": {
+          "lat": 37.8691612,
+          "lng": -94.0195907
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.8705079302915,
+            "lng": -94.01862206970848
+          },
+          "southwest": {
+            "lat": 37.8678099697085,
+            "lng": -94.02132003029149
+          }
+        }
+      },
+      "place_id": "EjUyMDEtMjk5IEUgUG9wbGFyIFN0LCBFbCBEb3JhZG8gU3ByaW5ncywgTU8gNjQ3NDQsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "El Dorado Springs",
+          "short_name": "El Dorado Springs",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Box Township",
+          "short_name": "Box Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cedar County",
+          "short_name": "Cedar County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64744",
+          "short_name": "64744",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "El Dorado Springs, MO 64744, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.897428,
+            "lng": -93.9928961
+          },
+          "southwest": {
+            "lat": 37.851593,
+            "lng": -94.0400441
+          }
+        },
+        "location": {
+          "lat": 37.87697989999999,
+          "lng": -94.0213303
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.897428,
+            "lng": -93.9928961
+          },
+          "southwest": {
+            "lat": 37.851593,
+            "lng": -94.0400441
+          }
+        }
+      },
+      "place_id": "ChIJI9Mi9KVhxocRMFSBepxulXA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Box Township",
+          "short_name": "Box Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cedar County",
+          "short_name": "Cedar County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Box Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.900987,
+            "lng": -93.9069008
+          },
+          "southwest": {
+            "lat": 37.75044400000001,
+            "lng": -94.0733419
+          }
+        },
+        "location": {
+          "lat": 37.8044738,
+          "lng": -94.0082563
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.900987,
+            "lng": -93.9069008
+          },
+          "southwest": {
+            "lat": 37.75044400000001,
+            "lng": -94.0733419
+          }
+        }
+      },
+      "place_id": "ChIJYeugS6pmxocRLHuyYR7VeIU",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64744",
+          "short_name": "64744",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "El Dorado Springs",
+          "short_name": "El Dorado Springs",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "El Dorado Springs, MO 64744, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.9407348,
+            "lng": -93.79963509999999
+          },
+          "southwest": {
+            "lat": 37.67427,
+            "lng": -94.1908409
+          }
+        },
+        "location": {
+          "lat": 37.782571,
+          "lng": -94.028678
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.9407348,
+            "lng": -93.79963509999999
+          },
+          "southwest": {
+            "lat": 37.67427,
+            "lng": -94.1908409
+          }
+        }
+      },
+      "place_id": "ChIJFZ9Qrd9jxocRnNI4lFEThPM",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cedar County",
+          "short_name": "Cedar County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cedar County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.900987,
+            "lng": -93.609489
+          },
+          "southwest": {
+            "lat": 37.5726888,
+            "lng": -94.0754
+          }
+        },
+        "location": {
+          "lat": 37.7031209,
+          "lng": -93.86553029999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.900987,
+            "lng": -93.609489
+          },
+          "southwest": {
+            "lat": 37.5726888,
+            "lng": -94.0754
+          }
+        }
+      },
+      "place_id": "ChIJcU34DF9lxocRRXURsQNMVsE",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

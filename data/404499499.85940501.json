@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "203",
+          "short_name": "203",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Peoria Street",
+          "short_name": "N Peoria St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Magnolia",
+          "short_name": "Magnolia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Magnolia Township",
+          "short_name": "Magnolia Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Putnam County",
+          "short_name": "Putnam County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61336",
+          "short_name": "61336",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9408",
+          "short_name": "9408",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "203 N Peoria St, Magnolia, IL 61336, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1140564,
+            "lng": -89.1962274
+          },
+          "southwest": {
+            "lat": 41.1134259,
+            "lng": -89.1962428
+          }
+        },
+        "location": {
+          "lat": 41.1139911,
+          "lng": -89.1962102
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.11509013029151,
+            "lng": -89.19488611970849
+          },
+          "southwest": {
+            "lat": 41.11239216970851,
+            "lng": -89.1975840802915
+          }
+        }
+      },
+      "place_id": "EigyMDMgTiBQZW9yaWEgU3QsIE1hZ25vbGlhLCBJTCA2MTMzNiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Magnolia",
+          "short_name": "Magnolia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Magnolia Township",
+          "short_name": "Magnolia Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Putnam County",
+          "short_name": "Putnam County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61336",
+          "short_name": "61336",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Magnolia, IL 61336, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.118449,
+            "lng": -89.1903069
+          },
+          "southwest": {
+            "lat": 41.108882,
+            "lng": -89.20136579999999
+          }
+        },
+        "location": {
+          "lat": 41.113646,
+          "lng": -89.19452919999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.118449,
+            "lng": -89.1903069
+          },
+          "southwest": {
+            "lat": 41.108882,
+            "lng": -89.20136579999999
+          }
+        }
+      },
+      "place_id": "ChIJ5ciPRszEC4gRHlIabD5-mZ8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61336",
+          "short_name": "61336",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Magnolia",
+          "short_name": "Magnolia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Magnolia, IL 61336, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3104669,
+            "lng": -89.162238
+          },
+          "southwest": {
+            "lat": 41.0876898,
+            "lng": -89.3516329
+          }
+        },
+        "location": {
+          "lat": 41.12767789999999,
+          "lng": -89.25622390000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1493848,
+            "lng": -89.162238
+          },
+          "southwest": {
+            "lat": 41.0876898,
+            "lng": -89.3516329
+          }
+        }
+      },
+      "place_id": "ChIJRfLS8S_FC4gRxfRYse-bVnQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Magnolia Township",
+          "short_name": "Magnolia Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Putnam County",
+          "short_name": "Putnam County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Magnolia Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.192309,
+            "lng": -89.16209479999999
+          },
+          "southwest": {
+            "lat": 41.1036639,
+            "lng": -89.35859690000001
+          }
+        },
+        "location": {
+          "lat": 41.1375559,
+          "lng": -89.2277026
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.192309,
+            "lng": -89.16209479999999
+          },
+          "southwest": {
+            "lat": 41.1036639,
+            "lng": -89.35859690000001
+          }
+        }
+      },
+      "place_id": "ChIJI9F592XQC4gRVfVg_I8vsNY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Putnam County",
+          "short_name": "Putnam County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Putnam County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.322531,
+            "lng": -89.16209479999999
+          },
+          "southwest": {
+            "lat": 41.1036639,
+            "lng": -89.4665339
+          }
+        },
+        "location": {
+          "lat": 41.238474,
+          "lng": -89.28472510000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.322531,
+            "lng": -89.16209479999999
+          },
+          "southwest": {
+            "lat": 41.1036639,
+            "lng": -89.4665339
+          }
+        }
+      },
+      "place_id": "ChIJG9cxK6TWC4gR8j5YJ22SRm0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

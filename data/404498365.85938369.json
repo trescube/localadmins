@@ -1,0 +1,625 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200",
+          "short_name": "200",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Sheridan Avenue",
+          "short_name": "Sheridan Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Highwood",
+          "short_name": "Highwood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Moraine Township",
+          "short_name": "Moraine Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60040",
+          "short_name": "60040",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "200 Sheridan Ave, Highwood, IL 60040, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.206089,
+            "lng": -87.8129448
+          },
+          "southwest": {
+            "lat": 42.20606,
+            "lng": -87.8155139
+          }
+        },
+        "location": {
+          "lat": 42.206074,
+          "lng": -87.8129507
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2074234802915,
+            "lng": -87.8128803697085
+          },
+          "southwest": {
+            "lat": 42.2047255197085,
+            "lng": -87.81557833029152
+          }
+        }
+      },
+      "place_id": "EikyMDAgU2hlcmlkYW4gQXZlLCBIaWdod29vZCwgSUwgNjAwNDAsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Green Bay/Sheriden",
+          "short_name": "Green Bay/Sheriden",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Highwood",
+          "short_name": "Highwood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Moraine Township",
+          "short_name": "Moraine Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60040",
+          "short_name": "60040",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Green Bay/Sheriden, Highwood, IL 60040, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.2062415,
+          "lng": -87.81306479999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2075904802915,
+            "lng": -87.8117158197085
+          },
+          "southwest": {
+            "lat": 42.2048925197085,
+            "lng": -87.8144137802915
+          }
+        }
+      },
+      "place_id": "ChIJXw3WYtLBD4gRuyDN_-X7hKY",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Highwood",
+          "short_name": "Highwood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Moraine Township",
+          "short_name": "Moraine Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Highwood, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.217958,
+            "lng": -87.8081619
+          },
+          "southwest": {
+            "lat": 42.196224,
+            "lng": -87.821488
+          }
+        },
+        "location": {
+          "lat": 42.1997468,
+          "lng": -87.80923349999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.217958,
+            "lng": -87.8081619
+          },
+          "southwest": {
+            "lat": 42.196224,
+            "lng": -87.821488
+          }
+        }
+      },
+      "place_id": "ChIJ11jkxtLBD4gRmvm19V0eCYg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "60040",
+          "short_name": "60040",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Highwood",
+          "short_name": "Highwood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Moraine Township",
+          "short_name": "Moraine Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Highwood, IL 60040, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.218343,
+            "lng": -87.806173
+          },
+          "southwest": {
+            "lat": 42.19622409999999,
+            "lng": -87.821488
+          }
+        },
+        "location": {
+          "lat": 42.2080724,
+          "lng": -87.8132139
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.218343,
+            "lng": -87.806173
+          },
+          "southwest": {
+            "lat": 42.19622409999999,
+            "lng": -87.821488
+          }
+        }
+      },
+      "place_id": "ChIJpa2yltLBD4gR5NxDTlwN1jA",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Moraine Township",
+          "short_name": "Moraine Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Moraine Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.240029,
+            "lng": -87.759192
+          },
+          "southwest": {
+            "lat": 42.152361,
+            "lng": -87.84019889999999
+          }
+        },
+        "location": {
+          "lat": 42.1857312,
+          "lng": -87.80584019999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.240029,
+            "lng": -87.759192
+          },
+          "southwest": {
+            "lat": 42.152361,
+            "lng": -87.84019889999999
+          }
+        }
+      },
+      "place_id": "ChIJG_QdvsDBD4gRcSBRGDs3LE0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lake County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.49563699999999,
+            "lng": -87.75900469999999
+          },
+          "southwest": {
+            "lat": 42.152361,
+            "lng": -88.1997628
+          }
+        },
+        "location": {
+          "lat": 42.3689363,
+          "lng": -87.8271534
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.49563699999999,
+            "lng": -87.75900469999999
+          },
+          "southwest": {
+            "lat": 42.152361,
+            "lng": -88.1997628
+          }
+        }
+      },
+      "place_id": "ChIJKdUvmscAD4gRZsVGNFFqkhs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chicago Metropolitan Area",
+          "short_name": "Chicago Metropolitan Area",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chicago Metropolitan Area, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        },
+        "location": {
+          "lat": 41.7435073,
+          "lng": -88.0118473
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        }
+      },
+      "place_id": "ChIJg-CZjExEDogRNJNXmgqEe9o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

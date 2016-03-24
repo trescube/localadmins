@@ -1,0 +1,550 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "Hilltop Road",
+          "short_name": "Hilltop Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Mary D",
+          "short_name": "Mary D",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tuscarora",
+          "short_name": "Tuscarora",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuylkill Township",
+          "short_name": "Schuylkill Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuylkill County",
+          "short_name": "Schuylkill County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "17952",
+          "short_name": "17952",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Hilltop Rd, Mary D, PA 17952, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7613321,
+            "lng": -76.0581227
+          },
+          "southwest": {
+            "lat": 40.76089510000001,
+            "lng": -76.0589724
+          }
+        },
+        "location": {
+          "lat": 40.7611136,
+          "lng": -76.0585475
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7624625802915,
+            "lng": -76.05719856970849
+          },
+          "southwest": {
+            "lat": 40.75976461970851,
+            "lng": -76.0598965302915
+          }
+        }
+      },
+      "place_id": "ChIJhyT4lo2_xYkR0kFUUvmRzNE",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tuscarora",
+          "short_name": "Tuscarora",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuylkill Township",
+          "short_name": "Schuylkill Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuylkill County",
+          "short_name": "Schuylkill County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Tuscarora, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.780919,
+            "lng": -76.0322991
+          },
+          "southwest": {
+            "lat": 40.744082,
+            "lng": -76.0847029
+          }
+        },
+        "location": {
+          "lat": 40.7700892,
+          "lng": -76.0374312
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.780919,
+            "lng": -76.0322991
+          },
+          "southwest": {
+            "lat": 40.744082,
+            "lng": -76.0847029
+          }
+        }
+      },
+      "place_id": "ChIJrdB6yI2_xYkRQSEAiqulHJ0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "17952",
+          "short_name": "17952",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Mary D",
+          "short_name": "Mary D",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuylkill Township",
+          "short_name": "Schuylkill Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuylkill County",
+          "short_name": "Schuylkill County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mary D, PA 17952, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.775512,
+            "lng": -76.0388159
+          },
+          "southwest": {
+            "lat": 40.7487481,
+            "lng": -76.082375
+          }
+        },
+        "location": {
+          "lat": 40.7647961,
+          "lng": -76.0594972
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.775512,
+            "lng": -76.0388159
+          },
+          "southwest": {
+            "lat": 40.7487481,
+            "lng": -76.082375
+          }
+        }
+      },
+      "place_id": "ChIJ5Ys1CHa_xYkRSnM62OF7hwE",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Schuylkill Township",
+          "short_name": "Schuylkill Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuylkill County",
+          "short_name": "Schuylkill County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Schuylkill Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8118319,
+            "lng": -75.972199
+          },
+          "southwest": {
+            "lat": 40.7254779,
+            "lng": -76.085489
+          }
+        },
+        "location": {
+          "lat": 40.7754374,
+          "lng": -76.04499299999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8118319,
+            "lng": -75.972199
+          },
+          "southwest": {
+            "lat": 40.7254779,
+            "lng": -76.085489
+          }
+        }
+      },
+      "place_id": "ChIJ_XerSw2_xYkR5Ibxbdt9OjY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pottsville",
+          "short_name": "Pottsville",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pottsville, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9497399,
+            "lng": -75.7577611
+          },
+          "southwest": {
+            "lat": 40.495572,
+            "lng": -76.7014849
+          }
+        },
+        "location": {
+          "lat": 40.6873058,
+          "lng": -76.17837390000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9497399,
+            "lng": -75.7577611
+          },
+          "southwest": {
+            "lat": 40.495572,
+            "lng": -76.7014849
+          }
+        }
+      },
+      "place_id": "ChIJ1QQXITHsxYkRy8JznRSxmfY",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Schuylkill County",
+          "short_name": "Schuylkill County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Schuylkill County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9497399,
+            "lng": -75.7577611
+          },
+          "southwest": {
+            "lat": 40.495434,
+            "lng": -76.7015459
+          }
+        },
+        "location": {
+          "lat": 40.6873058,
+          "lng": -76.17837390000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9497399,
+            "lng": -75.7577611
+          },
+          "southwest": {
+            "lat": 40.495434,
+            "lng": -76.7015459
+          }
+        }
+      },
+      "place_id": "ChIJ7Wj6403lxYkRMXYTV48IeO0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

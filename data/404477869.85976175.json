@@ -1,0 +1,401 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "150-198",
+          "short_name": "150-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Arnold Avenue",
+          "short_name": "W Arnold Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "McGuire Air Force Base",
+          "short_name": "McGuire AFB",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Burlington County",
+          "short_name": "Burlington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "08641",
+          "short_name": "08641",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "150-198 W Arnold Ave, McGuire AFB, NJ 08641, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0293269,
+            "lng": -74.58546009999999
+          },
+          "southwest": {
+            "lat": 40.0280224,
+            "lng": -74.5904094
+          }
+        },
+        "location": {
+          "lat": 40.02872199999999,
+          "lng": -74.5881545
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0300236302915,
+            "lng": -74.58546009999999
+          },
+          "southwest": {
+            "lat": 40.0273256697085,
+            "lng": -74.5904094
+          }
+        }
+      },
+      "place_id": "EjAxNTAtMTk4IFcgQXJub2xkIEF2ZSwgTWNHdWlyZSBBRkIsIE5KIDA4NjQxLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Hanover Township",
+          "short_name": "New Hanover Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Burlington County",
+          "short_name": "Burlington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Hanover Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.056257,
+            "lng": -74.506474
+          },
+          "southwest": {
+            "lat": 39.9890259,
+            "lng": -74.64882589999999
+          }
+        },
+        "location": {
+          "lat": 40.0122319,
+          "lng": -74.5814773
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.056257,
+            "lng": -74.506474
+          },
+          "southwest": {
+            "lat": 39.9890259,
+            "lng": -74.64882589999999
+          }
+        }
+      },
+      "place_id": "ChIJ2cmuQsJpwYkRzNr7pmo2rH0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "08641",
+          "short_name": "08641",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Trenton",
+          "short_name": "Trenton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Burlington County",
+          "short_name": "Burlington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Trenton, NJ 08641, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.05861489999999,
+            "lng": -74.5460119
+          },
+          "southwest": {
+            "lat": 39.99261389999999,
+            "lng": -74.61690709999999
+          }
+        },
+        "location": {
+          "lat": 40.026469,
+          "lng": -74.5756196
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.05861489999999,
+            "lng": -74.5460119
+          },
+          "southwest": {
+            "lat": 39.99261389999999,
+            "lng": -74.61690709999999
+          }
+        }
+      },
+      "place_id": "ChIJvwWkAdBpwYkRE9u48QWJets",
+      "postcode_localities": [
+        "McGuire Air Force Base",
+        "Trenton"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Burlington County",
+          "short_name": "Burlington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Burlington County, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.184235,
+            "lng": -74.38978999999999
+          },
+          "southwest": {
+            "lat": 39.540837,
+            "lng": -75.054844
+          }
+        },
+        "location": {
+          "lat": 39.8558488,
+          "lng": -74.6868815
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.184235,
+            "lng": -74.38978999999999
+          },
+          "southwest": {
+            "lat": 39.540837,
+            "lng": -75.054844
+          }
+        }
+      },
+      "place_id": "ChIJe3N0AJddwYkRACBgX3eEhqw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Jersey, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9285589,
+            "lng": -75.5597921
+          }
+        },
+        "location": {
+          "lat": 40.0583238,
+          "lng": -74.4056612
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9286032,
+            "lng": -75.5597921
+          }
+        }
+      },
+      "place_id": "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

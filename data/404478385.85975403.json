@@ -1,0 +1,401 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "5",
+          "short_name": "5",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Packer Avenue",
+          "short_name": "Packer Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Rumson",
+          "short_name": "Rumson",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monmouth County",
+          "short_name": "Monmouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "07760",
+          "short_name": "07760",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "5 Packer Ave, Rumson, NJ 07760, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3648175,
+            "lng": -73.9768597
+          },
+          "southwest": {
+            "lat": 40.364481,
+            "lng": -73.9769242
+          }
+        },
+        "location": {
+          "lat": 40.3647223,
+          "lng": -73.9768893
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3659982302915,
+            "lng": -73.9755429697085
+          },
+          "southwest": {
+            "lat": 40.3633002697085,
+            "lng": -73.9782409302915
+          }
+        }
+      },
+      "place_id": "EiM1IFBhY2tlciBBdmUsIFJ1bXNvbiwgTkogMDc3NjAsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rumson",
+          "short_name": "Rumson",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monmouth County",
+          "short_name": "Monmouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rumson, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3826156,
+            "lng": -73.9764016
+          },
+          "southwest": {
+            "lat": 40.3384969,
+            "lng": -74.0376679
+          }
+        },
+        "location": {
+          "lat": 40.372054,
+          "lng": -73.99902689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3826156,
+            "lng": -73.9764016
+          },
+          "southwest": {
+            "lat": 40.3384969,
+            "lng": -74.0376679
+          }
+        }
+      },
+      "place_id": "ChIJUc1Dn186wokRUgVJOg_u-_U",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "07760",
+          "short_name": "07760",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Rumson",
+          "short_name": "Rumson",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monmouth County",
+          "short_name": "Monmouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rumson, NJ 07760, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.404252,
+            "lng": -73.9709809
+          },
+          "southwest": {
+            "lat": 40.3365541,
+            "lng": -74.0388031
+          }
+        },
+        "location": {
+          "lat": 40.3701706,
+          "lng": -73.99475629999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.404252,
+            "lng": -73.9709809
+          },
+          "southwest": {
+            "lat": 40.3365541,
+            "lng": -74.0388031
+          }
+        }
+      },
+      "place_id": "ChIJo7Kb8qAwwokRBqXvq5BGsxM",
+      "postcode_localities": [
+        "Rumson",
+        "Sea Bright"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Monmouth County",
+          "short_name": "Monmouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Monmouth County, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.4779551,
+            "lng": -73.9721844
+          },
+          "southwest": {
+            "lat": 40.07913,
+            "lng": -74.613529
+          }
+        },
+        "location": {
+          "lat": 40.2589455,
+          "lng": -74.12399599999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4779551,
+            "lng": -73.9721844
+          },
+          "southwest": {
+            "lat": 40.07913,
+            "lng": -74.613529
+          }
+        }
+      },
+      "place_id": "ChIJs-wyjgfPw4kRpyM0wCxA5CQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Jersey, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9285589,
+            "lng": -75.5597921
+          }
+        },
+        "location": {
+          "lat": 40.0583238,
+          "lng": -74.4056612
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9286032,
+            "lng": -75.5597921
+          }
+        }
+      },
+      "place_id": "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,386 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "17",
+          "short_name": "17",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Road",
+          "short_name": "North Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Foster",
+          "short_name": "Foster",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Providence County",
+          "short_name": "Providence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rhode Island",
+          "short_name": "RI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "02825",
+          "short_name": "02825",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1344",
+          "short_name": "1344",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "17 North Rd, Foster, RI 02825, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.789931,
+          "lng": -71.731099
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7912799802915,
+            "lng": -71.72975001970849
+          },
+          "southwest": {
+            "lat": 41.7885820197085,
+            "lng": -71.73244798029151
+          }
+        }
+      },
+      "place_id": "ChIJ56-BOJEx5IkR8cO9T5e8SFU",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Foster",
+          "short_name": "Foster",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Providence County",
+          "short_name": "Providence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rhode Island",
+          "short_name": "RI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Foster, RI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.8565522,
+            "lng": -71.66780190000001
+          },
+          "southwest": {
+            "lat": 41.7245628,
+            "lng": -71.79468
+          }
+        },
+        "location": {
+          "lat": 41.8537098,
+          "lng": -71.7581249
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.8565522,
+            "lng": -71.66780190000001
+          },
+          "southwest": {
+            "lat": 41.7245628,
+            "lng": -71.79468
+          }
+        }
+      },
+      "place_id": "ChIJoRgbi5Yx5IkRfEiTB_NWWFc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "02825",
+          "short_name": "02825",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Foster",
+          "short_name": "Foster",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rhode Island",
+          "short_name": "RI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Foster, RI 02825, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.855972,
+            "lng": -71.5888989
+          },
+          "southwest": {
+            "lat": 41.7245628,
+            "lng": -71.79468
+          }
+        },
+        "location": {
+          "lat": 41.7967247,
+          "lng": -71.7385225
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.855972,
+            "lng": -71.5888989
+          },
+          "southwest": {
+            "lat": 41.7245628,
+            "lng": -71.79468
+          }
+        }
+      },
+      "place_id": "ChIJw-aPO3Mx5IkRoNHExMzte68",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Providence County",
+          "short_name": "Providence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rhode Island",
+          "short_name": "RI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Providence County, RI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0188,
+            "lng": -71.31777
+          },
+          "southwest": {
+            "lat": 41.7245628,
+            "lng": -71.79924199999999
+          }
+        },
+        "location": {
+          "lat": 41.8881582,
+          "lng": -71.4774291
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0188,
+            "lng": -71.31777
+          },
+          "southwest": {
+            "lat": 41.7245628,
+            "lng": -71.79924199999999
+          }
+        }
+      },
+      "place_id": "ChIJtUdvanpH5IkRYcTtx_6GVAo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rhode Island",
+          "short_name": "RI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rhode Island, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0188,
+            "lng": -71.1205471
+          },
+          "southwest": {
+            "lat": 41.1466984,
+            "lng": -71.8923425
+          }
+        },
+        "location": {
+          "lat": 41.5800945,
+          "lng": -71.4774291
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0188,
+            "lng": -71.1205471
+          },
+          "southwest": {
+            "lat": 41.1466984,
+            "lng": -71.8923425
+          }
+        }
+      },
+      "place_id": "ChIJD9cOYhQ15IkR5wbB57wYTh4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

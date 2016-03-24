@@ -1,0 +1,532 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1-35",
+          "short_name": "1-35",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Wetmore Avenue",
+          "short_name": "Wetmore Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Winsted",
+          "short_name": "Winsted",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Winchester",
+          "short_name": "Winchester",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06098",
+          "short_name": "06098",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1243",
+          "short_name": "1243",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1-35 Wetmore Ave, Winsted, CT 06098, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9267412,
+            "lng": -73.0666049
+          },
+          "southwest": {
+            "lat": 41.9264196,
+            "lng": -73.06822389999999
+          }
+        },
+        "location": {
+          "lat": 41.926609,
+          "lng": -73.0674854
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.92792938029149,
+            "lng": -73.0660654197085
+          },
+          "southwest": {
+            "lat": 41.9252314197085,
+            "lng": -73.06876338029151
+          }
+        }
+      },
+      "place_id": "EigxLTM1IFdldG1vcmUgQXZlLCBXaW5zdGVkLCBDVCAwNjA5OCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Winsted",
+          "short_name": "Winsted",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Winchester",
+          "short_name": "Winchester",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Winsted, Winchester, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9470559,
+            "lng": -73.04038100000001
+          },
+          "southwest": {
+            "lat": 41.90829189999999,
+            "lng": -73.1009979
+          }
+        },
+        "location": {
+          "lat": 41.9212066,
+          "lng": -73.0601078
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9470559,
+            "lng": -73.04038100000001
+          },
+          "southwest": {
+            "lat": 41.90829189999999,
+            "lng": -73.1009979
+          }
+        }
+      },
+      "place_id": "ChIJQeCgurwK54kRoVUtgIdmlDg",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Winchester",
+          "short_name": "Winchester",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Winchester, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.966301,
+            "lng": -73.034024
+          },
+          "southwest": {
+            "lat": 41.872621,
+            "lng": -73.1706641
+          }
+        },
+        "location": {
+          "lat": 41.9357632,
+          "lng": -73.111356
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.966301,
+            "lng": -73.034024
+          },
+          "southwest": {
+            "lat": 41.872621,
+            "lng": -73.1706641
+          }
+        }
+      },
+      "place_id": "ChIJFzZngCd154kRg2CjL46XX7U",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "06098",
+          "short_name": "06098",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Winsted",
+          "short_name": "Winsted",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Winsted, CT 06098, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.040541,
+            "lng": -72.9363479
+          },
+          "southwest": {
+            "lat": 41.831137,
+            "lng": -73.1683189
+          }
+        },
+        "location": {
+          "lat": 41.9357632,
+          "lng": -73.111356
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.040541,
+            "lng": -73.02029399999999
+          },
+          "southwest": {
+            "lat": 41.8748711,
+            "lng": -73.1683189
+          }
+        }
+      },
+      "place_id": "ChIJOdxESdAK54kRjzC6xyEskIQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Litchfield County, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -72.8870598
+          },
+          "southwest": {
+            "lat": 41.4678914,
+            "lng": -73.51806499999999
+          }
+        },
+        "location": {
+          "lat": 41.7866294,
+          "lng": -73.2765361
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -72.8870598
+          },
+          "southwest": {
+            "lat": 41.4678914,
+            "lng": -73.51806499999999
+          }
+        }
+      },
+      "place_id": "ChIJvYe7N7eQ54kRL6nZaXRwPkI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Torrington",
+          "short_name": "Torrington",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Torrington, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -72.88706
+          },
+          "southwest": {
+            "lat": 41.4674151,
+            "lng": -73.5182268
+          }
+        },
+        "location": {
+          "lat": 41.7866294,
+          "lng": -73.2765361
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -72.88706
+          },
+          "southwest": {
+            "lat": 41.4674151,
+            "lng": -73.5182268
+          }
+        }
+      },
+      "place_id": "ChIJX8UsmJCa54kRqJju4VTkJYQ",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Connecticut, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.6032207,
+          "lng": -73.087749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJpVER8hFT5okR5XBhBVttmq4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

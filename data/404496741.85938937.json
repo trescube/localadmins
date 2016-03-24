@@ -1,0 +1,549 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301-323",
+          "short_name": "301-323",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "IL-89",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "La Rose",
+          "short_name": "La Rose",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bell Plain Township",
+          "short_name": "Bell Plain Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marshall County",
+          "short_name": "Marshall County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61541",
+          "short_name": "61541",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "301-323 Main St, La Rose, IL 61541, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9803692,
+            "lng": -89.2358708
+          },
+          "southwest": {
+            "lat": 40.97855879999999,
+            "lng": -89.2367309
+          }
+        },
+        "location": {
+          "lat": 40.9791368,
+          "lng": -89.23643009999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9808129802915,
+            "lng": -89.2349518697085
+          },
+          "southwest": {
+            "lat": 40.9781150197085,
+            "lng": -89.2376498302915
+          }
+        }
+      },
+      "place_id": "EiczMDEtMzIzIE1haW4gU3QsIExhIFJvc2UsIElMIDYxNTQxLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "La Rose",
+          "short_name": "La Rose",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bell Plain Township",
+          "short_name": "Bell Plain Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marshall County",
+          "short_name": "Marshall County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "La Rose, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9855001,
+            "lng": -89.230761
+          },
+          "southwest": {
+            "lat": 40.972771,
+            "lng": -89.237956
+          }
+        },
+        "location": {
+          "lat": 40.98225679999999,
+          "lng": -89.2353629
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9855001,
+            "lng": -89.230761
+          },
+          "southwest": {
+            "lat": 40.972771,
+            "lng": -89.237956
+          }
+        }
+      },
+      "place_id": "ChIJXWvLZsLHC4gRza0NhFTY9zA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61541",
+          "short_name": "61541",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "La Rose",
+          "short_name": "La Rose",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bell Plain Township",
+          "short_name": "Bell Plain Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marshall County",
+          "short_name": "Marshall County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "La Rose, IL 61541, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.98401490000001,
+            "lng": -89.23166210000001
+          },
+          "southwest": {
+            "lat": 40.97669,
+            "lng": -89.2381039
+          }
+        },
+        "location": {
+          "lat": 40.9801247,
+          "lng": -89.2336462
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.98401490000001,
+            "lng": -89.23166210000001
+          },
+          "southwest": {
+            "lat": 40.97669,
+            "lng": -89.2381039
+          }
+        }
+      },
+      "place_id": "ChIJIR7iw5PHC4gRRBtZFmL2fAA",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bell Plain Township",
+          "short_name": "Bell Plain Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marshall County",
+          "short_name": "Marshall County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bell Plain Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0154319,
+            "lng": -89.1602779
+          },
+          "southwest": {
+            "lat": 40.9245109,
+            "lng": -89.2778019
+          }
+        },
+        "location": {
+          "lat": 40.97630050000001,
+          "lng": -89.2277026
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0154319,
+            "lng": -89.1602779
+          },
+          "southwest": {
+            "lat": 40.9245109,
+            "lng": -89.2778019
+          }
+        }
+      },
+      "place_id": "ChIJ_8PvvZDHC4gRNcI0RKTBHRw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Marshall County",
+          "short_name": "Marshall County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Marshall County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.148773,
+            "lng": -89.0470529
+          },
+          "southwest": {
+            "lat": 40.9212031,
+            "lng": -89.63873090000001
+          }
+        },
+        "location": {
+          "lat": 40.9972934,
+          "lng": -89.3606298
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.148773,
+            "lng": -89.0470529
+          },
+          "southwest": {
+            "lat": 40.9212031,
+            "lng": -89.63873090000001
+          }
+        }
+      },
+      "place_id": "ChIJ7dl5HdDOC4gRE26pzxQfeug",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Peoria",
+          "short_name": "Peoria",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Peoria, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.234434,
+            "lng": -88.929417
+          },
+          "southwest": {
+            "lat": 40.3191399,
+            "lng": -89.9891091
+          }
+        },
+        "location": {
+          "lat": 40.7960399,
+          "lng": -89.5497632
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.234434,
+            "lng": -88.929417
+          },
+          "southwest": {
+            "lat": 40.3191399,
+            "lng": -89.9891091
+          }
+        }
+      },
+      "place_id": "ChIJ0740MSxQCogR_-C3kWBHaI8",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

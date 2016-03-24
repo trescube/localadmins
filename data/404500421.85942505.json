@@ -1,0 +1,549 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101",
+          "short_name": "101",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Railroad Street",
+          "short_name": "Railroad St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Burket",
+          "short_name": "Burket",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Seward Township",
+          "short_name": "Seward Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kosciusko County",
+          "short_name": "Kosciusko County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "46508",
+          "short_name": "46508",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "101 Railroad St, Burket, IN 46508, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.15500189999999,
+            "lng": -85.9688195
+          },
+          "southwest": {
+            "lat": 41.154857,
+            "lng": -85.96974
+          }
+        },
+        "location": {
+          "lat": 41.1548431,
+          "lng": -85.9688232
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1562784302915,
+            "lng": -85.9679307697085
+          },
+          "southwest": {
+            "lat": 41.1535804697085,
+            "lng": -85.97062873029151
+          }
+        }
+      },
+      "place_id": "EiYxMDEgUmFpbHJvYWQgU3QsIEJ1cmtldCwgSU4gNDY1MDgsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Burket",
+          "short_name": "Burket",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Seward Township",
+          "short_name": "Seward Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kosciusko County",
+          "short_name": "Kosciusko County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Burket, IN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.157015,
+            "lng": -85.966304
+          },
+          "southwest": {
+            "lat": 41.152639,
+            "lng": -85.9711169
+          }
+        },
+        "location": {
+          "lat": 41.1553218,
+          "lng": -85.9686052
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.157015,
+            "lng": -85.966304
+          },
+          "southwest": {
+            "lat": 41.152639,
+            "lng": -85.9711169
+          }
+        }
+      },
+      "place_id": "ChIJq0yhYh4fFIgRGgA4nsZTdek",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "46508",
+          "short_name": "46508",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Burket",
+          "short_name": "Burket",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Seward Township",
+          "short_name": "Seward Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kosciusko County",
+          "short_name": "Kosciusko County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Burket, IN 46508, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.158411,
+            "lng": -85.9663771
+          },
+          "southwest": {
+            "lat": 41.153082,
+            "lng": -85.9806089
+          }
+        },
+        "location": {
+          "lat": 41.1559263,
+          "lng": -85.9694071
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.158411,
+            "lng": -85.9663771
+          },
+          "southwest": {
+            "lat": 41.153082,
+            "lng": -85.9806089
+          }
+        }
+      },
+      "place_id": "ChIJLSINq-AeFIgRpYgdRCPYz30",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Seward Township",
+          "short_name": "Seward Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kosciusko County",
+          "short_name": "Kosciusko County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Seward Township, IN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1750708,
+            "lng": -85.90745
+          },
+          "southwest": {
+            "lat": 41.0421709,
+            "lng": -85.9858679
+          }
+        },
+        "location": {
+          "lat": 41.1094272,
+          "lng": -85.95089229999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1750708,
+            "lng": -85.90745
+          },
+          "southwest": {
+            "lat": 41.0421709,
+            "lng": -85.9858679
+          }
+        }
+      },
+      "place_id": "ChIJgWIi7pUYFIgR4MIosyt9ZTo",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Warsaw",
+          "short_name": "Warsaw",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Warsaw, IN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.436856,
+            "lng": -85.65120209999999
+          },
+          "southwest": {
+            "lat": 41.041875,
+            "lng": -86.0773339
+          }
+        },
+        "location": {
+          "lat": 41.2864679,
+          "lng": -85.84862360000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.436856,
+            "lng": -85.65120209999999
+          },
+          "southwest": {
+            "lat": 41.041875,
+            "lng": -86.0773339
+          }
+        }
+      },
+      "place_id": "ChIJFylFG2OeFogRM_VE2Opw9Zw",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kosciusko County",
+          "short_name": "Kosciusko County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kosciusko County, IN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4368559,
+            "lng": -85.65119279999999
+          },
+          "southwest": {
+            "lat": 41.041878,
+            "lng": -86.077551
+          }
+        },
+        "location": {
+          "lat": 41.2864679,
+          "lng": -85.84862360000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4368559,
+            "lng": -85.65119279999999
+          },
+          "southwest": {
+            "lat": 41.041878,
+            "lng": -86.077551
+          }
+        }
+      },
+      "place_id": "ChIJ86HCfzUnFIgRxu_HvFterL8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Indiana, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7606971,
+            "lng": -84.784662
+          },
+          "southwest": {
+            "lat": 37.7717419,
+            "lng": -88.097892
+          }
+        },
+        "location": {
+          "lat": 40.2671941,
+          "lng": -86.1349019
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7606971,
+            "lng": -84.784662
+          },
+          "southwest": {
+            "lat": 37.7717419,
+            "lng": -88.097892
+          }
+        }
+      },
+      "place_id": "ChIJHRv42bxQa4gRcuwyy84vEH4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

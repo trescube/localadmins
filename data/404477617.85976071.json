@@ -1,0 +1,460 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "71-99",
+          "short_name": "71-99",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Old Port Republic Road",
+          "short_name": "Old Port Republic Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Galloway",
+          "short_name": "Galloway",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Atlantic County",
+          "short_name": "Atlantic County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "08205",
+          "short_name": "08205",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "71-99 Old Port Republic Rd, Galloway, NJ 08205, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.4946947,
+            "lng": -74.476789
+          },
+          "southwest": {
+            "lat": 39.4933537,
+            "lng": -74.47798399999999
+          }
+        },
+        "location": {
+          "lat": 39.4937792,
+          "lng": -74.47741789999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.49537318029149,
+            "lng": -74.47603751970848
+          },
+          "southwest": {
+            "lat": 39.4926752197085,
+            "lng": -74.4787354802915
+          }
+        }
+      },
+      "place_id": "EjM3MS05OSBPbGQgUG9ydCBSZXB1YmxpYyBSZCwgR2FsbG93YXksIE5KIDA4MjA1LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Galloway",
+          "short_name": "Galloway",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Atlantic County",
+          "short_name": "Atlantic County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Galloway, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5739489,
+            "lng": -74.3089408
+          },
+          "southwest": {
+            "lat": 39.4016242,
+            "lng": -74.6728569
+          }
+        },
+        "location": {
+          "lat": 39.4928235,
+          "lng": -74.5596879
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5739489,
+            "lng": -74.3089408
+          },
+          "southwest": {
+            "lat": 39.4016242,
+            "lng": -74.6728569
+          }
+        }
+      },
+      "place_id": "ChIJbYSHT4vcwIkR_2zwvWdZd3A",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "08205",
+          "short_name": "08205",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Absecon",
+          "short_name": "Absecon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Atlantic County",
+          "short_name": "Atlantic County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Absecon, NJ 08205, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.545288,
+            "lng": -74.3298899
+          },
+          "southwest": {
+            "lat": 39.401624,
+            "lng": -74.5776449
+          }
+        },
+        "location": {
+          "lat": 39.4728755,
+          "lng": -74.4642861
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.545288,
+            "lng": -74.3298899
+          },
+          "southwest": {
+            "lat": 39.401624,
+            "lng": -74.5776449
+          }
+        }
+      },
+      "place_id": "ChIJ2Z78657mwIkRej_R2TatZxM",
+      "postcode_localities": [
+        "Absecon",
+        "Galloway"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Atlantic City",
+          "short_name": "Atlantic City",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Atlantic City, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.729838,
+            "lng": -74.3021839
+          },
+          "southwest": {
+            "lat": 39.288595,
+            "lng": -74.9850531
+          }
+        },
+        "location": {
+          "lat": 39.5333379,
+          "lng": -74.6868815
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.729838,
+            "lng": -74.3021839
+          },
+          "southwest": {
+            "lat": 39.288595,
+            "lng": -74.9850531
+          }
+        }
+      },
+      "place_id": "ChIJp4Kmo-3cwIkRX-pX_Yd2KQQ",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Atlantic County",
+          "short_name": "Atlantic County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Atlantic County, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.7299091,
+            "lng": -74.3089408
+          },
+          "southwest": {
+            "lat": 39.28856589999999,
+            "lng": -74.9852228
+          }
+        },
+        "location": {
+          "lat": 39.5333379,
+          "lng": -74.6868815
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7299091,
+            "lng": -74.30895520000001
+          },
+          "southwest": {
+            "lat": 39.28856589999999,
+            "lng": -74.9852228
+          }
+        }
+      },
+      "place_id": "ChIJ1QoSk33fwIkRe269C6wfLcA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Jersey, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9285589,
+            "lng": -75.5597921
+          }
+        },
+        "location": {
+          "lat": 40.0583238,
+          "lng": -74.4056612
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9286032,
+            "lng": -75.5597921
+          }
+        }
+      },
+      "place_id": "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

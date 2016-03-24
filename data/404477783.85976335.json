@@ -1,0 +1,486 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "71",
+          "short_name": "71",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Waretown",
+          "short_name": "Waretown",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean Township",
+          "short_name": "Ocean Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "08758",
+          "short_name": "08758",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2218",
+          "short_name": "2218",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "71 Main St, Waretown, NJ 08758, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.789731,
+          "lng": -74.192531
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7910799802915,
+            "lng": -74.19118201970849
+          },
+          "southwest": {
+            "lat": 39.7883820197085,
+            "lng": -74.1938799802915
+          }
+        }
+      },
+      "place_id": "ChIJ9eG17sqgwYkR-2qZXx1sYZA",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Waretown",
+          "short_name": "Waretown",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean Township",
+          "short_name": "Ocean Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "08758",
+          "short_name": "08758",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Waretown, Ocean Twp, NJ 08758, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.799096,
+            "lng": -74.1804519
+          },
+          "southwest": {
+            "lat": 39.7793,
+            "lng": -74.2098389
+          }
+        },
+        "location": {
+          "lat": 39.7915084,
+          "lng": -74.1951395
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.799096,
+            "lng": -74.1804519
+          },
+          "southwest": {
+            "lat": 39.7793,
+            "lng": -74.2098389
+          }
+        }
+      },
+      "place_id": "ChIJdW1W8oR1wYkR_9vGQJ9AMnQ",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ocean Township",
+          "short_name": "Ocean Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ocean Twp, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8288129,
+            "lng": -74.097983
+          },
+          "southwest": {
+            "lat": 39.7595768,
+            "lng": -74.3433089
+          }
+        },
+        "location": {
+          "lat": 39.7904391,
+          "lng": -74.2176448
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8288129,
+            "lng": -74.1696824
+          },
+          "southwest": {
+            "lat": 39.762232,
+            "lng": -74.3433089
+          }
+        }
+      },
+      "place_id": "ChIJwXxTg_8JwYkRZUzlD4vt9XM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "08758",
+          "short_name": "08758",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Waretown",
+          "short_name": "Waretown",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Waretown, NJ 08758, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.850735,
+            "lng": -74.163147
+          },
+          "southwest": {
+            "lat": 39.7623981,
+            "lng": -74.33123309999999
+          }
+        },
+        "location": {
+          "lat": 39.8098638,
+          "lng": -74.27661859999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.850735,
+            "lng": -74.163147
+          },
+          "southwest": {
+            "lat": 39.7623981,
+            "lng": -74.33123309999999
+          }
+        }
+      },
+      "place_id": "ChIJ42SMFoEJwYkRsOIdej4gCDA",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ocean County, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.17235489999999,
+            "lng": -74.0300122
+          },
+          "southwest": {
+            "lat": 39.5071756,
+            "lng": -74.5531051
+          }
+        },
+        "location": {
+          "lat": 39.9652553,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.17235489999999,
+            "lng": -74.0300122
+          },
+          "southwest": {
+            "lat": 39.5071756,
+            "lng": -74.5531051
+          }
+        }
+      },
+      "place_id": "ChIJh7ZJcChswYkRWgFmCdLUJYw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Jersey, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9285589,
+            "lng": -75.5597921
+          }
+        },
+        "location": {
+          "lat": 40.0583238,
+          "lng": -74.4056612
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9286032,
+            "lng": -75.5597921
+          }
+        }
+      },
+      "place_id": "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

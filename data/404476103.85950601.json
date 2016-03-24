@@ -1,0 +1,540 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "360",
+          "short_name": "360",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Park Street",
+          "short_name": "MA-183",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Housatonic",
+          "short_name": "Housatonic",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Great Barrington",
+          "short_name": "Great Barrington",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Berkshire County",
+          "short_name": "Berkshire County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "01236",
+          "short_name": "01236",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9003",
+          "short_name": "9003",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "360 Park St, Housatonic, MA 01236, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2502231,
+            "lng": -73.36224179999999
+          },
+          "southwest": {
+            "lat": 42.2499468,
+            "lng": -73.36335609999999
+          }
+        },
+        "location": {
+          "lat": 42.2499656,
+          "lng": -73.36226839999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2514339302915,
+            "lng": -73.36144996970849
+          },
+          "southwest": {
+            "lat": 42.2487359697085,
+            "lng": -73.3641479302915
+          }
+        }
+      },
+      "place_id": "EiYzNjAgUGFyayBTdCwgSG91c2F0b25pYywgTUEgMDEyMzYsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Housatonic",
+          "short_name": "Housatonic",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Great Barrington",
+          "short_name": "Great Barrington",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Berkshire County",
+          "short_name": "Berkshire County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Housatonic, Great Barrington, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.258637,
+            "lng": -73.351736
+          },
+          "southwest": {
+            "lat": 42.2317239,
+            "lng": -73.37576279999999
+          }
+        },
+        "location": {
+          "lat": 42.2542548,
+          "lng": -73.3662214
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.258637,
+            "lng": -73.351736
+          },
+          "southwest": {
+            "lat": 42.2317239,
+            "lng": -73.37576279999999
+          }
+        }
+      },
+      "place_id": "ChIJ-WcMH_9d54kRzpLrxFn8-GY",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Great Barrington",
+          "short_name": "Great Barrington",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Berkshire County",
+          "short_name": "Berkshire County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Great Barrington, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.258637,
+            "lng": -73.244084
+          },
+          "southwest": {
+            "lat": 42.1591278,
+            "lng": -73.41422399999999
+          }
+        },
+        "location": {
+          "lat": 42.1959798,
+          "lng": -73.362008
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.258637,
+            "lng": -73.244084
+          },
+          "southwest": {
+            "lat": 42.1591278,
+            "lng": -73.41422399999999
+          }
+        }
+      },
+      "place_id": "ChIJZfnFpQvS5okRBNkKoAVvf_E",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "01236",
+          "short_name": "01236",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Housatonic",
+          "short_name": "Housatonic",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Berkshire County",
+          "short_name": "Berkshire County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Housatonic, MA 01236, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.303135,
+            "lng": -73.3408139
+          },
+          "southwest": {
+            "lat": 42.2235931,
+            "lng": -73.3954169
+          }
+        },
+        "location": {
+          "lat": 42.2593683,
+          "lng": -73.3767641
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.303135,
+            "lng": -73.3408139
+          },
+          "southwest": {
+            "lat": 42.2235931,
+            "lng": -73.3954169
+          }
+        }
+      },
+      "place_id": "ChIJoR8vS_td54kRSOyyfOKcCcA",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pittsfield",
+          "short_name": "Pittsfield",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pittsfield, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.74594,
+            "lng": -72.9488241
+          },
+          "southwest": {
+            "lat": 42.03986099999999,
+            "lng": -73.5081419
+          }
+        },
+        "location": {
+          "lat": 42.311782,
+          "lng": -73.1821623
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.74594,
+            "lng": -72.9488241
+          },
+          "southwest": {
+            "lat": 42.03986099999999,
+            "lng": -73.5081419
+          }
+        }
+      },
+      "place_id": "ChIJ8T8ecb9F54kR8k0aCp4p5yc",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Berkshire County",
+          "short_name": "Berkshire County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Berkshire County, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.74594,
+            "lng": -72.948753
+          },
+          "southwest": {
+            "lat": 42.039915,
+            "lng": -73.5081419
+          }
+        },
+        "location": {
+          "lat": 42.311782,
+          "lng": -73.1821623
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.74594,
+            "lng": -72.948753
+          },
+          "southwest": {
+            "lat": 42.039915,
+            "lng": -73.5081419
+          }
+        }
+      },
+      "place_id": "ChIJrwJQrTUP5IkRCymWEwxQmxY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Massachusetts, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390448,
+            "lng": -73.5081419
+          }
+        },
+        "location": {
+          "lat": 42.4072107,
+          "lng": -71.3824374
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390737,
+            "lng": -73.5081419
+          }
+        }
+      },
+      "place_id": "ChIJ_b9z6W1l44kRHA2DVTbQxkU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

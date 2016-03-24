@@ -1,0 +1,412 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301-315",
+          "short_name": "301-315",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Vandermark Road",
+          "short_name": "Vandermark Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Nanticoke",
+          "short_name": "Nanticoke",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Newport Township",
+          "short_name": "Newport Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Luzerne County",
+          "short_name": "Luzerne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "18634",
+          "short_name": "18634",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1910",
+          "short_name": "1910",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "301-315 Vandermark Rd, Nanticoke, PA 18634, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.17659769999999,
+            "lng": -76.03812649999999
+          },
+          "southwest": {
+            "lat": 41.1756387,
+            "lng": -76.03984969999999
+          }
+        },
+        "location": {
+          "lat": 41.1764028,
+          "lng": -76.0384452
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.17746718029149,
+            "lng": -76.03763911970849
+          },
+          "southwest": {
+            "lat": 41.1747692197085,
+            "lng": -76.0403370802915
+          }
+        }
+      },
+      "place_id": "Ei8zMDEtMzE1IFZhbmRlcm1hcmsgUmQsIE5hbnRpY29rZSwgUEEgMTg2MzQsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Newport Township",
+          "short_name": "Newport Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Luzerne County",
+          "short_name": "Luzerne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Newport Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.220382,
+            "lng": -75.986845
+          },
+          "southwest": {
+            "lat": 41.147853,
+            "lng": -76.1077459
+          }
+        },
+        "location": {
+          "lat": 41.1772036,
+          "lng": -76.0507949
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.220382,
+            "lng": -75.986845
+          },
+          "southwest": {
+            "lat": 41.147853,
+            "lng": -76.1077459
+          }
+        }
+      },
+      "place_id": "ChIJnYXEUvwMxYkRRkG96z7p0vo",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "18634",
+          "short_name": "18634",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Nanticoke",
+          "short_name": "Nanticoke",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Luzerne County",
+          "short_name": "Luzerne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nanticoke, PA 18634, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2284359,
+            "lng": -75.97368689999999
+          },
+          "southwest": {
+            "lat": 41.1517069,
+            "lng": -76.065001
+          }
+        },
+        "location": {
+          "lat": 41.1940762,
+          "lng": -76.02758589999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2284359,
+            "lng": -75.97368689999999
+          },
+          "southwest": {
+            "lat": 41.1517069,
+            "lng": -76.065001
+          }
+        }
+      },
+      "place_id": "ChIJIY1rOp8NxYkRYT3xXA5Ec-k",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Luzerne County",
+          "short_name": "Luzerne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Luzerne County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4272459,
+            "lng": -75.6005771
+          },
+          "southwest": {
+            "lat": 40.901986,
+            "lng": -76.31973599999999
+          }
+        },
+        "location": {
+          "lat": 41.1404353,
+          "lng": -75.9927652
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4272459,
+            "lng": -75.6005771
+          },
+          "southwest": {
+            "lat": 40.901986,
+            "lng": -76.31973599999999
+          }
+        }
+      },
+      "place_id": "ChIJT8UL4YF0xYkRY-bZsVwaZh4",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

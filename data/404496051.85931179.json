@@ -1,0 +1,496 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "191",
+          "short_name": "191",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Woodruff Avenue",
+          "short_name": "Woodruff Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Watertown",
+          "short_name": "Watertown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06795",
+          "short_name": "06795",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2533",
+          "short_name": "2533",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "191 Woodruff Ave, Watertown, CT 06795, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.601736,
+          "lng": -73.119941
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.60308498029149,
+            "lng": -73.1185920197085
+          },
+          "southwest": {
+            "lat": 41.6003870197085,
+            "lng": -73.12128998029151
+          }
+        }
+      },
+      "place_id": "ChIJ3_si9M7q54kRNh28UTYcIFo",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Watertown",
+          "short_name": "Watertown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Watertown, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6722937,
+            "lng": -73.0573521
+          },
+          "southwest": {
+            "lat": 41.5577959,
+            "lng": -73.1707559
+          }
+        },
+        "location": {
+          "lat": 41.6062042,
+          "lng": -73.11833969999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6722937,
+            "lng": -73.0573521
+          },
+          "southwest": {
+            "lat": 41.5577959,
+            "lng": -73.1707559
+          }
+        }
+      },
+      "place_id": "ChIJOYd7FkiV54kRCRWVjae0grs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "06795",
+          "short_name": "06795",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Watertown",
+          "short_name": "Watertown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Watertown, CT 06795, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.674356,
+            "lng": -73.06022100000001
+          },
+          "southwest": {
+            "lat": 41.557822,
+            "lng": -73.1757499
+          }
+        },
+        "location": {
+          "lat": 41.6182645,
+          "lng": -73.1231585
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.674356,
+            "lng": -73.06022100000001
+          },
+          "southwest": {
+            "lat": 41.557822,
+            "lng": -73.1757499
+          }
+        }
+      },
+      "place_id": "ChIJ_bmVWyWV54kRXlN5b2dBSTU",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Waterbury",
+          "short_name": "Waterbury",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Waterbury, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.67269599999999,
+            "lng": -72.933847
+          },
+          "southwest": {
+            "lat": 41.4038561,
+            "lng": -73.1707559
+          }
+        },
+        "location": {
+          "lat": 41.5572502,
+          "lng": -73.0405277
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.67269599999999,
+            "lng": -72.933847
+          },
+          "southwest": {
+            "lat": 41.4038561,
+            "lng": -73.1707559
+          }
+        }
+      },
+      "place_id": "ChIJpeTQHLDB54kRPujlNa-ZVm8",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Litchfield County",
+          "short_name": "Litchfield County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Litchfield County, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -72.8870598
+          },
+          "southwest": {
+            "lat": 41.4678914,
+            "lng": -73.51806499999999
+          }
+        },
+        "location": {
+          "lat": 41.7866294,
+          "lng": -73.2765361
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -72.8870598
+          },
+          "southwest": {
+            "lat": 41.4678914,
+            "lng": -73.51806499999999
+          }
+        }
+      },
+      "place_id": "ChIJvYe7N7eQ54kRL6nZaXRwPkI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Torrington",
+          "short_name": "Torrington",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Torrington, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -72.88706
+          },
+          "southwest": {
+            "lat": 41.4674151,
+            "lng": -73.5182268
+          }
+        },
+        "location": {
+          "lat": 41.7866294,
+          "lng": -73.2765361
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -72.88706
+          },
+          "southwest": {
+            "lat": 41.4674151,
+            "lng": -73.5182268
+          }
+        }
+      },
+      "place_id": "ChIJX8UsmJCa54kRqJju4VTkJYQ",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Connecticut, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.6032207,
+          "lng": -73.087749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJpVER8hFT5okR5XBhBVttmq4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

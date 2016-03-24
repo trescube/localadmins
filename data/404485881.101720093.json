@@ -1,0 +1,628 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "161",
+          "short_name": "161",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Main Street",
+          "short_name": "S Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Pleasant Gap",
+          "short_name": "Pleasant Gap",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Spring Township",
+          "short_name": "Spring Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Centre County",
+          "short_name": "Centre County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "16823",
+          "short_name": "16823",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3209",
+          "short_name": "3209",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "161 S Main St, Pleasant Gap, PA 16823, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.8674204,
+          "lng": -77.74336029999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8687693802915,
+            "lng": -77.7420113197085
+          },
+          "southwest": {
+            "lat": 40.8660714197085,
+            "lng": -77.7447092802915
+          }
+        }
+      },
+      "place_id": "ChIJ15M4kaq8zokRGn8gTf0sTUI",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "S Main St At Griffith Lane Outbound",
+          "short_name": "S Main St At Griffith Lane Outbound",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Pleasant Gap",
+          "short_name": "Pleasant Gap",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Spring Township",
+          "short_name": "Spring Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Centre County",
+          "short_name": "Centre County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "16823",
+          "short_name": "16823",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "S Main St At Griffith Lane Outbound, Pleasant Gap, PA 16823, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.867504,
+          "lng": -77.744682
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8688529802915,
+            "lng": -77.7433330197085
+          },
+          "southwest": {
+            "lat": 40.8661550197085,
+            "lng": -77.74603098029151
+          }
+        }
+      },
+      "place_id": "ChIJ61pesKq8zokRAQLvs65XRfM",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pleasant Gap",
+          "short_name": "Pleasant Gap",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Spring Township",
+          "short_name": "Spring Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Centre County",
+          "short_name": "Centre County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pleasant Gap, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8813991,
+            "lng": -77.723771
+          },
+          "southwest": {
+            "lat": 40.8451271,
+            "lng": -77.760234
+          }
+        },
+        "location": {
+          "lat": 40.8681177,
+          "lng": -77.7466665
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8813991,
+            "lng": -77.723771
+          },
+          "southwest": {
+            "lat": 40.8451271,
+            "lng": -77.760234
+          }
+        }
+      },
+      "place_id": "ChIJW75Eh_yXzokRvpCI95eAew4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Spring Township",
+          "short_name": "Spring Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Centre County",
+          "short_name": "Centre County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Spring Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.952506,
+            "lng": -77.6737979
+          },
+          "southwest": {
+            "lat": 40.834381,
+            "lng": -77.81261479999999
+          }
+        },
+        "location": {
+          "lat": 40.8842303,
+          "lng": -77.7223162
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.952506,
+            "lng": -77.6737979
+          },
+          "southwest": {
+            "lat": 40.834381,
+            "lng": -77.81261479999999
+          }
+        }
+      },
+      "place_id": "ChIJZ34F5cy8zokRy6mIsw5XkMs",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "16823",
+          "short_name": "16823",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Bellefonte",
+          "short_name": "Bellefonte",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Centre County",
+          "short_name": "Centre County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bellefonte, PA 16823, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0434989,
+            "lng": -77.5154088
+          },
+          "southwest": {
+            "lat": 40.8214339,
+            "lng": -77.9284749
+          }
+        },
+        "location": {
+          "lat": 40.9240628,
+          "lng": -77.7223162
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0434989,
+            "lng": -77.6022459
+          },
+          "southwest": {
+            "lat": 40.8214339,
+            "lng": -77.9284749
+          }
+        }
+      },
+      "place_id": "ChIJ93yhaKSizokRxXjdSsKwxAY",
+      "postcode_localities": [
+        "Bellefonte",
+        "Hublersburg",
+        "Pleasant Gap",
+        "Wingate"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Centre County",
+          "short_name": "Centre County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Centre County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2527521,
+            "lng": -77.1438039
+          },
+          "southwest": {
+            "lat": 40.69155809999999,
+            "lng": -78.376674
+          }
+        },
+        "location": {
+          "lat": 40.8765649,
+          "lng": -77.8367282
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2527521,
+            "lng": -77.1438039
+          },
+          "southwest": {
+            "lat": 40.69155809999999,
+            "lng": -78.376674
+          }
+        }
+      },
+      "place_id": "ChIJGag74PqazokRAZZDKnhbMOk",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "State College",
+          "short_name": "State College",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "State College, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.252868,
+            "lng": -77.143667
+          },
+          "southwest": {
+            "lat": 40.691591,
+            "lng": -78.376678
+          }
+        },
+        "location": {
+          "lat": 40.8765649,
+          "lng": -77.8367282
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.252868,
+            "lng": -77.143667
+          },
+          "southwest": {
+            "lat": 40.691591,
+            "lng": -78.376678
+          }
+        }
+      },
+      "place_id": "ChIJZ-tZ-DOizokRDxWcxSBdBvQ",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

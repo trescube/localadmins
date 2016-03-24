@@ -1,0 +1,564 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1218",
+          "short_name": "1218",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Weymouth Road",
+          "short_name": "Weymouth Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Penn Wynne",
+          "short_name": "Penn Wynne",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wynnewood",
+          "short_name": "Wynnewood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lower Merion Township",
+          "short_name": "Lower Merion Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "19096",
+          "short_name": "19096",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3330",
+          "short_name": "3330",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1218 Weymouth Rd, Wynnewood, PA 19096, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.9867963,
+          "lng": -75.271304
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9881452802915,
+            "lng": -75.2699550197085
+          },
+          "southwest": {
+            "lat": 39.98544731970851,
+            "lng": -75.27265298029151
+          }
+        }
+      },
+      "place_id": "ChIJuVhB3-nAxokRhuPz5dlhzgc",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Penn Wynne",
+          "short_name": "Penn Wynne",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wynnewood",
+          "short_name": "Wynnewood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lower Merion Township",
+          "short_name": "Lower Merion Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Penn Wynne, Wynnewood, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9951121,
+            "lng": -75.25399879999999
+          },
+          "southwest": {
+            "lat": 39.9769549,
+            "lng": -75.2891289
+          }
+        },
+        "location": {
+          "lat": 39.9862234,
+          "lng": -75.2754616
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9951121,
+            "lng": -75.25399879999999
+          },
+          "southwest": {
+            "lat": 39.9769549,
+            "lng": -75.2891289
+          }
+        }
+      },
+      "place_id": "ChIJrYqw1unAxokR64OLZbJX5-A",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wynnewood",
+          "short_name": "Wynnewood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lower Merion Township",
+          "short_name": "Lower Merion Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wynnewood, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.022211,
+            "lng": -75.2514546
+          },
+          "southwest": {
+            "lat": 39.9769549,
+            "lng": -75.29262899999999
+          }
+        },
+        "location": {
+          "lat": 39.9995913,
+          "lng": -75.273018
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.022211,
+            "lng": -75.2514546
+          },
+          "southwest": {
+            "lat": 39.9769549,
+            "lng": -75.29262899999999
+          }
+        }
+      },
+      "place_id": "ChIJPR_t-L3AxokRiDjsNRei27U",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "19096",
+          "short_name": "19096",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Carroll Park",
+          "short_name": "Carroll Park",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Carroll Park, PA 19096, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0225859,
+            "lng": -75.2515769
+          },
+          "southwest": {
+            "lat": 39.9745509,
+            "lng": -75.291234
+          }
+        },
+        "location": {
+          "lat": 39.9890545,
+          "lng": -75.2770721
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0225859,
+            "lng": -75.2515769
+          },
+          "southwest": {
+            "lat": 39.9745509,
+            "lng": -75.291234
+          }
+        }
+      },
+      "place_id": "ChIJkwTASpTAxokRgyGki7QYsx4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lower Merion Township",
+          "short_name": "Lower Merion Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lower Merion Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.07291,
+            "lng": -75.20628599999999
+          },
+          "southwest": {
+            "lat": 39.9769549,
+            "lng": -75.3493309
+          }
+        },
+        "location": {
+          "lat": 40.0249667,
+          "lng": -75.2829046
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.07291,
+            "lng": -75.20628599999999
+          },
+          "southwest": {
+            "lat": 39.9769549,
+            "lng": -75.3493309
+          }
+        }
+      },
+      "place_id": "ChIJb-xm_2W_xokREh2TATLdQKs",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Montgomery County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.44708199999999,
+            "lng": -75.0150659
+          },
+          "southwest": {
+            "lat": 39.9769549,
+            "lng": -75.69678189999999
+          }
+        },
+        "location": {
+          "lat": 40.2290075,
+          "lng": -75.3878525
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.44708199999999,
+            "lng": -75.0150659
+          },
+          "southwest": {
+            "lat": 39.9769549,
+            "lng": -75.69678189999999
+          }
+        }
+      },
+      "place_id": "ChIJ6yayVjmcxokRvV1Q-SKqC0s",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,471 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1700-1798",
+          "short_name": "1700-1798",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Tampa Avenue",
+          "short_name": "Tampa Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Johnstown",
+          "short_name": "Johnstown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stonycreek Township",
+          "short_name": "Stonycreek Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cambria County",
+          "short_name": "Cambria County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "15902",
+          "short_name": "15902",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3531",
+          "short_name": "3531",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1700-1798 Tampa Ave, Johnstown, PA 15902, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3065593,
+            "lng": -78.88048309999999
+          },
+          "southwest": {
+            "lat": 40.3055126,
+            "lng": -78.8831785
+          }
+        },
+        "location": {
+          "lat": 40.3058962,
+          "lng": -78.8815122
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3073849302915,
+            "lng": -78.88048181970849
+          },
+          "southwest": {
+            "lat": 40.3046869697085,
+            "lng": -78.8831797802915
+          }
+        }
+      },
+      "place_id": "Ei0xNzAwLTE3OTggVGFtcGEgQXZlLCBKb2huc3Rvd24sIFBBIDE1OTAyLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Stonycreek Township",
+          "short_name": "Stonycreek Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cambria County",
+          "short_name": "Cambria County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Stonycreek Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3215511,
+            "lng": -78.86025699999999
+          },
+          "southwest": {
+            "lat": 40.2749751,
+            "lng": -78.9271468
+          }
+        },
+        "location": {
+          "lat": 40.3040658,
+          "lng": -78.8863847
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3215511,
+            "lng": -78.86025699999999
+          },
+          "southwest": {
+            "lat": 40.2749751,
+            "lng": -78.9271468
+          }
+        }
+      },
+      "place_id": "ChIJeyOsPfwQy4kRXhm3j5-2DzU",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "15902",
+          "short_name": "15902",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Johnstown",
+          "short_name": "Johnstown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cambria County",
+          "short_name": "Cambria County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Johnstown, PA 15902, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.346902,
+            "lng": -78.813715
+          },
+          "southwest": {
+            "lat": 40.2896431,
+            "lng": -78.919651
+          }
+        },
+        "location": {
+          "lat": 40.3158515,
+          "lng": -78.87789459999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.346902,
+            "lng": -78.813715
+          },
+          "southwest": {
+            "lat": 40.2896431,
+            "lng": -78.919651
+          }
+        }
+      },
+      "place_id": "ChIJra2h-wMOy4kRtKPTkguBa9c",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Johnstown",
+          "short_name": "Johnstown",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Johnstown, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.726042,
+            "lng": -78.34838789999999
+          },
+          "southwest": {
+            "lat": 40.242933,
+            "lng": -79.056061
+          }
+        },
+        "location": {
+          "lat": 40.4894231,
+          "lng": -78.74762079999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.726042,
+            "lng": -78.34838789999999
+          },
+          "southwest": {
+            "lat": 40.242933,
+            "lng": -79.056061
+          }
+        }
+      },
+      "place_id": "ChIJCdoPtJp2y4kRU_a7RWsH9WE",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cambria County",
+          "short_name": "Cambria County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cambria County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.726042,
+            "lng": -78.348389
+          },
+          "southwest": {
+            "lat": 40.242933,
+            "lng": -79.056061
+          }
+        },
+        "location": {
+          "lat": 40.4894231,
+          "lng": -78.74762079999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.726042,
+            "lng": -78.348389
+          },
+          "southwest": {
+            "lat": 40.242933,
+            "lng": -79.056061
+          }
+        }
+      },
+      "place_id": "ChIJywJ-44oRy4kRmjN2hZffyLM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

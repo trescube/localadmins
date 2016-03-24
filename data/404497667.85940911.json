@@ -1,0 +1,536 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "12240",
+          "short_name": "12240",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South McDaniels Avenue",
+          "short_name": "S McDaniels Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Alsip",
+          "short_name": "Alsip",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Worth Township",
+          "short_name": "Worth Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60803",
+          "short_name": "60803",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2546",
+          "short_name": "2546",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "12240 S McDaniels Ave, Alsip, IL 60803, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.6700691,
+          "lng": -87.73679709999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6714180802915,
+            "lng": -87.7354481197085
+          },
+          "southwest": {
+            "lat": 41.6687201197085,
+            "lng": -87.7381460802915
+          }
+        }
+      },
+      "place_id": "ChIJDVPM33c7DogRVnb-BMDFS4s",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Alsip",
+          "short_name": "Alsip",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Worth Township",
+          "short_name": "Worth Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Alsip, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.691133,
+            "lng": -87.6949491
+          },
+          "southwest": {
+            "lat": 41.651233,
+            "lng": -87.7786519
+          }
+        },
+        "location": {
+          "lat": 41.6689223,
+          "lng": -87.73866190000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.691133,
+            "lng": -87.6949491
+          },
+          "southwest": {
+            "lat": 41.651233,
+            "lng": -87.7786519
+          }
+        }
+      },
+      "place_id": "ChIJLSVox3c7DogRIcf-9ucQGXU",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "60803",
+          "short_name": "60803",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Alsip",
+          "short_name": "Alsip",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Alsip, IL 60803, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.691688,
+            "lng": -87.690823
+          },
+          "southwest": {
+            "lat": 41.650984,
+            "lng": -87.779117
+          }
+        },
+        "location": {
+          "lat": 41.6685425,
+          "lng": -87.7271123
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.691688,
+            "lng": -87.690823
+          },
+          "southwest": {
+            "lat": 41.650984,
+            "lng": -87.779117
+          }
+        }
+      },
+      "place_id": "ChIJRY2mf507DogRcLaMq-cnnxE",
+      "postcode_localities": [
+        "Alsip",
+        "Chicago",
+        "MERRIONETT PK",
+        "Merrionette Park"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Worth Township",
+          "short_name": "Worth Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Worth Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7356329,
+            "lng": -87.679777
+          },
+          "southwest": {
+            "lat": 41.64633200000001,
+            "lng": -87.7991539
+          }
+        },
+        "location": {
+          "lat": 41.6892362,
+          "lng": -87.7664934
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7356329,
+            "lng": -87.679777
+          },
+          "southwest": {
+            "lat": 41.64633200000001,
+            "lng": -87.7991539
+          }
+        }
+      },
+      "place_id": "ChIJF5ns8w87DogRDfgH9BM5enU",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cook County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1543239,
+            "lng": -87.52404399999999
+          },
+          "southwest": {
+            "lat": 41.46953389999999,
+            "lng": -88.2634779
+          }
+        },
+        "location": {
+          "lat": 41.7376587,
+          "lng": -87.697554
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1543239,
+            "lng": -87.52404399999999
+          },
+          "southwest": {
+            "lat": 41.46953389999999,
+            "lng": -88.2634779
+          }
+        }
+      },
+      "place_id": "ChIJdRNDZqqxD4gRPOAOIwnX2Yo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chicago Metropolitan Area",
+          "short_name": "Chicago Metropolitan Area",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chicago Metropolitan Area, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        },
+        "location": {
+          "lat": 41.7435073,
+          "lng": -88.0118473
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        }
+      },
+      "place_id": "ChIJg-CZjExEDogRNJNXmgqEe9o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

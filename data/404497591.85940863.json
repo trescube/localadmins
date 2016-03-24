@@ -1,0 +1,533 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "701-799",
+          "short_name": "701-799",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "California Avenue",
+          "short_name": "California Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Dolton",
+          "short_name": "Dolton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Thornton Township",
+          "short_name": "Thornton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60419",
+          "short_name": "60419",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "701-799 California Ave, Dolton, IL 60419, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.62839700000001,
+            "lng": -87.5977989
+          },
+          "southwest": {
+            "lat": 41.6274731,
+            "lng": -87.5993505
+          }
+        },
+        "location": {
+          "lat": 41.628369,
+          "lng": -87.59787600000001
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.62928403029151,
+            "lng": -87.59722571970849
+          },
+          "southwest": {
+            "lat": 41.62658606970851,
+            "lng": -87.5999236802915
+          }
+        }
+      },
+      "place_id": "Ei03MDEtNzk5IENhbGlmb3JuaWEgQXZlLCBEb2x0b24sIElMIDYwNDE5LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Dolton",
+          "short_name": "Dolton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Thornton Township",
+          "short_name": "Thornton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dolton, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6447341,
+            "lng": -87.572839
+          },
+          "southwest": {
+            "lat": 41.606513,
+            "lng": -87.6340269
+          }
+        },
+        "location": {
+          "lat": 41.6389236,
+          "lng": -87.60726799999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6447341,
+            "lng": -87.572839
+          },
+          "southwest": {
+            "lat": 41.606513,
+            "lng": -87.6340269
+          }
+        }
+      },
+      "place_id": "ChIJt_FZMhMhDogRVNSkGWokRoA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "60419",
+          "short_name": "60419",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Dolton",
+          "short_name": "Dolton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dolton, IL 60419, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.644732,
+            "lng": -87.57289
+          },
+          "southwest": {
+            "lat": 41.6066929,
+            "lng": -87.634271
+          }
+        },
+        "location": {
+          "lat": 41.6309564,
+          "lng": -87.5939487
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.644732,
+            "lng": -87.57289
+          },
+          "southwest": {
+            "lat": 41.6066929,
+            "lng": -87.634271
+          }
+        }
+      },
+      "place_id": "ChIJT3TfSm0hDogRzKSW7XJjNwM",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Thornton Township",
+          "short_name": "Thornton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Thornton Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6492339,
+            "lng": -87.52461079999999
+          },
+          "southwest": {
+            "lat": 41.557134,
+            "lng": -87.6798479
+          }
+        },
+        "location": {
+          "lat": 41.5961527,
+          "lng": -87.5988876
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6492339,
+            "lng": -87.52461079999999
+          },
+          "southwest": {
+            "lat": 41.557134,
+            "lng": -87.6798479
+          }
+        }
+      },
+      "place_id": "ChIJn3CZ4L0hDogRHvHvUPyhwY0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cook County",
+          "short_name": "Cook County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cook County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1543239,
+            "lng": -87.52404399999999
+          },
+          "southwest": {
+            "lat": 41.46953389999999,
+            "lng": -88.2634779
+          }
+        },
+        "location": {
+          "lat": 41.7376587,
+          "lng": -87.697554
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1543239,
+            "lng": -87.52404399999999
+          },
+          "southwest": {
+            "lat": 41.46953389999999,
+            "lng": -88.2634779
+          }
+        }
+      },
+      "place_id": "ChIJdRNDZqqxD4gRPOAOIwnX2Yo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chicago Metropolitan Area",
+          "short_name": "Chicago Metropolitan Area",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chicago Metropolitan Area, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        },
+        "location": {
+          "lat": 41.7435073,
+          "lng": -88.0118473
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        }
+      },
+      "place_id": "ChIJg-CZjExEDogRNJNXmgqEe9o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

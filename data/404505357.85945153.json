@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "500-598",
+          "short_name": "500-598",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "4th Street",
+          "short_name": "4th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Alton",
+          "short_name": "Alton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sumner",
+          "short_name": "Sumner",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Osborne County",
+          "short_name": "Osborne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67623",
+          "short_name": "67623",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9209",
+          "short_name": "9209",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "500-598 4th St, Alton, KS 67623, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.4685873,
+            "lng": -98.949102
+          },
+          "southwest": {
+            "lat": 39.467303,
+            "lng": -98.9491054
+          }
+        },
+        "location": {
+          "lat": 39.46772199999999,
+          "lng": -98.9490866
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.4692941302915,
+            "lng": -98.9477547197085
+          },
+          "southwest": {
+            "lat": 39.4665961697085,
+            "lng": -98.9504526802915
+          }
+        }
+      },
+      "place_id": "EiQ1MDAtNTk4IDR0aCBTdCwgQWx0b24sIEtTIDY3NjIzLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Alton",
+          "short_name": "Alton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sumner",
+          "short_name": "Sumner",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Osborne County",
+          "short_name": "Osborne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67623",
+          "short_name": "67623",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Alton, KS 67623, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.473369,
+            "lng": -98.9437229
+          },
+          "southwest": {
+            "lat": 39.462146,
+            "lng": -98.9529
+          }
+        },
+        "location": {
+          "lat": 39.4708437,
+          "lng": -98.94813889999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.473369,
+            "lng": -98.9437229
+          },
+          "southwest": {
+            "lat": 39.462146,
+            "lng": -98.9529
+          }
+        }
+      },
+      "place_id": "ChIJfzSgbt4RoocRZJHBN5nsz7s",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sumner",
+          "short_name": "Sumner",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Osborne County",
+          "short_name": "Osborne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sumner, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.481739,
+            "lng": -98.877552
+          },
+          "southwest": {
+            "lat": 39.3937721,
+            "lng": -99.046168
+          }
+        },
+        "location": {
+          "lat": 39.451638,
+          "lng": -98.94661459999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.481739,
+            "lng": -98.877552
+          },
+          "southwest": {
+            "lat": 39.3937721,
+            "lng": -99.046168
+          }
+        }
+      },
+      "place_id": "ChIJCVzxXa4RoocREk1bJvGoRwo",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67623",
+          "short_name": "67623",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Alton",
+          "short_name": "Alton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Alton, KS 67623, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.596914,
+            "lng": -98.805791
+          },
+          "southwest": {
+            "lat": 39.292212,
+            "lng": -99.0646661
+          }
+        },
+        "location": {
+          "lat": 39.429378,
+          "lng": -98.96870109999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.596914,
+            "lng": -98.805791
+          },
+          "southwest": {
+            "lat": 39.292212,
+            "lng": -99.0646661
+          }
+        }
+      },
+      "place_id": "ChIJd8Aes38RoocRVoMpWsYRo8k",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Osborne County",
+          "short_name": "Osborne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Osborne County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.568114,
+            "lng": -98.48737109999999
+          },
+          "southwest": {
+            "lat": 39.132695,
+            "lng": -99.0486399
+          }
+        },
+        "location": {
+          "lat": 39.4051157,
+          "lng": -98.7481167
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.568114,
+            "lng": -98.48737109999999
+          },
+          "southwest": {
+            "lat": 39.132695,
+            "lng": -99.0486399
+          }
+        }
+      },
+      "place_id": "ChIJo67LW_RqoocR8UBO9nwdwfg",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

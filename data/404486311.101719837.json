@@ -1,0 +1,394 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "111",
+          "short_name": "111",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "4th Street",
+          "short_name": "4th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Millersburg",
+          "short_name": "Millersburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Upper Paxton Township",
+          "short_name": "Upper Paxton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dauphin County",
+          "short_name": "Dauphin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "17061",
+          "short_name": "17061",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1518",
+          "short_name": "1518",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "111 4th St, Millersburg, PA 17061, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.532676,
+          "lng": -76.95936499999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.53402498029149,
+            "lng": -76.95801601970848
+          },
+          "southwest": {
+            "lat": 40.53132701970849,
+            "lng": -76.9607139802915
+          }
+        }
+      },
+      "place_id": "ChIJ2TW42dbMyIkR74djsGU3RaY",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Upper Paxton Township",
+          "short_name": "Upper Paxton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dauphin County",
+          "short_name": "Dauphin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Upper Paxton Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.628166,
+            "lng": -76.86985200000001
+          },
+          "southwest": {
+            "lat": 40.521363,
+            "lng": -76.9934531
+          }
+        },
+        "location": {
+          "lat": 40.5665813,
+          "lng": -76.9297354
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.628166,
+            "lng": -76.86985200000001
+          },
+          "southwest": {
+            "lat": 40.521363,
+            "lng": -76.9934531
+          }
+        }
+      },
+      "place_id": "ChIJhdRLfnkzz4kR1ZyKZLzSpPw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "17061",
+          "short_name": "17061",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Millersburg",
+          "short_name": "Millersburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Millersburg, PA 17061, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.628166,
+            "lng": -76.8327669
+          },
+          "southwest": {
+            "lat": 40.51052310000001,
+            "lng": -76.993449
+          }
+        },
+        "location": {
+          "lat": 40.5579051,
+          "lng": -76.9412601
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.628166,
+            "lng": -76.8327669
+          },
+          "southwest": {
+            "lat": 40.51052310000001,
+            "lng": -76.993449
+          }
+        }
+      },
+      "place_id": "ChIJMU76f1s0z4kRR5xKp2DUKsQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Dauphin County",
+          "short_name": "Dauphin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dauphin County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.65959489999999,
+            "lng": -76.5354139
+          },
+          "southwest": {
+            "lat": 40.12007,
+            "lng": -77.029341
+          }
+        },
+        "location": {
+          "lat": 40.2734277,
+          "lng": -76.7336521
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.65959489999999,
+            "lng": -76.5354139
+          },
+          "southwest": {
+            "lat": 40.12007,
+            "lng": -77.029341
+          }
+        }
+      },
+      "place_id": "ChIJVdIHI9KzyIkRmZL4uXjXGU8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

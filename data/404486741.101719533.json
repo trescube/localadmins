@@ -1,0 +1,485 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "34-145",
+          "short_name": "34-145",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Church Street",
+          "short_name": "Church St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "McAlisterville",
+          "short_name": "Mcalisterville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fayette Township",
+          "short_name": "Fayette Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Juniata County",
+          "short_name": "Juniata County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "17049",
+          "short_name": "17049",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "34-145 Church St, Mcalisterville, PA 17049, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6384559,
+            "lng": -77.27266110000001
+          },
+          "southwest": {
+            "lat": 40.6365374,
+            "lng": -77.2740137
+          }
+        },
+        "location": {
+          "lat": 40.63798310000001,
+          "lng": -77.27302499999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6388456302915,
+            "lng": -77.2719884197085
+          },
+          "southwest": {
+            "lat": 40.6361476697085,
+            "lng": -77.27468638029151
+          }
+        }
+      },
+      "place_id": "Ei8zNC0xNDUgQ2h1cmNoIFN0LCBNY2FsaXN0ZXJ2aWxsZSwgUEEgMTcwNDksIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "McAlisterville",
+          "short_name": "Mcalisterville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fayette Township",
+          "short_name": "Fayette Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Juniata County",
+          "short_name": "Juniata County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "17049",
+          "short_name": "17049",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Mcalisterville, PA 17049, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.65151789999999,
+            "lng": -77.2676149
+          },
+          "southwest": {
+            "lat": 40.6266811,
+            "lng": -77.2862969
+          }
+        },
+        "location": {
+          "lat": 40.6361901,
+          "lng": -77.2747096
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.65151789999999,
+            "lng": -77.2676149
+          },
+          "southwest": {
+            "lat": 40.6266811,
+            "lng": -77.2862969
+          }
+        }
+      },
+      "place_id": "ChIJY5zVVw3UzokRUyY0GFr7YIA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fayette Township",
+          "short_name": "Fayette Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Juniata County",
+          "short_name": "Juniata County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fayette Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6935948,
+            "lng": -77.1783169
+          },
+          "southwest": {
+            "lat": 40.5925629,
+            "lng": -77.3605221
+          }
+        },
+        "location": {
+          "lat": 40.639473,
+          "lng": -77.3094674
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6935948,
+            "lng": -77.1783169
+          },
+          "southwest": {
+            "lat": 40.5925629,
+            "lng": -77.3605221
+          }
+        }
+      },
+      "place_id": "ChIJm1RnLRfUzokRSPSouq4H-sI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "17049",
+          "short_name": "17049",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "McAlisterville",
+          "short_name": "Mcalisterville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mcalisterville, PA 17049, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6935948,
+            "lng": -77.143301
+          },
+          "southwest": {
+            "lat": 40.60445199999999,
+            "lng": -77.3606899
+          }
+        },
+        "location": {
+          "lat": 40.6630359,
+          "lng": -77.25201009999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6935948,
+            "lng": -77.143301
+          },
+          "southwest": {
+            "lat": 40.60445199999999,
+            "lng": -77.3606899
+          }
+        }
+      },
+      "place_id": "ChIJnYXafSDUzokR4c2IaInHqrE",
+      "postcode_localities": [
+        "MC ALISTERVLE",
+        "McAlisterville"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Juniata County",
+          "short_name": "Juniata County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Juniata County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6935948,
+            "lng": -76.93944979999999
+          },
+          "southwest": {
+            "lat": 40.2638381,
+            "lng": -77.751789
+          }
+        },
+        "location": {
+          "lat": 40.5521642,
+          "lng": -77.4242972
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6935948,
+            "lng": -76.93944979999999
+          },
+          "southwest": {
+            "lat": 40.2638381,
+            "lng": -77.751789
+          }
+        }
+      },
+      "place_id": "ChIJ9wRa4SQwyYkRI8aIsee8li0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

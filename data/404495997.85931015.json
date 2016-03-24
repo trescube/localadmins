@@ -1,0 +1,572 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "3",
+          "short_name": "3",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Case Circle",
+          "short_name": "Case Cir",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "West Simsbury",
+          "short_name": "West Simsbury",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Simsbury",
+          "short_name": "Simsbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Simsbury",
+          "short_name": "Simsbury",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hartford County",
+          "short_name": "Hartford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06092",
+          "short_name": "06092",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2201",
+          "short_name": "2201",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "3 Case Cir, West Simsbury, CT 06092, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.874968,
+          "lng": -72.844656
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.8763169802915,
+            "lng": -72.84330701970849
+          },
+          "southwest": {
+            "lat": 41.8736190197085,
+            "lng": -72.84600498029151
+          }
+        }
+      },
+      "place_id": "ChIJKeXYE9ap54kRHogOQ-mWTnw",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "West Simsbury",
+          "short_name": "West Simsbury",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Simsbury",
+          "short_name": "Simsbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Simsbury",
+          "short_name": "Simsbury",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hartford County",
+          "short_name": "Hartford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "West Simsbury, Simsbury, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.8954971,
+            "lng": -72.818142
+          },
+          "southwest": {
+            "lat": 41.8559969,
+            "lng": -72.870425
+          }
+        },
+        "location": {
+          "lat": 41.8731531,
+          "lng": -72.8581549
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.8954971,
+            "lng": -72.818142
+          },
+          "southwest": {
+            "lat": 41.8559969,
+            "lng": -72.870425
+          }
+        }
+      },
+      "place_id": "ChIJ7ZSXmMyp54kRboiBCfrxlYY",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Simsbury",
+          "short_name": "Simsbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Simsbury",
+          "short_name": "Simsbury",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hartford County",
+          "short_name": "Hartford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Simsbury, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.92079589999999,
+            "lng": -72.758639
+          },
+          "southwest": {
+            "lat": 41.8161299,
+            "lng": -72.876644
+          }
+        },
+        "location": {
+          "lat": 41.8540094,
+          "lng": -72.82791499999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.92079589999999,
+            "lng": -72.758639
+          },
+          "southwest": {
+            "lat": 41.8161299,
+            "lng": -72.876644
+          }
+        }
+      },
+      "place_id": "ChIJb6uoiOWp54kRWhb5LS5DlSA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "06092",
+          "short_name": "06092",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "West Simsbury",
+          "short_name": "West Simsbury",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hartford County",
+          "short_name": "Hartford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "West Simsbury, CT 06092, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9205368,
+            "lng": -72.8191789
+          },
+          "southwest": {
+            "lat": 41.8161299,
+            "lng": -72.893018
+          }
+        },
+        "location": {
+          "lat": 41.8730187,
+          "lng": -72.8574558
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9205368,
+            "lng": -72.8191789
+          },
+          "southwest": {
+            "lat": 41.8161299,
+            "lng": -72.893018
+          }
+        }
+      },
+      "place_id": "ChIJPS9OZDGo54kRSMQWY8Oe-iw",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Simsbury",
+          "short_name": "Simsbury",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hartford County",
+          "short_name": "Hartford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Simsbury, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.92079589999999,
+            "lng": -72.758639
+          },
+          "southwest": {
+            "lat": 41.8161299,
+            "lng": -72.876644
+          }
+        },
+        "location": {
+          "lat": 41.8540094,
+          "lng": -72.82791499999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.92079589999999,
+            "lng": -72.758639
+          },
+          "southwest": {
+            "lat": 41.8161299,
+            "lng": -72.876644
+          }
+        }
+      },
+      "place_id": "ChIJsbrNtSsH54kRBUh6XWa6yQ0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hartford County",
+          "short_name": "Hartford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hartford County, CT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.038854,
+            "lng": -72.40812799999999
+          },
+          "southwest": {
+            "lat": 41.5446979,
+            "lng": -73.02953699999999
+          }
+        },
+        "location": {
+          "lat": 41.7924343,
+          "lng": -72.8042797
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.038854,
+            "lng": -72.40812799999999
+          },
+          "southwest": {
+            "lat": 41.5446979,
+            "lng": -73.02953699999999
+          }
+        }
+      },
+      "place_id": "ChIJtxC3p6qs54kRIvK-2bctar0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Connecticut",
+          "short_name": "CT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Connecticut, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        },
+        "location": {
+          "lat": 41.6032207,
+          "lng": -73.087749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.050587,
+            "lng": -71.787239
+          },
+          "southwest": {
+            "lat": 40.9869801,
+            "lng": -73.727775
+          }
+        }
+      },
+      "place_id": "ChIJpVER8hFT5okR5XBhBVttmq4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

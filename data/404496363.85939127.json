@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-199",
+          "short_name": "101-199",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Kempton",
+          "short_name": "Kempton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mona Township",
+          "short_name": "Mona Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ford County",
+          "short_name": "Ford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60946",
+          "short_name": "60946",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4113",
+          "short_name": "4113",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "101-199 Main St, Kempton, IL 60946, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.935833,
+            "lng": -88.233561
+          },
+          "southwest": {
+            "lat": 40.9358,
+            "lng": -88.236013
+          }
+        },
+        "location": {
+          "lat": 40.9357935,
+          "lng": -88.2354441
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9371654802915,
+            "lng": -88.2334380197085
+          },
+          "southwest": {
+            "lat": 40.9344675197085,
+            "lng": -88.23613598029151
+          }
+        }
+      },
+      "place_id": "EicxMDEtMTk5IE1haW4gU3QsIEtlbXB0b24sIElMIDYwOTQ2LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kempton",
+          "short_name": "Kempton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mona Township",
+          "short_name": "Mona Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ford County",
+          "short_name": "Ford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60946",
+          "short_name": "60946",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Kempton, IL 60946, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.93788,
+            "lng": -88.22940899999999
+          },
+          "southwest": {
+            "lat": 40.932592,
+            "lng": -88.241528
+          }
+        },
+        "location": {
+          "lat": 40.9355888,
+          "lng": -88.237273
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.93788,
+            "lng": -88.22940899999999
+          },
+          "southwest": {
+            "lat": 40.932592,
+            "lng": -88.241528
+          }
+        }
+      },
+      "place_id": "ChIJsUFV4Q9KDIgRJokZ3Pu84Ug",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mona Township",
+          "short_name": "Mona Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ford County",
+          "short_name": "Ford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mona Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.939228,
+            "lng": -88.128072
+          },
+          "southwest": {
+            "lat": 40.849212,
+            "lng": -88.24531379999999
+          }
+        },
+        "location": {
+          "lat": 40.88389,
+          "lng": -88.1876676
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.939228,
+            "lng": -88.128072
+          },
+          "southwest": {
+            "lat": 40.849212,
+            "lng": -88.24531379999999
+          }
+        }
+      },
+      "place_id": "ChIJsToTtCJLDIgRaXR7PndjbD0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "60946",
+          "short_name": "60946",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Kempton",
+          "short_name": "Kempton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kempton, IL 60946, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9810539,
+            "lng": -88.1198799
+          },
+          "southwest": {
+            "lat": 40.846189,
+            "lng": -88.26586999999999
+          }
+        },
+        "location": {
+          "lat": 40.9249056,
+          "lng": -88.22664340000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9810539,
+            "lng": -88.1198799
+          },
+          "southwest": {
+            "lat": 40.846189,
+            "lng": -88.26586999999999
+          }
+        }
+      },
+      "place_id": "ChIJrQ7uN_tKDIgRBdIZuOM0SQs",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ford County",
+          "short_name": "Ford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ford County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9977609,
+            "lng": -87.931631
+          },
+          "southwest": {
+            "lat": 40.3984779,
+            "lng": -88.459957
+          }
+        },
+        "location": {
+          "lat": 40.4988592,
+          "lng": -88.2071598
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9977609,
+            "lng": -87.931631
+          },
+          "southwest": {
+            "lat": 40.3984779,
+            "lng": -88.459957
+          }
+        }
+      },
+      "place_id": "ChIJxROAa08CDYgRaejlJlqk4vs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

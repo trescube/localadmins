@@ -1,0 +1,484 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-198",
+          "short_name": "100-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Lost Street",
+          "short_name": "E Lost St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lincoln",
+          "short_name": "Lincoln",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Elkhorn",
+          "short_name": "Elkhorn",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67455",
+          "short_name": "67455",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2010",
+          "short_name": "2010",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "100-198 E Lost St, Lincoln, KS 67455, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0430373,
+            "lng": -98.1460627
+          },
+          "southwest": {
+            "lat": 39.0430322,
+            "lng": -98.14779229999999
+          }
+        },
+        "location": {
+          "lat": 39.0430486,
+          "lng": -98.1466701
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0443837302915,
+            "lng": -98.1455785197085
+          },
+          "southwest": {
+            "lat": 39.0416857697085,
+            "lng": -98.14827648029151
+          }
+        }
+      },
+      "place_id": "EikxMDAtMTk4IEUgTG9zdCBTdCwgTGluY29sbiwgS1MgNjc0NTUsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lincoln",
+          "short_name": "Lincoln",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67455",
+          "short_name": "67455",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Lincoln, KS 67455, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.051902,
+            "lng": -98.13323
+          },
+          "southwest": {
+            "lat": 39.032303,
+            "lng": -98.1591511
+          }
+        },
+        "location": {
+          "lat": 39.0403293,
+          "lng": -98.14769650000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.051902,
+            "lng": -98.13323
+          },
+          "southwest": {
+            "lat": 39.032303,
+            "lng": -98.1591511
+          }
+        }
+      },
+      "place_id": "ChIJBS87egPgoocRQcziFcDYYMg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Elkhorn",
+          "short_name": "Elkhorn",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Elkhorn, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0452869,
+            "lng": -98.03995789999999
+          },
+          "southwest": {
+            "lat": 38.95747,
+            "lng": -98.151596
+          }
+        },
+        "location": {
+          "lat": 39.01774330000001,
+          "lng": -98.1120116
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0452869,
+            "lng": -98.03995789999999
+          },
+          "southwest": {
+            "lat": 38.95747,
+            "lng": -98.151596
+          }
+        }
+      },
+      "place_id": "ChIJZyRAvVMgo4cRvGztwQk5tXw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67455",
+          "short_name": "67455",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Lincoln",
+          "short_name": "Lincoln",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lincoln, KS 67455, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.234009,
+            "lng": -97.94662509999999
+          },
+          "southwest": {
+            "lat": 38.859443,
+            "lng": -98.35481589999999
+          }
+        },
+        "location": {
+          "lat": 38.9924325,
+          "lng": -98.1775638
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.234009,
+            "lng": -97.94662509999999
+          },
+          "southwest": {
+            "lat": 38.859443,
+            "lng": -98.35481589999999
+          }
+        }
+      },
+      "place_id": "ChIJTSq9Tdcfo4cRrSOUfnepTzI",
+      "postcode_localities": [
+        "Lincoln",
+        "Westfall"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lincoln County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2197769,
+            "lng": -97.928326
+          },
+          "southwest": {
+            "lat": 38.8704069,
+            "lng": -98.49026479999999
+          }
+        },
+        "location": {
+          "lat": 39.1135788,
+          "lng": -98.2212979
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.2197769,
+            "lng": -97.928326
+          },
+          "southwest": {
+            "lat": 38.8704069,
+            "lng": -98.49026479999999
+          }
+        }
+      },
+      "place_id": "ChIJj1WUsrPjoocRgwIQU_EOxHM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

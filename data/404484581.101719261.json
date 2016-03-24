@@ -1,0 +1,457 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "80",
+          "short_name": "80",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Pine Hill Drive",
+          "short_name": "Pine Hill Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Sinking Spring",
+          "short_name": "Sinking Spring",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cumru Township",
+          "short_name": "Cumru Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Berks County",
+          "short_name": "Berks County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "19608",
+          "short_name": "19608",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9240",
+          "short_name": "9240",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "80 Pine Hill Dr, Sinking Spring, PA 19608, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.269341,
+          "lng": -76.018444
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.27068998029149,
+            "lng": -76.0170950197085
+          },
+          "southwest": {
+            "lat": 40.2679920197085,
+            "lng": -76.01979298029151
+          }
+        }
+      },
+      "place_id": "ChIJw3Nsc3VyxokRON2s3lQ2bSY",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "19608",
+          "short_name": "19608",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Reading",
+          "short_name": "Reading",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Reading, PA 19608, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.39023280000001,
+            "lng": -75.98698600000002
+          },
+          "southwest": {
+            "lat": 40.25055589999999,
+            "lng": -76.080861
+          }
+        },
+        "location": {
+          "lat": 40.319402,
+          "lng": -76.02758589999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.39023280000001,
+            "lng": -75.98698600000002
+          },
+          "southwest": {
+            "lat": 40.25055589999999,
+            "lng": -76.080861
+          }
+        }
+      },
+      "place_id": "ChIJi_PlMahzxokR0VyD1EWxdKo",
+      "postcode_localities": [
+        "Reading",
+        "Sinking Spring"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cumru Township",
+          "short_name": "Cumru Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Berks County",
+          "short_name": "Berks County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cumru Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.331514,
+            "lng": -75.8911901
+          },
+          "southwest": {
+            "lat": 40.244469,
+            "lng": -76.02324980000002
+          }
+        },
+        "location": {
+          "lat": 40.270762,
+          "lng": -75.9579358
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.331514,
+            "lng": -75.8911901
+          },
+          "southwest": {
+            "lat": 40.244469,
+            "lng": -76.02324980000002
+          }
+        }
+      },
+      "place_id": "ChIJIXrTfLBxxokRvC9sxTe6G28",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Reading",
+          "short_name": "Reading",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Reading, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.5296219
+          },
+          "southwest": {
+            "lat": 40.137076,
+            "lng": -76.440181
+          }
+        },
+        "location": {
+          "lat": 40.3451566,
+          "lng": -75.9927652
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.5296219
+          },
+          "southwest": {
+            "lat": 40.137076,
+            "lng": -76.440181
+          }
+        }
+      },
+      "place_id": "ChIJsUqmgt93xokRe6bJ_oABq68",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Berks County",
+          "short_name": "Berks County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Berks County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.529623
+          },
+          "southwest": {
+            "lat": 40.1373759,
+            "lng": -76.440181
+          }
+        },
+        "location": {
+          "lat": 40.3451566,
+          "lng": -75.9927652
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.67727,
+            "lng": -75.529623
+          },
+          "southwest": {
+            "lat": 40.1373759,
+            "lng": -76.440181
+          }
+        }
+      },
+      "place_id": "ChIJDeYOtrt0xokRZSWVYWC06gU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,408 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "25",
+          "short_name": "25",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Pacific Avenue East",
+          "short_name": "Pacific Ave E",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Milnor",
+          "short_name": "Milnor",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hall",
+          "short_name": "Hall",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sargent County",
+          "short_name": "Sargent County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "58060",
+          "short_name": "58060",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5000",
+          "short_name": "5000",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "25 Pacific Ave E, Milnor, ND 58060, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.267231,
+            "lng": -97.333062
+          },
+          "southwest": {
+            "lat": 46.267074,
+            "lng": -97.3349131
+          }
+        },
+        "location": {
+          "lat": 46.2670726,
+          "lng": -97.3330807
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 46.2685014802915,
+            "lng": -97.3326385697085
+          },
+          "southwest": {
+            "lat": 46.2658035197085,
+            "lng": -97.33533653029151
+          }
+        }
+      },
+      "place_id": "EicyNSBQYWNpZmljIEF2ZSBFLCBNaWxub3IsIE5EIDU4MDYwLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hall",
+          "short_name": "Hall",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sargent County",
+          "short_name": "Sargent County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hall, ND, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.2824529,
+            "lng": -97.259272
+          },
+          "southwest": {
+            "lat": 46.19473,
+            "lng": -97.38455309999999
+          }
+        },
+        "location": {
+          "lat": 46.2255512,
+          "lng": -97.301332
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.2824529,
+            "lng": -97.259272
+          },
+          "southwest": {
+            "lat": 46.19473,
+            "lng": -97.38455309999999
+          }
+        }
+      },
+      "place_id": "ChIJATV6rFSMzlIRSNLTPBx9yNc",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "58060",
+          "short_name": "58060",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Milnor",
+          "short_name": "Milnor",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Milnor, ND 58060, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.4419149,
+            "lng": -97.23974710000002
+          },
+          "southwest": {
+            "lat": 46.1229899,
+            "lng": -97.6582968
+          }
+        },
+        "location": {
+          "lat": 46.3129512,
+          "lng": -97.4389351
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.4419149,
+            "lng": -97.23974710000002
+          },
+          "southwest": {
+            "lat": 46.1229899,
+            "lng": -97.6582968
+          }
+        }
+      },
+      "place_id": "ChIJ876xXyJgzlIRfObwWYCjywo",
+      "postcode_localities": [
+        "Delamere",
+        "Milnor"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sargent County",
+          "short_name": "Sargent County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sargent County, ND, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.2826719,
+            "lng": -97.22829100000001
+          },
+          "southwest": {
+            "lat": 45.9350719,
+            "lng": -98.0081101
+          }
+        },
+        "location": {
+          "lat": 46.1089195,
+          "lng": -97.61524179999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.2826719,
+            "lng": -97.22829100000001
+          },
+          "southwest": {
+            "lat": 45.9350719,
+            "lng": -98.0081101
+          }
+        }
+      },
+      "place_id": "ChIJcUtsRPdlzlIR9gOtepj52jw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Dakota, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 49.000692,
+            "lng": -96.554491
+          },
+          "southwest": {
+            "lat": 45.9350719,
+            "lng": -104.05004
+          }
+        },
+        "location": {
+          "lat": 47.5514926,
+          "lng": -101.0020119
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.000692,
+            "lng": -96.554491
+          },
+          "southwest": {
+            "lat": 45.9350719,
+            "lng": -104.05004
+          }
+        }
+      },
+      "place_id": "ChIJY-nYVxKD11IRyc9egzmahA0",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

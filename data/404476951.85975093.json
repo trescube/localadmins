@@ -1,0 +1,586 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "54-60",
+          "short_name": "54-60",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Seavey Street",
+          "short_name": "Seavey St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "North Conway",
+          "short_name": "North Conway",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Conway",
+          "short_name": "Conway",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Conway",
+          "short_name": "Conway",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Carroll County",
+          "short_name": "Carroll County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Hampshire",
+          "short_name": "NH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "03860",
+          "short_name": "03860",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5355",
+          "short_name": "5355",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "54-60 Seavey St, North Conway, NH 03860, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.0521031,
+            "lng": -71.12479669999999
+          },
+          "southwest": {
+            "lat": 44.05206090000001,
+            "lng": -71.1259305
+          }
+        },
+        "location": {
+          "lat": 44.0521154,
+          "lng": -71.1248324
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 44.0534309802915,
+            "lng": -71.12401461970849
+          },
+          "southwest": {
+            "lat": 44.0507330197085,
+            "lng": -71.12671258029151
+          }
+        }
+      },
+      "place_id": "Eiw1NC02MCBTZWF2ZXkgU3QsIE5vcnRoIENvbndheSwgTkggMDM4NjAsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Conway",
+          "short_name": "North Conway",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Conway",
+          "short_name": "Conway",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Conway",
+          "short_name": "Conway",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Carroll County",
+          "short_name": "Carroll County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Hampshire",
+          "short_name": "NH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Conway, Conway, NH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.076756,
+            "lng": -71.101146
+          },
+          "southwest": {
+            "lat": 44.0145499,
+            "lng": -71.1595849
+          }
+        },
+        "location": {
+          "lat": 44.0536805,
+          "lng": -71.1284041
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.076756,
+            "lng": -71.101146
+          },
+          "southwest": {
+            "lat": 44.0145499,
+            "lng": -71.1595849
+          }
+        }
+      },
+      "place_id": "ChIJzW0AIOags0wRh_RKf1Jx1Zs",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Conway",
+          "short_name": "Conway",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Conway",
+          "short_name": "Conway",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Carroll County",
+          "short_name": "Carroll County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Hampshire",
+          "short_name": "NH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Conway, NH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.076828,
+            "lng": -70.993271
+          },
+          "southwest": {
+            "lat": 43.924243,
+            "lng": -71.1667239
+          }
+        },
+        "location": {
+          "lat": 43.9791831,
+          "lng": -71.1203479
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.076828,
+            "lng": -70.993271
+          },
+          "southwest": {
+            "lat": 43.924243,
+            "lng": -71.1667239
+          }
+        }
+      },
+      "place_id": "ChIJJdHA9dEJs0wRFrGYW5CdFhs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "03860",
+          "short_name": "03860",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "North Conway",
+          "short_name": "North Conway",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Carroll County",
+          "short_name": "Carroll County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Hampshire",
+          "short_name": "NH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Conway, NH 03860, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.109224,
+            "lng": -71.036379
+          },
+          "southwest": {
+            "lat": 43.91753689999999,
+            "lng": -71.2432039
+          }
+        },
+        "location": {
+          "lat": 44.0469084,
+          "lng": -71.1313381
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.109224,
+            "lng": -71.036379
+          },
+          "southwest": {
+            "lat": 43.9828659,
+            "lng": -71.2032059
+          }
+        }
+      },
+      "place_id": "ChIJ0xfYnBgKs0wRNhobKERmnjU",
+      "postcode_localities": [
+        "HALES LCTN",
+        "Hales Location"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Conway",
+          "short_name": "Conway",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Carroll County",
+          "short_name": "Carroll County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Hampshire",
+          "short_name": "NH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Conway, NH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.076828,
+            "lng": -70.993271
+          },
+          "southwest": {
+            "lat": 43.924243,
+            "lng": -71.1667239
+          }
+        },
+        "location": {
+          "lat": 44.02812,
+          "lng": -71.07673369999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.076828,
+            "lng": -70.993271
+          },
+          "southwest": {
+            "lat": 43.924243,
+            "lng": -71.1667239
+          }
+        }
+      },
+      "place_id": "ChIJRYAKt3QIs0wRlihEBCRg0NA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Carroll County",
+          "short_name": "Carroll County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Hampshire",
+          "short_name": "NH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Carroll County, NH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.284761,
+            "lng": -70.9508379
+          },
+          "southwest": {
+            "lat": 43.4829809,
+            "lng": -71.564615
+          }
+        },
+        "location": {
+          "lat": 43.8128209,
+          "lng": -71.25060669999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.284761,
+            "lng": -70.9508379
+          },
+          "southwest": {
+            "lat": 43.4829809,
+            "lng": -71.564615
+          }
+        }
+      },
+      "place_id": "ChIJL4j8uf0Ss0wR-WWdErh_dF8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Hampshire",
+          "short_name": "NH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Hampshire, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.3054761,
+            "lng": -70.6026612
+          },
+          "southwest": {
+            "lat": 42.696985,
+            "lng": -72.55718499999999
+          }
+        },
+        "location": {
+          "lat": 43.1938516,
+          "lng": -71.5723953
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.3054761,
+            "lng": -70.6026612
+          },
+          "southwest": {
+            "lat": 42.696985,
+            "lng": -72.55718499999999
+          }
+        }
+      },
+      "place_id": "ChIJ66bAnUtEs0wR64CmJa8CyNc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

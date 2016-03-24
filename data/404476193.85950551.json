@@ -1,0 +1,690 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "32",
+          "short_name": "32",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "June Lane",
+          "short_name": "June Ln",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "East Sandwich",
+          "short_name": "East Sandwich",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sandwich",
+          "short_name": "Sandwich",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sandwich",
+          "short_name": "Sandwich",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Barnstable County",
+          "short_name": "Barnstable County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "02537",
+          "short_name": "02537",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1468",
+          "short_name": "1468",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "32 June Ln, East Sandwich, MA 02537, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.736402,
+          "lng": -70.434495
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.73775098029149,
+            "lng": -70.43314601970849
+          },
+          "southwest": {
+            "lat": 41.7350530197085,
+            "lng": -70.4358439802915
+          }
+        }
+      },
+      "place_id": "ChIJZ9sHWTLL5IkRV0FwzE44bLE",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "East Sandwich",
+          "short_name": "East Sandwich",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sandwich",
+          "short_name": "Sandwich",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sandwich",
+          "short_name": "Sandwich",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Barnstable County",
+          "short_name": "Barnstable County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East Sandwich, Sandwich, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.755938,
+            "lng": -70.3832539
+          },
+          "southwest": {
+            "lat": 41.7107479,
+            "lng": -70.4946471
+          }
+        },
+        "location": {
+          "lat": 41.7417739,
+          "lng": -70.4516929
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.755938,
+            "lng": -70.3832539
+          },
+          "southwest": {
+            "lat": 41.7107479,
+            "lng": -70.4946471
+          }
+        }
+      },
+      "place_id": "ChIJA9degS3L5IkRI9UNPnyvXDg",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sandwich",
+          "short_name": "Sandwich",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sandwich",
+          "short_name": "Sandwich",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Barnstable County",
+          "short_name": "Barnstable County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sandwich, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.793254,
+            "lng": -70.3832544
+          },
+          "southwest": {
+            "lat": 41.6371059,
+            "lng": -70.568007
+          }
+        },
+        "location": {
+          "lat": 41.7589615,
+          "lng": -70.49393169999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.793254,
+            "lng": -70.3832544
+          },
+          "southwest": {
+            "lat": 41.6371059,
+            "lng": -70.568007
+          }
+        }
+      },
+      "place_id": "ChIJnXxUtIHM5IkRIBku49N-kVY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "02537",
+          "short_name": "02537",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "East Sandwich",
+          "short_name": "East Sandwich",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Barnstable County",
+          "short_name": "Barnstable County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East Sandwich, MA 02537, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7652649,
+            "lng": -70.38289209999999
+          },
+          "southwest": {
+            "lat": 41.6951001,
+            "lng": -70.493043
+          }
+        },
+        "location": {
+          "lat": 41.739579,
+          "lng": -70.44319109999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7652649,
+            "lng": -70.38289209999999
+          },
+          "southwest": {
+            "lat": 41.6951001,
+            "lng": -70.493043
+          }
+        }
+      },
+      "place_id": "ChIJ9Qu_TEjL5IkRlDDR6Va4q8E",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sandwich",
+          "short_name": "Sandwich",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Barnstable County",
+          "short_name": "Barnstable County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sandwich, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.793254,
+            "lng": -70.3832544
+          },
+          "southwest": {
+            "lat": 41.6371059,
+            "lng": -70.568007
+          }
+        },
+        "location": {
+          "lat": 41.7320892,
+          "lng": -70.4550922
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.793254,
+            "lng": -70.3832544
+          },
+          "southwest": {
+            "lat": 41.6371059,
+            "lng": -70.568007
+          }
+        }
+      },
+      "place_id": "ChIJR5fcHI7L5IkRFtXk86miNEo",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Barnstable Town",
+          "short_name": "Barnstable Town",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Barnstable Town, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.082337,
+            "lng": -69.9282611
+          },
+          "southwest": {
+            "lat": 41.5133391,
+            "lng": -70.6947996
+          }
+        },
+        "location": {
+          "lat": 41.6787122,
+          "lng": -70.4788937
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.082337,
+            "lng": -69.9282611
+          },
+          "southwest": {
+            "lat": 41.5133391,
+            "lng": -70.6947996
+          }
+        }
+      },
+      "place_id": "ChIJ1QNdolU2-4kRomnSpBCoBss",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Barnstable Town",
+          "short_name": "Barnstable Town",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Barnstable Town, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0772102,
+            "lng": -69.9282611
+          },
+          "southwest": {
+            "lat": 41.5133391,
+            "lng": -70.808424
+          }
+        },
+        "location": {
+          "lat": 41.6787122,
+          "lng": -70.4788937
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0772102,
+            "lng": -69.9282611
+          },
+          "southwest": {
+            "lat": 41.5133391,
+            "lng": -70.808424
+          }
+        }
+      },
+      "place_id": "ChIJy8VCcSY0-4kRJjXWbIBpqms",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Barnstable County",
+          "short_name": "Barnstable County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Barnstable County, MA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0823174,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.5149887,
+            "lng": -70.6876673
+          }
+        },
+        "location": {
+          "lat": 41.69909579999999,
+          "lng": -70.32091129999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0823174,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.5149887,
+            "lng": -70.6876673
+          }
+        }
+      },
+      "place_id": "ChIJNznEmus2-4kR1XIbb_9HhCY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Massachusetts, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390448,
+            "lng": -73.5081419
+          }
+        },
+        "location": {
+          "lat": 42.4072107,
+          "lng": -71.3824374
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.88679,
+            "lng": -69.92855109999999
+          },
+          "southwest": {
+            "lat": 41.2390737,
+            "lng": -73.5081419
+          }
+        }
+      },
+      "place_id": "ChIJ_b9z6W1l44kRHA2DVTbQxkU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

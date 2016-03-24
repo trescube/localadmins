@@ -1,0 +1,401 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200",
+          "short_name": "200",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Nash Place",
+          "short_name": "Nash Pl",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Grafton",
+          "short_name": "Grafton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Farmington",
+          "short_name": "Farmington",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Walsh County",
+          "short_name": "Walsh County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "58237",
+          "short_name": "58237",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "200 Nash Pl, Grafton, ND 58237, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.4757756,
+            "lng": -97.5224549
+          },
+          "southwest": {
+            "lat": 48.4755406,
+            "lng": -97.52262309999999
+          }
+        },
+        "location": {
+          "lat": 48.47578439999999,
+          "lng": -97.5224682
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 48.4770070802915,
+            "lng": -97.5211900197085
+          },
+          "southwest": {
+            "lat": 48.4743091197085,
+            "lng": -97.5238879802915
+          }
+        }
+      },
+      "place_id": "EiMyMDAgTmFzaCBQbCwgR3JhZnRvbiwgTkQgNTgyMzcsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Farmington",
+          "short_name": "Farmington",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Walsh County",
+          "short_name": "Walsh County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Farmington, ND, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.5430969,
+            "lng": -97.40382679999999
+          },
+          "southwest": {
+            "lat": 48.45571289999999,
+            "lng": -97.53555279999999
+          }
+        },
+        "location": {
+          "lat": 48.4973726,
+          "lng": -97.46426009999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.5430969,
+            "lng": -97.40382679999999
+          },
+          "southwest": {
+            "lat": 48.45571289999999,
+            "lng": -97.53555279999999
+          }
+        }
+      },
+      "place_id": "ChIJX79M0jn4w1IR1gx25gv4Hl8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "58237",
+          "short_name": "58237",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Grafton",
+          "short_name": "Grafton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Grafton, ND 58237, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.5575199,
+            "lng": -97.133341
+          },
+          "southwest": {
+            "lat": 48.2961471,
+            "lng": -97.62503
+          }
+        },
+        "location": {
+          "lat": 48.4396676,
+          "lng": -97.4244465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.5575199,
+            "lng": -97.133341
+          },
+          "southwest": {
+            "lat": 48.2961471,
+            "lng": -97.62503
+          }
+        }
+      },
+      "place_id": "ChIJ19CscY0FxFIR6YfQfacbgYg",
+      "postcode_localities": [
+        "Grafton",
+        "Nash"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Walsh County",
+          "short_name": "Walsh County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Walsh County, ND, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.5437728,
+            "lng": -97.1122259
+          },
+          "southwest": {
+            "lat": 48.193602,
+            "lng": -98.3186739
+          }
+        },
+        "location": {
+          "lat": 48.3777874,
+          "lng": -97.75288719999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.5437728,
+            "lng": -97.1122259
+          },
+          "southwest": {
+            "lat": 48.193602,
+            "lng": -98.3186739
+          }
+        }
+      },
+      "place_id": "ChIJccWObhh0xFIRuo_SCe7NIr0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Dakota",
+          "short_name": "ND",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Dakota, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 49.000692,
+            "lng": -96.554491
+          },
+          "southwest": {
+            "lat": 45.9350719,
+            "lng": -104.05004
+          }
+        },
+        "location": {
+          "lat": 47.5514926,
+          "lng": -101.0020119
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.000692,
+            "lng": -96.554491
+          },
+          "southwest": {
+            "lat": 45.9350719,
+            "lng": -104.05004
+          }
+        }
+      },
+      "place_id": "ChIJY-nYVxKD11IRyc9egzmahA0",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

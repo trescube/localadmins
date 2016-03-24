@@ -1,0 +1,442 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1036",
+          "short_name": "1036",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Mountain Road",
+          "short_name": "Mountain Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Albrightsville",
+          "short_name": "Albrightsville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tunkhannock Township",
+          "short_name": "Tunkhannock Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "18210",
+          "short_name": "18210",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "1036 Mountain Rd, Albrightsville, PA 18210, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.000392,
+          "lng": -75.50591
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.00174098029149,
+            "lng": -75.50456101970849
+          },
+          "southwest": {
+            "lat": 40.9990430197085,
+            "lng": -75.5072589802915
+          }
+        }
+      },
+      "place_id": "ChIJZ7bBIeD3xIkRdQp_e5gO_ew",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tunkhannock Township",
+          "short_name": "Tunkhannock Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Tunkhannock Township, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0818048,
+            "lng": -75.3909789
+          },
+          "southwest": {
+            "lat": 40.987379,
+            "lng": -75.5856428
+          }
+        },
+        "location": {
+          "lat": 41.0532623,
+          "lng": -75.45777749999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0818048,
+            "lng": -75.3909789
+          },
+          "southwest": {
+            "lat": 40.987379,
+            "lng": -75.5856428
+          }
+        }
+      },
+      "place_id": "ChIJywhRCKn3xIkRMMMs0KEksKk",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "18210",
+          "short_name": "18210",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Albrightsville",
+          "short_name": "Albrightsville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Albrightsville, PA 18210, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.057685,
+            "lng": -75.47613799999999
+          },
+          "southwest": {
+            "lat": 40.955087,
+            "lng": -75.699687
+          }
+        },
+        "location": {
+          "lat": 40.9975229,
+          "lng": -75.5626039
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.057685,
+            "lng": -75.47613799999999
+          },
+          "southwest": {
+            "lat": 40.955087,
+            "lng": -75.699687
+          }
+        }
+      },
+      "place_id": "ChIJ5QxWAjRWxIkR89Io44KjYMY",
+      "postcode_localities": [
+        "ALBRIGHTSVLLE",
+        "Albrightsville"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Monroe County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2527649,
+            "lng": -74.9675178
+          },
+          "southwest": {
+            "lat": 40.814746,
+            "lng": -75.649202
+          }
+        },
+        "location": {
+          "lat": 41.0458376,
+          "lng": -75.2479061
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2527649,
+            "lng": -74.9675178
+          },
+          "southwest": {
+            "lat": 40.814746,
+            "lng": -75.649202
+          }
+        }
+      },
+      "place_id": "ChIJo1Dq5_-NxIkRf4gUnFVPgUI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "East Stroudsburg",
+          "short_name": "East Stroudsburg",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East Stroudsburg, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.252765,
+            "lng": -74.966759
+          },
+          "southwest": {
+            "lat": 40.814746,
+            "lng": -75.649202
+          }
+        },
+        "location": {
+          "lat": 41.0458376,
+          "lng": -75.2479061
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.252765,
+            "lng": -74.966759
+          },
+          "southwest": {
+            "lat": 40.814746,
+            "lng": -75.649202
+          }
+        }
+      },
+      "place_id": "ChIJ2T1bmaqMxIkRx3xjZ7L_Zew",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

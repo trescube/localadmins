@@ -1,0 +1,545 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "137-199",
+          "short_name": "137-199",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Union Street",
+          "short_name": "Union St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Palmer",
+          "short_name": "Palmer",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bear Creek Township",
+          "short_name": "Bear Creek Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Christian County",
+          "short_name": "Christian County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62556",
+          "short_name": "62556",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "137-199 Union St, Palmer, IL 62556, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.4585991,
+            "lng": -89.40779640000001
+          },
+          "southwest": {
+            "lat": 39.4585966,
+            "lng": -89.40835129999999
+          }
+        },
+        "location": {
+          "lat": 39.45861170000001,
+          "lng": -89.4079235
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.4599468302915,
+            "lng": -89.4067248697085
+          },
+          "southwest": {
+            "lat": 39.4572488697085,
+            "lng": -89.40942283029152
+          }
+        }
+      },
+      "place_id": "EicxMzctMTk5IFVuaW9uIFN0LCBQYWxtZXIsIElMIDYyNTU2LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Palmer",
+          "short_name": "Palmer",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bear Creek Township",
+          "short_name": "Bear Creek Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Christian County",
+          "short_name": "Christian County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Palmer, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.466044,
+            "lng": -89.398455
+          },
+          "southwest": {
+            "lat": 39.4514099,
+            "lng": -89.4173689
+          }
+        },
+        "location": {
+          "lat": 39.457827,
+          "lng": -89.4039813
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.466044,
+            "lng": -89.398455
+          },
+          "southwest": {
+            "lat": 39.4514099,
+            "lng": -89.4173689
+          }
+        }
+      },
+      "place_id": "ChIJuQrgBpoCdYgRIii9i6da4XY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62556",
+          "short_name": "62556",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Palmer",
+          "short_name": "Palmer",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Christian County",
+          "short_name": "Christian County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Palmer, IL 62556, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.520988,
+            "lng": -89.3049861
+          },
+          "southwest": {
+            "lat": 39.4221011,
+            "lng": -89.425734
+          }
+        },
+        "location": {
+          "lat": 39.4743913,
+          "lng": -89.3701078
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.520988,
+            "lng": -89.33460099999999
+          },
+          "southwest": {
+            "lat": 39.4366259,
+            "lng": -89.425734
+          }
+        }
+      },
+      "place_id": "ChIJ4SYA5cbidIgR5PrTnZFygaQ",
+      "postcode_localities": [
+        "Clarksdale",
+        "Palmer"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bear Creek Township",
+          "short_name": "Bear Creek Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Christian County",
+          "short_name": "Christian County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bear Creek Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.524451,
+            "lng": -89.36498089999999
+          },
+          "southwest": {
+            "lat": 39.436627,
+            "lng": -89.47737699999999
+          }
+        },
+        "location": {
+          "lat": 39.4642849,
+          "lng": -89.41746409999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.524451,
+            "lng": -89.36498089999999
+          },
+          "southwest": {
+            "lat": 39.436627,
+            "lng": -89.47737699999999
+          }
+        }
+      },
+      "place_id": "ChIJ47Vg6MsCdYgRxwQKLlGjzMk",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Christian County",
+          "short_name": "Christian County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Christian County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8260851,
+            "lng": -89.024059
+          },
+          "southwest": {
+            "lat": 39.346095,
+            "lng": -89.5352149
+          }
+        },
+        "location": {
+          "lat": 39.5672183,
+          "lng": -89.3226954
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8260851,
+            "lng": -89.024059
+          },
+          "southwest": {
+            "lat": 39.346095,
+            "lng": -89.5352149
+          }
+        }
+      },
+      "place_id": "ChIJ-f-4NfLodIgRXsUKy9WVeD0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Taylorville",
+          "short_name": "Taylorville",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Taylorville, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8260851,
+            "lng": -89.024059
+          },
+          "southwest": {
+            "lat": 39.346095,
+            "lng": -89.535215
+          }
+        },
+        "location": {
+          "lat": 39.5672183,
+          "lng": -89.3226954
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8260851,
+            "lng": -89.024059
+          },
+          "southwest": {
+            "lat": 39.346095,
+            "lng": -89.535215
+          }
+        }
+      },
+      "place_id": "ChIJq_0E0rfldIgR44Yo1Cdol_U",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

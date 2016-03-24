@@ -1,0 +1,492 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1209-1215",
+          "short_name": "1209-1215",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "10th Avenue",
+          "short_name": "10th Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Leisure Village West-Pine Lake Park",
+          "short_name": "Leisure Village West-Pine Lake Park",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Toms River",
+          "short_name": "Toms River",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "08757",
+          "short_name": "08757",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2638",
+          "short_name": "2638",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1209-1215 10th Ave, Toms River, NJ 08757, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0014992,
+            "lng": -74.2579209
+          },
+          "southwest": {
+            "lat": 40.0011366,
+            "lng": -74.25993679999999
+          }
+        },
+        "location": {
+          "lat": 40.0012598,
+          "lng": -74.259334
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.00266688029149,
+            "lng": -74.2575798697085
+          },
+          "southwest": {
+            "lat": 39.9999689197085,
+            "lng": -74.26027783029151
+          }
+        }
+      },
+      "place_id": "Ei0xMjA5LTEyMTUgMTB0aCBBdmUsIFRvbXMgUml2ZXIsIE5KIDA4NzU3LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Leisure Village West-Pine Lake Park",
+          "short_name": "Leisure Village West-Pine Lake Park",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Manchester Township",
+          "short_name": "Manchester Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Leisure Village West-Pine Lake Park, Manchester Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0212339,
+            "lng": -74.2316819
+          },
+          "southwest": {
+            "lat": 39.9901949,
+            "lng": -74.2973331
+          }
+        },
+        "location": {
+          "lat": 40.0015193,
+          "lng": -74.2611476
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0212339,
+            "lng": -74.2316819
+          },
+          "southwest": {
+            "lat": 39.9901949,
+            "lng": -74.2973331
+          }
+        }
+      },
+      "place_id": "ChIJkbHaXgd3wYkRwrcvr2HAfi4",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Manchester Township",
+          "short_name": "Manchester Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Manchester Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.055882,
+            "lng": -74.2315431
+          },
+          "southwest": {
+            "lat": 39.8548029,
+            "lng": -74.495277
+          }
+        },
+        "location": {
+          "lat": 39.9711696,
+          "lng": -74.33928209999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.055882,
+            "lng": -74.2315431
+          },
+          "southwest": {
+            "lat": 39.8548029,
+            "lng": -74.495277
+          }
+        }
+      },
+      "place_id": "ChIJtSWDujl3wYkR3efhjIBmHl0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "08757",
+          "short_name": "08757",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Toms River",
+          "short_name": "Toms River",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Toms River, NJ 08757, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.015495,
+            "lng": -74.189313
+          },
+          "southwest": {
+            "lat": 39.9215899,
+            "lng": -74.316287
+          }
+        },
+        "location": {
+          "lat": 39.9618663,
+          "lng": -74.2583556
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.015495,
+            "lng": -74.189313
+          },
+          "southwest": {
+            "lat": 39.9215899,
+            "lng": -74.316287
+          }
+        }
+      },
+      "place_id": "ChIJ9y6ssdF1wYkRhvv8OLhuEAo",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ocean County",
+          "short_name": "Ocean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ocean County, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.17235489999999,
+            "lng": -74.0300122
+          },
+          "southwest": {
+            "lat": 39.5071756,
+            "lng": -74.5531051
+          }
+        },
+        "location": {
+          "lat": 39.9652553,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.17235489999999,
+            "lng": -74.0300122
+          },
+          "southwest": {
+            "lat": 39.5071756,
+            "lng": -74.5531051
+          }
+        }
+      },
+      "place_id": "ChIJh7ZJcChswYkRWgFmCdLUJYw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Jersey, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9285589,
+            "lng": -75.5597921
+          }
+        },
+        "location": {
+          "lat": 40.0583238,
+          "lng": -74.4056612
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9286032,
+            "lng": -75.5597921
+          }
+        }
+      },
+      "place_id": "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

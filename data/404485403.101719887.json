@@ -1,0 +1,548 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200-298",
+          "short_name": "200-298",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Westridge Road",
+          "short_name": "Westridge Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Belmont",
+          "short_name": "Belmont",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Johnstown",
+          "short_name": "Johnstown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Richland",
+          "short_name": "Richland",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cambria County",
+          "short_name": "Cambria County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "15904",
+          "short_name": "15904",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2258",
+          "short_name": "2258",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "200-298 Westridge Rd, Johnstown, PA 15904, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.2829745,
+            "lng": -78.8900127
+          },
+          "southwest": {
+            "lat": 40.2829531,
+            "lng": -78.8909005
+          }
+        },
+        "location": {
+          "lat": 40.282955,
+          "lng": -78.8906842
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.2843127802915,
+            "lng": -78.8891076197085
+          },
+          "southwest": {
+            "lat": 40.2816148197085,
+            "lng": -78.8918055802915
+          }
+        }
+      },
+      "place_id": "Ei4yMDAtMjk4IFdlc3RyaWRnZSBSZCwgSm9obnN0b3duLCBQQSAxNTkwNCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Belmont",
+          "short_name": "Belmont",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Johnstown",
+          "short_name": "Johnstown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cambria County",
+          "short_name": "Cambria County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Belmont, Johnstown, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.29407399999999,
+            "lng": -78.87284509999999
+          },
+          "southwest": {
+            "lat": 40.269575,
+            "lng": -78.907946
+          }
+        },
+        "location": {
+          "lat": 40.2844345,
+          "lng": -78.8920444
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.29407399999999,
+            "lng": -78.87284509999999
+          },
+          "southwest": {
+            "lat": 40.269575,
+            "lng": -78.907946
+          }
+        }
+      },
+      "place_id": "ChIJd6Q9S_MQy4kRxi5MkoMXv-0",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Richland",
+          "short_name": "Richland",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cambria County",
+          "short_name": "Cambria County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Richland, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.34907400000001,
+            "lng": -78.802843
+          },
+          "southwest": {
+            "lat": 40.2431709,
+            "lng": -78.903746
+          }
+        },
+        "location": {
+          "lat": 40.2856786,
+          "lng": -78.8269385
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.34907400000001,
+            "lng": -78.802843
+          },
+          "southwest": {
+            "lat": 40.2431709,
+            "lng": -78.903746
+          }
+        }
+      },
+      "place_id": "ChIJoapbgDQQy4kRhZMDTo2aoVQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "15904",
+          "short_name": "15904",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Johnstown",
+          "short_name": "Johnstown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Johnstown, PA 15904, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.379829,
+            "lng": -78.783945
+          },
+          "southwest": {
+            "lat": 40.242579,
+            "lng": -78.92814489999999
+          }
+        },
+        "location": {
+          "lat": 40.3058549,
+          "lng": -78.8269385
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.379829,
+            "lng": -78.783945
+          },
+          "southwest": {
+            "lat": 40.242579,
+            "lng": -78.92814489999999
+          }
+        }
+      },
+      "place_id": "ChIJmYkRW8cRy4kRmU45fnugnOs",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Johnstown",
+          "short_name": "Johnstown",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Johnstown, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.726042,
+            "lng": -78.34838789999999
+          },
+          "southwest": {
+            "lat": 40.242933,
+            "lng": -79.056061
+          }
+        },
+        "location": {
+          "lat": 40.4894231,
+          "lng": -78.74762079999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.726042,
+            "lng": -78.34838789999999
+          },
+          "southwest": {
+            "lat": 40.242933,
+            "lng": -79.056061
+          }
+        }
+      },
+      "place_id": "ChIJCdoPtJp2y4kRU_a7RWsH9WE",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cambria County",
+          "short_name": "Cambria County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cambria County, PA, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.726042,
+            "lng": -78.348389
+          },
+          "southwest": {
+            "lat": 40.242933,
+            "lng": -79.056061
+          }
+        },
+        "location": {
+          "lat": 40.4894231,
+          "lng": -78.74762079999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.726042,
+            "lng": -78.348389
+          },
+          "southwest": {
+            "lat": 40.242933,
+            "lng": -79.056061
+          }
+        }
+      },
+      "place_id": "ChIJywJ-44oRy4kRmjN2hZffyLM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pennsylvania",
+          "short_name": "PA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pennsylvania, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        },
+        "location": {
+          "lat": 41.2033216,
+          "lng": -77.1945247
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2693866,
+            "lng": -74.6895018
+          },
+          "southwest": {
+            "lat": 39.7197989,
+            "lng": -80.51989499999999
+          }
+        }
+      },
+      "place_id": "ChIJieUyHiaALYgRPbQiUEchRsI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

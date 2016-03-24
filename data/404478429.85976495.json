@@ -1,0 +1,627 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "10",
+          "short_name": "10",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Alphano Road",
+          "short_name": "Alphano Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Great Meadows",
+          "short_name": "Great Meadows",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Great Meadows-Vienna",
+          "short_name": "Great Meadows-Vienna",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Independence Township",
+          "short_name": "Independence Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Warren County",
+          "short_name": "Warren County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "07838",
+          "short_name": "07838",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2504",
+          "short_name": "2504",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "10 Alphano Rd, Great Meadows, NJ 07838, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.8768249,
+          "lng": -74.903893
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.87817388029149,
+            "lng": -74.90254401970849
+          },
+          "southwest": {
+            "lat": 40.87547591970849,
+            "lng": -74.9052419802915
+          }
+        }
+      },
+      "place_id": "ChIJ22wArQ6Bw4kR-BSYX9iKM5Y",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Great Meadows",
+          "short_name": "Great Meadows",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Great Meadows-Vienna",
+          "short_name": "Great Meadows-Vienna",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Independence Township",
+          "short_name": "Independence Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Warren County",
+          "short_name": "Warren County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Great Meadows, Independence Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8901381,
+            "lng": -74.8887111
+          },
+          "southwest": {
+            "lat": 40.8647899,
+            "lng": -74.9219109
+          }
+        },
+        "location": {
+          "lat": 40.8706269,
+          "lng": -74.911853
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8901381,
+            "lng": -74.8887111
+          },
+          "southwest": {
+            "lat": 40.8647899,
+            "lng": -74.9219109
+          }
+        }
+      },
+      "place_id": "ChIJMbbt-1iAw4kRYUb6MiGAB-I",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Great Meadows-Vienna",
+          "short_name": "Great Meadows-Vienna",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Independence Township",
+          "short_name": "Independence Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Warren County",
+          "short_name": "Warren County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Great Meadows-Vienna, Independence Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8901381,
+            "lng": -74.8579759
+          },
+          "southwest": {
+            "lat": 40.85328200000001,
+            "lng": -74.9219109
+          }
+        },
+        "location": {
+          "lat": 40.86400390000001,
+          "lng": -74.8978881
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8901381,
+            "lng": -74.8579759
+          },
+          "southwest": {
+            "lat": 40.85328200000001,
+            "lng": -74.9219109
+          }
+        }
+      },
+      "place_id": "ChIJw-8mvHGBw4kR21f5CRqncY8",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Independence Township",
+          "short_name": "Independence Township",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Warren County",
+          "short_name": "Warren County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Independence Township, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.92718199999999,
+            "lng": -74.816053
+          },
+          "southwest": {
+            "lat": 40.8361729,
+            "lng": -74.92786699999999
+          }
+        },
+        "location": {
+          "lat": 40.8893883,
+          "lng": -74.88579890000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.92718199999999,
+            "lng": -74.816053
+          },
+          "southwest": {
+            "lat": 40.8361729,
+            "lng": -74.92786699999999
+          }
+        }
+      },
+      "place_id": "ChIJkSgdOiqCw4kR67jPvEf5cOc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "07838",
+          "short_name": "07838",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Great Meadows",
+          "short_name": "Great Meadows",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Warren County",
+          "short_name": "Warren County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Great Meadows, NJ 07838, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.929418,
+            "lng": -74.8429538
+          },
+          "southwest": {
+            "lat": 40.8347781,
+            "lng": -74.98709099999999
+          }
+        },
+        "location": {
+          "lat": 40.8925115,
+          "lng": -74.90918529999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.929418,
+            "lng": -74.8429538
+          },
+          "southwest": {
+            "lat": 40.8347781,
+            "lng": -74.98709099999999
+          }
+        }
+      },
+      "place_id": "ChIJk4yybFOHw4kRcm5fJF7WOzQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Warren County",
+          "short_name": "Warren County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Warren County, NJ, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.093629,
+            "lng": -74.7678739
+          },
+          "southwest": {
+            "lat": 40.59177589999999,
+            "lng": -75.2039209
+          }
+        },
+        "location": {
+          "lat": 40.8841854,
+          "lng": -74.92087719999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.093629,
+            "lng": -74.7678739
+          },
+          "southwest": {
+            "lat": 40.59177589999999,
+            "lng": -75.2039209
+          }
+        }
+      },
+      "place_id": "ChIJBT-KStmCw4kRT-qWiF6ja1Q",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Αλεντάουν",
+          "short_name": "Αλεντάουν",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Αλεντάουν, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1339881,
+            "lng": -74.7679091
+          },
+          "southwest": {
+            "lat": 40.4184509,
+            "lng": -75.9973481
+          }
+        },
+        "location": {
+          "lat": 40.7291847,
+          "lng": -75.2479061
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1339881,
+            "lng": -74.7679091
+          },
+          "southwest": {
+            "lat": 40.4184509,
+            "lng": -75.9973481
+          }
+        }
+      },
+      "place_id": "ChIJe-aP3QlDxIkRkcI8h_6NgQ8",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Jersey",
+          "short_name": "NJ",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New Jersey, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9285589,
+            "lng": -75.5597921
+          }
+        },
+        "location": {
+          "lat": 40.0583238,
+          "lng": -74.4056612
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.357423,
+            "lng": -73.9024391
+          },
+          "southwest": {
+            "lat": 38.9286032,
+            "lng": -75.5597921
+          }
+        }
+      },
+      "place_id": "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,490 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "10001-10099",
+          "short_name": "10001-10099",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Stoy",
+          "short_name": "Stoy",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oblong Township",
+          "short_name": "Oblong Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62464",
+          "short_name": "62464",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "10001-10099 Main St, Stoy, IL 62464, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.99758509999999,
+            "lng": -87.8333509
+          },
+          "southwest": {
+            "lat": 38.9963494,
+            "lng": -87.83338719999999
+          }
+        },
+        "location": {
+          "lat": 38.996675,
+          "lng": -87.833343
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.99831623029149,
+            "lng": -87.83202006970849
+          },
+          "southwest": {
+            "lat": 38.9956182697085,
+            "lng": -87.8347180302915
+          }
+        }
+      },
+      "place_id": "EigxMDAwMS0xMDA5OSBNYWluIFN0LCBTdG95LCBJTCA2MjQ2NCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Stoy",
+          "short_name": "Stoy",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oblong Township",
+          "short_name": "Oblong Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Stoy, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0033509,
+            "lng": -87.82408799999999
+          },
+          "southwest": {
+            "lat": 38.9900499,
+            "lng": -87.8425639
+          }
+        },
+        "location": {
+          "lat": 38.9975424,
+          "lng": -87.83308500000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0033509,
+            "lng": -87.82408799999999
+          },
+          "southwest": {
+            "lat": 38.9900499,
+            "lng": -87.8425639
+          }
+        }
+      },
+      "place_id": "ChIJIRBVBO1qcogRE0fQOohEj6M",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62464",
+          "short_name": "62464",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Stoy",
+          "short_name": "Stoy",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oblong Township",
+          "short_name": "Oblong Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Stoy, IL 62464, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0033168,
+            "lng": -87.82408799999999
+          },
+          "southwest": {
+            "lat": 38.9927409,
+            "lng": -87.83407009999999
+          }
+        },
+        "location": {
+          "lat": 38.9975405,
+          "lng": -87.8291861
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0033168,
+            "lng": -87.82408799999999
+          },
+          "southwest": {
+            "lat": 38.9927409,
+            "lng": -87.83407009999999
+          }
+        }
+      },
+      "place_id": "ChIJQ4kSDe1qcogRQlJCbXaXYFg",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Oblong Township",
+          "short_name": "Oblong Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Oblong Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.07147,
+            "lng": -87.81421990000001
+          },
+          "southwest": {
+            "lat": 38.9529,
+            "lng": -87.94670599999999
+          }
+        },
+        "location": {
+          "lat": 39.0104562,
+          "lng": -87.89424509999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.07147,
+            "lng": -87.81421990000001
+          },
+          "southwest": {
+            "lat": 38.9529,
+            "lng": -87.94670599999999
+          }
+        }
+      },
+      "place_id": "ChIJgU7d7KpBcogR8cuxWW5iXLY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Crawford County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.17922009999999,
+            "lng": -87.5121301
+          },
+          "southwest": {
+            "lat": 38.8488569,
+            "lng": -87.95040379999999
+          }
+        },
+        "location": {
+          "lat": 39.0499568,
+          "lng": -87.77633329999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.17922009999999,
+            "lng": -87.5121301
+          },
+          "southwest": {
+            "lat": 38.8488569,
+            "lng": -87.95040379999999
+          }
+        }
+      },
+      "place_id": "ChIJo7lPTEdscogR1Q_ajxZz-5k",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}
