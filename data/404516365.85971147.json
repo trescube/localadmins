@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "401-417",
+          "short_name": "401-417",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Oak Street",
+          "short_name": "Oak St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lincoln",
+          "short_name": "Lincoln",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "White Township",
+          "short_name": "White Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Benton County",
+          "short_name": "Benton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65338",
+          "short_name": "65338",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1044",
+          "short_name": "1044",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "401-417 Oak St, Lincoln, MO 65338, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.3937611,
+            "lng": -93.32970329999999
+          },
+          "southwest": {
+            "lat": 38.39368140000001,
+            "lng": -93.3317852
+          }
+        },
+        "location": {
+          "lat": 38.3937602,
+          "lng": -93.3314061
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.3950702302915,
+            "lng": -93.3293952697085
+          },
+          "southwest": {
+            "lat": 38.3923722697085,
+            "lng": -93.3320932302915
+          }
+        }
+      },
+      "place_id": "EiY0MDEtNDE3IE9hayBTdCwgTGluY29sbiwgTU8gNjUzMzgsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lincoln",
+          "short_name": "Lincoln",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "White Township",
+          "short_name": "White Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Benton County",
+          "short_name": "Benton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65338",
+          "short_name": "65338",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Lincoln, MO 65338, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.4016719,
+            "lng": -93.318291
+          },
+          "southwest": {
+            "lat": 38.386956,
+            "lng": -93.3540639
+          }
+        },
+        "location": {
+          "lat": 38.3908555,
+          "lng": -93.3346497
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.4016719,
+            "lng": -93.318291
+          },
+          "southwest": {
+            "lat": 38.386956,
+            "lng": -93.3540639
+          }
+        }
+      },
+      "place_id": "ChIJAfKq6oBuxIcRCnXYlVo5jC8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "White Township",
+          "short_name": "White Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Benton County",
+          "short_name": "Benton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "White Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.51247600000001,
+            "lng": -93.2881259
+          },
+          "southwest": {
+            "lat": 38.367714,
+            "lng": -93.515648
+          }
+        },
+        "location": {
+          "lat": 38.4568641,
+          "lng": -93.3993751
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.51247600000001,
+            "lng": -93.2881259
+          },
+          "southwest": {
+            "lat": 38.367714,
+            "lng": -93.515648
+          }
+        }
+      },
+      "place_id": "ChIJHaXvMqFyxIcRpUXRWcRNRGk",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "65338",
+          "short_name": "65338",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Lincoln",
+          "short_name": "Lincoln",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lincoln, MO 65338, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.495519,
+            "lng": -93.0682499
+          },
+          "southwest": {
+            "lat": 38.2132949,
+            "lng": -93.524525
+          }
+        },
+        "location": {
+          "lat": 38.375071,
+          "lng": -93.318747
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.495519,
+            "lng": -93.0682499
+          },
+          "southwest": {
+            "lat": 38.2132949,
+            "lng": -93.524525
+          }
+        }
+      },
+      "place_id": "ChIJnxMPkzFvxIcRR8qtDi7O1XQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Benton County",
+          "short_name": "Benton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Benton County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.5353879,
+            "lng": -93.059073
+          },
+          "southwest": {
+            "lat": 38.0624789,
+            "lng": -93.52320209999999
+          }
+        },
+        "location": {
+          "lat": 38.3534598,
+          "lng": -93.33889169999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5353879,
+            "lng": -93.059073
+          },
+          "southwest": {
+            "lat": 38.0624789,
+            "lng": -93.52320209999999
+          }
+        }
+      },
+      "place_id": "ChIJd2Lsl1YVxIcR9Pg72SDNyFs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

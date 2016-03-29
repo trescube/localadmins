@@ -1,0 +1,539 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1201-1205",
+          "short_name": "1201-1205",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Clarence Street",
+          "short_name": "Clarence St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Sarcoxie",
+          "short_name": "Sarcoxie",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sarcoxie Township",
+          "short_name": "Sarcoxie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jasper County",
+          "short_name": "Jasper County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64862",
+          "short_name": "64862",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8259",
+          "short_name": "8259",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1201-1205 Clarence St, Sarcoxie, MO 64862, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.0678131,
+            "lng": -94.1230511
+          },
+          "southwest": {
+            "lat": 37.0677778,
+            "lng": -94.1245326
+          }
+        },
+        "location": {
+          "lat": 37.0677939,
+          "lng": -94.12309929999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.06914443029149,
+            "lng": -94.1224428697085
+          },
+          "southwest": {
+            "lat": 37.0664464697085,
+            "lng": -94.1251408302915
+          }
+        }
+      },
+      "place_id": "Ei4xMjAxLTEyMDUgQ2xhcmVuY2UgU3QsIFNhcmNveGllLCBNTyA2NDg2MiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sarcoxie",
+          "short_name": "Sarcoxie",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sarcoxie Township",
+          "short_name": "Sarcoxie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jasper County",
+          "short_name": "Jasper County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64862",
+          "short_name": "64862",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Sarcoxie, MO 64862, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.0751881,
+            "lng": -94.112089
+          },
+          "southwest": {
+            "lat": 37.06019089999999,
+            "lng": -94.1348079
+          }
+        },
+        "location": {
+          "lat": 37.0692266,
+          "lng": -94.11660429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.0751881,
+            "lng": -94.112089
+          },
+          "southwest": {
+            "lat": 37.06019089999999,
+            "lng": -94.1348079
+          }
+        }
+      },
+      "place_id": "ChIJbYvD5DCZyIcRVxGBJ4uKpdw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sarcoxie Township",
+          "short_name": "Sarcoxie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jasper County",
+          "short_name": "Jasper County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sarcoxie Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.153104,
+            "lng": -94.05639389999999
+          },
+          "southwest": {
+            "lat": 37.048127,
+            "lng": -94.177216
+          }
+        },
+        "location": {
+          "lat": 37.0691997,
+          "lng": -94.1165451
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.153104,
+            "lng": -94.05639389999999
+          },
+          "southwest": {
+            "lat": 37.048127,
+            "lng": -94.177216
+          }
+        }
+      },
+      "place_id": "ChIJdyPfxgGZyIcRz_3LqvnI8-U",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64862",
+          "short_name": "64862",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Sarcoxie",
+          "short_name": "Sarcoxie",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sarcoxie, MO 64862, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.275529,
+            "lng": -93.99958099999999
+          },
+          "southwest": {
+            "lat": 36.991048,
+            "lng": -94.2758339
+          }
+        },
+        "location": {
+          "lat": 37.0769995,
+          "lng": -94.08999109999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.275529,
+            "lng": -93.99958099999999
+          },
+          "southwest": {
+            "lat": 36.991048,
+            "lng": -94.2758339
+          }
+        }
+      },
+      "place_id": "ChIJb_bLbAGZyIcR1Jkqrjw5BZE",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Jasper County",
+          "short_name": "Jasper County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Jasper County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.364173,
+            "lng": -94.05231309999999
+          },
+          "southwest": {
+            "lat": 37.048127,
+            "lng": -94.6184579
+          }
+        },
+        "location": {
+          "lat": 37.17455650000001,
+          "lng": -94.35651299999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.364173,
+            "lng": -94.05231309999999
+          },
+          "southwest": {
+            "lat": 37.048127,
+            "lng": -94.6184579
+          }
+        }
+      },
+      "place_id": "ChIJQbU6TfIoxocRTrzoDWs-CLc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Joplin",
+          "short_name": "Joplin",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Joplin, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.364355,
+            "lng": -94.05237199999999
+          },
+          "southwest": {
+            "lat": 36.747867,
+            "lng": -94.61865809999999
+          }
+        },
+        "location": {
+          "lat": 37.0505583,
+          "lng": -94.2333355
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.364355,
+            "lng": -94.05237199999999
+          },
+          "southwest": {
+            "lat": 36.747867,
+            "lng": -94.61865809999999
+          }
+        }
+      },
+      "place_id": "ChIJRa5ZQCOGyIcR3FvsNK6zNFI",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

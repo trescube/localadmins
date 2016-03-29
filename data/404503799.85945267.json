@@ -1,0 +1,544 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "473-499",
+          "short_name": "473-499",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Olive Street",
+          "short_name": "Olive St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Galatia",
+          "short_name": "Galatia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fairview",
+          "short_name": "Fairview",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Barton County",
+          "short_name": "Barton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67565",
+          "short_name": "67565",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9438",
+          "short_name": "9438",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "473-499 Olive St, Galatia, KS 67565, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.641899,
+            "lng": -98.9578937
+          },
+          "southwest": {
+            "lat": 38.6408939,
+            "lng": -98.9578962
+          }
+        },
+        "location": {
+          "lat": 38.641167,
+          "lng": -98.9579132
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6427454302915,
+            "lng": -98.9565459697085
+          },
+          "southwest": {
+            "lat": 38.64004746970851,
+            "lng": -98.9592439302915
+          }
+        }
+      },
+      "place_id": "Eig0NzMtNDk5IE9saXZlIFN0LCBHYWxhdGlhLCBLUyA2NzU2NSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Galatia",
+          "short_name": "Galatia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fairview",
+          "short_name": "Fairview",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Barton County",
+          "short_name": "Barton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Galatia, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.64584809999999,
+            "lng": -98.9500619
+          },
+          "southwest": {
+            "lat": 38.63728589999999,
+            "lng": -98.96407400000001
+          }
+        },
+        "location": {
+          "lat": 38.6416788,
+          "lng": -98.95870149999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.64584809999999,
+            "lng": -98.9500619
+          },
+          "southwest": {
+            "lat": 38.63728589999999,
+            "lng": -98.96407400000001
+          }
+        }
+      },
+      "place_id": "ChIJLRzz0tnpo4cRi8Lw_kOPnxc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fairview",
+          "short_name": "Fairview",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Barton County",
+          "short_name": "Barton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fairview, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6968331,
+            "lng": -98.92195889999999
+          },
+          "southwest": {
+            "lat": 38.6087981,
+            "lng": -99.0331169
+          }
+        },
+        "location": {
+          "lat": 38.6625411,
+          "lng": -98.99079379999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6968331,
+            "lng": -98.92195889999999
+          },
+          "southwest": {
+            "lat": 38.6087981,
+            "lng": -99.0331169
+          }
+        }
+      },
+      "place_id": "ChIJ3xV8e4XCo4cRcvYrqD3InJE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67565",
+          "short_name": "67565",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Otis",
+          "short_name": "Otis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Otis, KS 67565, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.73067590000001,
+            "lng": -98.9407051
+          },
+          "southwest": {
+            "lat": 38.478579,
+            "lng": -99.1257019
+          }
+        },
+        "location": {
+          "lat": 38.6175045,
+          "lng": -99.03499769999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.73067590000001,
+            "lng": -98.9407051
+          },
+          "southwest": {
+            "lat": 38.478579,
+            "lng": -99.1257019
+          }
+        }
+      },
+      "place_id": "ChIJm8JLmk3ko4cRwzqB9foCcdI",
+      "postcode_localities": [
+        "Galatia",
+        "Otis"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Barton County",
+          "short_name": "Barton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Barton County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6969161,
+            "lng": -98.479507
+          },
+          "southwest": {
+            "lat": 38.26079,
+            "lng": -99.03343
+          }
+        },
+        "location": {
+          "lat": 38.3613844,
+          "lng": -98.7651482
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6969161,
+            "lng": -98.479507
+          },
+          "southwest": {
+            "lat": 38.26079,
+            "lng": -99.03343
+          }
+        }
+      },
+      "place_id": "ChIJN6Yc7e6Oo4cRPxdI4V1TMU8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Great Bend",
+          "short_name": "Great Bend",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Great Bend, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.697048,
+            "lng": -98.479772
+          },
+          "southwest": {
+            "lat": 38.26079,
+            "lng": -99.0333979
+          }
+        },
+        "location": {
+          "lat": 38.5000699,
+          "lng": -98.6600586
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.697048,
+            "lng": -98.479772
+          },
+          "southwest": {
+            "lat": 38.26079,
+            "lng": -99.0333979
+          }
+        }
+      },
+      "place_id": "ChIJ2epts-WNo4cRbga2Osijhrc",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

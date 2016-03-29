@@ -1,0 +1,539 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-111",
+          "short_name": "101-111",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East 4th Street",
+          "short_name": "E 4th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Muscotah",
+          "short_name": "Muscotah",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Grasshopper",
+          "short_name": "Grasshopper",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Atchison County",
+          "short_name": "Atchison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66058",
+          "short_name": "66058",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3031",
+          "short_name": "3031",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "101-111 E 4th St, Muscotah, KS 66058, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.55375129999999,
+            "lng": -95.51980259999999
+          },
+          "southwest": {
+            "lat": 39.5537162,
+            "lng": -95.5214814
+          }
+        },
+        "location": {
+          "lat": 39.5537252,
+          "lng": -95.5203597
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5550827302915,
+            "lng": -95.51929301970848
+          },
+          "southwest": {
+            "lat": 39.5523847697085,
+            "lng": -95.5219909802915
+          }
+        }
+      },
+      "place_id": "EikxMDEtMTExIEUgNHRoIFN0LCBNdXNjb3RhaCwgS1MgNjYwNTgsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Muscotah",
+          "short_name": "Muscotah",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Grasshopper",
+          "short_name": "Grasshopper",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Atchison County",
+          "short_name": "Atchison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66058",
+          "short_name": "66058",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Muscotah, KS 66058, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.557849,
+            "lng": -95.5151389
+          },
+          "southwest": {
+            "lat": 39.5483008,
+            "lng": -95.526496
+          }
+        },
+        "location": {
+          "lat": 39.5528064,
+          "lng": -95.52158349999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.557849,
+            "lng": -95.5151389
+          },
+          "southwest": {
+            "lat": 39.5483008,
+            "lng": -95.526496
+          }
+        }
+      },
+      "place_id": "ChIJ99oyIwfHv4cRdyIfeV4SceY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66058",
+          "short_name": "66058",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Muscotah",
+          "short_name": "Muscotah",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Muscotah, KS 66058, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.623773,
+            "lng": -95.3975909
+          },
+          "southwest": {
+            "lat": 39.44332989999999,
+            "lng": -95.58882609999999
+          }
+        },
+        "location": {
+          "lat": 39.5818908,
+          "lng": -95.5407299
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.623773,
+            "lng": -95.48696000000001
+          },
+          "southwest": {
+            "lat": 39.44332989999999,
+            "lng": -95.58882609999999
+          }
+        }
+      },
+      "place_id": "ChIJ1zt1OSrBv4cRgmmdeOZzYCk",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Grasshopper",
+          "short_name": "Grasshopper",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Atchison County",
+          "short_name": "Atchison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Grasshopper, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.6530459,
+            "lng": -95.3957269
+          },
+          "southwest": {
+            "lat": 39.5351579,
+            "lng": -95.5703449
+          }
+        },
+        "location": {
+          "lat": 39.5838828,
+          "lng": -95.4987565
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.6530459,
+            "lng": -95.3957269
+          },
+          "southwest": {
+            "lat": 39.5351579,
+            "lng": -95.5703449
+          }
+        }
+      },
+      "place_id": "ChIJL_wo9rHGv4cR_G7U4_VLhQw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Atchison County",
+          "short_name": "Atchison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Atchison County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.6530639,
+            "lng": -94.9689729
+          },
+          "southwest": {
+            "lat": 39.4188118,
+            "lng": -95.57037
+          }
+        },
+        "location": {
+          "lat": 39.5701137,
+          "lng": -95.35208759999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.6530639,
+            "lng": -94.9689729
+          },
+          "southwest": {
+            "lat": 39.4188118,
+            "lng": -95.57037
+          }
+        }
+      },
+      "place_id": "ChIJXY83dd_sv4cR6dSLveLTH30",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Atchison",
+          "short_name": "Atchison",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Atchison, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.652992,
+            "lng": -94.96854760000001
+          },
+          "southwest": {
+            "lat": 39.4187599,
+            "lng": -95.57050989999999
+          }
+        },
+        "location": {
+          "lat": 39.5701137,
+          "lng": -95.35208759999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.652992,
+            "lng": -94.96854760000001
+          },
+          "southwest": {
+            "lat": 39.4187599,
+            "lng": -95.57050989999999
+          }
+        }
+      },
+      "place_id": "ChIJOVP_H1Xrv4cRl53BuAySgc4",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

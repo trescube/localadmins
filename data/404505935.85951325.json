@@ -1,0 +1,481 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "122-224",
+          "short_name": "122-224",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Ann Street",
+          "short_name": "S Ann St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Fowlerville",
+          "short_name": "Fowlerville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Handy Township",
+          "short_name": "Handy Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "48836",
+          "short_name": "48836",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "122-224 S Ann St, Fowlerville, MI 48836, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.66065589999999,
+            "lng": -84.0742331
+          },
+          "southwest": {
+            "lat": 42.65812520000001,
+            "lng": -84.07437519999999
+          }
+        },
+        "location": {
+          "lat": 42.6594786,
+          "lng": -84.0743279
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.6607395302915,
+            "lng": -84.0729551697085
+          },
+          "southwest": {
+            "lat": 42.6580415697085,
+            "lng": -84.07565313029151
+          }
+        }
+      },
+      "place_id": "EiwxMjItMjI0IFMgQW5uIFN0LCBGb3dsZXJ2aWxsZSwgTUkgNDg4MzYsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fowlerville",
+          "short_name": "Fowlerville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Handy Township",
+          "short_name": "Handy Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "48836",
+          "short_name": "48836",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Fowlerville, MI 48836, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.672204,
+            "lng": -84.05301589999999
+          },
+          "southwest": {
+            "lat": 42.6467309,
+            "lng": -84.0930431
+          }
+        },
+        "location": {
+          "lat": 42.6605894,
+          "lng": -84.0730142
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.672204,
+            "lng": -84.05301589999999
+          },
+          "southwest": {
+            "lat": 42.6467309,
+            "lng": -84.0930431
+          }
+        }
+      },
+      "place_id": "ChIJS7Pkcu08I4gRTLbwnWDbRuA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Handy Township",
+          "short_name": "Handy Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Handy Township, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.68546200000001,
+            "lng": -84.031386
+          },
+          "southwest": {
+            "lat": 42.5992921,
+            "lng": -84.15027889999999
+          }
+        },
+        "location": {
+          "lat": 42.6525748,
+          "lng": -84.0801613
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.68546200000001,
+            "lng": -84.031386
+          },
+          "southwest": {
+            "lat": 42.5992921,
+            "lng": -84.15027889999999
+          }
+        }
+      },
+      "place_id": "ChIJoVCV9a88I4gREGvzX2VUdS8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "48836",
+          "short_name": "48836",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Fowlerville",
+          "short_name": "Fowlerville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fowlerville, MI 48836, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7933751,
+            "lng": -83.96981
+          },
+          "southwest": {
+            "lat": 42.546206,
+            "lng": -84.1502989
+          }
+        },
+        "location": {
+          "lat": 42.6525748,
+          "lng": -84.0801613
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7933751,
+            "lng": -83.96981
+          },
+          "southwest": {
+            "lat": 42.546206,
+            "lng": -84.1502989
+          }
+        }
+      },
+      "place_id": "ChIJOdmhHOI8I4gR4VdUJg_39NA",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Livingston County",
+          "short_name": "Livingston County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Livingston County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7832631,
+            "lng": -83.6648079
+          },
+          "southwest": {
+            "lat": 42.423908,
+            "lng": -84.1581889
+          }
+        },
+        "location": {
+          "lat": 42.6207951,
+          "lng": -83.8473015
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7832631,
+            "lng": -83.6648079
+          },
+          "southwest": {
+            "lat": 42.423908,
+            "lng": -84.1581889
+          }
+        }
+      },
+      "place_id": "ChIJYW9RfTBHI4gRHXrtLIsR864",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

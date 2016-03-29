@@ -1,0 +1,540 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-195",
+          "short_name": "101-195",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Garfield Avenue",
+          "short_name": "W Garfield Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Mayfield",
+          "short_name": "Mayfield",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Osborne",
+          "short_name": "Osborne",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sumner County",
+          "short_name": "Sumner County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67103",
+          "short_name": "67103",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "101-195 W Garfield Ave, Mayfield, KS 67103, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.262721,
+            "lng": -97.54520579999999
+          },
+          "southwest": {
+            "lat": 37.2626888,
+            "lng": -97.5463126
+          }
+        },
+        "location": {
+          "lat": 37.2626768,
+          "lng": -97.5462112
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.26405388029149,
+            "lng": -97.5444102197085
+          },
+          "southwest": {
+            "lat": 37.2613559197085,
+            "lng": -97.5471081802915
+          }
+        }
+      },
+      "place_id": "Ei8xMDEtMTk1IFcgR2FyZmllbGQgQXZlLCBNYXlmaWVsZCwgS1MgNjcxMDMsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mayfield",
+          "short_name": "Mayfield",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Osborne",
+          "short_name": "Osborne",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sumner County",
+          "short_name": "Sumner County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67103",
+          "short_name": "67103",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Mayfield, KS 67103, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.26573380000001,
+            "lng": -97.54395
+          },
+          "southwest": {
+            "lat": 37.257998,
+            "lng": -97.549048
+          }
+        },
+        "location": {
+          "lat": 37.2583549,
+          "lng": -97.54477089999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.26573380000001,
+            "lng": -97.54395
+          },
+          "southwest": {
+            "lat": 37.257998,
+            "lng": -97.549048
+          }
+        }
+      },
+      "place_id": "ChIJm9FetAu7uocRk4L1FMAG9OU",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Osborne",
+          "short_name": "Osborne",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sumner County",
+          "short_name": "Sumner County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Osborne, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.30212600000001,
+            "lng": -97.47564589999999
+          },
+          "southwest": {
+            "lat": 37.213757,
+            "lng": -97.585263
+          }
+        },
+        "location": {
+          "lat": 37.2490624,
+          "lng": -97.54638849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.30212600000001,
+            "lng": -97.47564589999999
+          },
+          "southwest": {
+            "lat": 37.213757,
+            "lng": -97.585263
+          }
+        }
+      },
+      "place_id": "ChIJZQ1Od2S7uocRs1lfYQWNw78",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67103",
+          "short_name": "67103",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Mayfield",
+          "short_name": "Mayfield",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sumner County",
+          "short_name": "Sumner County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mayfield, KS 67103, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.373692,
+            "lng": -97.4938689
+          },
+          "southwest": {
+            "lat": 37.170358,
+            "lng": -97.63159200000001
+          }
+        },
+        "location": {
+          "lat": 37.2490624,
+          "lng": -97.54638849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.373692,
+            "lng": -97.4938689
+          },
+          "southwest": {
+            "lat": 37.170358,
+            "lng": -97.63159200000001
+          }
+        }
+      },
+      "place_id": "ChIJdX1vpgS7uocRGrCzE7KDP8E",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sumner County",
+          "short_name": "Sumner County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sumner County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.4772759,
+            "lng": -97.1477139
+          },
+          "southwest": {
+            "lat": 36.9985461,
+            "lng": -97.8076
+          }
+        },
+        "location": {
+          "lat": 37.2236052,
+          "lng": -97.6114217
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.4772759,
+            "lng": -97.1477139
+          },
+          "southwest": {
+            "lat": 36.9985461,
+            "lng": -97.8076
+          }
+        }
+      },
+      "place_id": "ChIJb2Nlw8q_uocRpAMP89jrDH8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wichita",
+          "short_name": "Wichita",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wichita, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.174845,
+            "lng": -96.52278199999999
+          },
+          "southwest": {
+            "lat": 36.998682,
+            "lng": -97.808684
+          }
+        },
+        "location": {
+          "lat": 37.56345719999999,
+          "lng": -97.6114217
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.174845,
+            "lng": -96.52278199999999
+          },
+          "southwest": {
+            "lat": 36.998682,
+            "lng": -97.808684
+          }
+        }
+      },
+      "place_id": "ChIJBR4vHiP7uocRb5iXYk82f7k",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,496 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "224",
+          "short_name": "224",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Center Street",
+          "short_name": "N Center St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Mankato",
+          "short_name": "Mankato",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Center",
+          "short_name": "Center",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jewell County",
+          "short_name": "Jewell County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66956",
+          "short_name": "66956",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2002",
+          "short_name": "2002",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "224 N Center St, Mankato, KS 66956, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.7878827,
+            "lng": -98.2086384
+          },
+          "southwest": {
+            "lat": 39.7873738,
+            "lng": -98.20864809999999
+          }
+        },
+        "location": {
+          "lat": 39.7874047,
+          "lng": -98.20862869999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.78897723029149,
+            "lng": -98.20729426970848
+          },
+          "southwest": {
+            "lat": 39.7862792697085,
+            "lng": -98.2099922302915
+          }
+        }
+      },
+      "place_id": "EicyMjQgTiBDZW50ZXIgU3QsIE1hbmthdG8sIEtTIDY2OTU2LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mankato",
+          "short_name": "Mankato",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Center",
+          "short_name": "Center",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jewell County",
+          "short_name": "Jewell County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66956",
+          "short_name": "66956",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Mankato, KS 66956, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.797382,
+            "lng": -98.19408709999999
+          },
+          "southwest": {
+            "lat": 39.77596,
+            "lng": -98.2178101
+          }
+        },
+        "location": {
+          "lat": 39.7872343,
+          "lng": -98.2100511
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.797382,
+            "lng": -98.19408709999999
+          },
+          "southwest": {
+            "lat": 39.77596,
+            "lng": -98.2178101
+          }
+        }
+      },
+      "place_id": "ChIJ2xy1k-5zmIcRU5hBg8MkpRg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Center",
+          "short_name": "Center",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jewell County",
+          "short_name": "Jewell County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Center, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8284199,
+            "lng": -98.1563369
+          },
+          "southwest": {
+            "lat": 39.7411129,
+            "lng": -98.2689609
+          }
+        },
+        "location": {
+          "lat": 39.7940386,
+          "lng": -98.19942759999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8284199,
+            "lng": -98.1563369
+          },
+          "southwest": {
+            "lat": 39.7411129,
+            "lng": -98.2689609
+          }
+        }
+      },
+      "place_id": "ChIJVW8i9flzmIcRTCO5sn17C6c",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66956",
+          "short_name": "66956",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Mankato",
+          "short_name": "Mankato",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jewell County",
+          "short_name": "Jewell County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mankato, KS 66956, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9441089,
+            "lng": -98.0448511
+          },
+          "southwest": {
+            "lat": 39.6977781,
+            "lng": -98.3628729
+          }
+        },
+        "location": {
+          "lat": 39.83494659999999,
+          "lng": -98.19942759999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9441089,
+            "lng": -98.0448511
+          },
+          "southwest": {
+            "lat": 39.6977781,
+            "lng": -98.3628729
+          }
+        }
+      },
+      "place_id": "ChIJk_u0091zmIcR6B-8AVdTV-Q",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Jewell County",
+          "short_name": "Jewell County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Jewell County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.002662,
+            "lng": -97.9314809
+          },
+          "southwest": {
+            "lat": 39.5669029,
+            "lng": -98.50529490000001
+          }
+        },
+        "location": {
+          "lat": 39.7720227,
+          "lng": -98.2212979
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.002662,
+            "lng": -97.9314809
+          },
+          "southwest": {
+            "lat": 39.5669029,
+            "lng": -98.50529490000001
+          }
+        }
+      },
+      "place_id": "ChIJlaPQQe9zmIcReixXcueS9Wg",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "701-799",
+          "short_name": "701-799",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Oak Street",
+          "short_name": "Oak St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Beattie",
+          "short_name": "Beattie",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Guittard",
+          "short_name": "Guittard",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marshall County",
+          "short_name": "Marshall County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66406",
+          "short_name": "66406",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8644",
+          "short_name": "8644",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "701-799 Oak St, Beattie, KS 66406, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8623875,
+            "lng": -96.4170807
+          },
+          "southwest": {
+            "lat": 39.8623647,
+            "lng": -96.4183948
+          }
+        },
+        "location": {
+          "lat": 39.8623625,
+          "lng": -96.41778180000001
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.86372508029149,
+            "lng": -96.41638876970849
+          },
+          "southwest": {
+            "lat": 39.8610271197085,
+            "lng": -96.41908673029151
+          }
+        }
+      },
+      "place_id": "EiY3MDEtNzk5IE9hayBTdCwgQmVhdHRpZSwgS1MgNjY0MDYsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Beattie",
+          "short_name": "Beattie",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Guittard",
+          "short_name": "Guittard",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marshall County",
+          "short_name": "Marshall County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66406",
+          "short_name": "66406",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Beattie, KS 66406, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.865483,
+            "lng": -96.412114
+          },
+          "southwest": {
+            "lat": 39.859083,
+            "lng": -96.423638
+          }
+        },
+        "location": {
+          "lat": 39.8611117,
+          "lng": -96.4197364
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.865483,
+            "lng": -96.412114
+          },
+          "southwest": {
+            "lat": 39.859083,
+            "lng": -96.423638
+          }
+        }
+      },
+      "place_id": "ChIJfyu4bpcAlocRwqNxf2hLe54",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Guittard",
+          "short_name": "Guittard",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marshall County",
+          "short_name": "Marshall County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Guittard, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9144351,
+            "lng": -96.351242
+          },
+          "southwest": {
+            "lat": 39.826719,
+            "lng": -96.4636989
+          }
+        },
+        "location": {
+          "lat": 39.8672251,
+          "lng": -96.3864428
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9144351,
+            "lng": -96.351242
+          },
+          "southwest": {
+            "lat": 39.826719,
+            "lng": -96.4636989
+          }
+        }
+      },
+      "place_id": "ChIJ3wJGAx7-lYcRoSVjzWn0wyE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66406",
+          "short_name": "66406",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Beattie",
+          "short_name": "Beattie",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Beattie, KS 66406, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0010229,
+            "lng": -96.34284
+          },
+          "southwest": {
+            "lat": 39.798418,
+            "lng": -96.4825539
+          }
+        },
+        "location": {
+          "lat": 39.9058363,
+          "lng": -96.429036
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0010229,
+            "lng": -96.34284
+          },
+          "southwest": {
+            "lat": 39.798418,
+            "lng": -96.4825539
+          }
+        }
+      },
+      "place_id": "ChIJV1yC5-QGlocRNu9srKqQXLk",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Marshall County",
+          "short_name": "Marshall County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Marshall County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.00154089999999,
+            "lng": -96.238969
+          },
+          "southwest": {
+            "lat": 39.56592510000001,
+            "lng": -96.80674789999999
+          }
+        },
+        "location": {
+          "lat": 39.717719,
+          "lng": -96.49297969999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.00154089999999,
+            "lng": -96.238969
+          },
+          "southwest": {
+            "lat": 39.56592510000001,
+            "lng": -96.80674789999999
+          }
+        }
+      },
+      "place_id": "ChIJ4-8pfVsClocRyAjDeLDW3s4",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301-303",
+          "short_name": "301-303",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Bogue",
+          "short_name": "Bogue",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wildhorse",
+          "short_name": "Wildhorse",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Graham County",
+          "short_name": "Graham County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67625",
+          "short_name": "67625",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "6701",
+          "short_name": "6701",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "301-303 Main St, Bogue, KS 67625, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3599799,
+            "lng": -99.6873756
+          },
+          "southwest": {
+            "lat": 39.3589129,
+            "lng": -99.6873871
+          }
+        },
+        "location": {
+          "lat": 39.3594827,
+          "lng": -99.6873997
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.36079538029149,
+            "lng": -99.6860323697085
+          },
+          "southwest": {
+            "lat": 39.3580974197085,
+            "lng": -99.6887303302915
+          }
+        }
+      },
+      "place_id": "EiUzMDEtMzAzIE1haW4gU3QsIEJvZ3VlLCBLUyA2NzYyNSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bogue",
+          "short_name": "Bogue",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wildhorse",
+          "short_name": "Wildhorse",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Graham County",
+          "short_name": "Graham County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67625",
+          "short_name": "67625",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Bogue, KS 67625, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3651629,
+            "lng": -99.683071
+          },
+          "southwest": {
+            "lat": 39.3554499,
+            "lng": -99.6918209
+          }
+        },
+        "location": {
+          "lat": 39.36250709999999,
+          "lng": -99.68733639999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3651629,
+            "lng": -99.683071
+          },
+          "southwest": {
+            "lat": 39.3554499,
+            "lng": -99.6918209
+          }
+        }
+      },
+      "place_id": "ChIJL6RDMbDFoYcRsZwJQPF57W8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wildhorse",
+          "short_name": "Wildhorse",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Graham County",
+          "short_name": "Graham County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wildhorse, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.380298,
+            "lng": -99.602837
+          },
+          "southwest": {
+            "lat": 39.29235380000001,
+            "lng": -99.791185
+          }
+        },
+        "location": {
+          "lat": 39.3404433,
+          "lng": -99.68983159999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.380298,
+            "lng": -99.602837
+          },
+          "southwest": {
+            "lat": 39.29235380000001,
+            "lng": -99.791185
+          }
+        }
+      },
+      "place_id": "ChIJg_1gs93FoYcRVjrfZ9O8u8c",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67625",
+          "short_name": "67625",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Bogue",
+          "short_name": "Bogue",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bogue, KS 67625, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.467033,
+            "lng": -99.602279
+          },
+          "southwest": {
+            "lat": 39.233975,
+            "lng": -99.808318
+          }
+        },
+        "location": {
+          "lat": 39.3460413,
+          "lng": -99.745565
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.467033,
+            "lng": -99.602279
+          },
+          "southwest": {
+            "lat": 39.233975,
+            "lng": -99.808318
+          }
+        }
+      },
+      "place_id": "ChIJKdIVpKfFoYcR--ztloD9JOY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Graham County",
+          "short_name": "Graham County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Graham County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.567448,
+            "lng": -99.6016229
+          },
+          "southwest": {
+            "lat": 39.1316769,
+            "lng": -100.164382
+          }
+        },
+        "location": {
+          "lat": 39.3198302,
+          "lng": -99.8124935
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.567448,
+            "lng": -99.6016229
+          },
+          "southwest": {
+            "lat": 39.1316769,
+            "lng": -100.164382
+          }
+        }
+      },
+      "place_id": "ChIJXe1gATzMoYcRbQ2EseUk_5s",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

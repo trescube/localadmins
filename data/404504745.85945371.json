@@ -1,0 +1,548 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-198",
+          "short_name": "100-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Main Street",
+          "short_name": "N Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Abbyville",
+          "short_name": "Abbyville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westminster",
+          "short_name": "Westminster",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Reno County",
+          "short_name": "Reno County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67510",
+          "short_name": "67510",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "100-198 N Main St, Abbyville, KS 67510, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.9709361,
+            "lng": -98.2045174
+          },
+          "southwest": {
+            "lat": 37.9699481,
+            "lng": -98.20452859999999
+          }
+        },
+        "location": {
+          "lat": 37.9703465,
+          "lng": -98.2045053
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.9717910802915,
+            "lng": -98.20317401970848
+          },
+          "southwest": {
+            "lat": 37.9690931197085,
+            "lng": -98.2058719802915
+          }
+        }
+      },
+      "place_id": "EisxMDAtMTk4IE4gTWFpbiBTdCwgQWJieXZpbGxlLCBLUyA2NzUxMCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Abbyville",
+          "short_name": "Abbyville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westminster",
+          "short_name": "Westminster",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Reno County",
+          "short_name": "Reno County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67510",
+          "short_name": "67510",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Abbyville, KS 67510, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.973196,
+            "lng": -98.19933309999999
+          },
+          "southwest": {
+            "lat": 37.9677779,
+            "lng": -98.2087749
+          }
+        },
+        "location": {
+          "lat": 37.9708467,
+          "lng": -98.20422990000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.973196,
+            "lng": -98.19933309999999
+          },
+          "southwest": {
+            "lat": 37.9677779,
+            "lng": -98.2087749
+          }
+        }
+      },
+      "place_id": "ChIJ7SdfQpTrpIcR6nUe7CVb5NM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Westminster",
+          "short_name": "Westminster",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Reno County",
+          "short_name": "Reno County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Westminster, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.999615,
+            "lng": -98.141831
+          },
+          "southwest": {
+            "lat": 37.912143,
+            "lng": -98.25205109999999
+          }
+        },
+        "location": {
+          "lat": 37.9674222,
+          "lng": -98.19942759999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.999615,
+            "lng": -98.141831
+          },
+          "southwest": {
+            "lat": 37.912143,
+            "lng": -98.25205109999999
+          }
+        }
+      },
+      "place_id": "ChIJCUFqIt3rpIcRS7mJMKMtBDo",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67510",
+          "short_name": "67510",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Abbyville",
+          "short_name": "Abbyville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Reno County",
+          "short_name": "Reno County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Abbyville, KS 67510, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.0863188,
+            "lng": -98.142123
+          },
+          "southwest": {
+            "lat": 37.9265731,
+            "lng": -98.270628
+          }
+        },
+        "location": {
+          "lat": 37.9674222,
+          "lng": -98.19942759999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.0863188,
+            "lng": -98.142123
+          },
+          "southwest": {
+            "lat": 37.9265731,
+            "lng": -98.270628
+          }
+        }
+      },
+      "place_id": "ChIJ5dIw6BnrpIcRXUm4JgXKb9Y",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hutchinson",
+          "short_name": "Hutchinson",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hutchinson, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.17385300000001,
+            "lng": -97.698719
+          },
+          "southwest": {
+            "lat": 37.7326409,
+            "lng": -98.47312989999999
+          }
+        },
+        "location": {
+          "lat": 37.9569553,
+          "lng": -98.04651849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.17385300000001,
+            "lng": -97.698719
+          },
+          "southwest": {
+            "lat": 37.7326409,
+            "lng": -98.47312989999999
+          }
+        }
+      },
+      "place_id": "ChIJM4xQldXDpIcROZyNwAW_xKU",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Reno County",
+          "short_name": "Reno County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Reno County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.173918,
+            "lng": -97.698692
+          },
+          "southwest": {
+            "lat": 37.732456,
+            "lng": -98.47312989999999
+          }
+        },
+        "location": {
+          "lat": 37.9569553,
+          "lng": -98.04651849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.173918,
+            "lng": -97.698692
+          },
+          "southwest": {
+            "lat": 37.732456,
+            "lng": -98.47312989999999
+          }
+        }
+      },
+      "place_id": "ChIJ8Z28CKeXpIcR7D3waqYIh-0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

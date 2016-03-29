@@ -9,7 +9,6 @@ var program = require('commander');
 
 program
   .option('-k, --key [KEY]', 'Google API key')
-  .option('-o, --offset <n>', 'offset', parseInt, 0)
   .parse(process.argv);
 
 var publicConfig = {
@@ -20,22 +19,13 @@ var publicConfig = {
 };
 var gmAPI = new GoogleMapsAPI(publicConfig);
 
-var count = program.offset;
-var size = program.offset+5000;
-
 var options = {
   delimiter: '|',
   columns: true
 };
 
-fs.createReadStream('data/locality_localadmin_mismatches.psv')
+fs.createReadStream('locality_localadmin_mismatches.psv')
   .pipe(parse(options))
-  .pipe(filter.obj(function(record) {
-    return count >= program.offset && count < program.offset+size;
-  }))
-  .pipe(spy.obj(function(record) {
-    count++;
-  }))
   .pipe(filter.obj(function(record) {
     // don't process the lat/lng if it already has been
     try {
@@ -47,6 +37,7 @@ fs.createReadStream('data/locality_localadmin_mismatches.psv')
 
   }))
   .pipe(through2.obj(function(record, enc, next) {
+    // institute a 110ms delay between requests so as to not exceed rate limit
     setTimeout(function() {
       next(null, record);
     }, 110);
@@ -60,9 +51,13 @@ fs.createReadStream('data/locality_localadmin_mismatches.psv')
     };
 
     gmAPI.reverseGeocode(reverseGeocodeParams, function(err, result) {
-      if (result && JSON.parse(result).status === 'OK') {
+      if (result && result.status === 'OK') {
+        console.log('got result for ' + record.localadmin_id + '.' + record.locality_id);
         var filename = 'data/' + record.localadmin_id + '.' + record.locality_id + '.json';
         fs.writeFileSync(filename, JSON.stringify(result, null, 2) + '\n');
+      }
+      else {
+        console.log('nothing for ' + record.localadmin_id + '.' + record.locality_id);
       }
 
     });

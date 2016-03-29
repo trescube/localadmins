@@ -1,0 +1,496 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200-298",
+          "short_name": "200-298",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Kansas Avenue",
+          "short_name": "S Kansas Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Kanopolis",
+          "short_name": "Kanopolis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ellsworth",
+          "short_name": "Ellsworth",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ellsworth County",
+          "short_name": "Ellsworth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67454",
+          "short_name": "67454",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9567",
+          "short_name": "9567",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "200-298 S Kansas Ave, Kanopolis, KS 67454, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.7090244,
+            "lng": -98.15789459999999
+          },
+          "southwest": {
+            "lat": 38.7078501,
+            "lng": -98.1579024
+          }
+        },
+        "location": {
+          "lat": 38.7081316,
+          "lng": -98.15791929999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.7097862302915,
+            "lng": -98.15654951970849
+          },
+          "southwest": {
+            "lat": 38.7070882697085,
+            "lng": -98.1592474802915
+          }
+        }
+      },
+      "place_id": "Ei4yMDAtMjk4IFMgS2Fuc2FzIEF2ZSwgS2Fub3BvbGlzLCBLUyA2NzQ1NCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kanopolis",
+          "short_name": "Kanopolis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ellsworth",
+          "short_name": "Ellsworth",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ellsworth County",
+          "short_name": "Ellsworth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67454",
+          "short_name": "67454",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Kanopolis, KS 67454, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.719511,
+            "lng": -98.1509679
+          },
+          "southwest": {
+            "lat": 38.69612499999999,
+            "lng": -98.16550579999999
+          }
+        },
+        "location": {
+          "lat": 38.7111197,
+          "lng": -98.1572769
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.719511,
+            "lng": -98.1509679
+          },
+          "southwest": {
+            "lat": 38.69612499999999,
+            "lng": -98.16550579999999
+          }
+        }
+      },
+      "place_id": "ChIJGXxu1DUVo4cRzN3csYBeQ7w",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ellsworth",
+          "short_name": "Ellsworth",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ellsworth County",
+          "short_name": "Ellsworth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ellsworth, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.7839329,
+            "lng": -98.150652
+          },
+          "southwest": {
+            "lat": 38.695824,
+            "lng": -98.2626311
+          }
+        },
+        "location": {
+          "lat": 38.7320782,
+          "lng": -98.1884949
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.7839329,
+            "lng": -98.150652
+          },
+          "southwest": {
+            "lat": 38.695824,
+            "lng": -98.2626311
+          }
+        }
+      },
+      "place_id": "ChIJlZ5_cWIUo4cR9qrISpo0dQU",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67454",
+          "short_name": "67454",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Kanopolis",
+          "short_name": "Kanopolis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ellsworth County",
+          "short_name": "Ellsworth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kanopolis, KS 67454, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.7841921,
+            "lng": -98.0222479
+          },
+          "southwest": {
+            "lat": 38.5876249,
+            "lng": -98.1974789
+          }
+        },
+        "location": {
+          "lat": 38.6742068,
+          "lng": -98.1229329
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.7841921,
+            "lng": -98.0222479
+          },
+          "southwest": {
+            "lat": 38.5876249,
+            "lng": -98.1974789
+          }
+        }
+      },
+      "place_id": "ChIJsbscBRlAo4cRK7pLzd5Kwms",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ellsworth County",
+          "short_name": "Ellsworth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ellsworth County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.8715479,
+            "lng": -97.924269
+          },
+          "southwest": {
+            "lat": 38.521625,
+            "lng": -98.4861399
+          }
+        },
+        "location": {
+          "lat": 38.615225,
+          "lng": -98.2212979
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.8715479,
+            "lng": -97.924269
+          },
+          "southwest": {
+            "lat": 38.521625,
+            "lng": -98.4861399
+          }
+        }
+      },
+      "place_id": "ChIJx0tjp8Zso4cRevNzYe3w0fM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

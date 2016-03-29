@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-198",
+          "short_name": "100-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 2nd Street",
+          "short_name": "W 2nd St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Sylvan Grove",
+          "short_name": "Sylvan Grove",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pleasant",
+          "short_name": "Pleasant",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67481",
+          "short_name": "67481",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8109",
+          "short_name": "8109",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "100-198 W 2nd St, Sylvan Grove, KS 67481, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0121304,
+            "lng": -98.3932834
+          },
+          "southwest": {
+            "lat": 39.012105,
+            "lng": -98.3946699
+          }
+        },
+        "location": {
+          "lat": 39.0121236,
+          "lng": -98.3944836
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0134666802915,
+            "lng": -98.39262766970849
+          },
+          "southwest": {
+            "lat": 39.0107687197085,
+            "lng": -98.3953256302915
+          }
+        }
+      },
+      "place_id": "Ei0xMDAtMTk4IFcgMm5kIFN0LCBTeWx2YW4gR3JvdmUsIEtTIDY3NDgxLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sylvan Grove",
+          "short_name": "Sylvan Grove",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pleasant",
+          "short_name": "Pleasant",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67481",
+          "short_name": "67481",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Sylvan Grove, KS 67481, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.01616200000001,
+            "lng": -98.3874699
+          },
+          "southwest": {
+            "lat": 39.0069689,
+            "lng": -98.40205809999999
+          }
+        },
+        "location": {
+          "lat": 39.0094538,
+          "lng": -98.394228
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.01616200000001,
+            "lng": -98.3874699
+          },
+          "southwest": {
+            "lat": 39.0069689,
+            "lng": -98.40205809999999
+          }
+        }
+      },
+      "place_id": "ChIJxdFXoP8Bo4cRGDmwDFYwZIM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pleasant",
+          "short_name": "Pleasant",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pleasant, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0450481,
+            "lng": -98.3739129
+          },
+          "southwest": {
+            "lat": 38.957619,
+            "lng": -98.48604399999999
+          }
+        },
+        "location": {
+          "lat": 38.99597320000001,
+          "lng": -98.4184224
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0450481,
+            "lng": -98.3739129
+          },
+          "southwest": {
+            "lat": 38.957619,
+            "lng": -98.48604399999999
+          }
+        }
+      },
+      "place_id": "ChIJ9YcH9cgBo4cRl-5lvU3MJ5k",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67481",
+          "short_name": "67481",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Sylvan Grove",
+          "short_name": "Sylvan Grove",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sylvan Grove, KS 67481, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.175773,
+            "lng": -98.243805
+          },
+          "southwest": {
+            "lat": 38.8709849,
+            "lng": -98.518489
+          }
+        },
+        "location": {
+          "lat": 38.9991387,
+          "lng": -98.37457169999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.175773,
+            "lng": -98.243805
+          },
+          "southwest": {
+            "lat": 38.8709849,
+            "lng": -98.518489
+          }
+        }
+      },
+      "place_id": "ChIJEfLu0Tf9oocRkVSB1VEpzLU",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lincoln County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2197769,
+            "lng": -97.928326
+          },
+          "southwest": {
+            "lat": 38.8704069,
+            "lng": -98.49026479999999
+          }
+        },
+        "location": {
+          "lat": 39.1135788,
+          "lng": -98.2212979
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.2197769,
+            "lng": -97.928326
+          },
+          "southwest": {
+            "lat": 38.8704069,
+            "lng": -98.49026479999999
+          }
+        }
+      },
+      "place_id": "ChIJj1WUsrPjoocRgwIQU_EOxHM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

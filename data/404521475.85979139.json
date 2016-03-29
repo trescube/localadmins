@@ -1,0 +1,497 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1-3",
+          "short_name": "1-3",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Hills Road",
+          "short_name": "N Hills Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "East Norwich",
+          "short_name": "East Norwich",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oyster Bay",
+          "short_name": "Oyster Bay",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11732",
+          "short_name": "11732",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1142",
+          "short_name": "1142",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1-3 N Hills Rd, East Norwich, NY 11732, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.849655,
+            "lng": -73.528194
+          },
+          "southwest": {
+            "lat": 40.8492644,
+            "lng": -73.5294735
+          }
+        },
+        "location": {
+          "lat": 40.8494771,
+          "lng": -73.52882699999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8508086802915,
+            "lng": -73.52748476970851
+          },
+          "southwest": {
+            "lat": 40.8481107197085,
+            "lng": -73.53018273029151
+          }
+        }
+      },
+      "place_id": "EisxLTMgTiBIaWxscyBSZCwgRWFzdCBOb3J3aWNoLCBOWSAxMTczMiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "East Norwich",
+          "short_name": "East Norwich",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oyster Bay",
+          "short_name": "Oyster Bay",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East Norwich, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8629079,
+            "lng": -73.5174309
+          },
+          "southwest": {
+            "lat": 40.838938,
+            "lng": -73.54441709999999
+          }
+        },
+        "location": {
+          "lat": 40.8467657,
+          "lng": -73.53512450000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8629079,
+            "lng": -73.5174309
+          },
+          "southwest": {
+            "lat": 40.838938,
+            "lng": -73.54441709999999
+          }
+        }
+      },
+      "place_id": "ChIJfW1W8qCDwokR-1-1AD1CzgI",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11732",
+          "short_name": "11732",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "East Norwich",
+          "short_name": "East Norwich",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oyster Bay",
+          "short_name": "Oyster Bay",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East Norwich, NY 11732, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.857596,
+            "lng": -73.51821509999999
+          },
+          "southwest": {
+            "lat": 40.8291568,
+            "lng": -73.5698378
+          }
+        },
+        "location": {
+          "lat": 40.8456135,
+          "lng": -73.5329091
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.857596,
+            "lng": -73.51821509999999
+          },
+          "southwest": {
+            "lat": 40.8291568,
+            "lng": -73.5698378
+          }
+        }
+      },
+      "place_id": "ChIJj5MhmHSDwokRJ1IOxJwCjJ0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Oyster Bay",
+          "short_name": "Oyster Bay",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Oyster Bay, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9478348,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5967829,
+            "lng": -73.65402399999999
+          }
+        },
+        "location": {
+          "lat": 40.7893778,
+          "lng": -73.5358541
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9478348,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5967829,
+            "lng": -73.65402399999999
+          }
+        }
+      },
+      "place_id": "ChIJIZpvLRsn6IkRvl_fK4WUXZ0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nassau County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9478348,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        },
+        "location": {
+          "lat": 40.6546145,
+          "lng": -73.55941279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9478286,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        }
+      },
+      "place_id": "ChIJoQxey52xwokRap4G05mKJBs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

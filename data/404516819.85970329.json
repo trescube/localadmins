@@ -1,0 +1,539 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "400-598",
+          "short_name": "400-598",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Lafayette Street",
+          "short_name": "W Lafayette St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Palmyra",
+          "short_name": "Palmyra",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Liberty Township",
+          "short_name": "Liberty Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marion County",
+          "short_name": "Marion County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63461",
+          "short_name": "63461",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1481",
+          "short_name": "1481",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "400-598 W Lafayette St, Palmyra, MO 63461, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.7989139,
+            "lng": -91.52661169999999
+          },
+          "southwest": {
+            "lat": 39.7987861,
+            "lng": -91.5278529
+          }
+        },
+        "location": {
+          "lat": 39.7988083,
+          "lng": -91.5271569
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8001989802915,
+            "lng": -91.52588331970848
+          },
+          "southwest": {
+            "lat": 39.7975010197085,
+            "lng": -91.5285812802915
+          }
+        }
+      },
+      "place_id": "Ei40MDAtNTk4IFcgTGFmYXlldHRlIFN0LCBQYWxteXJhLCBNTyA2MzQ2MSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Palmyra",
+          "short_name": "Palmyra",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Liberty Township",
+          "short_name": "Liberty Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marion County",
+          "short_name": "Marion County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63461",
+          "short_name": "63461",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Palmyra, MO 63461, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8208029,
+            "lng": -91.51341889999999
+          },
+          "southwest": {
+            "lat": 39.7799101,
+            "lng": -91.5473899
+          }
+        },
+        "location": {
+          "lat": 39.7942118,
+          "lng": -91.5232106
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8208029,
+            "lng": -91.51341889999999
+          },
+          "southwest": {
+            "lat": 39.7799101,
+            "lng": -91.5473899
+          }
+        }
+      },
+      "place_id": "ChIJf8cf1aSS3YcRclcKPWdHNOA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Liberty Township",
+          "short_name": "Liberty Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marion County",
+          "short_name": "Marion County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Liberty Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8563789,
+            "lng": -91.3615709
+          },
+          "southwest": {
+            "lat": 39.75083,
+            "lng": -91.620458
+          }
+        },
+        "location": {
+          "lat": 39.7969008,
+          "lng": -91.4918235
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8563789,
+            "lng": -91.3615709
+          },
+          "southwest": {
+            "lat": 39.75083,
+            "lng": -91.620458
+          }
+        }
+      },
+      "place_id": "ChIJBeaTxnzt3YcR0Zteq0pGuyA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63461",
+          "short_name": "63461",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Palmyra",
+          "short_name": "Palmyra",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Palmyra, MO 63461, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.910203,
+            "lng": -91.3615709
+          },
+          "southwest": {
+            "lat": 39.6780819,
+            "lng": -91.7350889
+          }
+        },
+        "location": {
+          "lat": 39.7854554,
+          "lng": -91.5789994
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.910203,
+            "lng": -91.3615709
+          },
+          "southwest": {
+            "lat": 39.6780819,
+            "lng": -91.7350889
+          }
+        }
+      },
+      "place_id": "ChIJf8cf1aSS3YcRHL3t4GYRnXM",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Marion County",
+          "short_name": "Marion County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Marion County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.948235,
+            "lng": -91.3066929
+          },
+          "southwest": {
+            "lat": 39.6573651,
+            "lng": -91.846751
+          }
+        },
+        "location": {
+          "lat": 39.8464028,
+          "lng": -91.63721500000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.948235,
+            "lng": -91.3066929
+          },
+          "southwest": {
+            "lat": 39.6573651,
+            "lng": -91.846751
+          }
+        }
+      },
+      "place_id": "ChIJsbQIHYiR3YcRT2lONmxYNIM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hannibal",
+          "short_name": "Hannibal",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hannibal, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9482351,
+            "lng": -91.178012
+          },
+          "southwest": {
+            "lat": 39.31871599999999,
+            "lng": -91.846758
+          }
+        },
+        "location": {
+          "lat": 39.7233771,
+          "lng": -91.5983959
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9482351,
+            "lng": -91.178012
+          },
+          "southwest": {
+            "lat": 39.31871599999999,
+            "lng": -91.846758
+          }
+        }
+      },
+      "place_id": "ChIJ2WyZ7ZeV3YcRDjxhczpA5Ww",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

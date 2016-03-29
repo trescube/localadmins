@@ -1,0 +1,533 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1401-2039",
+          "short_name": "1401-2039",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Windsor Beach Drive",
+          "short_name": "Windsor Beach Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lake Fenton",
+          "short_name": "Lake Fenton",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fenton",
+          "short_name": "Fenton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Genesee County",
+          "short_name": "Genesee County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "48430",
+          "short_name": "48430",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "1401-2039 Windsor Beach Dr, Fenton, MI 48430, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.8456357,
+            "lng": -83.70672929999999
+          },
+          "southwest": {
+            "lat": 42.845456,
+            "lng": -83.7097106
+          }
+        },
+        "location": {
+          "lat": 42.8455146,
+          "lng": -83.708584
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.84689483029149,
+            "lng": -83.70672929999999
+          },
+          "southwest": {
+            "lat": 42.8441968697085,
+            "lng": -83.7097106
+          }
+        }
+      },
+      "place_id": "EjExNDAxLTIwMzkgV2luZHNvciBCZWFjaCBEciwgRmVudG9uLCBNSSA0ODQzMCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lake Fenton",
+          "short_name": "Lake Fenton",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fenton Township",
+          "short_name": "Fenton Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Genesee County",
+          "short_name": "Genesee County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lake Fenton, Fenton Twp, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.871263,
+            "lng": -83.68747599999999
+          },
+          "southwest": {
+            "lat": 42.8192379,
+            "lng": -83.7296789
+          }
+        },
+        "location": {
+          "lat": 42.8461392,
+          "lng": -83.7077293
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.871263,
+            "lng": -83.68747599999999
+          },
+          "southwest": {
+            "lat": 42.8192379,
+            "lng": -83.7296789
+          }
+        }
+      },
+      "place_id": "ChIJx_xiOM1kI4gRu4K1KfnZJko",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fenton Township",
+          "short_name": "Fenton Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Genesee County",
+          "short_name": "Genesee County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fenton Twp, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.8712261,
+            "lng": -83.68747599999999
+          },
+          "southwest": {
+            "lat": 42.781138,
+            "lng": -83.8088329
+          }
+        },
+        "location": {
+          "lat": 42.8395365,
+          "lng": -83.75178509999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.8712261,
+            "lng": -83.68747599999999
+          },
+          "southwest": {
+            "lat": 42.781138,
+            "lng": -83.8088329
+          }
+        }
+      },
+      "place_id": "ChIJ6TKfFmllI4gRTulXEzWe7Dw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "48430",
+          "short_name": "48430",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Fenton",
+          "short_name": "Fenton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fenton, MI 48430, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.885855,
+            "lng": -83.647717
+          },
+          "southwest": {
+            "lat": 42.6549988,
+            "lng": -83.844776
+          }
+        },
+        "location": {
+          "lat": 42.7514541,
+          "lng": -83.7411631
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.885855,
+            "lng": -83.647717
+          },
+          "southwest": {
+            "lat": 42.6549988,
+            "lng": -83.844776
+          }
+        }
+      },
+      "place_id": "ChIJGz_AgeFlI4gRQ0B-wEUOTMw",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Flint",
+          "short_name": "Flint",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Flint, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.223088,
+            "lng": -83.45282689999999
+          },
+          "southwest": {
+            "lat": 42.780912,
+            "lng": -83.932188
+          }
+        },
+        "location": {
+          "lat": 43.0777289,
+          "lng": -83.67739279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.223088,
+            "lng": -83.45282689999999
+          },
+          "southwest": {
+            "lat": 42.780912,
+            "lng": -83.932188
+          }
+        }
+      },
+      "place_id": "ChIJoeQXgUKCI4gRHCj8fRiNFZ4",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Genesee County",
+          "short_name": "Genesee County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Genesee County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.2232089,
+            "lng": -83.4532969
+          },
+          "southwest": {
+            "lat": 42.78082089999999,
+            "lng": -83.93207079999999
+          }
+        },
+        "location": {
+          "lat": 43.0777289,
+          "lng": -83.67739279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.2232089,
+            "lng": -83.4532969
+          },
+          "southwest": {
+            "lat": 42.78082089999999,
+            "lng": -83.93207079999999
+          }
+        }
+      },
+      "place_id": "ChIJZxlEtTp5I4gRjxdqahrBdfU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

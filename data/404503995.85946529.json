@@ -1,0 +1,404 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "8601-8609",
+          "short_name": "8601-8609",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Southeast 70th Terrace",
+          "short_name": "SE 70th Terrace",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Baxter Springs",
+          "short_name": "Baxter Springs",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Garden",
+          "short_name": "Garden",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cherokee County",
+          "short_name": "Cherokee County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66713",
+          "short_name": "66713",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3100",
+          "short_name": "3100",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "8601-8609 SE 70th Terrace, Baxter Springs, KS 66713, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.0518494,
+            "lng": -94.7032536
+          },
+          "southwest": {
+            "lat": 37.0507921,
+            "lng": -94.70326140000002
+          }
+        },
+        "location": {
+          "lat": 37.05090149999999,
+          "lng": -94.7032356
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.0526697302915,
+            "lng": -94.7019085197085
+          },
+          "southwest": {
+            "lat": 37.0499717697085,
+            "lng": -94.70460648029152
+          }
+        }
+      },
+      "place_id": "Ejg4NjAxLTg2MDkgU0UgNzB0aCBUZXJyYWNlLCBCYXh0ZXIgU3ByaW5ncywgS1MgNjY3MTMsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Garden",
+          "short_name": "Garden",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cherokee County",
+          "short_name": "Cherokee County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Garden, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.089721,
+            "lng": -94.61787600000001
+          },
+          "southwest": {
+            "lat": 36.9986649,
+            "lng": -94.72263600000001
+          }
+        },
+        "location": {
+          "lat": 37.0446858,
+          "lng": -94.6760395
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.089721,
+            "lng": -94.61787600000001
+          },
+          "southwest": {
+            "lat": 36.9986649,
+            "lng": -94.72263600000001
+          }
+        }
+      },
+      "place_id": "ChIJ9WsrHXJyyIcRdkZTtisc1yQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66713",
+          "short_name": "66713",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Baxter Springs",
+          "short_name": "Baxter Springs",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Baxter Springs, KS 66713, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.0972401,
+            "lng": -94.6420249
+          },
+          "southwest": {
+            "lat": 36.9985901,
+            "lng": -94.940591
+          }
+        },
+        "location": {
+          "lat": 37.0508633,
+          "lng": -94.7898731
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.0972401,
+            "lng": -94.6420249
+          },
+          "southwest": {
+            "lat": 36.9985901,
+            "lng": -94.940591
+          }
+        }
+      },
+      "place_id": "ChIJ_2T2dLkNyIcR7Z17PRiCuco",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cherokee County",
+          "short_name": "Cherokee County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cherokee County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.34,
+            "lng": -94.6176579
+          },
+          "southwest": {
+            "lat": 36.9986241,
+            "lng": -95.075324
+          }
+        },
+        "location": {
+          "lat": 37.1142482,
+          "lng": -94.81059549999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.34,
+            "lng": -94.6176579
+          },
+          "southwest": {
+            "lat": 36.9986241,
+            "lng": -95.075324
+          }
+        }
+      },
+      "place_id": "ChIJyfFSm3jhx4cR1_UTDVv6alk",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,539 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1-17",
+          "short_name": "1-17",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Academy Street",
+          "short_name": "Academy St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "German Valley",
+          "short_name": "German Valley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ridott Township",
+          "short_name": "Ridott Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stephenson County",
+          "short_name": "Stephenson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61039",
+          "short_name": "61039",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9505",
+          "short_name": "9505",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1-17 Academy St, German Valley, IL 61039, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2142629,
+            "lng": -89.4842987
+          },
+          "southwest": {
+            "lat": 42.2142489,
+            "lng": -89.4867591
+          }
+        },
+        "location": {
+          "lat": 42.2142468,
+          "lng": -89.4846762
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.21560488029151,
+            "lng": -89.4841799197085
+          },
+          "southwest": {
+            "lat": 42.21290691970851,
+            "lng": -89.4868778802915
+          }
+        }
+      },
+      "place_id": "Ei0xLTE3IEFjYWRlbXkgU3QsIEdlcm1hbiBWYWxsZXksIElMIDYxMDM5LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "German Valley",
+          "short_name": "German Valley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ridott Township",
+          "short_name": "Ridott Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stephenson County",
+          "short_name": "Stephenson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61039",
+          "short_name": "61039",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "German Valley, IL 61039, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2188571,
+            "lng": -89.472278
+          },
+          "southwest": {
+            "lat": 42.209953,
+            "lng": -89.499764
+          }
+        },
+        "location": {
+          "lat": 42.2155786,
+          "lng": -89.47344590000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2188571,
+            "lng": -89.472278
+          },
+          "southwest": {
+            "lat": 42.209953,
+            "lng": -89.499764
+          }
+        }
+      },
+      "place_id": "ChIJJVGES91dCIgRrhYNAfNSVpQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61039",
+          "short_name": "61039",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "German Valley",
+          "short_name": "German Valley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "German Valley, IL 61039, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2462049,
+            "lng": -89.396192
+          },
+          "southwest": {
+            "lat": 42.14250089999999,
+            "lng": -89.53218100000001
+          }
+        },
+        "location": {
+          "lat": 42.2152227,
+          "lng": -89.4553088
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2462049,
+            "lng": -89.396192
+          },
+          "southwest": {
+            "lat": 42.14250089999999,
+            "lng": -89.53218100000001
+          }
+        }
+      },
+      "place_id": "ChIJIWYsd3NeCIgRi85lGhpNvcQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ridott Township",
+          "short_name": "Ridott Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stephenson County",
+          "short_name": "Stephenson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ridott Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.3323531,
+            "lng": -89.39624889999999
+          },
+          "southwest": {
+            "lat": 42.2008359,
+            "lng": -89.514392
+          }
+        },
+        "location": {
+          "lat": 42.2743063,
+          "lng": -89.436391
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.3323531,
+            "lng": -89.39624889999999
+          },
+          "southwest": {
+            "lat": 42.2008359,
+            "lng": -89.514392
+          }
+        }
+      },
+      "place_id": "ChIJEyj5oudgCIgRVkwOnEB3aVA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Stephenson County",
+          "short_name": "Stephenson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Stephenson County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.50582,
+            "lng": -89.39624889999999
+          },
+          "southwest": {
+            "lat": 42.195858,
+            "lng": -89.9266409
+          }
+        },
+        "location": {
+          "lat": 42.31448899999999,
+          "lng": -89.62516459999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.50582,
+            "lng": -89.39624889999999
+          },
+          "southwest": {
+            "lat": 42.195858,
+            "lng": -89.9266409
+          }
+        }
+      },
+      "place_id": "ChIJEYki0GFsCIgRnNBz7U6hd_4",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Freeport",
+          "short_name": "Freeport",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Freeport, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.505788,
+            "lng": -89.39624889999999
+          },
+          "southwest": {
+            "lat": 42.195858,
+            "lng": -89.92656000000001
+          }
+        },
+        "location": {
+          "lat": 42.31448899999999,
+          "lng": -89.62516459999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.505788,
+            "lng": -89.39624889999999
+          },
+          "southwest": {
+            "lat": 42.195858,
+            "lng": -89.92656000000001
+          }
+        }
+      },
+      "place_id": "ChIJwaAieVVsCIgRWSqfD6MVnQo",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

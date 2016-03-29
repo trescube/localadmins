@@ -1,0 +1,549 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "300-304",
+          "short_name": "300-304",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Wright Street",
+          "short_name": "Wright St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Ahmeek",
+          "short_name": "Ahmeek",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Allouez Township",
+          "short_name": "Allouez Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Keweenaw County",
+          "short_name": "Keweenaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49901",
+          "short_name": "49901",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "300-304 Wright St, Ahmeek, MI 49901, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.2986361,
+            "lng": -88.3966239
+          },
+          "southwest": {
+            "lat": 47.2986171,
+            "lng": -88.3977744
+          }
+        },
+        "location": {
+          "lat": 47.2986408,
+          "lng": -88.3971126
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 47.29997558029149,
+            "lng": -88.3958501697085
+          },
+          "southwest": {
+            "lat": 47.2972776197085,
+            "lng": -88.3985481302915
+          }
+        }
+      },
+      "place_id": "EigzMDAtMzA0IFdyaWdodCBTdCwgQWhtZWVrLCBNSSA0OTkwMSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ahmeek",
+          "short_name": "Ahmeek",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Allouez Township",
+          "short_name": "Allouez Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Keweenaw County",
+          "short_name": "Keweenaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ahmeek, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.300477,
+            "lng": -88.39442299999999
+          },
+          "southwest": {
+            "lat": 47.2959708,
+            "lng": -88.39987390000002
+          }
+        },
+        "location": {
+          "lat": 47.2988116,
+          "lng": -88.39650139999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.300477,
+            "lng": -88.39442299999999
+          },
+          "southwest": {
+            "lat": 47.2959708,
+            "lng": -88.39987390000002
+          }
+        }
+      },
+      "place_id": "ChIJsTnqBiGjUE0R6uCNWsgkR2o",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "49901",
+          "short_name": "49901",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Ahmeek",
+          "short_name": "Ahmeek",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Allouez Township",
+          "short_name": "Allouez Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Keweenaw County",
+          "short_name": "Keweenaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ahmeek, MI 49901, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.300477,
+            "lng": -88.3880679
+          },
+          "southwest": {
+            "lat": 47.2927389,
+            "lng": -88.39894
+          }
+        },
+        "location": {
+          "lat": 47.2976883,
+          "lng": -88.3953401
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.300477,
+            "lng": -88.3880679
+          },
+          "southwest": {
+            "lat": 47.2927389,
+            "lng": -88.39894
+          }
+        }
+      },
+      "place_id": "ChIJXzx4AeKiUE0RIyc8i0-_jh0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Allouez Township",
+          "short_name": "Allouez Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Keweenaw County",
+          "short_name": "Keweenaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Allouez Township, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.4150545,
+            "lng": -88.29875790000001
+          },
+          "southwest": {
+            "lat": 47.2857989,
+            "lng": -88.51253489999999
+          }
+        },
+        "location": {
+          "lat": 47.3395221,
+          "lng": -88.36999229999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.4150545,
+            "lng": -88.29875790000001
+          },
+          "southwest": {
+            "lat": 47.2857989,
+            "lng": -88.51253489999999
+          }
+        }
+      },
+      "place_id": "ChIJCT24T9ujUE0RVHYSHhseI_E",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Houghton",
+          "short_name": "Houghton",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Houghton, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.19097499999999,
+            "lng": -87.710471
+          },
+          "southwest": {
+            "lat": 46.419689,
+            "lng": -89.2552019
+          }
+        },
+        "location": {
+          "lat": 47.0499507,
+          "lng": -88.6148185
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.4794201,
+            "lng": -87.710471
+          },
+          "southwest": {
+            "lat": 46.419689,
+            "lng": -88.991295
+          }
+        }
+      },
+      "place_id": "ChIJU0kmS3u2UE0RaZxuic7LhPE",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Keweenaw County",
+          "short_name": "Keweenaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Keweenaw County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -87.58558959999999
+          },
+          "southwest": {
+            "lat": 47.199704,
+            "lng": -89.3181585
+          }
+        },
+        "location": {
+          "lat": 47.3400149,
+          "lng": -88.0490908
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.4803258,
+            "lng": -87.58558959999999
+          },
+          "southwest": {
+            "lat": 47.199704,
+            "lng": -88.51259189999999
+          }
+        }
+      },
+      "place_id": "ChIJoVn-QHyhUE0Rt8yuwlpH3xY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

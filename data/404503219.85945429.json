@@ -1,0 +1,492 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "401-499",
+          "short_name": "401-499",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Seward",
+          "short_name": "Seward",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Seward",
+          "short_name": "North Seward",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stafford County",
+          "short_name": "Stafford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67576",
+          "short_name": "67576",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7707",
+          "short_name": "7707",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "401-499 Main St, Seward, KS 67576, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.1782612,
+            "lng": -98.7947207
+          },
+          "southwest": {
+            "lat": 38.1772585,
+            "lng": -98.7947375
+          }
+        },
+        "location": {
+          "lat": 38.1778217,
+          "lng": -98.794753
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.1791088302915,
+            "lng": -98.79338011970849
+          },
+          "southwest": {
+            "lat": 38.1764108697085,
+            "lng": -98.7960780802915
+          }
+        }
+      },
+      "place_id": "EiY0MDEtNDk5IE1haW4gU3QsIFNld2FyZCwgS1MgNjc1NzYsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Seward",
+          "short_name": "Seward",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Seward",
+          "short_name": "North Seward",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stafford County",
+          "short_name": "Stafford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67576",
+          "short_name": "67576",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Seward, KS 67576, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.181439,
+            "lng": -98.789379
+          },
+          "southwest": {
+            "lat": 38.1741108,
+            "lng": -98.79937
+          }
+        },
+        "location": {
+          "lat": 38.1777913,
+          "lng": -98.7948107
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.181439,
+            "lng": -98.789379
+          },
+          "southwest": {
+            "lat": 38.1741108,
+            "lng": -98.79937
+          }
+        }
+      },
+      "place_id": "ChIJ69ZFp41ypIcRLVqErdUQKn8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Seward",
+          "short_name": "North Seward",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stafford County",
+          "short_name": "Stafford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Seward, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.260943,
+            "lng": -98.692593
+          },
+          "southwest": {
+            "lat": 38.173443,
+            "lng": -98.802819
+          }
+        },
+        "location": {
+          "lat": 38.2200605,
+          "lng": -98.770147
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.260943,
+            "lng": -98.692593
+          },
+          "southwest": {
+            "lat": 38.173443,
+            "lng": -98.802819
+          }
+        }
+      },
+      "place_id": "ChIJu-5Q42FxpIcRvOoNwePoro4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67576",
+          "short_name": "67576",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Saint John",
+          "short_name": "St John",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St John, KS 67576, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.2611179,
+            "lng": -98.637445
+          },
+          "southwest": {
+            "lat": 37.7918449,
+            "lng": -98.93303499999999
+          }
+        },
+        "location": {
+          "lat": 38.0296026,
+          "lng": -98.7921836
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.2611179,
+            "lng": -98.637445
+          },
+          "southwest": {
+            "lat": 37.7918449,
+            "lng": -98.93303499999999
+          }
+        }
+      },
+      "place_id": "ChIJ6RT_R9popIcR7oDvVMYt7JM",
+      "postcode_localities": [
+        "Saint John",
+        "Seward"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Stafford County",
+          "short_name": "Stafford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Stafford County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.26128509999999,
+            "lng": -98.4719149
+          },
+          "southwest": {
+            "lat": 37.824223,
+            "lng": -99.022627
+          }
+        },
+        "location": {
+          "lat": 38.0749046,
+          "lng": -98.7481167
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.26128509999999,
+            "lng": -98.4719149
+          },
+          "southwest": {
+            "lat": 37.824223,
+            "lng": -99.022627
+          }
+        }
+      },
+      "place_id": "ChIJ06C-ZL4WpIcRgpfwEtYT8O4",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

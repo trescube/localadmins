@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "401-499",
+          "short_name": "401-499",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North 7th Street",
+          "short_name": "N 7th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Arlington",
+          "short_name": "Arlington",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "7",
+          "short_name": "7",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68002",
+          "short_name": "68002",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4003",
+          "short_name": "4003",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "401-499 N 7th St, Arlington, NE 68002, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4549653,
+            "lng": -96.35649599999999
+          },
+          "southwest": {
+            "lat": 41.4537554,
+            "lng": -96.3565127
+          }
+        },
+        "location": {
+          "lat": 41.4548549,
+          "lng": -96.3565163
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4557093302915,
+            "lng": -96.3551553697085
+          },
+          "southwest": {
+            "lat": 41.4530113697085,
+            "lng": -96.3578533302915
+          }
+        }
+      },
+      "place_id": "Eio0MDEtNDk5IE4gN3RoIFN0LCBBcmxpbmd0b24sIE5FIDY4MDAyLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Arlington",
+          "short_name": "Arlington",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "7",
+          "short_name": "7",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68002",
+          "short_name": "68002",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Arlington, NE 68002, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4612709,
+            "lng": -96.346547
+          },
+          "southwest": {
+            "lat": 41.4481089,
+            "lng": -96.369676
+          }
+        },
+        "location": {
+          "lat": 41.45501180000001,
+          "lng": -96.3578639
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4612709,
+            "lng": -96.346547
+          },
+          "southwest": {
+            "lat": 41.4481089,
+            "lng": -96.369676
+          }
+        }
+      },
+      "place_id": "ChIJFVS6OU7ek4cRUM7lK37Tg2E",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "7",
+          "short_name": "7",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "7, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.480886,
+            "lng": -96.1171699
+          },
+          "southwest": {
+            "lat": 41.3930339,
+            "lng": -96.4059359
+          }
+        },
+        "location": {
+          "lat": 41.451125,
+          "lng": -96.25883689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.480886,
+            "lng": -96.1171699
+          },
+          "southwest": {
+            "lat": 41.3930339,
+            "lng": -96.4059359
+          }
+        }
+      },
+      "place_id": "ChIJS0_61WDdk4cRVhcabA_-Fao",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68002",
+          "short_name": "68002",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Arlington",
+          "short_name": "Arlington",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Arlington, NE 68002, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6398249,
+            "lng": -96.2520129
+          },
+          "southwest": {
+            "lat": 41.3930339,
+            "lng": -96.4421649
+          }
+        },
+        "location": {
+          "lat": 41.48633179999999,
+          "lng": -96.3438785
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6398249,
+            "lng": -96.2520129
+          },
+          "southwest": {
+            "lat": 41.3930339,
+            "lng": -96.4421649
+          }
+        }
+      },
+      "place_id": "ChIJe9y5J2fbk4cRts39F9-Tb3g",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Washington County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6836589,
+            "lng": -95.9195369
+          },
+          "southwest": {
+            "lat": 41.390752,
+            "lng": -96.444795
+          }
+        },
+        "location": {
+          "lat": 41.5541889,
+          "lng": -96.19513200000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6836589,
+            "lng": -95.9195369
+          },
+          "southwest": {
+            "lat": 41.390752,
+            "lng": -96.444795
+          }
+        }
+      },
+      "place_id": "ChIJbQYEfuHEk4cR5Ic2VlDx24E",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

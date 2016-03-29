@@ -1,0 +1,489 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "3066-3198",
+          "short_name": "3066-3198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Haskell Street",
+          "short_name": "Haskell St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Westwood",
+          "short_name": "Westwood",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kalamazoo",
+          "short_name": "Kalamazoo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kalamazoo County",
+          "short_name": "Kalamazoo County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49006",
+          "short_name": "49006",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2140",
+          "short_name": "2140",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "3066-3198 Haskell St, Kalamazoo, MI 49006, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.303011,
+            "lng": -85.6271309
+          },
+          "southwest": {
+            "lat": 42.303008,
+            "lng": -85.62876
+          }
+        },
+        "location": {
+          "lat": 42.3030249,
+          "lng": -85.62865
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.3043584802915,
+            "lng": -85.62659646970849
+          },
+          "southwest": {
+            "lat": 42.3016605197085,
+            "lng": -85.62929443029151
+          }
+        }
+      },
+      "place_id": "Ei4zMDY2LTMxOTggSGFza2VsbCBTdCwgS2FsYW1hem9vLCBNSSA0OTAwNiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Westwood",
+          "short_name": "Westwood",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kalamazoo Township",
+          "short_name": "Kalamazoo Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kalamazoo County",
+          "short_name": "Kalamazoo County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Westwood, Kalamazoo Twp, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.324653,
+            "lng": -85.60876379999999
+          },
+          "southwest": {
+            "lat": 42.288879,
+            "lng": -85.64813079999999
+          }
+        },
+        "location": {
+          "lat": 42.303011,
+          "lng": -85.62876
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.324653,
+            "lng": -85.60876379999999
+          },
+          "southwest": {
+            "lat": 42.288879,
+            "lng": -85.64813079999999
+          }
+        }
+      },
+      "place_id": "ChIJ6wplXYl3F4gRimsSGisAgEo",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kalamazoo Township",
+          "short_name": "Kalamazoo Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kalamazoo County",
+          "short_name": "Kalamazoo County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kalamazoo Twp, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.333256,
+            "lng": -85.5307019
+          },
+          "southwest": {
+            "lat": 42.2667059,
+            "lng": -85.648859
+          }
+        },
+        "location": {
+          "lat": 42.3238865,
+          "lng": -85.5869352
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.333256,
+            "lng": -85.5307019
+          },
+          "southwest": {
+            "lat": 42.2667059,
+            "lng": -85.648859
+          }
+        }
+      },
+      "place_id": "ChIJUwLHG0idF4gRwwzum7SQXTE",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "49006",
+          "short_name": "49006",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Kalamazoo",
+          "short_name": "Kalamazoo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kalamazoo County",
+          "short_name": "Kalamazoo County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kalamazoo, MI 49006, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.3263399,
+            "lng": -85.593069
+          },
+          "southwest": {
+            "lat": 42.268516,
+            "lng": -85.6635149
+          }
+        },
+        "location": {
+          "lat": 42.3010755,
+          "lng": -85.63320929999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.3263399,
+            "lng": -85.593069
+          },
+          "southwest": {
+            "lat": 42.268516,
+            "lng": -85.6635149
+          }
+        }
+      },
+      "place_id": "ChIJLzTbZY13F4gR4avdTqXfqUA",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kalamazoo County",
+          "short_name": "Kalamazoo County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kalamazoo County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.4215229,
+            "lng": -85.293623
+          },
+          "southwest": {
+            "lat": 42.069327,
+            "lng": -85.76606609999999
+          }
+        },
+        "location": {
+          "lat": 42.2278346,
+          "lng": -85.52002399999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.4215229,
+            "lng": -85.293623
+          },
+          "southwest": {
+            "lat": 42.069327,
+            "lng": -85.76606609999999
+          }
+        }
+      },
+      "place_id": "ChIJuf0n9q6eF4gR_Y1LA3Eg7go",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

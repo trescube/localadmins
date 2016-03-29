@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "501-599",
+          "short_name": "501-599",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Quinter",
+          "short_name": "Quinter",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Baker",
+          "short_name": "Baker",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gove County",
+          "short_name": "Gove County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67752",
+          "short_name": "67752",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9409",
+          "short_name": "9409",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "501-599 Main St, Quinter, KS 67752, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0671788,
+            "lng": -100.2347875
+          },
+          "southwest": {
+            "lat": 39.0663329,
+            "lng": -100.2347951
+          }
+        },
+        "location": {
+          "lat": 39.06678309999999,
+          "lng": -100.2348103
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0681048302915,
+            "lng": -100.2334423197085
+          },
+          "southwest": {
+            "lat": 39.0654068697085,
+            "lng": -100.2361402802915
+          }
+        }
+      },
+      "place_id": "Eic1MDEtNTk5IE1haW4gU3QsIFF1aW50ZXIsIEtTIDY3NzUyLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Quinter",
+          "short_name": "Quinter",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Baker",
+          "short_name": "Baker",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gove County",
+          "short_name": "Gove County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67752",
+          "short_name": "67752",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Quinter, KS 67752, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0745941,
+            "lng": -100.222949
+          },
+          "southwest": {
+            "lat": 39.0523759,
+            "lng": -100.2449829
+          }
+        },
+        "location": {
+          "lat": 39.06945140000001,
+          "lng": -100.2323551
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0745941,
+            "lng": -100.222949
+          },
+          "southwest": {
+            "lat": 39.0523759,
+            "lng": -100.2449829
+          }
+        }
+      },
+      "place_id": "ChIJTzaDlZZCoIcR3Pz7B4QkVGw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Baker",
+          "short_name": "Baker",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gove County",
+          "short_name": "Gove County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Baker, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.132847,
+            "lng": -100.14794
+          },
+          "southwest": {
+            "lat": 38.8710639,
+            "lng": -100.2798889
+          }
+        },
+        "location": {
+          "lat": 38.9965725,
+          "lng": -100.2151578
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.132847,
+            "lng": -100.14794
+          },
+          "southwest": {
+            "lat": 38.8710639,
+            "lng": -100.2798889
+          }
+        }
+      },
+      "place_id": "ChIJ3Tn1E1JcoIcRA2KM47xq5iI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67752",
+          "short_name": "67752",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Quinter",
+          "short_name": "Quinter",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Quinter, KS 67752, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.248095,
+            "lng": -100.1136551
+          },
+          "southwest": {
+            "lat": 38.697891,
+            "lng": -100.3607599
+          }
+        },
+        "location": {
+          "lat": 38.9965725,
+          "lng": -100.2151578
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.248095,
+            "lng": -100.1136551
+          },
+          "southwest": {
+            "lat": 38.697891,
+            "lng": -100.3607599
+          }
+        }
+      },
+      "place_id": "ChIJtZVOdQ1doIcR-cgsHaUMZ5U",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Gove County",
+          "short_name": "Gove County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Gove County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.1339469,
+            "lng": -100.14794
+          },
+          "southwest": {
+            "lat": 38.6973411,
+            "lng": -100.8187949
+          }
+        },
+        "location": {
+          "lat": 38.9271279,
+          "lng": -100.5296115
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1339469,
+            "lng": -100.14794
+          },
+          "southwest": {
+            "lat": 38.6973411,
+            "lng": -100.8187949
+          }
+        }
+      },
+      "place_id": "ChIJndZqS4F6oIcRVsQrRrb67g0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

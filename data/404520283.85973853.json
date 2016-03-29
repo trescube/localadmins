@@ -1,0 +1,549 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "211",
+          "short_name": "211",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "1st Avenue",
+          "short_name": "1st Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Hadar",
+          "short_name": "Hadar",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Branch",
+          "short_name": "South Branch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pierce County",
+          "short_name": "Pierce County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68738",
+          "short_name": "68738",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "211 1st Ave, Hadar, NE 68738, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1071126,
+            "lng": -97.451427
+          },
+          "southwest": {
+            "lat": 42.1063159,
+            "lng": -97.45142790000001
+          }
+        },
+        "location": {
+          "lat": 42.1071126,
+          "lng": -97.4514458
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1080632302915,
+            "lng": -97.4500784697085
+          },
+          "southwest": {
+            "lat": 42.1053652697085,
+            "lng": -97.45277643029151
+          }
+        }
+      },
+      "place_id": "EiEyMTEgMXN0IEF2ZSwgSGFkYXIsIE5FIDY4NzM4LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hadar",
+          "short_name": "Hadar",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Branch",
+          "short_name": "South Branch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pierce County",
+          "short_name": "Pierce County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hadar, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1124229,
+            "lng": -97.44574899999999
+          },
+          "southwest": {
+            "lat": 42.1014709,
+            "lng": -97.45814279999999
+          }
+        },
+        "location": {
+          "lat": 42.1050038,
+          "lng": -97.449221
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1124229,
+            "lng": -97.44574899999999
+          },
+          "southwest": {
+            "lat": 42.1014709,
+            "lng": -97.45814279999999
+          }
+        }
+      },
+      "place_id": "ChIJ2TaLqDEWkIcRf_0W4ezGZaY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68738",
+          "short_name": "68738",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Hadar",
+          "short_name": "Hadar",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "South Branch",
+          "short_name": "South Branch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pierce County",
+          "short_name": "Pierce County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hadar, NE 68738, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1197689,
+            "lng": -97.426373
+          },
+          "southwest": {
+            "lat": 42.09477709999999,
+            "lng": -97.4653401
+          }
+        },
+        "location": {
+          "lat": 42.1082569,
+          "lng": -97.4435441
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1197689,
+            "lng": -97.426373
+          },
+          "southwest": {
+            "lat": 42.09477709999999,
+            "lng": -97.4653401
+          }
+        }
+      },
+      "place_id": "ChIJtRKq1S8WkIcRRoDfRJvSQeY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "South Branch",
+          "short_name": "South Branch",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pierce County",
+          "short_name": "Pierce County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "South Branch, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.177993,
+            "lng": -97.3680359
+          },
+          "southwest": {
+            "lat": 42.0906758,
+            "lng": -97.4852069
+          }
+        },
+        "location": {
+          "lat": 42.1345933,
+          "lng": -97.4165053
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.177993,
+            "lng": -97.3680359
+          },
+          "southwest": {
+            "lat": 42.0906758,
+            "lng": -97.4852069
+          }
+        }
+      },
+      "place_id": "ChIJ2dHqrUI9kIcRlsgQLvd340A",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pierce County",
+          "short_name": "Pierce County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pierce County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.4387819,
+            "lng": -97.3675688
+          },
+          "southwest": {
+            "lat": 42.08975,
+            "lng": -97.835015
+          }
+        },
+        "location": {
+          "lat": 42.2257474,
+          "lng": -97.5247243
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.4387819,
+            "lng": -97.3675688
+          },
+          "southwest": {
+            "lat": 42.08975,
+            "lng": -97.835015
+          }
+        }
+      },
+      "place_id": "ChIJ85UtqxAQkIcRS2PPXlUn8j0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Norfolk",
+          "short_name": "Norfolk",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Norfolk, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.43897,
+            "lng": -97.0193329
+          },
+          "southwest": {
+            "lat": 41.7421521,
+            "lng": -97.83514489999999
+          }
+        },
+        "location": {
+          "lat": 42.1414599,
+          "lng": -97.6114217
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.43897,
+            "lng": -97.0193329
+          },
+          "southwest": {
+            "lat": 41.7421521,
+            "lng": -97.83514489999999
+          }
+        }
+      },
+      "place_id": "ChIJse93rk8UkIcRlZWBT0Z5gOM",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

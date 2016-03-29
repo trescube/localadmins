@@ -1,0 +1,404 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "16528-16742",
+          "short_name": "16528-16742",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Clay Street",
+          "short_name": "Clay St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Bellevue",
+          "short_name": "Bellevue",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "LaPlatte I",
+          "short_name": "Laplatte I",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sarpy County",
+          "short_name": "Sarpy County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68123",
+          "short_name": "68123",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3643",
+          "short_name": "3643",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "16528-16742 Clay St, Bellevue, NE 68123, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.07364,
+            "lng": -95.9253631
+          },
+          "southwest": {
+            "lat": 41.0717413,
+            "lng": -95.92537879999999
+          }
+        },
+        "location": {
+          "lat": 41.0718343,
+          "lng": -95.925392
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0740396302915,
+            "lng": -95.92402196970849
+          },
+          "southwest": {
+            "lat": 41.0713416697085,
+            "lng": -95.9267199302915
+          }
+        }
+      },
+      "place_id": "EiwxNjUyOC0xNjc0MiBDbGF5IFN0LCBCZWxsZXZ1ZSwgTkUgNjgxMjMsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "LaPlatte I",
+          "short_name": "Laplatte I",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sarpy County",
+          "short_name": "Sarpy County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Laplatte I, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1385859,
+            "lng": -95.86242690000002
+          },
+          "southwest": {
+            "lat": 41.0525019,
+            "lng": -96.00520000000002
+          }
+        },
+        "location": {
+          "lat": 41.0782917,
+          "lng": -95.93040390000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1385859,
+            "lng": -95.86242690000002
+          },
+          "southwest": {
+            "lat": 41.0525019,
+            "lng": -96.00520000000002
+          }
+        }
+      },
+      "place_id": "ChIJD9_GRa53lIcRNvhbcQ-q_TA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68123",
+          "short_name": "68123",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Bellevue",
+          "short_name": "Bellevue",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bellevue, NE 68123, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1667289,
+            "lng": -95.86242690000002
+          },
+          "southwest": {
+            "lat": 41.0508589,
+            "lng": -95.9965689
+          }
+        },
+        "location": {
+          "lat": 41.0983697,
+          "lng": -95.93040390000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1667289,
+            "lng": -95.86242690000002
+          },
+          "southwest": {
+            "lat": 41.0508589,
+            "lng": -95.9965689
+          }
+        }
+      },
+      "place_id": "ChIJr7MxP092lIcRa2lJhXnQaUQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sarpy County",
+          "short_name": "Sarpy County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sarpy County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1911001,
+            "lng": -95.841611
+          },
+          "southwest": {
+            "lat": 40.9943079,
+            "lng": -96.339805
+          }
+        },
+        "location": {
+          "lat": 41.0744042,
+          "lng": -96.19513200000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1911001,
+            "lng": -95.841611
+          },
+          "southwest": {
+            "lat": 40.9943079,
+            "lng": -96.339805
+          }
+        }
+      },
+      "place_id": "ChIJF8HFSLsFlIcR59Ty8ZW9Cd4",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

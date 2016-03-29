@@ -1,0 +1,559 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "600-698",
+          "short_name": "600-698",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Walnut Street",
+          "short_name": "Walnut St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Hickman",
+          "short_name": "Hickman",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saltillo",
+          "short_name": "Saltillo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lancaster County",
+          "short_name": "Lancaster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68372",
+          "short_name": "68372",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9630",
+          "short_name": "9630",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "600-698 Walnut St, Hickman, NE 68372, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6240854,
+            "lng": -96.630901
+          },
+          "southwest": {
+            "lat": 40.623812,
+            "lng": -96.6309067
+          }
+        },
+        "location": {
+          "lat": 40.6240015,
+          "lng": -96.630884
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6252976802915,
+            "lng": -96.62955486970849
+          },
+          "southwest": {
+            "lat": 40.6225997197085,
+            "lng": -96.6322528302915
+          }
+        }
+      },
+      "place_id": "Eik2MDAtNjk4IFdhbG51dCBTdCwgSGlja21hbiwgTkUgNjgzNzIsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hickman",
+          "short_name": "Hickman",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saltillo",
+          "short_name": "Saltillo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lancaster County",
+          "short_name": "Lancaster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68372",
+          "short_name": "68372",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Hickman, NE 68372, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6324111,
+            "lng": -96.6198409
+          },
+          "southwest": {
+            "lat": 40.61601710000001,
+            "lng": -96.640458
+          }
+        },
+        "location": {
+          "lat": 40.6191676,
+          "lng": -96.633629
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6324111,
+            "lng": -96.6198409
+          },
+          "southwest": {
+            "lat": 40.61601710000001,
+            "lng": -96.640458
+          }
+        }
+      },
+      "place_id": "ChIJ6QbticWRlocRzYCtZpqSZZs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68372",
+          "short_name": "68372",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Hickman",
+          "short_name": "Hickman",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lancaster County",
+          "short_name": "Lancaster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hickman, NE 68372, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.654133,
+            "lng": -96.539299
+          },
+          "southwest": {
+            "lat": 40.552732,
+            "lng": -96.705934
+          }
+        },
+        "location": {
+          "lat": 40.5978564,
+          "lng": -96.6103778
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.654133,
+            "lng": -96.539299
+          },
+          "southwest": {
+            "lat": 40.552732,
+            "lng": -96.705934
+          }
+        }
+      },
+      "place_id": "ChIJmwm0INyPlocRg-dTFUoCgQs",
+      "postcode_localities": [
+        "Hickman",
+        "Holland"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Saltillo",
+          "short_name": "Saltillo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lancaster County",
+          "short_name": "Lancaster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Saltillo, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.697381,
+            "lng": -96.572059
+          },
+          "southwest": {
+            "lat": 40.61029910000001,
+            "lng": -96.68691100000001
+          }
+        },
+        "location": {
+          "lat": 40.6667901,
+          "lng": -96.642433
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.697381,
+            "lng": -96.572059
+          },
+          "southwest": {
+            "lat": 40.61029910000001,
+            "lng": -96.68691100000001
+          }
+        }
+      },
+      "place_id": "ChIJW1a8jgWRlocRY8Mpi8EYNN4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lancaster County",
+          "short_name": "Lancaster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lancaster County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.046116,
+            "lng": -96.463618
+          },
+          "southwest": {
+            "lat": 40.523013,
+            "lng": -96.91392979999999
+          }
+        },
+        "location": {
+          "lat": 40.8471492,
+          "lng": -96.663812
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.046116,
+            "lng": -96.463618
+          },
+          "southwest": {
+            "lat": 40.523013,
+            "lng": -96.91392979999999
+          }
+        }
+      },
+      "place_id": "ChIJBdssjYmUlocR1ZV20RKqO90",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lincoln",
+          "short_name": "Lincoln",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lincoln, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.04687089999999,
+            "lng": -96.463537
+          },
+          "southwest": {
+            "lat": 40.5228569,
+            "lng": -97.36842510000001
+          }
+        },
+        "location": {
+          "lat": 40.8371199,
+          "lng": -96.83509989999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.04687089999999,
+            "lng": -96.463537
+          },
+          "southwest": {
+            "lat": 40.5228569,
+            "lng": -97.36842510000001
+          }
+        }
+      },
+      "place_id": "ChIJe8QKfZnDlocRo80TjbZhdnA",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

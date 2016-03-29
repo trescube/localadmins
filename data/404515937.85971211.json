@@ -1,0 +1,540 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200-298",
+          "short_name": "200-298",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Locust Street",
+          "short_name": "MO-127",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Sweet Springs",
+          "short_name": "Sweet Springs",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salt Pond Township",
+          "short_name": "Salt Pond Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saline County",
+          "short_name": "Saline County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65351",
+          "short_name": "65351",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "200-298 S Locust St, Sweet Springs, MO 65351, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.9651023,
+            "lng": -93.4151222
+          },
+          "southwest": {
+            "lat": 38.9640754,
+            "lng": -93.4151796
+          }
+        },
+        "location": {
+          "lat": 38.964902,
+          "lng": -93.41515220000001
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.9659378302915,
+            "lng": -93.4138019197085
+          },
+          "southwest": {
+            "lat": 38.9632398697085,
+            "lng": -93.41649988029151
+          }
+        }
+      },
+      "place_id": "EjEyMDAtMjk4IFMgTG9jdXN0IFN0LCBTd2VldCBTcHJpbmdzLCBNTyA2NTM1MSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sweet Springs",
+          "short_name": "Sweet Springs",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salt Pond Township",
+          "short_name": "Salt Pond Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saline County",
+          "short_name": "Saline County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65351",
+          "short_name": "65351",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Sweet Springs, MO 65351, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.9818129,
+            "lng": -93.401647
+          },
+          "southwest": {
+            "lat": 38.9446799,
+            "lng": -93.4251929
+          }
+        },
+        "location": {
+          "lat": 38.9636292,
+          "lng": -93.4149319
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.9818129,
+            "lng": -93.401647
+          },
+          "southwest": {
+            "lat": 38.9446799,
+            "lng": -93.4251929
+          }
+        }
+      },
+      "place_id": "ChIJTbGqZIm_w4cRfGeCZZ_6uo4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Salt Pond Township",
+          "short_name": "Salt Pond Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saline County",
+          "short_name": "Saline County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Salt Pond Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0447821,
+            "lng": -93.36053989999999
+          },
+          "southwest": {
+            "lat": 38.9381621,
+            "lng": -93.4963769
+          }
+        },
+        "location": {
+          "lat": 38.9996978,
+          "lng": -93.4397386
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0447821,
+            "lng": -93.36053989999999
+          },
+          "southwest": {
+            "lat": 38.9381621,
+            "lng": -93.4963769
+          }
+        }
+      },
+      "place_id": "ChIJyczBkprAw4cR5xdEZjYRxV0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "65351",
+          "short_name": "65351",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Sweet Springs",
+          "short_name": "Sweet Springs",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sweet Springs, MO 65351, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.077788,
+            "lng": -93.2195599
+          },
+          "southwest": {
+            "lat": 38.8688109,
+            "lng": -93.5125219
+          }
+        },
+        "location": {
+          "lat": 39.0008773,
+          "lng": -93.3993751
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.077788,
+            "lng": -93.2195599
+          },
+          "southwest": {
+            "lat": 38.8688109,
+            "lng": -93.5125219
+          }
+        }
+      },
+      "place_id": "ChIJ39sdWg-_w4cR15Vt3D1-lyY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Saline County",
+          "short_name": "Saline County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Saline County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.411805,
+            "lng": -92.8488249
+          },
+          "southwest": {
+            "lat": 38.928244,
+            "lng": -93.4963769
+          }
+        },
+        "location": {
+          "lat": 39.1943564,
+          "lng": -93.17796589999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.411805,
+            "lng": -92.8488249
+          },
+          "southwest": {
+            "lat": 38.928244,
+            "lng": -93.4963769
+          }
+        }
+      },
+      "place_id": "ChIJV16SvL6vw4cRPtjDn9sOByU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Marshall",
+          "short_name": "Marshall",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Marshall, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.411805,
+            "lng": -92.84885899999999
+          },
+          "southwest": {
+            "lat": 38.928244,
+            "lng": -93.496422
+          }
+        },
+        "location": {
+          "lat": 39.1943564,
+          "lng": -93.17796589999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.411805,
+            "lng": -92.84885899999999
+          },
+          "southwest": {
+            "lat": 38.928244,
+            "lng": -93.496422
+          }
+        }
+      },
+      "place_id": "ChIJBy9sHRSvw4cR-6sQmaEn4IY",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

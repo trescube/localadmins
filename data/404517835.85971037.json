@@ -1,0 +1,492 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "201-299",
+          "short_name": "201-299",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Washington Street",
+          "short_name": "N Washington St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Shelbyville",
+          "short_name": "Shelbyville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Black Creek Township",
+          "short_name": "Black Creek Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63469",
+          "short_name": "63469",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1110",
+          "short_name": "1110",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "201-299 N Washington St, Shelbyville, MO 63469, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8077921,
+            "lng": -92.040479
+          },
+          "southwest": {
+            "lat": 39.8068982,
+            "lng": -92.0404808
+          }
+        },
+        "location": {
+          "lat": 39.8071619,
+          "lng": -92.04046079999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8086941302915,
+            "lng": -92.0391309197085
+          },
+          "southwest": {
+            "lat": 39.8059961697085,
+            "lng": -92.0418288802915
+          }
+        }
+      },
+      "place_id": "EjMyMDEtMjk5IE4gV2FzaGluZ3RvbiBTdCwgU2hlbGJ5dmlsbGUsIE1PIDYzNDY5LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Shelbyville",
+          "short_name": "Shelbyville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Black Creek Township",
+          "short_name": "Black Creek Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63469",
+          "short_name": "63469",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Shelbyville, MO 63469, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8133829,
+            "lng": -92.029708
+          },
+          "southwest": {
+            "lat": 39.801507,
+            "lng": -92.05206290000001
+          }
+        },
+        "location": {
+          "lat": 39.8058724,
+          "lng": -92.0415622
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8133829,
+            "lng": -92.029708
+          },
+          "southwest": {
+            "lat": 39.801507,
+            "lng": -92.05206290000001
+          }
+        }
+      },
+      "place_id": "ChIJx0NaUo5l3YcRxe5vDwqXfcs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Black Creek Township",
+          "short_name": "Black Creek Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Black Creek Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.867157,
+            "lng": -91.955247
+          },
+          "southwest": {
+            "lat": 39.775604,
+            "lng": -92.1819699
+          }
+        },
+        "location": {
+          "lat": 39.81864909999999,
+          "lng": -92.08613299999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.867157,
+            "lng": -91.955247
+          },
+          "southwest": {
+            "lat": 39.775604,
+            "lng": -92.1819699
+          }
+        }
+      },
+      "place_id": "ChIJZ4wjmXdm3YcR3aNSEJjmFcA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63469",
+          "short_name": "63469",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Shelbyville",
+          "short_name": "Shelbyville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shelbyville, MO 63469, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.001733,
+            "lng": -91.861003
+          },
+          "southwest": {
+            "lat": 39.7174799,
+            "lng": -92.1539349
+          }
+        },
+        "location": {
+          "lat": 39.8200273,
+          "lng": -92.0077316
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.001733,
+            "lng": -91.861003
+          },
+          "southwest": {
+            "lat": 39.7174799,
+            "lng": -92.1539349
+          }
+        }
+      },
+      "place_id": "ChIJ9YVG2ftk3YcRbgVnXb1DFaY",
+      "postcode_localities": [
+        "Plevna",
+        "Shelbyville"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shelby County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9544938,
+            "lng": -91.840353
+          },
+          "southwest": {
+            "lat": 39.604082,
+            "lng": -92.2993158
+          }
+        },
+        "location": {
+          "lat": 39.8388716,
+          "lng": -92.1057549
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9544938,
+            "lng": -91.840353
+          },
+          "southwest": {
+            "lat": 39.604082,
+            "lng": -92.2993158
+          }
+        }
+      },
+      "place_id": "ChIJBYmfPiNv3YcR1tWLLHt7ljQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

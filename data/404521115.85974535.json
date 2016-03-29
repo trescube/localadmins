@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "600-798",
+          "short_name": "600-798",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Ruskin",
+          "short_name": "Ruskin",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Spring Creek",
+          "short_name": "Spring Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nuckolls County",
+          "short_name": "Nuckolls County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68974",
+          "short_name": "68974",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "6122",
+          "short_name": "6122",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "600-798 Main St, Ruskin, NE 68974, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.1439113,
+            "lng": -97.86686209999999
+          },
+          "southwest": {
+            "lat": 40.1439112,
+            "lng": -97.86814609999999
+          }
+        },
+        "location": {
+          "lat": 40.1439256,
+          "lng": -97.86703999999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.1452602302915,
+            "lng": -97.8661551197085
+          },
+          "southwest": {
+            "lat": 40.1425622697085,
+            "lng": -97.8688530802915
+          }
+        }
+      },
+      "place_id": "EiY2MDAtNzk4IE1haW4gU3QsIFJ1c2tpbiwgTkUgNjg5NzQsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ruskin",
+          "short_name": "Ruskin",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Spring Creek",
+          "short_name": "Spring Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nuckolls County",
+          "short_name": "Nuckolls County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68974",
+          "short_name": "68974",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Ruskin, NE 68974, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.147229,
+            "lng": -97.858723
+          },
+          "southwest": {
+            "lat": 40.1398718,
+            "lng": -97.877685
+          }
+        },
+        "location": {
+          "lat": 40.1438979,
+          "lng": -97.86920789999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.147229,
+            "lng": -97.858723
+          },
+          "southwest": {
+            "lat": 40.1398718,
+            "lng": -97.877685
+          }
+        }
+      },
+      "place_id": "ChIJt75reCEkmIcRWpL9ZphvTjk",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Spring Creek",
+          "short_name": "Spring Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nuckolls County",
+          "short_name": "Nuckolls County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Spring Creek, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.176334,
+            "lng": -97.8207821
+          },
+          "southwest": {
+            "lat": 40.0889789,
+            "lng": -97.93421909999999
+          }
+        },
+        "location": {
+          "lat": 40.1418159,
+          "lng": -97.8939317
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.176334,
+            "lng": -97.8207821
+          },
+          "southwest": {
+            "lat": 40.0889789,
+            "lng": -97.93421909999999
+          }
+        }
+      },
+      "place_id": "ChIJl-sTVQMkmIcR3n02VwpNJaM",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68974",
+          "short_name": "68974",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Ruskin",
+          "short_name": "Ruskin",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ruskin, NE 68974, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.19079010000001,
+            "lng": -97.783855
+          },
+          "southwest": {
+            "lat": 40.0745799,
+            "lng": -97.934291
+          }
+        },
+        "location": {
+          "lat": 40.1338649,
+          "lng": -97.86127669999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.19079010000001,
+            "lng": -97.783855
+          },
+          "southwest": {
+            "lat": 40.0745799,
+            "lng": -97.934291
+          }
+        }
+      },
+      "place_id": "ChIJb7KocAMkmIcRGCBwmGo7yk0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nuckolls County",
+          "short_name": "Nuckolls County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nuckolls County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3506841,
+            "lng": -97.82064899999999
+          },
+          "southwest": {
+            "lat": 40.0020229,
+            "lng": -98.2740511
+          }
+        },
+        "location": {
+          "lat": 40.110932,
+          "lng": -98.04651849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3506841,
+            "lng": -97.82064899999999
+          },
+          "southwest": {
+            "lat": 40.0020229,
+            "lng": -98.2740511
+          }
+        }
+      },
+      "place_id": "ChIJLbg3fYs2mIcR88k6VqecA2w",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

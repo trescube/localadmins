@@ -1,0 +1,532 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "309-399",
+          "short_name": "309-399",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Marion Street",
+          "short_name": "N Marion St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Greentop",
+          "short_name": "Greentop",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salt River Township",
+          "short_name": "Salt River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuyler County",
+          "short_name": "Schuyler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63546",
+          "short_name": "63546",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "309-399 N Marion St, Greentop, MO 63546, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3515186,
+            "lng": -92.5655457
+          },
+          "southwest": {
+            "lat": 40.3505033,
+            "lng": -92.56558439999999
+          }
+        },
+        "location": {
+          "lat": 40.3507901,
+          "lng": -92.5655671
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3523599302915,
+            "lng": -92.5642160697085
+          },
+          "southwest": {
+            "lat": 40.3496619697085,
+            "lng": -92.5669140302915
+          }
+        }
+      },
+      "place_id": "EiwzMDktMzk5IE4gTWFyaW9uIFN0LCBHcmVlbnRvcCwgTU8gNjM1NDYsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Greentop",
+          "short_name": "Greentop",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salt River Township",
+          "short_name": "Salt River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuyler County",
+          "short_name": "Schuyler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63546",
+          "short_name": "63546",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Greentop, MO 63546, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.358964,
+            "lng": -92.55856990000001
+          },
+          "southwest": {
+            "lat": 40.340157,
+            "lng": -92.57280200000001
+          }
+        },
+        "location": {
+          "lat": 40.34697490000001,
+          "lng": -92.5690817
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.358964,
+            "lng": -92.55856990000001
+          },
+          "southwest": {
+            "lat": 40.340157,
+            "lng": -92.57280200000001
+          }
+        }
+      },
+      "place_id": "ChIJo0WOxsRz6IcRP9zZooiFlyY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Salt River Township",
+          "short_name": "Salt River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuyler County",
+          "short_name": "Schuyler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Salt River Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.389162,
+            "lng": -92.4674089
+          },
+          "southwest": {
+            "lat": 40.343466,
+            "lng": -92.68757599999999
+          }
+        },
+        "location": {
+          "lat": 40.3722421,
+          "lng": -92.5693337
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.389162,
+            "lng": -92.4674089
+          },
+          "southwest": {
+            "lat": 40.343466,
+            "lng": -92.68757599999999
+          }
+        }
+      },
+      "place_id": "ChIJtTQ3uH5x6IcRINM66szQi-M",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63546",
+          "short_name": "63546",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Greentop",
+          "short_name": "Greentop",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Greentop, MO 63546, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.428525,
+            "lng": -92.24280300000001
+          },
+          "southwest": {
+            "lat": 40.249542,
+            "lng": -92.68662909999999
+          }
+        },
+        "location": {
+          "lat": 40.32277089999999,
+          "lng": -92.49999179999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.428525,
+            "lng": -92.24280300000001
+          },
+          "southwest": {
+            "lat": 40.249542,
+            "lng": -92.68662909999999
+          }
+        }
+      },
+      "place_id": "ChIJKbUPtFF06IcRy6Qz4q9R_t0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Schuyler County",
+          "short_name": "Schuyler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Schuyler County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.5972749,
+            "lng": -92.34997489999999
+          },
+          "southwest": {
+            "lat": 40.343466,
+            "lng": -92.721158
+          }
+        },
+        "location": {
+          "lat": 40.4857709,
+          "lng": -92.49999179999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.5972749,
+            "lng": -92.34997489999999
+          },
+          "southwest": {
+            "lat": 40.343466,
+            "lng": -92.721158
+          }
+        }
+      },
+      "place_id": "ChIJM3DreG936IcRJsountzPer8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kirksville",
+          "short_name": "Kirksville",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kirksville, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.597274,
+            "lng": -92.34528499999999
+          },
+          "southwest": {
+            "lat": 40.03703,
+            "lng": -92.85639189999999
+          }
+        },
+        "location": {
+          "lat": 40.362703,
+          "lng": -92.539603
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.597274,
+            "lng": -92.34528499999999
+          },
+          "southwest": {
+            "lat": 40.03703,
+            "lng": -92.85639189999999
+          }
+        }
+      },
+      "place_id": "ChIJCaEmFy9z6IcRts5uq4iUseI",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

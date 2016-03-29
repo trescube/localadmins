@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-199",
+          "short_name": "101-199",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Walnut Street",
+          "short_name": "W Walnut St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Rising City",
+          "short_name": "Rising City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Reading",
+          "short_name": "Reading",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68658",
+          "short_name": "68658",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3886",
+          "short_name": "3886",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "101-199 W Walnut St, Rising City, NE 68658, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.198341,
+            "lng": -97.296435
+          },
+          "southwest": {
+            "lat": 41.19833089999999,
+            "lng": -97.297814
+          }
+        },
+        "location": {
+          "lat": 41.1983197,
+          "lng": -97.29740919999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.19968493029149,
+            "lng": -97.29577551970849
+          },
+          "southwest": {
+            "lat": 41.1969869697085,
+            "lng": -97.2984734802915
+          }
+        }
+      },
+      "place_id": "Ei8xMDEtMTk5IFcgV2FsbnV0IFN0LCBSaXNpbmcgQ2l0eSwgTkUgNjg2NTgsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rising City",
+          "short_name": "Rising City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Reading",
+          "short_name": "Reading",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68658",
+          "short_name": "68658",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Rising City, NE 68658, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.203135,
+            "lng": -97.290818
+          },
+          "southwest": {
+            "lat": 41.192403,
+            "lng": -97.3059919
+          }
+        },
+        "location": {
+          "lat": 41.1979835,
+          "lng": -97.2964413
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.203135,
+            "lng": -97.290818
+          },
+          "southwest": {
+            "lat": 41.192403,
+            "lng": -97.3059919
+          }
+        }
+      },
+      "place_id": "ChIJ27qHNoXPkIcRvBKmBhO6-ZM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Reading",
+          "short_name": "Reading",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Reading, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.221499,
+            "lng": -97.25283999999999
+          },
+          "southwest": {
+            "lat": 41.133942,
+            "lng": -97.368155
+          }
+        },
+        "location": {
+          "lat": 41.1880986,
+          "lng": -97.33005299999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.221499,
+            "lng": -97.25283999999999
+          },
+          "southwest": {
+            "lat": 41.133942,
+            "lng": -97.368155
+          }
+        }
+      },
+      "place_id": "ChIJYaemsAfPkIcRIVSHRMKxDHw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68658",
+          "short_name": "68658",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Rising City",
+          "short_name": "Rising City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rising City, NE 68658, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3077379,
+            "lng": -97.176338
+          },
+          "southwest": {
+            "lat": 41.119192,
+            "lng": -97.38737189999999
+          }
+        },
+        "location": {
+          "lat": 41.1908434,
+          "lng": -97.286868
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3077379,
+            "lng": -97.176338
+          },
+          "southwest": {
+            "lat": 41.119192,
+            "lng": -97.38737189999999
+          }
+        }
+      },
+      "place_id": "ChIJocCPNlHFkIcRVf8huZCd4Ek",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Butler County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4564359,
+            "lng": -96.9057699
+          },
+          "southwest": {
+            "lat": 41.04609079999999,
+            "lng": -97.368274
+          }
+        },
+        "location": {
+          "lat": 41.1375727,
+          "lng": -97.179026
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4564359,
+            "lng": -96.9057699
+          },
+          "southwest": {
+            "lat": 41.04609079999999,
+            "lng": -97.368274
+          }
+        }
+      },
+      "place_id": "ChIJId_NSz_YkIcR9jOVcMh-L1A",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

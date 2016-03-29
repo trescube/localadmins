@@ -1,0 +1,563 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "7821-7873",
+          "short_name": "7821-7873",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Park Drive",
+          "short_name": "Park Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "South Central Omaha",
+          "short_name": "South Central Omaha",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ralston",
+          "short_name": "Ralston",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Douglas",
+          "short_name": "Douglas",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Douglas County",
+          "short_name": "Douglas County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68127",
+          "short_name": "68127",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "7821-7873 Park Dr, Ralston, NE 68127, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2007159,
+            "lng": -96.0346551
+          },
+          "southwest": {
+            "lat": 41.2007142,
+            "lng": -96.03594550000001
+          }
+        },
+        "location": {
+          "lat": 41.2007008,
+          "lng": -96.0353904
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2020640302915,
+            "lng": -96.0339513197085
+          },
+          "southwest": {
+            "lat": 41.1993660697085,
+            "lng": -96.03664928029153
+          }
+        }
+      },
+      "place_id": "Eik3ODIxLTc4NzMgUGFyayBEciwgUmFsc3RvbiwgTkUgNjgxMjcsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ralston",
+          "short_name": "Ralston",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Douglas",
+          "short_name": "Douglas",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Douglas County",
+          "short_name": "Douglas County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ralston, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.21252,
+            "lng": -96.0236849
+          },
+          "southwest": {
+            "lat": 41.1906419,
+            "lng": -96.0524279
+          }
+        },
+        "location": {
+          "lat": 41.2002566,
+          "lng": -96.031987
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.21252,
+            "lng": -96.0236849
+          },
+          "southwest": {
+            "lat": 41.1906419,
+            "lng": -96.0524279
+          }
+        }
+      },
+      "place_id": "ChIJh52RUV-Lk4cRGx460ZTR81k",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "South Central Omaha",
+          "short_name": "South Central Omaha",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Omaha",
+          "short_name": "Omaha",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Douglas County",
+          "short_name": "Douglas County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "South Central Omaha, Omaha, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.259677,
+            "lng": -95.97578399999999
+          },
+          "southwest": {
+            "lat": 41.190728,
+            "lng": -96.08158519999999
+          }
+        },
+        "location": {
+          "lat": 41.2226541,
+          "lng": -96.0467429
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.259677,
+            "lng": -95.97578399999999
+          },
+          "southwest": {
+            "lat": 41.190728,
+            "lng": -96.08158519999999
+          }
+        }
+      },
+      "place_id": "ChIJy9Iv5PSMk4cRVsPllYz3lVs",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Douglas",
+          "short_name": "Douglas",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Douglas County",
+          "short_name": "Douglas County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Douglas, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.21252,
+            "lng": -95.987263
+          },
+          "southwest": {
+            "lat": 41.1906419,
+            "lng": -96.0622459
+          }
+        },
+        "location": {
+          "lat": 41.1984465,
+          "lng": -96.0308654
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.21252,
+            "lng": -96.0236849
+          },
+          "southwest": {
+            "lat": 41.1906419,
+            "lng": -96.0622459
+          }
+        }
+      },
+      "place_id": "ChIJtcrH34CLk4cRyJiCkN9hVw8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68127",
+          "short_name": "68127",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Omaha",
+          "short_name": "Omaha",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Omaha, NE 68127, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2216809,
+            "lng": -96.009312
+          },
+          "southwest": {
+            "lat": 41.190021,
+            "lng": -96.081537
+          }
+        },
+        "location": {
+          "lat": 41.2073534,
+          "lng": -96.0520363
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2216809,
+            "lng": -96.009312
+          },
+          "southwest": {
+            "lat": 41.190021,
+            "lng": -96.081537
+          }
+        }
+      },
+      "place_id": "ChIJ45P8GqGMk4cRYo2BIeGW5Kg",
+      "postcode_localities": [
+        "Omaha",
+        "Ralston"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Douglas County",
+          "short_name": "Douglas County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Douglas County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3934681,
+            "lng": -95.871141
+          },
+          "southwest": {
+            "lat": 41.18999900000001,
+            "lng": -96.4707201
+          }
+        },
+        "location": {
+          "lat": 41.3148116,
+          "lng": -96.19513200000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3934681,
+            "lng": -95.871141
+          },
+          "southwest": {
+            "lat": 41.18999900000001,
+            "lng": -96.4707201
+          }
+        }
+      },
+      "place_id": "ChIJC0RFNDPik4cR6q2GEvMovcw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

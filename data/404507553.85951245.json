@@ -1,0 +1,637 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "340",
+          "short_name": "340",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "6th Street",
+          "short_name": "6th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Calumet",
+          "short_name": "Calumet",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Calumet Township",
+          "short_name": "Calumet Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49913",
+          "short_name": "49913",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "340 6th St, Calumet, MI 49913, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.247981,
+            "lng": -88.4532503
+          },
+          "southwest": {
+            "lat": 47.2476517,
+            "lng": -88.4536356
+          }
+        },
+        "location": {
+          "lat": 47.2478164,
+          "lng": -88.453443
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 47.2491653302915,
+            "lng": -88.45209396970849
+          },
+          "southwest": {
+            "lat": 47.2464673697085,
+            "lng": -88.4547919302915
+          }
+        }
+      },
+      "place_id": "ChIJ276KpXa7UE0RUHRXPu0uzIs",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "509",
+          "short_name": "509",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Elm Street",
+          "short_name": "Elm St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Calumet",
+          "short_name": "Calumet",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Calumet Township",
+          "short_name": "Calumet Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49913",
+          "short_name": "49913",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "509 Elm St, Calumet, MI 49913, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.2480924,
+            "lng": -88.4531942
+          },
+          "southwest": {
+            "lat": 47.2480924,
+            "lng": -88.4537816
+          }
+        },
+        "location": {
+          "lat": 47.2481051,
+          "lng": -88.45348299999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 47.24944138029149,
+            "lng": -88.45213891970849
+          },
+          "southwest": {
+            "lat": 47.2467434197085,
+            "lng": -88.45483688029151
+          }
+        }
+      },
+      "place_id": "EiI1MDkgRWxtIFN0LCBDYWx1bWV0LCBNSSA0OTkxMywgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Calumet",
+          "short_name": "Calumet",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Calumet Township",
+          "short_name": "Calumet Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49913",
+          "short_name": "49913",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Calumet, Calumet Twp, MI 49913, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.2516279,
+            "lng": -88.4472569
+          },
+          "southwest": {
+            "lat": 47.2432048,
+            "lng": -88.45792379999999
+          }
+        },
+        "location": {
+          "lat": 47.24659219999999,
+          "lng": -88.45400599999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.2516279,
+            "lng": -88.4472569
+          },
+          "southwest": {
+            "lat": 47.2432048,
+            "lng": -88.45792379999999
+          }
+        }
+      },
+      "place_id": "ChIJF1Ca1YO7UE0Re-JvFIPxBfk",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Calumet Township",
+          "short_name": "Calumet Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Calumet Twp, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.286254,
+            "lng": -88.298992
+          },
+          "southwest": {
+            "lat": 47.1992909,
+            "lng": -88.55217069999999
+          }
+        },
+        "location": {
+          "lat": 47.2718408,
+          "lng": -88.4262689
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.286254,
+            "lng": -88.298992
+          },
+          "southwest": {
+            "lat": 47.1992909,
+            "lng": -88.55217069999999
+          }
+        }
+      },
+      "place_id": "ChIJJ2ETIAyFUE0RnlGi4fuCCmc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "49913",
+          "short_name": "49913",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Calumet",
+          "short_name": "Calumet",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Calumet, MI 49913, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.3355359,
+            "lng": -88.23323099999999
+          },
+          "southwest": {
+            "lat": 47.065224,
+            "lng": -88.648106
+          }
+        },
+        "location": {
+          "lat": 47.2432514,
+          "lng": -88.4801452
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.3355359,
+            "lng": -88.23323099999999
+          },
+          "southwest": {
+            "lat": 47.1409159,
+            "lng": -88.6305
+          }
+        }
+      },
+      "place_id": "ChIJEyrI692QUE0RaV4Qk5n_MZU",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Houghton County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.286254,
+            "lng": -88.227403
+          },
+          "southwest": {
+            "lat": 46.419643,
+            "lng": -88.9915489
+          }
+        },
+        "location": {
+          "lat": 47.1211215,
+          "lng": -88.5694012
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.286254,
+            "lng": -88.227403
+          },
+          "southwest": {
+            "lat": 46.419643,
+            "lng": -88.9915489
+          }
+        }
+      },
+      "place_id": "ChIJTfO5_mQ7UU0RWG667XtdKyc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Houghton",
+          "short_name": "Houghton",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Houghton, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.19097499999999,
+            "lng": -87.710471
+          },
+          "southwest": {
+            "lat": 46.419689,
+            "lng": -89.2552019
+          }
+        },
+        "location": {
+          "lat": 47.0499507,
+          "lng": -88.6148185
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.4794201,
+            "lng": -87.710471
+          },
+          "southwest": {
+            "lat": 46.419689,
+            "lng": -88.991295
+          }
+        }
+      },
+      "place_id": "ChIJU0kmS3u2UE0RaZxuic7LhPE",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

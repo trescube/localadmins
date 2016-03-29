@@ -1,0 +1,387 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "6422",
+          "short_name": "6422",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Mill Street",
+          "short_name": "Mill St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Levering",
+          "short_name": "Levering",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McKinley Township",
+          "short_name": "McKinley Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Emmet County",
+          "short_name": "Emmet County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49755",
+          "short_name": "49755",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "6422 Mill St, Levering, MI 49755, USA",
+      "geometry": {
+        "location": {
+          "lat": 45.634761,
+          "lng": -84.78394
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 45.63610998029151,
+            "lng": -84.78259101970849
+          },
+          "southwest": {
+            "lat": 45.63341201970851,
+            "lng": -84.78528898029151
+          }
+        }
+      },
+      "place_id": "ChIJc8WpMHWINU0Ru9S4G9dVTnk",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "McKinley Township",
+          "short_name": "McKinley Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Emmet County",
+          "short_name": "Emmet County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "McKinley Township, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.637221,
+            "lng": -84.7306059
+          },
+          "southwest": {
+            "lat": 45.5507628,
+            "lng": -84.8531919
+          }
+        },
+        "location": {
+          "lat": 45.5769338,
+          "lng": -84.7951586
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.637221,
+            "lng": -84.7306059
+          },
+          "southwest": {
+            "lat": 45.5507628,
+            "lng": -84.8531919
+          }
+        }
+      },
+      "place_id": "ChIJk2SbzQqHNU0RP17He8qMRI0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "49755",
+          "short_name": "49755",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Levering",
+          "short_name": "Levering",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Levering, MI 49755, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.709778,
+            "lng": -84.6095699
+          },
+          "southwest": {
+            "lat": 45.563305,
+            "lng": -84.99550909999999
+          }
+        },
+        "location": {
+          "lat": 45.6521002,
+          "lng": -84.7814432
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.709778,
+            "lng": -84.6095699
+          },
+          "southwest": {
+            "lat": 45.563305,
+            "lng": -84.99550909999999
+          }
+        }
+      },
+      "place_id": "ChIJkwCf0uJ3Sk0RaLhrzDGeTaM",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Emmet County",
+          "short_name": "Emmet County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Emmet County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.7893963,
+            "lng": -84.7298409
+          },
+          "southwest": {
+            "lat": 45.2743601,
+            "lng": -85.1745572
+          }
+        },
+        "location": {
+          "lat": 45.6418969,
+          "lng": -84.9769067
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.7893963,
+            "lng": -84.7298409
+          },
+          "southwest": {
+            "lat": 45.2743601,
+            "lng": -85.1201789
+          }
+        }
+      },
+      "place_id": "ChIJr4sBRWSDSk0R23iTvfSNjzo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-198",
+          "short_name": "100-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Chestnut Street",
+          "short_name": "E Chestnut St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Shelbina",
+          "short_name": "Shelbina",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salt River Township",
+          "short_name": "Salt River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63468",
+          "short_name": "63468",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1339",
+          "short_name": "1339",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "100-198 E Chestnut St, Shelbina, MO 63468, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.6930133,
+            "lng": -92.03881679999999
+          },
+          "southwest": {
+            "lat": 39.6926226,
+            "lng": -92.0405057
+          }
+        },
+        "location": {
+          "lat": 39.6928449,
+          "lng": -92.0397124
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.69416693029149,
+            "lng": -92.0383122697085
+          },
+          "southwest": {
+            "lat": 39.6914689697085,
+            "lng": -92.0410102302915
+          }
+        }
+      },
+      "place_id": "Ei4xMDAtMTk4IEUgQ2hlc3RudXQgU3QsIFNoZWxiaW5hLCBNTyA2MzQ2OCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Shelbina",
+          "short_name": "Shelbina",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salt River Township",
+          "short_name": "Salt River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63468",
+          "short_name": "63468",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Shelbina, MO 63468, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.7040689,
+            "lng": -92.02475000000001
+          },
+          "southwest": {
+            "lat": 39.681965,
+            "lng": -92.05713390000001
+          }
+        },
+        "location": {
+          "lat": 39.6939275,
+          "lng": -92.04295019999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7040689,
+            "lng": -92.02475000000001
+          },
+          "southwest": {
+            "lat": 39.681965,
+            "lng": -92.05713390000001
+          }
+        }
+      },
+      "place_id": "ChIJe59jekBs3YcRaAi4DySVei0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Salt River Township",
+          "short_name": "Salt River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Salt River Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.7772669,
+            "lng": -91.95854709999999
+          },
+          "southwest": {
+            "lat": 39.6594709,
+            "lng": -92.1104929
+          }
+        },
+        "location": {
+          "lat": 39.6957439,
+          "lng": -92.0469151
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7772669,
+            "lng": -91.95854709999999
+          },
+          "southwest": {
+            "lat": 39.6594709,
+            "lng": -92.1104929
+          }
+        }
+      },
+      "place_id": "ChIJc6xCPids3YcRX0Q4z3YFBZE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63468",
+          "short_name": "63468",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Shelbina",
+          "short_name": "Shelbina",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shelbina, MO 63468, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.86356290000001,
+            "lng": -91.883704
+          },
+          "southwest": {
+            "lat": 39.5294549,
+            "lng": -92.148074
+          }
+        },
+        "location": {
+          "lat": 39.675462,
+          "lng": -92.02731899999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7713531,
+            "lng": -91.883704
+          },
+          "southwest": {
+            "lat": 39.5294549,
+            "lng": -92.148074
+          }
+        }
+      },
+      "place_id": "ChIJ9z3bavhs3YcR8Yoa1c8QR28",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shelby County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9544938,
+            "lng": -91.840353
+          },
+          "southwest": {
+            "lat": 39.604082,
+            "lng": -92.2993158
+          }
+        },
+        "location": {
+          "lat": 39.8388716,
+          "lng": -92.1057549
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9544938,
+            "lng": -91.840353
+          },
+          "southwest": {
+            "lat": 39.604082,
+            "lng": -92.2993158
+          }
+        }
+      },
+      "place_id": "ChIJBYmfPiNv3YcR1tWLLHt7ljQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

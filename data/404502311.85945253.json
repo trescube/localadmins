@@ -1,0 +1,481 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301-399",
+          "short_name": "301-399",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lewis",
+          "short_name": "Lewis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wayne",
+          "short_name": "Wayne",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Edwards County",
+          "short_name": "Edwards County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67552",
+          "short_name": "67552",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "301-399 Main St, Lewis, KS 67552, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.9375002,
+            "lng": -99.25424079999999
+          },
+          "southwest": {
+            "lat": 37.93650330000001,
+            "lng": -99.25439469999999
+          }
+        },
+        "location": {
+          "lat": 37.9369979,
+          "lng": -99.25433609999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.9383507302915,
+            "lng": -99.25296876970849
+          },
+          "southwest": {
+            "lat": 37.9356527697085,
+            "lng": -99.2556667302915
+          }
+        }
+      },
+      "place_id": "EiUzMDEtMzk5IE1haW4gU3QsIExld2lzLCBLUyA2NzU1MiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lewis",
+          "short_name": "Lewis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wayne",
+          "short_name": "Wayne",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Edwards County",
+          "short_name": "Edwards County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67552",
+          "short_name": "67552",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Lewis, KS 67552, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.9418499,
+            "lng": -99.2498918
+          },
+          "southwest": {
+            "lat": 37.9323229,
+            "lng": -99.2604339
+          }
+        },
+        "location": {
+          "lat": 37.9361267,
+          "lng": -99.2526111
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.9418499,
+            "lng": -99.2498918
+          },
+          "southwest": {
+            "lat": 37.9323229,
+            "lng": -99.2604339
+          }
+        }
+      },
+      "place_id": "ChIJQZ7j6mmfpocR6ZzmwK8qvp8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wayne",
+          "short_name": "Wayne",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Edwards County",
+          "short_name": "Edwards County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wayne, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.000552,
+            "lng": -99.186968
+          },
+          "southwest": {
+            "lat": 37.912485,
+            "lng": -99.352755
+          }
+        },
+        "location": {
+          "lat": 37.9728277,
+          "lng": -99.2563859
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.000552,
+            "lng": -99.186968
+          },
+          "southwest": {
+            "lat": 37.912485,
+            "lng": -99.352755
+          }
+        }
+      },
+      "place_id": "ChIJV-Y1evuhpocRD8Dx2jq0xb0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67552",
+          "short_name": "67552",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Lewis",
+          "short_name": "Lewis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lewis, KS 67552, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.0364619,
+            "lng": -99.1231179
+          },
+          "southwest": {
+            "lat": 37.674758,
+            "lng": -99.386788
+          }
+        },
+        "location": {
+          "lat": 37.82736750000001,
+          "lng": -99.23421959999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.0364619,
+            "lng": -99.1231179
+          },
+          "southwest": {
+            "lat": 37.674758,
+            "lng": -99.386788
+          }
+        }
+      },
+      "place_id": "ChIJadoU5dCdpocRahV7rn4gf2I",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Edwards County",
+          "short_name": "Edwards County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Edwards County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.08820000000001,
+            "lng": -99.01330279999999
+          },
+          "southwest": {
+            "lat": 37.73297,
+            "lng": -99.5705759
+          }
+        },
+        "location": {
+          "lat": 37.865958,
+          "lng": -99.2785583
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.08820000000001,
+            "lng": -99.01330279999999
+          },
+          "southwest": {
+            "lat": 37.73297,
+            "lng": -99.5705759
+          }
+        }
+      },
+      "place_id": "ChIJUTLDRUyYpocRbsTiV9ei6Po",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

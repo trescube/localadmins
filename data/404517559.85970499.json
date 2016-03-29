@@ -1,0 +1,537 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "347",
+          "short_name": "347",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Shore Drive",
+          "short_name": "N Shore Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lake Waukomis",
+          "short_name": "Lake Waukomis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "May",
+          "short_name": "May",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64151",
+          "short_name": "64151",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1455",
+          "short_name": "1455",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "347 N Shore Dr, Lake Waukomis, MO 64151, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.231221,
+          "lng": -94.63797
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.23256998029149,
+            "lng": -94.63662101970849
+          },
+          "southwest": {
+            "lat": 39.22987201970849,
+            "lng": -94.63931898029149
+          }
+        }
+      },
+      "place_id": "ChIJ8W1yCKlYwIcR92q2Q1Zl9k0",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lake Waukomis",
+          "short_name": "Lake Waukomis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "May",
+          "short_name": "May",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64151",
+          "short_name": "64151",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Lake Waukomis, MO 64151, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2359851,
+            "lng": -94.6306829
+          },
+          "southwest": {
+            "lat": 39.225048,
+            "lng": -94.647335
+          }
+        },
+        "location": {
+          "lat": 39.2322246,
+          "lng": -94.63801269999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.2359851,
+            "lng": -94.6306829
+          },
+          "southwest": {
+            "lat": 39.225048,
+            "lng": -94.647335
+          }
+        }
+      },
+      "place_id": "ChIJuz9KRKhYwIcRcnE4jmaF--A",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64151",
+          "short_name": "64151",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Kansas City",
+          "short_name": "KCMO",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas City, MO 64151, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.33191,
+            "lng": -94.60085509999999
+          },
+          "southwest": {
+            "lat": 39.1770209,
+            "lng": -94.757409
+          }
+        },
+        "location": {
+          "lat": 39.2182916,
+          "lng": -94.6347041
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.247028,
+            "lng": -94.60085509999999
+          },
+          "southwest": {
+            "lat": 39.1770209,
+            "lng": -94.66256
+          }
+        }
+      },
+      "place_id": "ChIJ9R74QBH2wIcRmnUijQbRay0",
+      "postcode_localities": [
+        "Houston Lake",
+        "Kansas City",
+        "Lake Waukomis",
+        "Northmoor",
+        "Platte Woods",
+        "Riverside"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "May",
+          "short_name": "May",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "May, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.325685,
+            "lng": -94.6001179
+          },
+          "southwest": {
+            "lat": 39.224322,
+            "lng": -94.696523
+          }
+        },
+        "location": {
+          "lat": 39.28962,
+          "lng": -94.6657027
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.325685,
+            "lng": -94.6001179
+          },
+          "southwest": {
+            "lat": 39.224322,
+            "lng": -94.696523
+          }
+        }
+      },
+      "place_id": "ChIJaQxpjNNewIcRpdU61pjsQTc",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Platte County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.533347,
+            "lng": -94.6001179
+          },
+          "southwest": {
+            "lat": 39.1537071,
+            "lng": -95.10288779999999
+          }
+        },
+        "location": {
+          "lat": 39.34756489999999,
+          "lng": -94.7691586
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.533347,
+            "lng": -94.6001179
+          },
+          "southwest": {
+            "lat": 39.1537071,
+            "lng": -95.10288779999999
+          }
+        }
+      },
+      "place_id": "ChIJ6W6-vQpmwIcRBSNNlMCLTTU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas City",
+          "short_name": "Kansas City",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas City, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.788955,
+            "lng": -93.477233
+          },
+          "southwest": {
+            "lat": 38.026143,
+            "lng": -95.5090159
+          }
+        },
+        "location": {
+          "lat": 39.0653602,
+          "lng": -94.5624426
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.788955,
+            "lng": -93.477233
+          },
+          "southwest": {
+            "lat": 38.026143,
+            "lng": -95.5090159
+          }
+        }
+      },
+      "place_id": "ChIJ5176R2TnwIcRX_TpnWkvgMk",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

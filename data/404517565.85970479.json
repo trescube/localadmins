@@ -1,0 +1,532 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "19809-19999",
+          "short_name": "19809-19999",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Co Road B",
+          "short_name": "N Co Rd B",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Edgerton",
+          "short_name": "Edgerton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Preston Township",
+          "short_name": "Preston Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64444",
+          "short_name": "64444",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "19809-19999 N Co Rd B, Edgerton, MO 64444, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.45579490000001,
+            "lng": -94.6407632
+          },
+          "southwest": {
+            "lat": 39.45180089999999,
+            "lng": -94.6407758
+          }
+        },
+        "location": {
+          "lat": 39.4536642,
+          "lng": -94.6407497
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.45579490000001,
+            "lng": -94.6394205197085
+          },
+          "southwest": {
+            "lat": 39.45180089999999,
+            "lng": -94.6421184802915
+          }
+        }
+      },
+      "place_id": "Ei4xOTgwOS0xOTk5OSBOIENvIFJkIEIsIEVkZ2VydG9uLCBNTyA2NDQ0NCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ridgely",
+          "short_name": "Ridgely",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Preston Township",
+          "short_name": "Preston Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64444",
+          "short_name": "64444",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Ridgely, MO 64444, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.4631769,
+            "lng": -94.62363700000002
+          },
+          "southwest": {
+            "lat": 39.440783,
+            "lng": -94.6569409
+          }
+        },
+        "location": {
+          "lat": 39.455554,
+          "lng": -94.6385676
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.4631769,
+            "lng": -94.62363700000002
+          },
+          "southwest": {
+            "lat": 39.440783,
+            "lng": -94.6569409
+          }
+        }
+      },
+      "place_id": "ChIJO1NZNnNEwIcRb4rdBikrrZI",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Preston Township",
+          "short_name": "Preston Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Preston Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.53085,
+            "lng": -94.6006259
+          },
+          "southwest": {
+            "lat": 39.3868389,
+            "lng": -94.7146659
+          }
+        },
+        "location": {
+          "lat": 39.45681280000001,
+          "lng": -94.6243751
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.53085,
+            "lng": -94.6006259
+          },
+          "southwest": {
+            "lat": 39.3868389,
+            "lng": -94.7146659
+          }
+        }
+      },
+      "place_id": "ChIJXfjKk_FDwIcRda-ENT9qTXQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64444",
+          "short_name": "64444",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Edgerton",
+          "short_name": "Edgerton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Edgerton, MO 64444, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.570617,
+            "lng": -94.600692
+          },
+          "southwest": {
+            "lat": 39.39756690000001,
+            "lng": -94.69058779999999
+          }
+        },
+        "location": {
+          "lat": 39.4667346,
+          "lng": -94.6347041
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.570617,
+            "lng": -94.600692
+          },
+          "southwest": {
+            "lat": 39.39756690000001,
+            "lng": -94.69058779999999
+          }
+        }
+      },
+      "place_id": "ChIJq9uMHQFEwIcRmmjPPUy4eR4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Platte County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.533347,
+            "lng": -94.6001179
+          },
+          "southwest": {
+            "lat": 39.1537071,
+            "lng": -95.10288779999999
+          }
+        },
+        "location": {
+          "lat": 39.34756489999999,
+          "lng": -94.7691586
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.533347,
+            "lng": -94.6001179
+          },
+          "southwest": {
+            "lat": 39.1537071,
+            "lng": -95.10288779999999
+          }
+        }
+      },
+      "place_id": "ChIJ6W6-vQpmwIcRBSNNlMCLTTU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas City",
+          "short_name": "Kansas City",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas City, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.788955,
+            "lng": -93.477233
+          },
+          "southwest": {
+            "lat": 38.026143,
+            "lng": -95.5090159
+          }
+        },
+        "location": {
+          "lat": 39.0653602,
+          "lng": -94.5624426
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.788955,
+            "lng": -93.477233
+          },
+          "southwest": {
+            "lat": 38.026143,
+            "lng": -95.5090159
+          }
+        }
+      },
+      "place_id": "ChIJ5176R2TnwIcRX_TpnWkvgMk",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

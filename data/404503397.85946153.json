@@ -1,0 +1,539 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "501-599",
+          "short_name": "501-599",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Walnut Street",
+          "short_name": "Walnut St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "McCune",
+          "short_name": "McCune",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Osage",
+          "short_name": "Osage",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66753",
+          "short_name": "66753",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8131",
+          "short_name": "8131",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "501-599 Walnut St, McCune, KS 66753, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.3545638,
+            "lng": -95.0198281
+          },
+          "southwest": {
+            "lat": 37.3532718,
+            "lng": -95.0198379
+          }
+        },
+        "location": {
+          "lat": 37.353804,
+          "lng": -95.0198191
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.3552667802915,
+            "lng": -95.0184840197085
+          },
+          "southwest": {
+            "lat": 37.35256881970851,
+            "lng": -95.0211819802915
+          }
+        }
+      },
+      "place_id": "Eig1MDEtNTk5IFdhbG51dCBTdCwgTWNDdW5lLCBLUyA2Njc1MywgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "McCune",
+          "short_name": "McCune",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Osage",
+          "short_name": "Osage",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66753",
+          "short_name": "66753",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "McCune, KS 66753, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.3591299,
+            "lng": -95.01334200000001
+          },
+          "southwest": {
+            "lat": 37.3471039,
+            "lng": -95.025514
+          }
+        },
+        "location": {
+          "lat": 37.3547791,
+          "lng": -95.0166333
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.3591299,
+            "lng": -95.01334200000001
+          },
+          "southwest": {
+            "lat": 37.3471039,
+            "lng": -95.025514
+          }
+        }
+      },
+      "place_id": "ChIJvzNyJy34x4cRVGx8_agyKNA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Osage",
+          "short_name": "Osage",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Osage, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.4568651,
+            "lng": -94.958418
+          },
+          "southwest": {
+            "lat": 37.3399329,
+            "lng": -95.088189
+          }
+        },
+        "location": {
+          "lat": 37.4045787,
+          "lng": -95.01824599999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.4568651,
+            "lng": -94.958418
+          },
+          "southwest": {
+            "lat": 37.3399329,
+            "lng": -95.088189
+          }
+        }
+      },
+      "place_id": "ChIJHeIlDK73x4cRBQW6wlYPkGA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66753",
+          "short_name": "66753",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "McCune",
+          "short_name": "McCune",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "McCune, KS 66753, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.4857199,
+            "lng": -94.90926979999999
+          },
+          "southwest": {
+            "lat": 37.2963301,
+            "lng": -95.11744
+          }
+        },
+        "location": {
+          "lat": 37.3823853,
+          "lng": -95.0390536
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.4857199,
+            "lng": -94.90926979999999
+          },
+          "southwest": {
+            "lat": 37.2963301,
+            "lng": -95.11744
+          }
+        }
+      },
+      "place_id": "ChIJnZnd_WL3x4cRjpmRmyeYQ7M",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Crawford County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.674911,
+            "lng": -94.6167238
+          },
+          "southwest": {
+            "lat": 37.3382548,
+            "lng": -95.0885179
+          }
+        },
+        "location": {
+          "lat": 37.45579900000001,
+          "lng": -94.81059549999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.674911,
+            "lng": -94.6167238
+          },
+          "southwest": {
+            "lat": 37.3382548,
+            "lng": -95.0885179
+          }
+        }
+      },
+      "place_id": "ChIJbyEYrrntx4cR4rzUsxSSlxI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pittsburg",
+          "short_name": "Pittsburg",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pittsburg, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.674926,
+            "lng": -94.61678909999999
+          },
+          "southwest": {
+            "lat": 37.3383289,
+            "lng": -95.088363
+          }
+        },
+        "location": {
+          "lat": 37.45579900000001,
+          "lng": -94.81059549999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.674926,
+            "lng": -94.61678909999999
+          },
+          "southwest": {
+            "lat": 37.3383289,
+            "lng": -95.088363
+          }
+        }
+      },
+      "place_id": "ChIJv-_HVP3sx4cRtTuoi6K3ALo",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

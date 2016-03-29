@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "201-247",
+          "short_name": "201-247",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Main Street",
+          "short_name": "N Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Grenola",
+          "short_name": "Grenola",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Greenfield",
+          "short_name": "Greenfield",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Elk County",
+          "short_name": "Elk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67346",
+          "short_name": "67346",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9736",
+          "short_name": "9736",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "201-247 N Main St, Grenola, KS 67346, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.3506404,
+            "lng": -96.4493219
+          },
+          "southwest": {
+            "lat": 37.34993590000001,
+            "lng": -96.4493332
+          }
+        },
+        "location": {
+          "lat": 37.3505181,
+          "lng": -96.4493426
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.3516371302915,
+            "lng": -96.4479785697085
+          },
+          "southwest": {
+            "lat": 37.3489391697085,
+            "lng": -96.4506765302915
+          }
+        }
+      },
+      "place_id": "EikyMDEtMjQ3IE4gTWFpbiBTdCwgR3Jlbm9sYSwgS1MgNjczNDYsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Grenola",
+          "short_name": "Grenola",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Greenfield",
+          "short_name": "Greenfield",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Elk County",
+          "short_name": "Elk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67346",
+          "short_name": "67346",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Grenola, KS 67346, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.3574878,
+            "lng": -96.44433199999999
+          },
+          "southwest": {
+            "lat": 37.3397379,
+            "lng": -96.4537969
+          }
+        },
+        "location": {
+          "lat": 37.3486427,
+          "lng": -96.450564
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.3574878,
+            "lng": -96.44433199999999
+          },
+          "southwest": {
+            "lat": 37.3397379,
+            "lng": -96.4537969
+          }
+        }
+      },
+      "place_id": "ChIJeybWsEocuocRXwHDx7J_pU4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Greenfield",
+          "short_name": "Greenfield",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Elk County",
+          "short_name": "Elk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Greenfield, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.433292,
+            "lng": -96.362853
+          },
+          "southwest": {
+            "lat": 37.301773,
+            "lng": -96.52544979999999
+          }
+        },
+        "location": {
+          "lat": 37.3553319,
+          "lng": -96.47165799999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.433292,
+            "lng": -96.362853
+          },
+          "southwest": {
+            "lat": 37.301773,
+            "lng": -96.52544979999999
+          }
+        }
+      },
+      "place_id": "ChIJ1xVZYdEduocRF2ED3PFS9sM",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67346",
+          "short_name": "67346",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Grenola",
+          "short_name": "Grenola",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Grenola, KS 67346, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.4616721,
+            "lng": -96.344628
+          },
+          "southwest": {
+            "lat": 37.2002269,
+            "lng": -96.544043
+          }
+        },
+        "location": {
+          "lat": 37.3352064,
+          "lng": -96.4503434
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.4616721,
+            "lng": -96.344628
+          },
+          "southwest": {
+            "lat": 37.2002269,
+            "lng": -96.544043
+          }
+        }
+      },
+      "place_id": "ChIJ25Jl9P33uYcRIg2kyLRfjbU",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Elk County",
+          "short_name": "Elk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Elk County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.607261,
+            "lng": -95.9609969
+          },
+          "southwest": {
+            "lat": 37.2992319,
+            "lng": -96.5263279
+          }
+        },
+        "location": {
+          "lat": 37.3936365,
+          "lng": -96.15269850000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.607261,
+            "lng": -95.9609969
+          },
+          "southwest": {
+            "lat": 37.2992319,
+            "lng": -96.5263279
+          }
+        }
+      },
+      "place_id": "ChIJ1WOWeFXvuYcRYZ0QDIZO-j4",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

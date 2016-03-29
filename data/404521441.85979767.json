@@ -1,0 +1,497 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "13-15",
+          "short_name": "13-15",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Laurel Lane",
+          "short_name": "Laurel Ln",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Shirley",
+          "short_name": "Shirley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brookhaven",
+          "short_name": "Brookhaven",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11967",
+          "short_name": "11967",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2428",
+          "short_name": "2428",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "13-15 Laurel Ln, Shirley, NY 11967, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.796278,
+            "lng": -72.8720246
+          },
+          "southwest": {
+            "lat": 40.7958806,
+            "lng": -72.8756591
+          }
+        },
+        "location": {
+          "lat": 40.795997,
+          "lng": -72.8747398
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.79742828029151,
+            "lng": -72.8720246
+          },
+          "southwest": {
+            "lat": 40.79473031970851,
+            "lng": -72.8756591
+          }
+        }
+      },
+      "place_id": "EicxMy0xNSBMYXVyZWwgTG4sIFNoaXJsZXksIE5ZIDExOTY3LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Shirley",
+          "short_name": "Shirley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brookhaven",
+          "short_name": "Brookhaven",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shirley, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8487817,
+            "lng": -72.847516
+          },
+          "southwest": {
+            "lat": 40.7378311,
+            "lng": -72.906554
+          }
+        },
+        "location": {
+          "lat": 40.8014876,
+          "lng": -72.8676033
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8487817,
+            "lng": -72.847516
+          },
+          "southwest": {
+            "lat": 40.7378311,
+            "lng": -72.906554
+          }
+        }
+      },
+      "place_id": "ChIJy5tMlA5Q6IkRC9uuFGwo2kg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11967",
+          "short_name": "11967",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Shirley",
+          "short_name": "Shirley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brookhaven",
+          "short_name": "Brookhaven",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shirley, NY 11967, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8731231,
+            "lng": -72.8522721
+          },
+          "southwest": {
+            "lat": 40.71376,
+            "lng": -72.9222558
+          }
+        },
+        "location": {
+          "lat": 40.8030958,
+          "lng": -72.86927109999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8731231,
+            "lng": -72.8522721
+          },
+          "southwest": {
+            "lat": 40.71376,
+            "lng": -72.9222558
+          }
+        }
+      },
+      "place_id": "ChIJ973t0ihO6IkRWHD4b_jXwXw",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brookhaven",
+          "short_name": "Brookhaven",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brookhaven, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9776667,
+            "lng": -72.7029008
+          },
+          "southwest": {
+            "lat": 40.6455704,
+            "lng": -73.1590131
+          }
+        },
+        "location": {
+          "lat": 40.8858353,
+          "lng": -72.99329689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9776667,
+            "lng": -72.7029008
+          },
+          "southwest": {
+            "lat": 40.6455704,
+            "lng": -73.1590131
+          }
+        }
+      },
+      "place_id": "ChIJC6iSqSlf6IkRKpM-iqF_WnY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffolk County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2923797,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        },
+        "location": {
+          "lat": 40.9848784,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2923194,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        }
+      },
+      "place_id": "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

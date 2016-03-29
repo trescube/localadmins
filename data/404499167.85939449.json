@@ -1,0 +1,489 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101",
+          "short_name": "101",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Oak Street",
+          "short_name": "Oak St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Cooksville",
+          "short_name": "Cooksville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Blue Mound Township",
+          "short_name": "Blue Mound Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McLean County",
+          "short_name": "McLean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61730",
+          "short_name": "61730",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "101 Oak St, Cooksville, IL 61730, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.5437912,
+            "lng": -88.71404989999999
+          },
+          "southwest": {
+            "lat": 40.5429868,
+            "lng": -88.71450759999999
+          }
+        },
+        "location": {
+          "lat": 40.5429925,
+          "lng": -88.7145248
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.5447379802915,
+            "lng": -88.71292976970848
+          },
+          "southwest": {
+            "lat": 40.5420400197085,
+            "lng": -88.71562773029149
+          }
+        }
+      },
+      "place_id": "EiUxMDEgT2FrIFN0LCBDb29rc3ZpbGxlLCBJTCA2MTczMCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cooksville",
+          "short_name": "Cooksville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Blue Mound Township",
+          "short_name": "Blue Mound Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McLean County",
+          "short_name": "McLean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61730",
+          "short_name": "61730",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Cooksville, IL 61730, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.5465629,
+            "lng": -88.706913
+          },
+          "southwest": {
+            "lat": 40.5373138,
+            "lng": -88.721559
+          }
+        },
+        "location": {
+          "lat": 40.54309019999999,
+          "lng": -88.71645459999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.5465629,
+            "lng": -88.706913
+          },
+          "southwest": {
+            "lat": 40.5373138,
+            "lng": -88.721559
+          }
+        }
+      },
+      "place_id": "ChIJKRe1AvyDDIgR8js6kvgl-8o",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61730",
+          "short_name": "61730",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Cooksville",
+          "short_name": "Cooksville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McLean County",
+          "short_name": "McLean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cooksville, IL 61730, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.5777939,
+            "lng": -88.64871
+          },
+          "southwest": {
+            "lat": 40.4837289,
+            "lng": -88.80704899999999
+          }
+        },
+        "location": {
+          "lat": 40.5363845,
+          "lng": -88.73977719999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.5777939,
+            "lng": -88.64871
+          },
+          "southwest": {
+            "lat": 40.4837289,
+            "lng": -88.80704899999999
+          }
+        }
+      },
+      "place_id": "ChIJy_1bl8aDDIgRuOmGtbzAIdo",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Blue Mound Township",
+          "short_name": "Blue Mound Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McLean County",
+          "short_name": "McLean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Blue Mound Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.574432,
+            "lng": -88.688132
+          },
+          "southwest": {
+            "lat": 40.486305,
+            "lng": -88.8074499
+          }
+        },
+        "location": {
+          "lat": 40.5261094,
+          "lng": -88.7301525
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.574432,
+            "lng": -88.688132
+          },
+          "southwest": {
+            "lat": 40.486305,
+            "lng": -88.8074499
+          }
+        }
+      },
+      "place_id": "ChIJTf77Q8mDDIgRAirIf_pQ0KE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "McLean County",
+          "short_name": "McLean County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "McLean County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7576079,
+            "lng": -88.4592069
+          },
+          "southwest": {
+            "lat": 40.280919,
+            "lng": -89.269397
+          }
+        },
+        "location": {
+          "lat": 40.5478429,
+          "lng": -88.86469799999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7576079,
+            "lng": -88.4592069
+          },
+          "southwest": {
+            "lat": 40.280919,
+            "lng": -89.269397
+          }
+        }
+      },
+      "place_id": "ChIJE-_tJB9AC4gR9RpRq3ADUkM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

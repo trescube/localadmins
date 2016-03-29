@@ -1,0 +1,556 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "223",
+          "short_name": "223",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Dullea Road",
+          "short_name": "Dullea Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Brasher Falls",
+          "short_name": "Brasher Falls",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brasher Falls-Winthrop",
+          "short_name": "Brasher Falls-Winthrop",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brasher",
+          "short_name": "Brasher",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Lawrence County",
+          "short_name": "St Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "13613",
+          "short_name": "13613",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3211",
+          "short_name": "3211",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "223 Dullea Rd, Brasher Falls, NY 13613, USA",
+      "geometry": {
+        "location": {
+          "lat": 44.809101,
+          "lng": -74.778758
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 44.8104499802915,
+            "lng": -74.77740901970849
+          },
+          "southwest": {
+            "lat": 44.8077520197085,
+            "lng": -74.78010698029149
+          }
+        }
+      },
+      "place_id": "ChIJHQBDptZtzEwRqtWq3YmFDy4",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brasher Falls",
+          "short_name": "Brasher Falls",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brasher Falls-Winthrop",
+          "short_name": "Brasher Falls-Winthrop",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brasher",
+          "short_name": "Brasher",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Lawrence County",
+          "short_name": "St Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brasher Falls, Brasher Falls-Winthrop, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.8208689,
+            "lng": -74.7569439
+          },
+          "southwest": {
+            "lat": 44.797655,
+            "lng": -74.803533
+          }
+        },
+        "location": {
+          "lat": 44.807679,
+          "lng": -74.7743122
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.8208689,
+            "lng": -74.7569439
+          },
+          "southwest": {
+            "lat": 44.797655,
+            "lng": -74.803533
+          }
+        }
+      },
+      "place_id": "ChIJMfcRZddtzEwRUs3XfBzSo2g",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brasher Falls-Winthrop",
+          "short_name": "Brasher Falls-Winthrop",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Lawrence County",
+          "short_name": "St Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brasher Falls-Winthrop, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.8208689,
+            "lng": -74.7569439
+          },
+          "southwest": {
+            "lat": 44.7809379,
+            "lng": -74.82389409999999
+          }
+        },
+        "location": {
+          "lat": 44.8025706,
+          "lng": -74.79545
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.8208689,
+            "lng": -74.7569439
+          },
+          "southwest": {
+            "lat": 44.7809379,
+            "lng": -74.82389409999999
+          }
+        }
+      },
+      "place_id": "ChIJAS05XIduzEwRNxcVDgO0Plc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brasher",
+          "short_name": "Brasher",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Lawrence County",
+          "short_name": "St Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brasher, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.9530229,
+            "lng": -74.62294
+          },
+          "southwest": {
+            "lat": 44.797655,
+            "lng": -74.8769239
+          }
+        },
+        "location": {
+          "lat": 44.8913916,
+          "lng": -74.71485129999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.9530229,
+            "lng": -74.62294
+          },
+          "southwest": {
+            "lat": 44.797655,
+            "lng": -74.8769239
+          }
+        }
+      },
+      "place_id": "ChIJF9swe9VszEwRq9nhNKVy60c",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "13613",
+          "short_name": "13613",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Brasher Falls",
+          "short_name": "Brasher Falls",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brasher Falls, NY 13613, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.9528429,
+            "lng": -74.61524399999999
+          },
+          "southwest": {
+            "lat": 44.7715198,
+            "lng": -74.873378
+          }
+        },
+        "location": {
+          "lat": 44.855986,
+          "lng": -74.7341907
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.9528429,
+            "lng": -74.61524399999999
+          },
+          "southwest": {
+            "lat": 44.7715198,
+            "lng": -74.873378
+          }
+        }
+      },
+      "place_id": "ChIJaTot3MgTzEwRObRFJCzp20c",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Lawrence County",
+          "short_name": "St Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St Lawrence County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -74.52621189999999
+          },
+          "southwest": {
+            "lat": 44.0504,
+            "lng": -75.84922949999999
+          }
+        },
+        "location": {
+          "lat": 44.4473142,
+          "lng": -74.930206
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -74.52621189999999
+          },
+          "southwest": {
+            "lat": 44.0504,
+            "lng": -75.84922949999999
+          }
+        }
+      },
+      "place_id": "ChIJV4LyZYEs2okRKcnXBU-m01I",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

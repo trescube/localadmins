@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "500-598",
+          "short_name": "500-598",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Sterling Street",
+          "short_name": "N Sterling St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Streator",
+          "short_name": "Streator",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bruce Township",
+          "short_name": "Bruce Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "LaSalle County",
+          "short_name": "Lasalle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61364",
+          "short_name": "61364",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2353",
+          "short_name": "2353",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "500-598 N Sterling St, Streator, IL 61364, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1256972,
+            "lng": -88.8302152
+          },
+          "southwest": {
+            "lat": 41.1249616,
+            "lng": -88.8302393
+          }
+        },
+        "location": {
+          "lat": 41.1250179,
+          "lng": -88.83023969999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.12667838029149,
+            "lng": -88.8288782697085
+          },
+          "southwest": {
+            "lat": 41.1239804197085,
+            "lng": -88.8315762302915
+          }
+        }
+      },
+      "place_id": "Ei41MDAtNTk4IE4gU3RlcmxpbmcgU3QsIFN0cmVhdG9yLCBJTCA2MTM2NCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Streator",
+          "short_name": "Streator",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bruce Township",
+          "short_name": "Bruce Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "LaSalle County",
+          "short_name": "Lasalle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61364",
+          "short_name": "61364",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Streator, IL 61364, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.156846,
+            "lng": -88.79723
+          },
+          "southwest": {
+            "lat": 41.08693100000001,
+            "lng": -88.8549378
+          }
+        },
+        "location": {
+          "lat": 41.12086679999999,
+          "lng": -88.835352
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.156846,
+            "lng": -88.79723
+          },
+          "southwest": {
+            "lat": 41.08693100000001,
+            "lng": -88.8549378
+          }
+        }
+      },
+      "place_id": "ChIJ35IqR5b3C4gRSEyQK3bFANM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bruce Township",
+          "short_name": "Bruce Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "LaSalle County",
+          "short_name": "Lasalle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bruce Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1935669,
+            "lng": -88.814088
+          },
+          "southwest": {
+            "lat": 41.10577600000001,
+            "lng": -88.912812
+          }
+        },
+        "location": {
+          "lat": 41.164459,
+          "lng": -88.83590319999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1935669,
+            "lng": -88.814088
+          },
+          "southwest": {
+            "lat": 41.10577600000001,
+            "lng": -88.912812
+          }
+        }
+      },
+      "place_id": "ChIJNQRpNYf5C4gRgPrlht4xzsE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61364",
+          "short_name": "61364",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Streator",
+          "short_name": "Streator",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Streator, IL 61364, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.21485,
+            "lng": -88.6438909
+          },
+          "southwest": {
+            "lat": 40.98513,
+            "lng": -89.054991
+          }
+        },
+        "location": {
+          "lat": 41.1343715,
+          "lng": -88.8455037
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.21485,
+            "lng": -88.6438909
+          },
+          "southwest": {
+            "lat": 41.026,
+            "lng": -89.054991
+          }
+        }
+      },
+      "place_id": "ChIJ8YAtT1H2C4gRRX0Qx_7JM90",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "LaSalle County",
+          "short_name": "Lasalle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lasalle County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.631389,
+            "lng": -88.5862509
+          },
+          "southwest": {
+            "lat": 40.925953,
+            "lng": -89.1672
+          }
+        },
+        "location": {
+          "lat": 41.4363987,
+          "lng": -88.94138650000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.631389,
+            "lng": -88.5862509
+          },
+          "southwest": {
+            "lat": 40.925953,
+            "lng": -89.1672
+          }
+        }
+      },
+      "place_id": "ChIJbROyPvVWCYgR59pvQDH4k5w",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

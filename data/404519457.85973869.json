@@ -1,0 +1,481 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "749-799",
+          "short_name": "749-799",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Cheyenne Avenue",
+          "short_name": "Cheyenne Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Hemingford",
+          "short_name": "Hemingford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dorsey",
+          "short_name": "Dorsey",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Box Butte County",
+          "short_name": "Box Butte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "69348",
+          "short_name": "69348",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "749-799 Cheyenne Ave, Hemingford, NE 69348, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.3215495,
+            "lng": -103.075672
+          },
+          "southwest": {
+            "lat": 42.321031,
+            "lng": -103.0756886
+          }
+        },
+        "location": {
+          "lat": 42.3212577,
+          "lng": -103.0756605
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.32263923029149,
+            "lng": -103.0743313197085
+          },
+          "southwest": {
+            "lat": 42.31994126970849,
+            "lng": -103.0770292802915
+          }
+        }
+      },
+      "place_id": "Ei83NDktNzk5IENoZXllbm5lIEF2ZSwgSGVtaW5nZm9yZCwgTkUgNjkzNDgsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hemingford",
+          "short_name": "Hemingford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dorsey",
+          "short_name": "Dorsey",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Box Butte County",
+          "short_name": "Box Butte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "69348",
+          "short_name": "69348",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Hemingford, NE 69348, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.328888,
+            "lng": -103.0622881
+          },
+          "southwest": {
+            "lat": 42.3141559,
+            "lng": -103.0856921
+          }
+        },
+        "location": {
+          "lat": 42.3216288,
+          "lng": -103.0729757
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.328888,
+            "lng": -103.0622881
+          },
+          "southwest": {
+            "lat": 42.3141559,
+            "lng": -103.0856921
+          }
+        }
+      },
+      "place_id": "ChIJ_eNBQyTkeocRZKJkVcIHj4Q",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Dorsey",
+          "short_name": "Dorsey",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Box Butte County",
+          "short_name": "Box Butte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dorsey, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.440093,
+            "lng": -102.749431
+          },
+          "southwest": {
+            "lat": 42.133232,
+            "lng": -103.444565
+          }
+        },
+        "location": {
+          "lat": 42.368888,
+          "lng": -103.2201828
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.440093,
+            "lng": -102.749431
+          },
+          "southwest": {
+            "lat": 42.133232,
+            "lng": -103.444565
+          }
+        }
+      },
+      "place_id": "ChIJf-O3emrmeocRhngr5YlxUzE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "69348",
+          "short_name": "69348",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Hemingford",
+          "short_name": "Hemingford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hemingford, NE 69348, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.579648,
+            "lng": -102.792601
+          },
+          "southwest": {
+            "lat": 42.133722,
+            "lng": -103.679723
+          }
+        },
+        "location": {
+          "lat": 42.3247698,
+          "lng": -103.2663479
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.579648,
+            "lng": -102.792601
+          },
+          "southwest": {
+            "lat": 42.133722,
+            "lng": -103.679723
+          }
+        }
+      },
+      "place_id": "ChIJm6IStC3ZeocRKn-Wb5BhiuY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Box Butte County",
+          "short_name": "Box Butte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Box Butte County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.440093,
+            "lng": -102.6978349
+          },
+          "southwest": {
+            "lat": 42.000665,
+            "lng": -103.444565
+          }
+        },
+        "location": {
+          "lat": 42.19114709999999,
+          "lng": -103.0817903
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.440093,
+            "lng": -102.6978349
+          },
+          "southwest": {
+            "lat": 42.000665,
+            "lng": -103.444565
+          }
+        }
+      },
+      "place_id": "ChIJQcGEZXbreocRF4F7blRr2U8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

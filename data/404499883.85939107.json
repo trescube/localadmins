@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "4500-4598",
+          "short_name": "4500-4598",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Streator",
+          "short_name": "Streator",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Eagle Township",
+          "short_name": "Eagle Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "LaSalle County",
+          "short_name": "Lasalle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61364",
+          "short_name": "61364",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9605",
+          "short_name": "9605",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "4500-4598 Main St, Streator, IL 61364, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.148442,
+            "lng": -88.87157069999999
+          },
+          "southwest": {
+            "lat": 41.1474048,
+            "lng": -88.8715934
+          }
+        },
+        "location": {
+          "lat": 41.148008,
+          "lng": -88.8716027
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.14927238029149,
+            "lng": -88.87023306970848
+          },
+          "southwest": {
+            "lat": 41.14657441970849,
+            "lng": -88.8729310302915
+          }
+        }
+      },
+      "place_id": "Eio0NTAwLTQ1OTggTWFpbiBTdCwgU3RyZWF0b3IsIElMIDYxMzY0LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kangley",
+          "short_name": "Kangley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Eagle Township",
+          "short_name": "Eagle Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "LaSalle County",
+          "short_name": "Lasalle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "61364",
+          "short_name": "61364",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Kangley, IL 61364, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.152277,
+            "lng": -88.8627659
+          },
+          "southwest": {
+            "lat": 41.14149,
+            "lng": -88.879167
+          }
+        },
+        "location": {
+          "lat": 41.145867,
+          "lng": -88.87368699999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.152277,
+            "lng": -88.8627659
+          },
+          "southwest": {
+            "lat": 41.14149,
+            "lng": -88.879167
+          }
+        }
+      },
+      "place_id": "ChIJObFCTi76C4gRz053GSOETiw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Eagle Township",
+          "short_name": "Eagle Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "LaSalle County",
+          "short_name": "Lasalle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Eagle Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.19283,
+            "lng": -88.838498
+          },
+          "southwest": {
+            "lat": 41.1054781,
+            "lng": -88.9710839
+          }
+        },
+        "location": {
+          "lat": 41.13511219999999,
+          "lng": -88.9222277
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.19283,
+            "lng": -88.838498
+          },
+          "southwest": {
+            "lat": 41.1054781,
+            "lng": -88.9710839
+          }
+        }
+      },
+      "place_id": "ChIJlVPCxPj6C4gRtokTar-hsiE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "61364",
+          "short_name": "61364",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Streator",
+          "short_name": "Streator",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Streator, IL 61364, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.21485,
+            "lng": -88.6438909
+          },
+          "southwest": {
+            "lat": 40.98513,
+            "lng": -89.054991
+          }
+        },
+        "location": {
+          "lat": 41.1343715,
+          "lng": -88.8455037
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.21485,
+            "lng": -88.6438909
+          },
+          "southwest": {
+            "lat": 41.026,
+            "lng": -89.054991
+          }
+        }
+      },
+      "place_id": "ChIJ8YAtT1H2C4gRRX0Qx_7JM90",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "LaSalle County",
+          "short_name": "Lasalle County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lasalle County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.631389,
+            "lng": -88.5862509
+          },
+          "southwest": {
+            "lat": 40.925953,
+            "lng": -89.1672
+          }
+        },
+        "location": {
+          "lat": 41.4363987,
+          "lng": -88.94138650000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.631389,
+            "lng": -88.5862509
+          },
+          "southwest": {
+            "lat": 40.925953,
+            "lng": -89.1672
+          }
+        }
+      },
+      "place_id": "ChIJbROyPvVWCYgR59pvQDH4k5w",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,539 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-111",
+          "short_name": "101-111",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Emma Street",
+          "short_name": "W Emma St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Clarksdale",
+          "short_name": "Clarksdale",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington Township",
+          "short_name": "Washington Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DeKalb County",
+          "short_name": "Dekalb County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64430",
+          "short_name": "64430",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8112",
+          "short_name": "8112",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "101-111 W Emma St, Clarksdale, MO 64430, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8139961,
+            "lng": -94.55001709999999
+          },
+          "southwest": {
+            "lat": 39.81397800000001,
+            "lng": -94.55107000000001
+          }
+        },
+        "location": {
+          "lat": 39.81399469999999,
+          "lng": -94.55076989999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8153360302915,
+            "lng": -94.5491945697085
+          },
+          "southwest": {
+            "lat": 39.81263806970851,
+            "lng": -94.55189253029151
+          }
+        }
+      },
+      "place_id": "EiwxMDEtMTExIFcgRW1tYSBTdCwgQ2xhcmtzZGFsZSwgTU8gNjQ0MzAsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clarksdale",
+          "short_name": "Clarksdale",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington Township",
+          "short_name": "Washington Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DeKalb County",
+          "short_name": "Dekalb County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64430",
+          "short_name": "64430",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Clarksdale, MO 64430, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.820729,
+            "lng": -94.545368
+          },
+          "southwest": {
+            "lat": 39.8093599,
+            "lng": -94.5598819
+          }
+        },
+        "location": {
+          "lat": 39.8136076,
+          "lng": -94.5505117
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.820729,
+            "lng": -94.545368
+          },
+          "southwest": {
+            "lat": 39.8093599,
+            "lng": -94.5598819
+          }
+        }
+      },
+      "place_id": "ChIJDar2_a0owIcRwLzUsk-s1_k",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Washington Township",
+          "short_name": "Washington Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DeKalb County",
+          "short_name": "Dekalb County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Washington Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8352918,
+            "lng": -94.4512791
+          },
+          "southwest": {
+            "lat": 39.747096,
+            "lng": -94.60319100000001
+          }
+        },
+        "location": {
+          "lat": 39.7898426,
+          "lng": -94.5418141
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8352918,
+            "lng": -94.4512791
+          },
+          "southwest": {
+            "lat": 39.747096,
+            "lng": -94.60319100000001
+          }
+        }
+      },
+      "place_id": "ChIJ9yuNFiIvwIcRkTX6Wn14-gY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64430",
+          "short_name": "64430",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Clarksdale",
+          "short_name": "Clarksdale",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clarksdale, MO 64430, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8931679,
+            "lng": -94.50370989999999
+          },
+          "southwest": {
+            "lat": 39.761557,
+            "lng": -94.621822
+          }
+        },
+        "location": {
+          "lat": 39.839998,
+          "lng": -94.5727598
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8931679,
+            "lng": -94.50370989999999
+          },
+          "southwest": {
+            "lat": 39.761557,
+            "lng": -94.621822
+          }
+        }
+      },
+      "place_id": "ChIJI8AV3yUmwIcRCLj0pPLi97s",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "DeKalb County",
+          "short_name": "Dekalb County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dekalb County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.03930800000001,
+            "lng": -94.203457
+          },
+          "southwest": {
+            "lat": 39.745841,
+            "lng": -94.60537699999999
+          }
+        },
+        "location": {
+          "lat": 39.8554602,
+          "lng": -94.43879
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.03930800000001,
+            "lng": -94.203457
+          },
+          "southwest": {
+            "lat": 39.745841,
+            "lng": -94.60537699999999
+          }
+        }
+      },
+      "place_id": "ChIJh5bQHB2A6ocRBsx4C3jgIBQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Joseph",
+          "short_name": "St. Joseph",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Joseph, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.130305,
+            "lng": -94.203454
+          },
+          "southwest": {
+            "lat": 39.531296,
+            "lng": -95.33994299999999
+          }
+        },
+        "location": {
+          "lat": 39.7995828,
+          "lng": -94.81059549999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.130305,
+            "lng": -94.203454
+          },
+          "southwest": {
+            "lat": 39.531296,
+            "lng": -95.33994299999999
+          }
+        }
+      },
+      "place_id": "ChIJzx5Jd_EewIcRMPOa-xvQ4d4",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

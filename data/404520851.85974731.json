@@ -1,0 +1,460 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "3601-4099",
+          "short_name": "3601-4099",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "87th Street",
+          "short_name": "87th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Columbus",
+          "short_name": "Columbus",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shell Creek",
+          "short_name": "Shell Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68601",
+          "short_name": "68601",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "3601-4099 87th St, Columbus, NE 68601, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.5013947,
+            "lng": -97.37245
+          },
+          "southwest": {
+            "lat": 41.5009223,
+            "lng": -97.37747759999999
+          }
+        },
+        "location": {
+          "lat": 41.5009174,
+          "lng": -97.37733109999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.5025074802915,
+            "lng": -97.37245
+          },
+          "southwest": {
+            "lat": 41.49980951970851,
+            "lng": -97.37747759999999
+          }
+        }
+      },
+      "place_id": "EiozNjAxLTQwOTkgODd0aCBTdCwgQ29sdW1idXMsIE5FIDY4NjAxLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Shell Creek",
+          "short_name": "Shell Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shell Creek, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.5695949,
+            "lng": -97.368189
+          },
+          "southwest": {
+            "lat": 41.4822621,
+            "lng": -97.484489
+          }
+        },
+        "location": {
+          "lat": 41.5415054,
+          "lng": -97.4165053
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.5695949,
+            "lng": -97.368189
+          },
+          "southwest": {
+            "lat": 41.4822621,
+            "lng": -97.484489
+          }
+        }
+      },
+      "place_id": "ChIJRzObCabykIcR7vpWSwrM-l0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68601",
+          "short_name": "68601",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Columbus",
+          "short_name": "Columbus",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Columbus, NE 68601, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6419189,
+            "lng": -97.1378489
+          },
+          "southwest": {
+            "lat": 41.308203,
+            "lng": -97.7251331
+          }
+        },
+        "location": {
+          "lat": 41.488769,
+          "lng": -97.3084571
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6419189,
+            "lng": -97.1378489
+          },
+          "southwest": {
+            "lat": 41.308203,
+            "lng": -97.7251331
+          }
+        }
+      },
+      "place_id": "ChIJbZNcN5SWkIcRhOnKKpuuzsQ",
+      "postcode_localities": [
+        "Columbus",
+        "Richland"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Platte County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.743212,
+            "lng": -97.252415
+          },
+          "southwest": {
+            "lat": 41.3329869,
+            "lng": -97.831215
+          }
+        },
+        "location": {
+          "lat": 41.59406,
+          "lng": -97.5247243
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.743212,
+            "lng": -97.252415
+          },
+          "southwest": {
+            "lat": 41.3329869,
+            "lng": -97.831215
+          }
+        }
+      },
+      "place_id": "ChIJdfcCSL7ZkIcRr_fKU3bOcvc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Columbus",
+          "short_name": "Columbus",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Columbus, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.743164,
+            "lng": -97.25228489999999
+          },
+          "southwest": {
+            "lat": 41.332989,
+            "lng": -97.83134799999999
+          }
+        },
+        "location": {
+          "lat": 41.59406,
+          "lng": -97.5247243
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.743164,
+            "lng": -97.25228489999999
+          },
+          "southwest": {
+            "lat": 41.332989,
+            "lng": -97.83134799999999
+          }
+        }
+      },
+      "place_id": "ChIJ-wTcUCGMkIcRCIWQqWaNr5M",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

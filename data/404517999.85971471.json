@@ -1,0 +1,544 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "7020-7098",
+          "short_name": "7020-7098",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Raytown Road",
+          "short_name": "Raytown Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Raytown",
+          "short_name": "Raytown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brooking Township",
+          "short_name": "Brooking Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jackson County",
+          "short_name": "Jackson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64133",
+          "short_name": "64133",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "6058",
+          "short_name": "6058",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "7020-7098 Raytown Rd, Raytown, MO 64133, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.9953618,
+            "lng": -94.4640161
+          },
+          "southwest": {
+            "lat": 38.9942675,
+            "lng": -94.4640766
+          }
+        },
+        "location": {
+          "lat": 38.9943773,
+          "lng": -94.4640893
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.9961636302915,
+            "lng": -94.4626973697085
+          },
+          "southwest": {
+            "lat": 38.9934656697085,
+            "lng": -94.4653953302915
+          }
+        }
+      },
+      "place_id": "Eiw3MDIwLTcwOTggUmF5dG93biBSZCwgUmF5dG93biwgTU8gNjQxMzMsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Raytown",
+          "short_name": "Raytown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brooking Township",
+          "short_name": "Brooking Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jackson County",
+          "short_name": "Jackson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Raytown, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0296809,
+            "lng": -94.43763589999999
+          },
+          "southwest": {
+            "lat": 38.963647,
+            "lng": -94.49917789999999
+          }
+        },
+        "location": {
+          "lat": 39.0086171,
+          "lng": -94.46356379999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0296809,
+            "lng": -94.43763589999999
+          },
+          "southwest": {
+            "lat": 38.963647,
+            "lng": -94.49917789999999
+          }
+        }
+      },
+      "place_id": "ChIJt0TFwuXjwIcRJodXMDjssYM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64133",
+          "short_name": "64133",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Kansas City",
+          "short_name": "KCMO",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jackson County",
+          "short_name": "Jackson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas City, MO 64133, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0597408,
+            "lng": -94.4118369
+          },
+          "southwest": {
+            "lat": 38.980471,
+            "lng": -94.5211581
+          }
+        },
+        "location": {
+          "lat": 39.01771859999999,
+          "lng": -94.4490836
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0597408,
+            "lng": -94.4118369
+          },
+          "southwest": {
+            "lat": 38.980471,
+            "lng": -94.5211581
+          }
+        }
+      },
+      "place_id": "ChIJTY-lbZvjwIcRBtZj_b1yA5w",
+      "postcode_localities": [
+        "Kansas City",
+        "Raytown"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brooking Township",
+          "short_name": "Brooking Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jackson County",
+          "short_name": "Jackson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brooking Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.036311,
+            "lng": -94.385522
+          },
+          "southwest": {
+            "lat": 38.936302,
+            "lng": -94.57657909999999
+          }
+        },
+        "location": {
+          "lat": 38.9961162,
+          "lng": -94.46967649999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.036311,
+            "lng": -94.385522
+          },
+          "southwest": {
+            "lat": 38.936302,
+            "lng": -94.57657909999999
+          }
+        }
+      },
+      "place_id": "ChIJ23Y6kQfkwIcR75Y8L6l2lxg",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Jackson County",
+          "short_name": "Jackson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Jackson County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.237107,
+            "lng": -94.1048229
+          },
+          "southwest": {
+            "lat": 38.833006,
+            "lng": -94.6084571
+          }
+        },
+        "location": {
+          "lat": 38.9914998,
+          "lng": -94.315422
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.237107,
+            "lng": -94.1048229
+          },
+          "southwest": {
+            "lat": 38.833006,
+            "lng": -94.6084571
+          }
+        }
+      },
+      "place_id": "ChIJ1ROsTw1swYcRCr5MOFp61_0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas City",
+          "short_name": "Kansas City",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas City, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.788955,
+            "lng": -93.477233
+          },
+          "southwest": {
+            "lat": 38.026143,
+            "lng": -95.5090159
+          }
+        },
+        "location": {
+          "lat": 39.0653602,
+          "lng": -94.5624426
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.788955,
+            "lng": -93.477233
+          },
+          "southwest": {
+            "lat": 38.026143,
+            "lng": -95.5090159
+          }
+        }
+      },
+      "place_id": "ChIJ5176R2TnwIcRX_TpnWkvgMk",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

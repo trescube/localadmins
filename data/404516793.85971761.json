@@ -1,0 +1,543 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "412-598",
+          "short_name": "412-598",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Hull and Taylor Street",
+          "short_name": "Hull and Taylor St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Maysville",
+          "short_name": "Maysville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Camden Township",
+          "short_name": "Camden Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DeKalb County",
+          "short_name": "Dekalb County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64469",
+          "short_name": "64469",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4022",
+          "short_name": "4022",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "412-598 Hull and Taylor St, Maysville, MO 64469, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.886362,
+            "lng": -94.3628142
+          },
+          "southwest": {
+            "lat": 39.8863483,
+            "lng": -94.363879
+          }
+        },
+        "location": {
+          "lat": 39.8863406,
+          "lng": -94.3633375
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8877041302915,
+            "lng": -94.36199761970849
+          },
+          "southwest": {
+            "lat": 39.8850061697085,
+            "lng": -94.3646955802915
+          }
+        }
+      },
+      "place_id": "EjQ0MTItNTk4IEh1bGwgYW5kIFRheWxvciBTdCwgTWF5c3ZpbGxlLCBNTyA2NDQ2OSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Maysville",
+          "short_name": "Maysville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Camden Township",
+          "short_name": "Camden Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DeKalb County",
+          "short_name": "Dekalb County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64469",
+          "short_name": "64469",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Maysville, MO 64469, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8933239,
+            "lng": -94.3525229
+          },
+          "southwest": {
+            "lat": 39.8779721,
+            "lng": -94.374141
+          }
+        },
+        "location": {
+          "lat": 39.8891658,
+          "lng": -94.3618967
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8933239,
+            "lng": -94.3525229
+          },
+          "southwest": {
+            "lat": 39.8779721,
+            "lng": -94.374141
+          }
+        }
+      },
+      "place_id": "ChIJs31aJnHVwYcRz5c7SRJhIF0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Camden Township",
+          "short_name": "Camden Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "DeKalb County",
+          "short_name": "Dekalb County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Camden Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.937464,
+            "lng": -94.3182849
+          },
+          "southwest": {
+            "lat": 39.8340359,
+            "lng": -94.4543609
+          }
+        },
+        "location": {
+          "lat": 39.8783335,
+          "lng": -94.3770704
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.937464,
+            "lng": -94.3182849
+          },
+          "southwest": {
+            "lat": 39.8340359,
+            "lng": -94.4543609
+          }
+        }
+      },
+      "place_id": "ChIJrUqjlkXVwYcRHX46PJ1FaKM",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64469",
+          "short_name": "64469",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Maysville",
+          "short_name": "Maysville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Maysville, MO 64469, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.082366,
+            "lng": -94.24313
+          },
+          "southwest": {
+            "lat": 39.8234209,
+            "lng": -94.5098419
+          }
+        },
+        "location": {
+          "lat": 39.9406627,
+          "lng": -94.35651299999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.082366,
+            "lng": -94.24313
+          },
+          "southwest": {
+            "lat": 39.8234209,
+            "lng": -94.5098419
+          }
+        }
+      },
+      "place_id": "ChIJN55VoRd_6ocRd8z8r-vzi-0",
+      "postcode_localities": [
+        "Fairport",
+        "Maysville"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "DeKalb County",
+          "short_name": "Dekalb County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dekalb County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.03930800000001,
+            "lng": -94.203457
+          },
+          "southwest": {
+            "lat": 39.745841,
+            "lng": -94.60537699999999
+          }
+        },
+        "location": {
+          "lat": 39.8554602,
+          "lng": -94.43879
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.03930800000001,
+            "lng": -94.203457
+          },
+          "southwest": {
+            "lat": 39.745841,
+            "lng": -94.60537699999999
+          }
+        }
+      },
+      "place_id": "ChIJh5bQHB2A6ocRBsx4C3jgIBQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Joseph",
+          "short_name": "St. Joseph",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Joseph, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.130305,
+            "lng": -94.203454
+          },
+          "southwest": {
+            "lat": 39.531296,
+            "lng": -95.33994299999999
+          }
+        },
+        "location": {
+          "lat": 39.7995828,
+          "lng": -94.81059549999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.130305,
+            "lng": -94.203454
+          },
+          "southwest": {
+            "lat": 39.531296,
+            "lng": -95.33994299999999
+          }
+        }
+      },
+      "place_id": "ChIJzx5Jd_EewIcRMPOa-xvQ4d4",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,571 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "212",
+          "short_name": "212",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Madison Street",
+          "short_name": "S Madison St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Brainard",
+          "short_name": "Brainard",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oak Creek",
+          "short_name": "Oak Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68626",
+          "short_name": "68626",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "212 S Madison St, Brainard, NE 68626, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1821706,
+            "lng": -97.0016648
+          },
+          "southwest": {
+            "lat": 41.1812629,
+            "lng": -97.00286229999999
+          }
+        },
+        "location": {
+          "lat": 41.1817168,
+          "lng": -97.00226359999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1830657302915,
+            "lng": -97.0009145697085
+          },
+          "southwest": {
+            "lat": 41.1803677697085,
+            "lng": -97.0036125302915
+          }
+        }
+      },
+      "place_id": "ChIJsWINxdMukYcRMhH1Roqp-wM",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "West Adams Street",
+          "short_name": "W Adams St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Brainard",
+          "short_name": "Brainard",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oak Creek",
+          "short_name": "Oak Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68626",
+          "short_name": "68626",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "W Adams St, Brainard, NE 68626, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1822421,
+            "lng": -97.0016877
+          },
+          "southwest": {
+            "lat": 41.18209239999999,
+            "lng": -97.0023811
+          }
+        },
+        "location": {
+          "lat": 41.1821673,
+          "lng": -97.0020344
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1835162302915,
+            "lng": -97.0006854197085
+          },
+          "southwest": {
+            "lat": 41.1808182697085,
+            "lng": -97.00338338029151
+          }
+        }
+      },
+      "place_id": "ChIJ38gW3dMukYcRyr-CEivj0Ro",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brainard",
+          "short_name": "Brainard",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oak Creek",
+          "short_name": "Oak Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68626",
+          "short_name": "68626",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Brainard, NE 68626, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.19020889999999,
+            "lng": -96.99728689999999
+          },
+          "southwest": {
+            "lat": 41.1758619,
+            "lng": -97.006868
+          }
+        },
+        "location": {
+          "lat": 41.1838999,
+          "lng": -97.0039204
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.19020889999999,
+            "lng": -96.99728689999999
+          },
+          "southwest": {
+            "lat": 41.1758619,
+            "lng": -97.006868
+          }
+        }
+      },
+      "place_id": "ChIJ-75J3yopkYcRyJb2czKD0Fw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Oak Creek",
+          "short_name": "Oak Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Oak Creek, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.220402,
+            "lng": -96.90846900000001
+          },
+          "southwest": {
+            "lat": 41.1331069,
+            "lng": -97.023887
+          }
+        },
+        "location": {
+          "lat": 41.1695214,
+          "lng": -96.9853474
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.220402,
+            "lng": -96.90846900000001
+          },
+          "southwest": {
+            "lat": 41.1331069,
+            "lng": -97.023887
+          }
+        }
+      },
+      "place_id": "ChIJOQZ7e_YukYcR7MXG32zgy9U",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68626",
+          "short_name": "68626",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Brainard",
+          "short_name": "Brainard",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brainard, NE 68626, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2346859,
+            "lng": -96.88953680000002
+          },
+          "southwest": {
+            "lat": 41.0824481,
+            "lng": -97.081544
+          }
+        },
+        "location": {
+          "lat": 41.1695214,
+          "lng": -96.9853474
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2346859,
+            "lng": -96.88953680000002
+          },
+          "southwest": {
+            "lat": 41.0824481,
+            "lng": -97.081544
+          }
+        }
+      },
+      "place_id": "ChIJE8i0lLcukYcRconc3YdM1hw",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Butler County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4564359,
+            "lng": -96.9057699
+          },
+          "southwest": {
+            "lat": 41.04609079999999,
+            "lng": -97.368274
+          }
+        },
+        "location": {
+          "lat": 41.1375727,
+          "lng": -97.179026
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4564359,
+            "lng": -96.9057699
+          },
+          "southwest": {
+            "lat": 41.04609079999999,
+            "lng": -97.368274
+          }
+        }
+      },
+      "place_id": "ChIJId_NSz_YkIcR9jOVcMh-L1A",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

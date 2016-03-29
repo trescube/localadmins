@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2-98",
+          "short_name": "2-98",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Medical Drive",
+          "short_name": "Medical Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Ellsinore",
+          "short_name": "Ellsinore",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Johnson Township",
+          "short_name": "Johnson Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Carter County",
+          "short_name": "Carter County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63937",
+          "short_name": "63937",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8202",
+          "short_name": "8202",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "2-98 Medical Dr, Ellsinore, MO 63937, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 36.933242,
+            "lng": -90.7479592
+          },
+          "southwest": {
+            "lat": 36.9324414,
+            "lng": -90.7489063
+          }
+        },
+        "location": {
+          "lat": 36.9328479,
+          "lng": -90.7479405
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 36.9341906802915,
+            "lng": -90.7470837697085
+          },
+          "southwest": {
+            "lat": 36.9314927197085,
+            "lng": -90.7497817302915
+          }
+        }
+      },
+      "place_id": "EikyLTk4IE1lZGljYWwgRHIsIEVsbHNpbm9yZSwgTU8gNjM5MzcsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ellsinore",
+          "short_name": "Ellsinore",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Johnson Township",
+          "short_name": "Johnson Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Carter County",
+          "short_name": "Carter County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63937",
+          "short_name": "63937",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Ellsinore, MO 63937, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 36.9447429,
+            "lng": -90.741393
+          },
+          "southwest": {
+            "lat": 36.923936,
+            "lng": -90.755404
+          }
+        },
+        "location": {
+          "lat": 36.9342189,
+          "lng": -90.74678759999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 36.9447429,
+            "lng": -90.741393
+          },
+          "southwest": {
+            "lat": 36.923936,
+            "lng": -90.755404
+          }
+        }
+      },
+      "place_id": "ChIJZWNMIFwN14cRDqzN07KEg4k",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Johnson Township",
+          "short_name": "Johnson Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Carter County",
+          "short_name": "Carter County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Johnson Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 36.9438101,
+            "lng": -90.66123110000001
+          },
+          "southwest": {
+            "lat": 36.81144889999999,
+            "lng": -90.898389
+          }
+        },
+        "location": {
+          "lat": 36.8870966,
+          "lng": -90.7722974
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 36.9438101,
+            "lng": -90.66123110000001
+          },
+          "southwest": {
+            "lat": 36.81144889999999,
+            "lng": -90.898389
+          }
+        }
+      },
+      "place_id": "ChIJtXTA4cgF14cRs2tdNgMrk6s",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63937",
+          "short_name": "63937",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Ellsinore",
+          "short_name": "Ellsinore",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ellsinore, MO 63937, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.01724189999999,
+            "lng": -90.59009689999999
+          },
+          "southwest": {
+            "lat": 36.8548929,
+            "lng": -90.936202
+          }
+        },
+        "location": {
+          "lat": 36.9301095,
+          "lng": -90.7722974
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.01724189999999,
+            "lng": -90.59009689999999
+          },
+          "southwest": {
+            "lat": 36.8548929,
+            "lng": -90.936202
+          }
+        }
+      },
+      "place_id": "ChIJ245Iil8N14cR3nAU1sjzHOk",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Carter County",
+          "short_name": "Carter County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Carter County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.100404,
+            "lng": -90.66123110000001
+          },
+          "southwest": {
+            "lat": 36.81144889999999,
+            "lng": -91.2248249
+          }
+        },
+        "location": {
+          "lat": 36.9073725,
+          "lng": -90.9438468
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.100404,
+            "lng": -90.66123110000001
+          },
+          "southwest": {
+            "lat": 36.81144889999999,
+            "lng": -91.2248249
+          }
+        }
+      },
+      "place_id": "ChIJtXKvxXBO14cRHdffLime0ds",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

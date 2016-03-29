@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "400-498",
+          "short_name": "400-498",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Cedar Street",
+          "short_name": "W Cedar St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Cedar Rapids",
+          "short_name": "Cedar Rapids",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cedar",
+          "short_name": "Cedar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Boone County",
+          "short_name": "Boone County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68627",
+          "short_name": "68627",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5024",
+          "short_name": "5024",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "400-498 W Cedar St, Cedar Rapids, NE 68627, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.55882829999999,
+            "lng": -98.14771789999999
+          },
+          "southwest": {
+            "lat": 41.5587981,
+            "lng": -98.1494694
+          }
+        },
+        "location": {
+          "lat": 41.5588395,
+          "lng": -98.1493031
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.5601621802915,
+            "lng": -98.14724466970848
+          },
+          "southwest": {
+            "lat": 41.5574642197085,
+            "lng": -98.1499426302915
+          }
+        }
+      },
+      "place_id": "Ei80MDAtNDk4IFcgQ2VkYXIgU3QsIENlZGFyIFJhcGlkcywgTkUgNjg2MjcsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cedar Rapids",
+          "short_name": "Cedar Rapids",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cedar",
+          "short_name": "Cedar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Boone County",
+          "short_name": "Boone County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68627",
+          "short_name": "68627",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Cedar Rapids, NE 68627, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.5640141,
+            "lng": -98.1417999
+          },
+          "southwest": {
+            "lat": 41.5526759,
+            "lng": -98.1579129
+          }
+        },
+        "location": {
+          "lat": 41.560013,
+          "lng": -98.1445085
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.5640141,
+            "lng": -98.1417999
+          },
+          "southwest": {
+            "lat": 41.5526759,
+            "lng": -98.1579129
+          }
+        }
+      },
+      "place_id": "ChIJiVt_hA5emocRdSuf9zn0tBg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cedar",
+          "short_name": "Cedar",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Boone County",
+          "short_name": "Boone County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cedar, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.63968,
+            "lng": -98.003135
+          },
+          "southwest": {
+            "lat": 41.4805409,
+            "lng": -98.2914749
+          }
+        },
+        "location": {
+          "lat": 41.5310723,
+          "lng": -98.1557066
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.63968,
+            "lng": -98.003135
+          },
+          "southwest": {
+            "lat": 41.4805409,
+            "lng": -98.2914749
+          }
+        }
+      },
+      "place_id": "ChIJX4aktQ9emocR7_2ocPhIACU",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68627",
+          "short_name": "68627",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Cedar Rapids",
+          "short_name": "Cedar Rapids",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cedar Rapids, NE 68627, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.65856,
+            "lng": -98.0126619
+          },
+          "southwest": {
+            "lat": 41.4305838,
+            "lng": -98.3298738
+          }
+        },
+        "location": {
+          "lat": 41.5096531,
+          "lng": -98.1775638
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.65856,
+            "lng": -98.0126619
+          },
+          "southwest": {
+            "lat": 41.4305838,
+            "lng": -98.3298738
+          }
+        }
+      },
+      "place_id": "ChIJu89sfSlcmocR8VqNLmRhGH8",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Boone County",
+          "short_name": "Boone County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Boone County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.916308,
+            "lng": -97.8298458
+          },
+          "southwest": {
+            "lat": 41.4805409,
+            "lng": -98.29600579999999
+          }
+        },
+        "location": {
+          "lat": 41.7172326,
+          "lng": -98.04651849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.916308,
+            "lng": -97.8298458
+          },
+          "southwest": {
+            "lat": 41.4805409,
+            "lng": -98.29600579999999
+          }
+        }
+      },
+      "place_id": "ChIJdbMcUSuKmocRzrusCa99tWA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

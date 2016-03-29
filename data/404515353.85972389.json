@@ -1,0 +1,547 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "104-106",
+          "short_name": "104-106",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Washington Street",
+          "short_name": "W Washington St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Martinsburg",
+          "short_name": "Martinsburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Loutre Township",
+          "short_name": "Loutre Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Audrain County",
+          "short_name": "Audrain County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65264",
+          "short_name": "65264",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2118",
+          "short_name": "2118",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "104-106 W Washington St, Martinsburg, MO 65264, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.1010491,
+            "lng": -91.64665900000001
+          },
+          "southwest": {
+            "lat": 39.1006371,
+            "lng": -91.648168
+          }
+        },
+        "location": {
+          "lat": 39.1008372,
+          "lng": -91.6474403
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.10219208029149,
+            "lng": -91.6460645197085
+          },
+          "southwest": {
+            "lat": 39.0994941197085,
+            "lng": -91.64876248029152
+          }
+        }
+      },
+      "place_id": "EjMxMDQtMTA2IFcgV2FzaGluZ3RvbiBTdCwgTWFydGluc2J1cmcsIE1PIDY1MjY0LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Martinsburg",
+          "short_name": "Martinsburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Loutre Township",
+          "short_name": "Loutre Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Audrain County",
+          "short_name": "Audrain County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65264",
+          "short_name": "65264",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Martinsburg, MO 65264, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.103946,
+            "lng": -91.640293
+          },
+          "southwest": {
+            "lat": 39.097426,
+            "lng": -91.655196
+          }
+        },
+        "location": {
+          "lat": 39.1022618,
+          "lng": -91.64766399999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.103946,
+            "lng": -91.640293
+          },
+          "southwest": {
+            "lat": 39.097426,
+            "lng": -91.655196
+          }
+        }
+      },
+      "place_id": "ChIJ96V8m-JE3IcRLONXj456G4g",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Loutre Township",
+          "short_name": "Loutre Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Audrain County",
+          "short_name": "Audrain County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Loutre Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.1492299,
+            "lng": -91.6295981
+          },
+          "southwest": {
+            "lat": 39.0590569,
+            "lng": -91.804064
+          }
+        },
+        "location": {
+          "lat": 39.12070200000001,
+          "lng": -91.7344155
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1492299,
+            "lng": -91.6295981
+          },
+          "southwest": {
+            "lat": 39.0590569,
+            "lng": -91.804064
+          }
+        }
+      },
+      "place_id": "ChIJYaS9MFha3IcRbDC-MGT2JBs",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "65264",
+          "short_name": "65264",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Martinsburg",
+          "short_name": "Martinsburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Martinsburg, MO 65264, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.164451,
+            "lng": -91.6114341
+          },
+          "southwest": {
+            "lat": 39.0133821,
+            "lng": -91.7953909
+          }
+        },
+        "location": {
+          "lat": 39.0801864,
+          "lng": -91.65663769999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.164451,
+            "lng": -91.6114341
+          },
+          "southwest": {
+            "lat": 39.0133821,
+            "lng": -91.7953909
+          }
+        }
+      },
+      "place_id": "ChIJN4SlKhFb3IcRUW4Opp1aOlA",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Audrain County",
+          "short_name": "Audrain County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Audrain County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3477928,
+            "lng": -91.4090329
+          },
+          "southwest": {
+            "lat": 39.0590569,
+            "lng": -92.3144679
+          }
+        },
+        "location": {
+          "lat": 39.22195300000001,
+          "lng": -91.9099238
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3477928,
+            "lng": -91.4090329
+          },
+          "southwest": {
+            "lat": 39.0590569,
+            "lng": -92.3144679
+          }
+        }
+      },
+      "place_id": "ChIJzcntDTb_3IcRF8jo6NwtoFE",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mexico",
+          "short_name": "Mexico",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mexico, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.347796,
+            "lng": -91.409033
+          },
+          "southwest": {
+            "lat": 39.059036,
+            "lng": -92.31442899999999
+          }
+        },
+        "location": {
+          "lat": 39.22195300000001,
+          "lng": -91.9099238
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.347796,
+            "lng": -91.409033
+          },
+          "southwest": {
+            "lat": 39.059036,
+            "lng": -92.31442899999999
+          }
+        }
+      },
+      "place_id": "ChIJ0WQPKK743IcRIyXvatvhuYA",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,481 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "4000-4098",
+          "short_name": "4000-4098",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Elm Street",
+          "short_name": "Elm St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Healy",
+          "short_name": "Healy",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cheyenne",
+          "short_name": "Cheyenne",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lane County",
+          "short_name": "Lane County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67850",
+          "short_name": "67850",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "4000-4098 Elm St, Healy, KS 67850, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6045327,
+            "lng": -100.6176488
+          },
+          "southwest": {
+            "lat": 38.6025949,
+            "lng": -100.617674
+          }
+        },
+        "location": {
+          "lat": 38.6030418,
+          "lng": -100.617631
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6049127802915,
+            "lng": -100.6163124197085
+          },
+          "southwest": {
+            "lat": 38.60221481970851,
+            "lng": -100.6190103802915
+          }
+        }
+      },
+      "place_id": "EiY0MDAwLTQwOTggRWxtIFN0LCBIZWFseSwgS1MgNjc4NTAsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Healy",
+          "short_name": "Healy",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cheyenne",
+          "short_name": "Cheyenne",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lane County",
+          "short_name": "Lane County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67850",
+          "short_name": "67850",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Healy, KS 67850, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6204749,
+            "lng": -100.595317
+          },
+          "southwest": {
+            "lat": 38.5840469,
+            "lng": -100.6324229
+          }
+        },
+        "location": {
+          "lat": 38.6006198,
+          "lng": -100.6163245
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6204749,
+            "lng": -100.595317
+          },
+          "southwest": {
+            "lat": 38.5840469,
+            "lng": -100.6324229
+          }
+        }
+      },
+      "place_id": "ChIJIdmevQN2CocRXBhD54QfeQU",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cheyenne",
+          "short_name": "Cheyenne",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lane County",
+          "short_name": "Lane County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cheyenne, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.700226,
+            "lng": -100.541092
+          },
+          "southwest": {
+            "lat": 38.5256179,
+            "lng": -100.688006
+          }
+        },
+        "location": {
+          "lat": 38.6104055,
+          "lng": -100.5971361
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.700226,
+            "lng": -100.541092
+          },
+          "southwest": {
+            "lat": 38.5256179,
+            "lng": -100.688006
+          }
+        }
+      },
+      "place_id": "ChIJqf5CTZKdoIcRh-1CA409eQg",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67850",
+          "short_name": "67850",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Healy",
+          "short_name": "Healy",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Healy, KS 67850, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.78327,
+            "lng": -100.505293
+          },
+          "southwest": {
+            "lat": 38.4529859,
+            "lng": -100.8008069
+          }
+        },
+        "location": {
+          "lat": 38.6249702,
+          "lng": -100.6647101
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.78327,
+            "lng": -100.505293
+          },
+          "southwest": {
+            "lat": 38.4529859,
+            "lng": -100.8008069
+          }
+        }
+      },
+      "place_id": "ChIJTV7U478KCocRW4UtdoelQt0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lane County",
+          "short_name": "Lane County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lane County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.700226,
+            "lng": -100.244249
+          },
+          "southwest": {
+            "lat": 38.262134,
+            "lng": -100.688006
+          }
+        },
+        "location": {
+          "lat": 38.4294888,
+          "lng": -100.5296115
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.700226,
+            "lng": -100.244249
+          },
+          "southwest": {
+            "lat": 38.262134,
+            "lng": -100.688006
+          }
+        }
+      },
+      "place_id": "ChIJ326bxqKYoIcR59c_Fk2xLiw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

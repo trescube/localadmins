@@ -1,0 +1,482 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1220-1298",
+          "short_name": "1220-1298",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Merrifield Avenue",
+          "short_name": "N Merrifield Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Mishawaka",
+          "short_name": "Mishawaka",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Penn Township",
+          "short_name": "Penn Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Joseph County",
+          "short_name": "St Joseph County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "46545",
+          "short_name": "46545",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "1220-1298 N Merrifield Ave, Mishawaka, IN 46545, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6722691,
+            "lng": -86.1672646
+          },
+          "southwest": {
+            "lat": 41.6711502,
+            "lng": -86.1672845
+          }
+        },
+        "location": {
+          "lat": 41.671824,
+          "lng": -86.1672578
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6730586302915,
+            "lng": -86.16592556970849
+          },
+          "southwest": {
+            "lat": 41.67036066970851,
+            "lng": -86.1686235302915
+          }
+        }
+      },
+      "place_id": "EjQxMjIwLTEyOTggTiBNZXJyaWZpZWxkIEF2ZSwgTWlzaGF3YWthLCBJTiA0NjU0NSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mishawaka",
+          "short_name": "Mishawaka",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Penn Township",
+          "short_name": "Penn Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Joseph County",
+          "short_name": "St Joseph County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mishawaka, IN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.73066,
+            "lng": -86.09781199999999
+          },
+          "southwest": {
+            "lat": 41.6239769,
+            "lng": -86.2161928
+          }
+        },
+        "location": {
+          "lat": 41.6619927,
+          "lng": -86.15861559999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.73066,
+            "lng": -86.09781199999999
+          },
+          "southwest": {
+            "lat": 41.6239769,
+            "lng": -86.2161928
+          }
+        }
+      },
+      "place_id": "ChIJcxUKiRQzEYgRoCtROZVyLaQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "46545",
+          "short_name": "46545",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Mishawaka",
+          "short_name": "Mishawaka",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Joseph County",
+          "short_name": "St Joseph County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mishawaka, IN 46545, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7284281,
+            "lng": -86.081215
+          },
+          "southwest": {
+            "lat": 41.658243,
+            "lng": -86.209812
+          }
+        },
+        "location": {
+          "lat": 41.6862153,
+          "lng": -86.1446493
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7284281,
+            "lng": -86.081215
+          },
+          "southwest": {
+            "lat": 41.658243,
+            "lng": -86.209812
+          }
+        }
+      },
+      "place_id": "ChIJmbNWVybOFogRNckClFxN6Kc",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Penn Township",
+          "short_name": "Penn Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Joseph County",
+          "short_name": "St Joseph County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Penn Township, IN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.710052,
+            "lng": -86.0605049
+          },
+          "southwest": {
+            "lat": 41.586186,
+            "lng": -86.2161928
+          }
+        },
+        "location": {
+          "lat": 41.6560121,
+          "lng": -86.1344697
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.710052,
+            "lng": -86.0605049
+          },
+          "southwest": {
+            "lat": 41.586186,
+            "lng": -86.2161928
+          }
+        }
+      },
+      "place_id": "ChIJZ1bUDf3OFogRtj3ikoIi2bg",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Joseph County",
+          "short_name": "St Joseph County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St Joseph County, IN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7606971,
+            "lng": -86.05944009999999
+          },
+          "southwest": {
+            "lat": 41.4327921,
+            "lng": -86.5266819
+          }
+        },
+        "location": {
+          "lat": 41.6228085,
+          "lng": -86.3376761
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7606971,
+            "lng": -86.05944009999999
+          },
+          "southwest": {
+            "lat": 41.4327921,
+            "lng": -86.5266819
+          }
+        }
+      },
+      "place_id": "ChIJ8YY3te1LEYgRvxj0oskckKU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Indiana",
+          "short_name": "IN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Indiana, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7606971,
+            "lng": -84.784662
+          },
+          "southwest": {
+            "lat": 37.7717419,
+            "lng": -88.097892
+          }
+        },
+        "location": {
+          "lat": 40.2671941,
+          "lng": -86.1349019
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7606971,
+            "lng": -84.784662
+          },
+          "southwest": {
+            "lat": 37.7717419,
+            "lng": -88.097892
+          }
+        }
+      },
+      "place_id": "ChIJHRv42bxQa4gRcuwyy84vEH4",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,481 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301-399",
+          "short_name": "301-399",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Spruce Street",
+          "short_name": "Spruce St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Valparaiso",
+          "short_name": "Valparaiso",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oak Creek",
+          "short_name": "Oak Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saunders County",
+          "short_name": "Saunders County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68065",
+          "short_name": "68065",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "301-399 Spruce St, Valparaiso, NE 68065, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0806595,
+            "lng": -96.83297610000001
+          },
+          "southwest": {
+            "lat": 41.0796456,
+            "lng": -96.8331814
+          }
+        },
+        "location": {
+          "lat": 41.079837,
+          "lng": -96.8329574
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.08150153029149,
+            "lng": -96.8317297697085
+          },
+          "southwest": {
+            "lat": 41.07880356970849,
+            "lng": -96.83442773029152
+          }
+        }
+      },
+      "place_id": "EiwzMDEtMzk5IFNwcnVjZSBTdCwgVmFscGFyYWlzbywgTkUgNjgwNjUsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Valparaiso",
+          "short_name": "Valparaiso",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oak Creek",
+          "short_name": "Oak Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saunders County",
+          "short_name": "Saunders County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68065",
+          "short_name": "68065",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Valparaiso, NE 68065, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0880918,
+            "lng": -96.82470289999999
+          },
+          "southwest": {
+            "lat": 41.074883,
+            "lng": -96.841853
+          }
+        },
+        "location": {
+          "lat": 41.0813941,
+          "lng": -96.8316892
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0880918,
+            "lng": -96.82470289999999
+          },
+          "southwest": {
+            "lat": 41.074883,
+            "lng": -96.841853
+          }
+        }
+      },
+      "place_id": "ChIJjSth96o0kYcRSbOuC5P93Go",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Oak Creek",
+          "short_name": "Oak Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saunders County",
+          "short_name": "Saunders County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Oak Creek, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1332821,
+            "lng": -96.793357
+          },
+          "southwest": {
+            "lat": 41.04577279999999,
+            "lng": -96.908878
+          }
+        },
+        "location": {
+          "lat": 41.097119,
+          "lng": -96.85654269999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1332821,
+            "lng": -96.793357
+          },
+          "southwest": {
+            "lat": 41.04577279999999,
+            "lng": -96.908878
+          }
+        }
+      },
+      "place_id": "ChIJ5aVBjTgzkYcRTeum3zpARX4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68065",
+          "short_name": "68065",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Valparaiso",
+          "short_name": "Valparaiso",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Valparaiso, NE 68065, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1623439,
+            "lng": -96.738648
+          },
+          "southwest": {
+            "lat": 40.98002590000001,
+            "lng": -96.9872759
+          }
+        },
+        "location": {
+          "lat": 41.05700119999999,
+          "lng": -96.85654269999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1623439,
+            "lng": -96.738648
+          },
+          "southwest": {
+            "lat": 40.98002590000001,
+            "lng": -96.9872759
+          }
+        }
+      },
+      "place_id": "ChIJFSrfXFMzkYcRnz4Xrd--UfY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Saunders County",
+          "short_name": "Saunders County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Saunders County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4533889,
+            "lng": -96.31098279999999
+          },
+          "southwest": {
+            "lat": 41.0149908,
+            "lng": -96.9091119
+          }
+        },
+        "location": {
+          "lat": 41.168563,
+          "lng": -96.663812
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4533889,
+            "lng": -96.31098279999999
+          },
+          "southwest": {
+            "lat": 41.0149908,
+            "lng": -96.9091119
+          }
+        }
+      },
+      "place_id": "ChIJOyWwKDqylocRuXNg68HxtJo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

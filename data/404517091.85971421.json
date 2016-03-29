@@ -1,0 +1,555 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301-399",
+          "short_name": "301-399",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Linn Street",
+          "short_name": "N Linn St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Fayette",
+          "short_name": "Fayette",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Richmond Township",
+          "short_name": "Richmond Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Howard County",
+          "short_name": "Howard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65248",
+          "short_name": "65248",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1175",
+          "short_name": "1175",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "301-399 N Linn St, Fayette, MO 65248, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.147554,
+            "lng": -92.6856449
+          },
+          "southwest": {
+            "lat": 39.1468429,
+            "lng": -92.686145
+          }
+        },
+        "location": {
+          "lat": 39.1470171,
+          "lng": -92.685746
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1485474302915,
+            "lng": -92.6845459697085
+          },
+          "southwest": {
+            "lat": 39.1458494697085,
+            "lng": -92.6872439302915
+          }
+        }
+      },
+      "place_id": "EikzMDEtMzk5IE4gTGlubiBTdCwgRmF5ZXR0ZSwgTU8gNjUyNDgsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fayette",
+          "short_name": "Fayette",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Richmond Township",
+          "short_name": "Richmond Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Howard County",
+          "short_name": "Howard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65248",
+          "short_name": "65248",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Fayette, MO 65248, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.1631449,
+            "lng": -92.66625289999999
+          },
+          "southwest": {
+            "lat": 39.133185,
+            "lng": -92.70188089999999
+          }
+        },
+        "location": {
+          "lat": 39.1458654,
+          "lng": -92.6837943
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1631449,
+            "lng": -92.66625289999999
+          },
+          "southwest": {
+            "lat": 39.133185,
+            "lng": -92.70188089999999
+          }
+        }
+      },
+      "place_id": "ChIJA5_DkJYkw4cRaEiJbbX8QvQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Richmond Township",
+          "short_name": "Richmond Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Howard County",
+          "short_name": "Howard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Richmond Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2105441,
+            "lng": -92.600527
+          },
+          "southwest": {
+            "lat": 39.0784639,
+            "lng": -92.77063009999999
+          }
+        },
+        "location": {
+          "lat": 39.1445065,
+          "lng": -92.6785092
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.2105441,
+            "lng": -92.600527
+          },
+          "southwest": {
+            "lat": 39.0784639,
+            "lng": -92.77063009999999
+          }
+        }
+      },
+      "place_id": "ChIJqeX1rqIkw4cRoMy1qzrAOs4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "65248",
+          "short_name": "65248",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Fayette",
+          "short_name": "Fayette",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Howard County",
+          "short_name": "Howard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fayette, MO 65248, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.268603,
+            "lng": -92.49148100000001
+          },
+          "southwest": {
+            "lat": 39.00776,
+            "lng": -92.842378
+          }
+        },
+        "location": {
+          "lat": 39.14540969999999,
+          "lng": -92.6387795
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.268603,
+            "lng": -92.49148100000001
+          },
+          "southwest": {
+            "lat": 39.00776,
+            "lng": -92.842378
+          }
+        }
+      },
+      "place_id": "ChIJZ8fGYN4kw4cR6o6fNPZL0Ns",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Howard County",
+          "short_name": "Howard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Howard County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3435859,
+            "lng": -92.430229
+          },
+          "southwest": {
+            "lat": 38.9675369,
+            "lng": -92.945848
+          }
+        },
+        "location": {
+          "lat": 39.2064126,
+          "lng": -92.6983868
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3435859,
+            "lng": -92.430229
+          },
+          "southwest": {
+            "lat": 38.9675369,
+            "lng": -92.945848
+          }
+        }
+      },
+      "place_id": "ChIJYbLlFB49w4cR8sQ9Mk73eOI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Columbia",
+          "short_name": "Columbia",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Columbia, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3435859,
+            "lng": -92.104551
+          },
+          "southwest": {
+            "lat": 38.6431671,
+            "lng": -92.945848
+          }
+        },
+        "location": {
+          "lat": 39.0468547,
+          "lng": -92.38136209999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3435859,
+            "lng": -92.104551
+          },
+          "southwest": {
+            "lat": 38.6431671,
+            "lng": -92.945848
+          }
+        }
+      },
+      "place_id": "ChIJhb4pZVEzw4cR8xAbwevMZnk",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

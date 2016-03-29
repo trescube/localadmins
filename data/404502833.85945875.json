@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "401-423",
+          "short_name": "401-423",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Centralia",
+          "short_name": "Centralia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Home",
+          "short_name": "Home",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nemaha County",
+          "short_name": "Nemaha County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66415",
+          "short_name": "66415",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9794",
+          "short_name": "9794",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "401-423 Main St, Centralia, KS 66415, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.7246844,
+            "lng": -96.13002279999999
+          },
+          "southwest": {
+            "lat": 39.7246805,
+            "lng": -96.1318819
+          }
+        },
+        "location": {
+          "lat": 39.7246694,
+          "lng": -96.13029619999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7260314302915,
+            "lng": -96.12960336970849
+          },
+          "southwest": {
+            "lat": 39.7233334697085,
+            "lng": -96.1323013302915
+          }
+        }
+      },
+      "place_id": "Eik0MDEtNDIzIE1haW4gU3QsIENlbnRyYWxpYSwgS1MgNjY0MTUsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Centralia",
+          "short_name": "Centralia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Home",
+          "short_name": "Home",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nemaha County",
+          "short_name": "Nemaha County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66415",
+          "short_name": "66415",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Centralia, KS 66415, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.73206589999999,
+            "lng": -96.122726
+          },
+          "southwest": {
+            "lat": 39.7182299,
+            "lng": -96.136837
+          }
+        },
+        "location": {
+          "lat": 39.725831,
+          "lng": -96.12722459999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.73206589999999,
+            "lng": -96.122726
+          },
+          "southwest": {
+            "lat": 39.7182299,
+            "lng": -96.136837
+          }
+        }
+      },
+      "place_id": "ChIJ_2BJWTgZvocR6DniBdkT_b0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Home",
+          "short_name": "Home",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nemaha County",
+          "short_name": "Nemaha County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Home, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.740303,
+            "lng": -96.12628509999999
+          },
+          "southwest": {
+            "lat": 39.653191,
+            "lng": -96.2397719
+          }
+        },
+        "location": {
+          "lat": 39.7145842,
+          "lng": -96.17391160000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.740303,
+            "lng": -96.12628509999999
+          },
+          "southwest": {
+            "lat": 39.653191,
+            "lng": -96.2397719
+          }
+        }
+      },
+      "place_id": "ChIJ5YLVXLIbvocRmq8ITudf0rE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66415",
+          "short_name": "66415",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Centralia",
+          "short_name": "Centralia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Centralia, KS 66415, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.7839,
+            "lng": -95.9956869
+          },
+          "southwest": {
+            "lat": 39.58061290000001,
+            "lng": -96.239682
+          }
+        },
+        "location": {
+          "lat": 39.675725,
+          "lng": -96.13149279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7839,
+            "lng": -95.9956869
+          },
+          "southwest": {
+            "lat": 39.58061290000001,
+            "lng": -96.239682
+          }
+        }
+      },
+      "place_id": "ChIJf5s0VYYZvocRtG9OAxS0axY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nemaha County",
+          "short_name": "Nemaha County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nemaha County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0009299,
+            "lng": -95.788071
+          },
+          "southwest": {
+            "lat": 39.565883,
+            "lng": -96.2397719
+          }
+        },
+        "location": {
+          "lat": 39.7451077,
+          "lng": -95.9832577
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0009299,
+            "lng": -95.788071
+          },
+          "southwest": {
+            "lat": 39.565883,
+            "lng": -96.2397719
+          }
+        }
+      },
+      "place_id": "ChIJ962nfCghvocRfPOBasIXwco",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

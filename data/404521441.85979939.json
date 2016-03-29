@@ -1,0 +1,497 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "15-17",
+          "short_name": "15-17",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Chichester Avenue",
+          "short_name": "Chichester Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Center Moriches",
+          "short_name": "Center Moriches",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brookhaven",
+          "short_name": "Brookhaven",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11934",
+          "short_name": "11934",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2401",
+          "short_name": "2401",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "15-17 Chichester Ave, Center Moriches, NY 11934, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.803459,
+            "lng": -72.7960332
+          },
+          "southwest": {
+            "lat": 40.8005253,
+            "lng": -72.79612689999999
+          }
+        },
+        "location": {
+          "lat": 40.8015243,
+          "lng": -72.7960762
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.803459,
+            "lng": -72.79473106970849
+          },
+          "southwest": {
+            "lat": 40.8005253,
+            "lng": -72.7974290302915
+          }
+        }
+      },
+      "place_id": "EjQxNS0xNyBDaGljaGVzdGVyIEF2ZSwgQ2VudGVyIE1vcmljaGVzLCBOWSAxMTkzNCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Center Moriches",
+          "short_name": "Center Moriches",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brookhaven",
+          "short_name": "Brookhaven",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Center Moriches, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.824211,
+            "lng": -72.772986
+          },
+          "southwest": {
+            "lat": 40.7772435,
+            "lng": -72.820026
+          }
+        },
+        "location": {
+          "lat": 40.8003767,
+          "lng": -72.7898233
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.824211,
+            "lng": -72.772986
+          },
+          "southwest": {
+            "lat": 40.7772435,
+            "lng": -72.820026
+          }
+        }
+      },
+      "place_id": "ChIJ9x3SN4xZ6IkR0kYrAusqx1g",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11934",
+          "short_name": "11934",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Center Moriches",
+          "short_name": "Center Moriches",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brookhaven",
+          "short_name": "Brookhaven",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Center Moriches, NY 11934, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8242368,
+            "lng": -72.77195999999999
+          },
+          "southwest": {
+            "lat": 40.759601,
+            "lng": -72.818963
+          }
+        },
+        "location": {
+          "lat": 40.8002863,
+          "lng": -72.7865518
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8242368,
+            "lng": -72.77195999999999
+          },
+          "southwest": {
+            "lat": 40.776706,
+            "lng": -72.818963
+          }
+        }
+      },
+      "place_id": "ChIJiRlumY1Z6IkRFwzqnMq8FTw",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brookhaven",
+          "short_name": "Brookhaven",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brookhaven, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9776667,
+            "lng": -72.7029008
+          },
+          "southwest": {
+            "lat": 40.6455704,
+            "lng": -73.1590131
+          }
+        },
+        "location": {
+          "lat": 40.8858353,
+          "lng": -72.99329689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9776667,
+            "lng": -72.7029008
+          },
+          "southwest": {
+            "lat": 40.6455704,
+            "lng": -73.1590131
+          }
+        }
+      },
+      "place_id": "ChIJC6iSqSlf6IkRKpM-iqF_WnY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffolk County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2923797,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        },
+        "location": {
+          "lat": 40.9848784,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2923194,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        }
+      },
+      "place_id": "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

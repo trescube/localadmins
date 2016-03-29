@@ -1,0 +1,529 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "956-982",
+          "short_name": "956-982",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Hanley Road",
+          "short_name": "N Hanley Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "University City",
+          "short_name": "University City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "University Township",
+          "short_name": "University Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Louis County",
+          "short_name": "St Louis County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63130",
+          "short_name": "63130",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "956-982 N Hanley Rd, University City, MO 63130, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.66612550000001,
+            "lng": -90.3322267
+          },
+          "southwest": {
+            "lat": 38.6653943,
+            "lng": -90.33229469999999
+          }
+        },
+        "location": {
+          "lat": 38.6656164,
+          "lng": -90.3322287
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6671088802915,
+            "lng": -90.3309117197085
+          },
+          "southwest": {
+            "lat": 38.66441091970851,
+            "lng": -90.3336096802915
+          }
+        }
+      },
+      "place_id": "EjM5NTYtOTgyIE4gSGFubGV5IFJkLCBVbml2ZXJzaXR5IENpdHksIE1PIDYzMTMwLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "University City",
+          "short_name": "University City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "University Township",
+          "short_name": "University Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Louis County",
+          "short_name": "St Louis County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "University City, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.683451,
+            "lng": -90.2970519
+          },
+          "southwest": {
+            "lat": 38.645651,
+            "lng": -90.366416
+          }
+        },
+        "location": {
+          "lat": 38.6682407,
+          "lng": -90.3324856
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.683451,
+            "lng": -90.2970519
+          },
+          "southwest": {
+            "lat": 38.645651,
+            "lng": -90.366416
+          }
+        }
+      },
+      "place_id": "ChIJ2yG9SCQ134cR5p0zjYDyxw0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63130",
+          "short_name": "63130",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "St. Louis",
+          "short_name": "St. Louis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Louis, MO 63130, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6856099,
+            "lng": -90.294561
+          },
+          "southwest": {
+            "lat": 38.647393,
+            "lng": -90.353454
+          }
+        },
+        "location": {
+          "lat": 38.6682669,
+          "lng": -90.32308069999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6856099,
+            "lng": -90.294561
+          },
+          "southwest": {
+            "lat": 38.647393,
+            "lng": -90.353454
+          }
+        }
+      },
+      "place_id": "ChIJYyPseTk134cR620XppiBqrA",
+      "postcode_localities": [
+        "St. Louis",
+        "University City"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "University Township",
+          "short_name": "University Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Louis County",
+          "short_name": "St Louis County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "University Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.695951,
+            "lng": -90.27531309999999
+          },
+          "southwest": {
+            "lat": 38.655989,
+            "lng": -90.362577
+          }
+        },
+        "location": {
+          "lat": 38.6787496,
+          "lng": -90.32308069999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.695951,
+            "lng": -90.27531309999999
+          },
+          "southwest": {
+            "lat": 38.655989,
+            "lng": -90.362577
+          }
+        }
+      },
+      "place_id": "ChIJIzl8fhQ134cRWyMIvKj6wAY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Louis County",
+          "short_name": "St Louis County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St Louis County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.8911839,
+            "lng": -90.11770709999999
+          },
+          "southwest": {
+            "lat": 38.396902,
+            "lng": -90.7365301
+          }
+        },
+        "location": {
+          "lat": 38.6103023,
+          "lng": -90.4125181
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.8911839,
+            "lng": -90.11770709999999
+          },
+          "southwest": {
+            "lat": 38.396902,
+            "lng": -90.7365301
+          }
+        }
+      },
+      "place_id": "ChIJBe3muPnK2IcRO8QfrOB9Xn0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Louis",
+          "short_name": "St. Louis",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Louis, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        },
+        "location": {
+          "lat": 38.8196814,
+          "lng": -90.4502368
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        }
+      },
+      "place_id": "ChIJneBzzj4z34cRFGg2ez6q57o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,320 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "10123-10299",
+          "short_name": "10123-10299",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Road 10",
+          "short_name": "Rd 10",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Sidney",
+          "short_name": "Sidney",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cheyenne County",
+          "short_name": "Cheyenne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "69162",
+          "short_name": "69162",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "10123-10299 Rd 10, Sidney, NE 69162, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0625434,
+            "lng": -103.0694508
+          },
+          "southwest": {
+            "lat": 41.0619908,
+            "lng": -103.0865853
+          }
+        },
+        "location": {
+          "lat": 41.0619816,
+          "lng": -103.0821113
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0636160802915,
+            "lng": -103.0694508
+          },
+          "southwest": {
+            "lat": 41.0609181197085,
+            "lng": -103.0865853
+          }
+        }
+      },
+      "place_id": "EigxMDEyMy0xMDI5OSBSZCAxMCwgU2lkbmV5LCBORSA2OTE2MiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "69162",
+          "short_name": "69162",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Sidney",
+          "short_name": "Sidney",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sidney, NE 69162, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.323308,
+            "lng": -102.7634069
+          },
+          "southwest": {
+            "lat": 41.00177610000001,
+            "lng": -103.31809
+          }
+        },
+        "location": {
+          "lat": 41.1375665,
+          "lng": -103.035694
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.323308,
+            "lng": -102.7634069
+          },
+          "southwest": {
+            "lat": 41.00177610000001,
+            "lng": -103.31809
+          }
+        }
+      },
+      "place_id": "ChIJ--MjYL5McIcRoWeY2n6x-RY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cheyenne County",
+          "short_name": "Cheyenne County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cheyenne County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4393229,
+            "lng": -102.609347
+          },
+          "southwest": {
+            "lat": 41.00177610000001,
+            "lng": -103.382503
+          }
+        },
+        "location": {
+          "lat": 41.2509264,
+          "lng": -103.0817903
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4393229,
+            "lng": -102.609347
+          },
+          "southwest": {
+            "lat": 41.00177610000001,
+            "lng": -103.382503
+          }
+        }
+      },
+      "place_id": "ChIJxfkXJuZNcIcRAoTZFg4IOmY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

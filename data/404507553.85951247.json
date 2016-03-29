@@ -1,0 +1,533 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "201-299",
+          "short_name": "201-299",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Seneca Street",
+          "short_name": "Seneca St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Copper City",
+          "short_name": "Copper City",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Calumet Township",
+          "short_name": "Calumet Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49917",
+          "short_name": "49917",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "201-299 Seneca St, Copper City, MI 49917, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.2849708,
+            "lng": -88.3870835
+          },
+          "southwest": {
+            "lat": 47.2836689,
+            "lng": -88.38709039999999
+          }
+        },
+        "location": {
+          "lat": 47.2842001,
+          "lng": -88.3871051
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 47.2856688302915,
+            "lng": -88.3857379697085
+          },
+          "southwest": {
+            "lat": 47.2829708697085,
+            "lng": -88.38843593029151
+          }
+        }
+      },
+      "place_id": "Ei0yMDEtMjk5IFNlbmVjYSBTdCwgQ29wcGVyIENpdHksIE1JIDQ5OTE3LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Copper City",
+          "short_name": "Copper City",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Calumet Township",
+          "short_name": "Calumet Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Copper City, Calumet Twp, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.28597,
+            "lng": -88.3837389
+          },
+          "southwest": {
+            "lat": 47.2824619,
+            "lng": -88.3912891
+          }
+        },
+        "location": {
+          "lat": 47.28353449999999,
+          "lng": -88.3870573
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.28597,
+            "lng": -88.3837389
+          },
+          "southwest": {
+            "lat": 47.2824619,
+            "lng": -88.3912891
+          }
+        }
+      },
+      "place_id": "ChIJcVjliNOiUE0RrpvvIBY4Cdw",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Calumet Township",
+          "short_name": "Calumet Twp",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Calumet Twp, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.286254,
+            "lng": -88.298992
+          },
+          "southwest": {
+            "lat": 47.1992909,
+            "lng": -88.55217069999999
+          }
+        },
+        "location": {
+          "lat": 47.2718408,
+          "lng": -88.4262689
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.286254,
+            "lng": -88.298992
+          },
+          "southwest": {
+            "lat": 47.1992909,
+            "lng": -88.55217069999999
+          }
+        }
+      },
+      "place_id": "ChIJJ2ETIAyFUE0RnlGi4fuCCmc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "49917",
+          "short_name": "49917",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Copper City",
+          "short_name": "Copper City",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Copper City, MI 49917, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.2931119,
+            "lng": -88.38382700000001
+          },
+          "southwest": {
+            "lat": 47.2824619,
+            "lng": -88.39408209999999
+          }
+        },
+        "location": {
+          "lat": 47.2878443,
+          "lng": -88.390648
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.2931119,
+            "lng": -88.38382700000001
+          },
+          "southwest": {
+            "lat": 47.2824619,
+            "lng": -88.39408209999999
+          }
+        }
+      },
+      "place_id": "ChIJ8Ym8drKiUE0RrmQU3aKB_bk",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Houghton County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.286254,
+            "lng": -88.227403
+          },
+          "southwest": {
+            "lat": 46.419643,
+            "lng": -88.9915489
+          }
+        },
+        "location": {
+          "lat": 47.1211215,
+          "lng": -88.5694012
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.286254,
+            "lng": -88.227403
+          },
+          "southwest": {
+            "lat": 46.419643,
+            "lng": -88.9915489
+          }
+        }
+      },
+      "place_id": "ChIJTfO5_mQ7UU0RWG667XtdKyc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Houghton",
+          "short_name": "Houghton",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Houghton, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.19097499999999,
+            "lng": -87.710471
+          },
+          "southwest": {
+            "lat": 46.419689,
+            "lng": -89.2552019
+          }
+        },
+        "location": {
+          "lat": 47.0499507,
+          "lng": -88.6148185
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.4794201,
+            "lng": -87.710471
+          },
+          "southwest": {
+            "lat": 46.419689,
+            "lng": -88.991295
+          }
+        }
+      },
+      "place_id": "ChIJU0kmS3u2UE0RaZxuic7LhPE",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

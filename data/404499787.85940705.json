@@ -1,0 +1,534 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "3218",
+          "short_name": "3218",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Wolf Meadow Drive",
+          "short_name": "Wolf Meadow Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Swansea",
+          "short_name": "Swansea",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair Township",
+          "short_name": "St Clair Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62226",
+          "short_name": "62226",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2309",
+          "short_name": "2309",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "3218 Wolf Meadow Dr, Swansea, IL 62226, USA",
+      "geometry": {
+        "location": {
+          "lat": 38.550178,
+          "lng": -89.986345
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5515269802915,
+            "lng": -89.98499601970849
+          },
+          "southwest": {
+            "lat": 38.5488290197085,
+            "lng": -89.98769398029151
+          }
+        }
+      },
+      "place_id": "ChIJbwydexMCdogRnVQGCLUbA3M",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Swansea",
+          "short_name": "Swansea",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair Township",
+          "short_name": "St Clair Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Swansea, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.577463,
+            "lng": -89.95432489999999
+          },
+          "southwest": {
+            "lat": 38.521687,
+            "lng": -90.028211
+          }
+        },
+        "location": {
+          "lat": 38.5339392,
+          "lng": -89.9889936
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.577463,
+            "lng": -89.95432489999999
+          },
+          "southwest": {
+            "lat": 38.521687,
+            "lng": -90.028211
+          }
+        }
+      },
+      "place_id": "ChIJr6mJILOp2IcRPsWNdHh5wN0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62226",
+          "short_name": "62226",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Belleville",
+          "short_name": "Belleville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Belleville, IL 62226, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.5780919,
+            "lng": -89.80273280000002
+          },
+          "southwest": {
+            "lat": 38.457405,
+            "lng": -90.036926
+          }
+        },
+        "location": {
+          "lat": 38.5375354,
+          "lng": -90.0093266
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5780919,
+            "lng": -89.951605
+          },
+          "southwest": {
+            "lat": 38.457405,
+            "lng": -90.036926
+          }
+        }
+      },
+      "place_id": "ChIJBYe7BdGn2IcRbM3BmYnK4aM",
+      "postcode_localities": [
+        "Belleville",
+        "Swansea"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Clair Township",
+          "short_name": "St Clair Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St Clair Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.57201,
+            "lng": -89.9233249
+          },
+          "southwest": {
+            "lat": 38.483398,
+            "lng": -90.03672
+          }
+        },
+        "location": {
+          "lat": 38.5585382,
+          "lng": -89.9720133
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.57201,
+            "lng": -89.9233249
+          },
+          "southwest": {
+            "lat": 38.483398,
+            "lng": -90.03672
+          }
+        }
+      },
+      "place_id": "ChIJbbm4ZV8CdogR97eXYwWhGGo",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St Clair County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6606498,
+            "lng": -89.7032468
+          },
+          "southwest": {
+            "lat": 38.2194181,
+            "lng": -90.26637079999999
+          }
+        },
+        "location": {
+          "lat": 38.40081199999999,
+          "lng": -89.9253233
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6606498,
+            "lng": -89.7032468
+          },
+          "southwest": {
+            "lat": 38.2194181,
+            "lng": -90.26637079999999
+          }
+        }
+      },
+      "place_id": "ChIJeRbja679dYgR3ASXSadGyno",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Louis",
+          "short_name": "St. Louis",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Louis, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        },
+        "location": {
+          "lat": 38.8196814,
+          "lng": -90.4502368
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        }
+      },
+      "place_id": "ChIJneBzzj4z34cRFGg2ez6q57o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

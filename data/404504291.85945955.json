@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-148",
+          "short_name": "100-148",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Pearlette Street",
+          "short_name": "S Pearlette St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Meade",
+          "short_name": "Meade",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Meade Center",
+          "short_name": "Meade Center",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Meade County",
+          "short_name": "Meade County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67864",
+          "short_name": "67864",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "6750",
+          "short_name": "6750",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "100-148 S Pearlette St, Meade, KS 67864, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.2854767,
+            "lng": -100.337294
+          },
+          "southwest": {
+            "lat": 37.2849375,
+            "lng": -100.3373061
+          }
+        },
+        "location": {
+          "lat": 37.2851764,
+          "lng": -100.3372806
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.2865560802915,
+            "lng": -100.3359510697085
+          },
+          "southwest": {
+            "lat": 37.2838581197085,
+            "lng": -100.3386490302915
+          }
+        }
+      },
+      "place_id": "EiwxMDAtMTQ4IFMgUGVhcmxldHRlIFN0LCBNZWFkZSwgS1MgNjc4NjQsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Meade",
+          "short_name": "Meade",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Meade Center",
+          "short_name": "Meade Center",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Meade County",
+          "short_name": "Meade County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67864",
+          "short_name": "67864",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Meade, KS 67864, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.293997,
+            "lng": -100.3262971
+          },
+          "southwest": {
+            "lat": 37.27466,
+            "lng": -100.3518089
+          }
+        },
+        "location": {
+          "lat": 37.2855796,
+          "lng": -100.3401456
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.293997,
+            "lng": -100.3262971
+          },
+          "southwest": {
+            "lat": 37.27466,
+            "lng": -100.3518089
+          }
+        }
+      },
+      "place_id": "ChIJr9eLh7CWp4cRfxvXaJuosdQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Meade Center",
+          "short_name": "Meade Center",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Meade County",
+          "short_name": "Meade County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Meade Center, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.343564,
+            "lng": -100.271916
+          },
+          "southwest": {
+            "lat": 37.1542588,
+            "lng": -100.435501
+          }
+        },
+        "location": {
+          "lat": 37.2466902,
+          "lng": -100.3722477
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.343564,
+            "lng": -100.271916
+          },
+          "southwest": {
+            "lat": 37.1542588,
+            "lng": -100.435501
+          }
+        }
+      },
+      "place_id": "ChIJ8eWYpIyTp4cRxdzrza6jxDI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67864",
+          "short_name": "67864",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Meade",
+          "short_name": "Meade",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Meade, KS 67864, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.475133,
+            "lng": -99.99103400000001
+          },
+          "southwest": {
+            "lat": 37.0006131,
+            "lng": -100.552218
+          }
+        },
+        "location": {
+          "lat": 37.1466313,
+          "lng": -100.3048897
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.475133,
+            "lng": -99.99103400000001
+          },
+          "southwest": {
+            "lat": 37.0006131,
+            "lng": -100.552218
+          }
+        }
+      },
+      "place_id": "ChIJIZymqLuTp4cR4bWA2sDAhow",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Meade County",
+          "short_name": "Meade County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Meade County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.4753909,
+            "lng": -100.089155
+          },
+          "southwest": {
+            "lat": 37.000022,
+            "lng": -100.652728
+          }
+        },
+        "location": {
+          "lat": 37.2698449,
+          "lng": -100.3497895
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.4753909,
+            "lng": -100.089155
+          },
+          "southwest": {
+            "lat": 37.000022,
+            "lng": -100.652728
+          }
+        }
+      },
+      "place_id": "ChIJo8qijJGRp4cR92RpaI8AgJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

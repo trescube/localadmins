@@ -1,0 +1,401 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "10500",
+          "short_name": "10500",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Sutter Avenue",
+          "short_name": "Sutter Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Springfield",
+          "short_name": "Springfield",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fairview",
+          "short_name": "Fairview",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sarpy County",
+          "short_name": "Sarpy County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68059",
+          "short_name": "68059",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "10500 Sutter Ave, Springfield, NE 68059, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1090081,
+            "lng": -96.0762975
+          },
+          "southwest": {
+            "lat": 41.1090026,
+            "lng": -96.0771362
+          }
+        },
+        "location": {
+          "lat": 41.1090171,
+          "lng": -96.0763442
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1103543302915,
+            "lng": -96.0753678697085
+          },
+          "southwest": {
+            "lat": 41.1076563697085,
+            "lng": -96.07806583029151
+          }
+        }
+      },
+      "place_id": "EiwxMDUwMCBTdXR0ZXIgQXZlLCBTcHJpbmdmaWVsZCwgTkUgNjgwNTksIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fairview",
+          "short_name": "Fairview",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sarpy County",
+          "short_name": "Sarpy County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fairview, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1269981,
+            "lng": -96.00398
+          },
+          "southwest": {
+            "lat": 41.053171,
+            "lng": -96.1008069
+          }
+        },
+        "location": {
+          "lat": 41.1023603,
+          "lng": -96.0467429
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1269981,
+            "lng": -96.00398
+          },
+          "southwest": {
+            "lat": 41.053171,
+            "lng": -96.1008069
+          }
+        }
+      },
+      "place_id": "ChIJaY2jhCR1lIcRp-ovsI-6GDM",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68059",
+          "short_name": "68059",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Springfield",
+          "short_name": "Springfield",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Springfield, NE 68059, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1268108,
+            "lng": -96.0656729
+          },
+          "southwest": {
+            "lat": 40.9943079,
+            "lng": -96.25819109999999
+          }
+        },
+        "location": {
+          "lat": 41.0554628,
+          "lng": -96.17391160000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1268108,
+            "lng": -96.0656729
+          },
+          "southwest": {
+            "lat": 40.9943079,
+            "lng": -96.25819109999999
+          }
+        }
+      },
+      "place_id": "ChIJx8w4MWUJlIcRBUcrLWOW6ZA",
+      "postcode_localities": [
+        "Richfield",
+        "Springfield"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sarpy County",
+          "short_name": "Sarpy County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sarpy County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1911001,
+            "lng": -95.841611
+          },
+          "southwest": {
+            "lat": 40.9943079,
+            "lng": -96.339805
+          }
+        },
+        "location": {
+          "lat": 41.0744042,
+          "lng": -96.19513200000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1911001,
+            "lng": -95.841611
+          },
+          "southwest": {
+            "lat": 40.9943079,
+            "lng": -96.339805
+          }
+        }
+      },
+      "place_id": "ChIJF8HFSLsFlIcR59Ty8ZW9Cd4",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

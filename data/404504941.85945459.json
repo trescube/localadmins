@@ -1,0 +1,537 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "123",
+          "short_name": "123",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Holden Street",
+          "short_name": "Holden St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Topeka",
+          "short_name": "Topeka",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dover",
+          "short_name": "Dover",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shawnee County",
+          "short_name": "Shawnee County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66615",
+          "short_name": "66615",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9521",
+          "short_name": "9521",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "123 Holden St, Topeka, KS 66615, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.09396,
+          "lng": -95.943124
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.09530898029149,
+            "lng": -95.94177501970849
+          },
+          "southwest": {
+            "lat": 39.0926110197085,
+            "lng": -95.94447298029151
+          }
+        }
+      },
+      "place_id": "ChIJoxSrU9b2vocRkK-uEIGuEkY",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Willard",
+          "short_name": "Willard",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dover",
+          "short_name": "Dover",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shawnee County",
+          "short_name": "Shawnee County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66615",
+          "short_name": "66615",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Willard, KS 66615, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0965969,
+            "lng": -95.93839109999999
+          },
+          "southwest": {
+            "lat": 39.0918439,
+            "lng": -95.9471829
+          }
+        },
+        "location": {
+          "lat": 39.0933327,
+          "lng": -95.9419336
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0965969,
+            "lng": -95.93839109999999
+          },
+          "southwest": {
+            "lat": 39.0918439,
+            "lng": -95.9471829
+          }
+        }
+      },
+      "place_id": "ChIJmZwFJ9L2vocR-26WC4vVNGQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66615",
+          "short_name": "66615",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Topeka",
+          "short_name": "Topeka",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Topeka, KS 66615, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.103172,
+            "lng": -95.751346
+          },
+          "southwest": {
+            "lat": 39.015118,
+            "lng": -96.02598789999999
+          }
+        },
+        "location": {
+          "lat": 39.0579929,
+          "lng": -95.8881542
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.103172,
+            "lng": -95.751346
+          },
+          "southwest": {
+            "lat": 39.015118,
+            "lng": -96.02598789999999
+          }
+        }
+      },
+      "place_id": "ChIJa-QlCI7wvocRJcmknLDXlD0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Dover",
+          "short_name": "Dover",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shawnee County",
+          "short_name": "Shawnee County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dover, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.101419,
+            "lng": -95.83503809999999
+          },
+          "southwest": {
+            "lat": 38.9281201,
+            "lng": -95.9469929
+          }
+        },
+        "location": {
+          "lat": 39.0273625,
+          "lng": -95.8775964
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.101419,
+            "lng": -95.83503809999999
+          },
+          "southwest": {
+            "lat": 38.9281201,
+            "lng": -95.9469929
+          }
+        }
+      },
+      "place_id": "ChIJd0bZf676vocRsuXR3E5bfYU",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Shawnee County",
+          "short_name": "Shawnee County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shawnee County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.216958,
+            "lng": -95.500236
+          },
+          "southwest": {
+            "lat": 38.868867,
+            "lng": -96.03905990000001
+          }
+        },
+        "location": {
+          "lat": 39.0928449,
+          "lng": -95.81428849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.216958,
+            "lng": -95.500236
+          },
+          "southwest": {
+            "lat": 38.868867,
+            "lng": -96.03905990000001
+          }
+        }
+      },
+      "place_id": "ChIJlwNz_ZwCv4cRwvBvqnt9K48",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Topeka",
+          "short_name": "Topeka",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Topeka, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.6532219,
+            "lng": -95.17948899999999
+          },
+          "southwest": {
+            "lat": 38.434043,
+            "lng": -96.5017111
+          }
+        },
+        "location": {
+          "lat": 39.0928449,
+          "lng": -95.81428849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.6532219,
+            "lng": -95.17948899999999
+          },
+          "southwest": {
+            "lat": 38.434043,
+            "lng": -96.5017111
+          }
+        }
+      },
+      "place_id": "ChIJWftziY_8vocR0LV20sfCpFs",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,496 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "501",
+          "short_name": "501",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "3rd Street",
+          "short_name": "MO-5",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Purdin",
+          "short_name": "Purdin",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Benton Township",
+          "short_name": "Benton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Linn County",
+          "short_name": "Linn County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64674",
+          "short_name": "64674",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8186",
+          "short_name": "8186",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "501 MO-5, Purdin, MO 64674, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9508873,
+            "lng": -93.1663937
+          },
+          "southwest": {
+            "lat": 39.9496231,
+            "lng": -93.1664525
+          }
+        },
+        "location": {
+          "lat": 39.9508491,
+          "lng": -93.16643189999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9516041802915,
+            "lng": -93.1650741197085
+          },
+          "southwest": {
+            "lat": 39.9489062197085,
+            "lng": -93.16777208029151
+          }
+        }
+      },
+      "place_id": "EiE1MDEgM3JkIFN0LCBQdXJkaW4sIE1PIDY0Njc0LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Purdin",
+          "short_name": "Purdin",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Benton Township",
+          "short_name": "Benton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Linn County",
+          "short_name": "Linn County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64674",
+          "short_name": "64674",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Purdin, MO 64674, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9560478,
+            "lng": -93.161366
+          },
+          "southwest": {
+            "lat": 39.941745,
+            "lng": -93.1712869
+          }
+        },
+        "location": {
+          "lat": 39.9519661,
+          "lng": -93.1657615
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9560478,
+            "lng": -93.161366
+          },
+          "southwest": {
+            "lat": 39.941745,
+            "lng": -93.1712869
+          }
+        }
+      },
+      "place_id": "ChIJ2alUaubV6YcRFpyVuTXcf1g",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Benton Township",
+          "short_name": "Benton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Linn County",
+          "short_name": "Linn County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Benton Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.03685790000001,
+            "lng": -93.1222609
+          },
+          "southwest": {
+            "lat": 39.940487,
+            "lng": -93.226753
+          }
+        },
+        "location": {
+          "lat": 39.9999233,
+          "lng": -93.1578875
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.03685790000001,
+            "lng": -93.1222609
+          },
+          "southwest": {
+            "lat": 39.940487,
+            "lng": -93.226753
+          }
+        }
+      },
+      "place_id": "ChIJVSWKmSjU6YcRRm-UrrQW57s",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64674",
+          "short_name": "64674",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Purdin",
+          "short_name": "Purdin",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Linn County",
+          "short_name": "Linn County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Purdin, MO 64674, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0246059,
+            "lng": -92.986081
+          },
+          "southwest": {
+            "lat": 39.897785,
+            "lng": -93.321811
+          }
+        },
+        "location": {
+          "lat": 39.95889640000001,
+          "lng": -93.1578875
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0246059,
+            "lng": -92.986081
+          },
+          "southwest": {
+            "lat": 39.897785,
+            "lng": -93.321811
+          }
+        }
+      },
+      "place_id": "ChIJH_97WabV6YcRVuKQi3oPZUI",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Linn County",
+          "short_name": "Linn County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Linn County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.037301,
+            "lng": -92.847477
+          },
+          "southwest": {
+            "lat": 39.6999849,
+            "lng": -93.364808
+          }
+        },
+        "location": {
+          "lat": 39.8556605,
+          "lng": -93.17796589999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.037301,
+            "lng": -92.847477
+          },
+          "southwest": {
+            "lat": 39.6999849,
+            "lng": -93.364808
+          }
+        }
+      },
+      "place_id": "ChIJSU1dyuaGwocRaGVyPputtJc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

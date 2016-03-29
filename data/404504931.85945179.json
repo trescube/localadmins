@@ -1,0 +1,539 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "601-699",
+          "short_name": "601-699",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Market Street",
+          "short_name": "Market St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Kismet",
+          "short_name": "Kismet",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fargo",
+          "short_name": "Fargo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Seward County",
+          "short_name": "Seward County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67859",
+          "short_name": "67859",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9647",
+          "short_name": "9647",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "601-699 Market St, Kismet, KS 67859, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.205067,
+            "lng": -100.701416
+          },
+          "southwest": {
+            "lat": 37.2042969,
+            "lng": -100.701429
+          }
+        },
+        "location": {
+          "lat": 37.2044946,
+          "lng": -100.7014445
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.2060309302915,
+            "lng": -100.7000735197085
+          },
+          "southwest": {
+            "lat": 37.2033329697085,
+            "lng": -100.7027714802915
+          }
+        }
+      },
+      "place_id": "Eig2MDEtNjk5IE1hcmtldCBTdCwgS2lzbWV0LCBLUyA2Nzg1OSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kismet",
+          "short_name": "Kismet",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fargo",
+          "short_name": "Fargo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Seward County",
+          "short_name": "Seward County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67859",
+          "short_name": "67859",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Kismet, KS 67859, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.209527,
+            "lng": -100.695108
+          },
+          "southwest": {
+            "lat": 37.1988559,
+            "lng": -100.707927
+          }
+        },
+        "location": {
+          "lat": 37.2055766,
+          "lng": -100.7021002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.209527,
+            "lng": -100.695108
+          },
+          "southwest": {
+            "lat": 37.1988559,
+            "lng": -100.707927
+          }
+        }
+      },
+      "place_id": "ChIJRVrtvHghCIcRyHfYP3cLWSQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67859",
+          "short_name": "67859",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Kismet",
+          "short_name": "Kismet",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kismet, KS 67859, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.3731591,
+            "lng": -100.635234
+          },
+          "southwest": {
+            "lat": 37.150248,
+            "lng": -101.012932
+          }
+        },
+        "location": {
+          "lat": 37.2525811,
+          "lng": -100.7774424
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.3731591,
+            "lng": -100.635234
+          },
+          "southwest": {
+            "lat": 37.150248,
+            "lng": -101.012932
+          }
+        }
+      },
+      "place_id": "ChIJGxL8D4kYCIcRkKljXsApD4E",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fargo",
+          "short_name": "Fargo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Seward County",
+          "short_name": "Seward County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fargo, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.2573629,
+            "lng": -100.633
+          },
+          "southwest": {
+            "lat": 36.9986589,
+            "lng": -100.869351
+          }
+        },
+        "location": {
+          "lat": 37.1063784,
+          "lng": -100.7548851
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.2573629,
+            "lng": -100.633
+          },
+          "southwest": {
+            "lat": 36.9986589,
+            "lng": -100.869351
+          }
+        }
+      },
+      "place_id": "ChIJV6yZ3YkYCIcRIjcnogBRiaM",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Seward County",
+          "short_name": "Seward County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Seward County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.3878828,
+            "lng": -100.633
+          },
+          "southwest": {
+            "lat": 36.9979211,
+            "lng": -101.068066
+          }
+        },
+        "location": {
+          "lat": 37.221014,
+          "lng": -100.8903099
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.3878828,
+            "lng": -100.633
+          },
+          "southwest": {
+            "lat": 36.9979211,
+            "lng": -101.068066
+          }
+        }
+      },
+      "place_id": "ChIJ31NZhiY8CIcRB7Ur_WiaEHM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Liberal",
+          "short_name": "Liberal",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Liberal, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.3879491,
+            "lng": -100.633191
+          },
+          "southwest": {
+            "lat": 36.9979211,
+            "lng": -101.067903
+          }
+        },
+        "location": {
+          "lat": 37.221014,
+          "lng": -100.8903099
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.3879491,
+            "lng": -100.633191
+          },
+          "southwest": {
+            "lat": 36.9979211,
+            "lng": -101.067903
+          }
+        }
+      },
+      "place_id": "ChIJBxJ9Blo8CIcRL65N7oi3YSE",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

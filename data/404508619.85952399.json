@@ -1,0 +1,636 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2401-2499",
+          "short_name": "2401-2499",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Fair Avenue",
+          "short_name": "W Fair Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Trowbridge Park",
+          "short_name": "Trowbridge Park",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marquette",
+          "short_name": "Marquette",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marquette Township",
+          "short_name": "Marquette Charter Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marquette County",
+          "short_name": "Marquette County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49855",
+          "short_name": "49855",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2232",
+          "short_name": "2232",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "2401-2499 W Fair Ave, Marquette, MI 49855, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.5570196,
+            "lng": -87.4399299
+          },
+          "southwest": {
+            "lat": 46.5570189,
+            "lng": -87.44256519999999
+          }
+        },
+        "location": {
+          "lat": 46.5570065,
+          "lng": -87.4417197
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 46.55836823029149,
+            "lng": -87.43989856970849
+          },
+          "southwest": {
+            "lat": 46.55567026970849,
+            "lng": -87.4425965302915
+          }
+        }
+      },
+      "place_id": "Ei4yNDAxLTI0OTkgVyBGYWlyIEF2ZSwgTWFycXVldHRlLCBNSSA0OTg1NSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Trowbridge Park",
+          "short_name": "Trowbridge Park",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marquette",
+          "short_name": "Marquette",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marquette Township",
+          "short_name": "Marquette Charter Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marquette County",
+          "short_name": "Marquette County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49855",
+          "short_name": "49855",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Trowbridge Park, Marquette, MI 49855, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.5641849,
+            "lng": -87.426717
+          },
+          "southwest": {
+            "lat": 46.5490778,
+            "lng": -87.45832089999999
+          }
+        },
+        "location": {
+          "lat": 46.5565992,
+          "lng": -87.4373604
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.5641849,
+            "lng": -87.426717
+          },
+          "southwest": {
+            "lat": 46.5490778,
+            "lng": -87.45832089999999
+          }
+        }
+      },
+      "place_id": "ChIJ3VEmBSjfUU0RFZlC5sfKI2Q",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Marquette",
+          "short_name": "Marquette",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marquette County",
+          "short_name": "Marquette County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Marquette, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.6791689,
+            "lng": -87.3650445
+          },
+          "southwest": {
+            "lat": 46.4989531,
+            "lng": -87.614453
+          }
+        },
+        "location": {
+          "lat": 46.5475825,
+          "lng": -87.39559539999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.6791689,
+            "lng": -87.3650445
+          },
+          "southwest": {
+            "lat": 46.4989531,
+            "lng": -87.614453
+          }
+        }
+      },
+      "place_id": "ChIJhbZGxF3fUU0RGsdaTK1KNpE",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Marquette Township",
+          "short_name": "Marquette Charter Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marquette County",
+          "short_name": "Marquette County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Marquette Charter Township, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.6791689,
+            "lng": -87.3968939
+          },
+          "southwest": {
+            "lat": 46.4989531,
+            "lng": -87.614453
+          }
+        },
+        "location": {
+          "lat": 46.5497682,
+          "lng": -87.44781789999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.6791689,
+            "lng": -87.3968939
+          },
+          "southwest": {
+            "lat": 46.4989531,
+            "lng": -87.614453
+          }
+        }
+      },
+      "place_id": "ChIJS_hCo07aUU0RfgR3XrkocdA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "49855",
+          "short_name": "49855",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Marquette",
+          "short_name": "Marquette",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Marquette, MI 49855, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.876964,
+            "lng": -87.116474
+          },
+          "southwest": {
+            "lat": 46.358775,
+            "lng": -87.8530919
+          }
+        },
+        "location": {
+          "lat": 46.54777139999999,
+          "lng": -87.39562409999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.876964,
+            "lng": -87.116474
+          },
+          "southwest": {
+            "lat": 46.358775,
+            "lng": -87.8530919
+          }
+        }
+      },
+      "place_id": "ChIJsyFG7U0hTk0RkbW60Ilh0MI",
+      "postcode_localities": [
+        "Harvey",
+        "Marquette"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Marquette",
+          "short_name": "Marquette",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Marquette, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.9124945,
+            "lng": -87.115836
+          },
+          "southwest": {
+            "lat": 45.98501290000001,
+            "lng": -88.11746199999999
+          }
+        },
+        "location": {
+          "lat": 46.415474,
+          "lng": -87.6618341
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.9124945,
+            "lng": -87.115836
+          },
+          "southwest": {
+            "lat": 45.98501290000001,
+            "lng": -88.11746199999999
+          }
+        }
+      },
+      "place_id": "ChIJPXGDmUDpUU0R3jkGd3j-ldo",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Marquette County",
+          "short_name": "Marquette County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Marquette County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.9666677,
+            "lng": -87.115892
+          },
+          "southwest": {
+            "lat": 45.9850909,
+            "lng": -88.1176129
+          }
+        },
+        "location": {
+          "lat": 46.644579,
+          "lng": -87.5593823
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.9666677,
+            "lng": -87.115892
+          },
+          "southwest": {
+            "lat": 45.9850909,
+            "lng": -88.1176129
+          }
+        }
+      },
+      "place_id": "ChIJk7EPuTXEUU0R54RXYiR8OBE",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

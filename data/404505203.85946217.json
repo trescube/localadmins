@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "701-799",
+          "short_name": "701-799",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Monroe Street",
+          "short_name": "S Monroe St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Hugoton",
+          "short_name": "Hugoton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Center",
+          "short_name": "Center",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stevens County",
+          "short_name": "Stevens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67951",
+          "short_name": "67951",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2729",
+          "short_name": "2729",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "701-799 S Monroe St, Hugoton, KS 67951, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.1758419,
+            "lng": -101.346431
+          },
+          "southwest": {
+            "lat": 37.1745148,
+            "lng": -101.346433
+          }
+        },
+        "location": {
+          "lat": 37.1753407,
+          "lng": -101.3464505
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.1765273302915,
+            "lng": -101.3450830197085
+          },
+          "southwest": {
+            "lat": 37.1738293697085,
+            "lng": -101.3477809802915
+          }
+        }
+      },
+      "place_id": "Eis3MDEtNzk5IFMgTW9ucm9lIFN0LCBIdWdvdG9uLCBLUyA2Nzk1MSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hugoton",
+          "short_name": "Hugoton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Center",
+          "short_name": "Center",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stevens County",
+          "short_name": "Stevens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67951",
+          "short_name": "67951",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Hugoton, KS 67951, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.1896938,
+            "lng": -101.329961
+          },
+          "southwest": {
+            "lat": 37.1625629,
+            "lng": -101.3590871
+          }
+        },
+        "location": {
+          "lat": 37.1753025,
+          "lng": -101.3496025
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.1896938,
+            "lng": -101.329961
+          },
+          "southwest": {
+            "lat": 37.1625629,
+            "lng": -101.3590871
+          }
+        }
+      },
+      "place_id": "ChIJ0-MFsTXyCIcRJIj3qawiwBs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Center",
+          "short_name": "Center",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stevens County",
+          "short_name": "Stevens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Center, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.2572149,
+            "lng": -101.0673171
+          },
+          "southwest": {
+            "lat": 37.12634389999999,
+            "lng": -101.357372
+          }
+        },
+        "location": {
+          "lat": 37.1679036,
+          "lng": -101.2297105
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.2572149,
+            "lng": -101.0673171
+          },
+          "southwest": {
+            "lat": 37.12634389999999,
+            "lng": -101.357372
+          }
+        }
+      },
+      "place_id": "ChIJzaz_oYBbCIcRyR11ufw5xsI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67951",
+          "short_name": "67951",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Hugoton",
+          "short_name": "Hugoton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hugoton, KS 67951, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.4102819,
+            "lng": -101.066944
+          },
+          "southwest": {
+            "lat": 36.995853,
+            "lng": -101.592101
+          }
+        },
+        "location": {
+          "lat": 37.1402172,
+          "lng": -101.2977322
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.4102819,
+            "lng": -101.066944
+          },
+          "southwest": {
+            "lat": 36.995853,
+            "lng": -101.592101
+          }
+        }
+      },
+      "place_id": "ChIJ9YBvL7pfCIcRYdWhG7p1sjE",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Stevens County",
+          "short_name": "Stevens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Stevens County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.3887968,
+            "lng": -101.066457
+          },
+          "southwest": {
+            "lat": 36.9953239,
+            "lng": -101.5567759
+          }
+        },
+        "location": {
+          "lat": 37.186894,
+          "lng": -101.2523792
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.3887968,
+            "lng": -101.066457
+          },
+          "southwest": {
+            "lat": 36.9953239,
+            "lng": -101.5567759
+          }
+        }
+      },
+      "place_id": "ChIJ2Vup2-lYCIcRbpbGaQKg6uM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

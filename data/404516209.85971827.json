@@ -1,0 +1,532 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-117",
+          "short_name": "101-117",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Stukey Street",
+          "short_name": "State Hwy KK",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Kirksville",
+          "short_name": "Kirksville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pettis Township",
+          "short_name": "Pettis Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adair County",
+          "short_name": "Adair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63501",
+          "short_name": "63501",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "101-117 Stukey St, Kirksville, MO 63501, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.1080876,
+            "lng": -92.54524599999999
+          },
+          "southwest": {
+            "lat": 40.10737049999999,
+            "lng": -92.5461466
+          }
+        },
+        "location": {
+          "lat": 40.1074932,
+          "lng": -92.5459664
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.1090780302915,
+            "lng": -92.54434731970849
+          },
+          "southwest": {
+            "lat": 40.1063800697085,
+            "lng": -92.5470452802915
+          }
+        }
+      },
+      "place_id": "EiwxMDEtMTE3IFN0dWtleSBTdCwgS2lya3N2aWxsZSwgTU8gNjM1MDEsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Millard",
+          "short_name": "Millard",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pettis Township",
+          "short_name": "Pettis Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adair County",
+          "short_name": "Adair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63501",
+          "short_name": "63501",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Millard, MO 63501, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.109926,
+            "lng": -92.54239
+          },
+          "southwest": {
+            "lat": 40.1050198,
+            "lng": -92.5494789
+          }
+        },
+        "location": {
+          "lat": 40.10725559999999,
+          "lng": -92.546025
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.109926,
+            "lng": -92.54239
+          },
+          "southwest": {
+            "lat": 40.1050198,
+            "lng": -92.5494789
+          }
+        }
+      },
+      "place_id": "ChIJI83XsuQF6IcRg5-yMet8pVw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pettis Township",
+          "short_name": "Pettis Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adair County",
+          "short_name": "Adair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pettis Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.125031,
+            "lng": -92.51505979999999
+          },
+          "southwest": {
+            "lat": 40.0371169,
+            "lng": -92.70728539999999
+          }
+        },
+        "location": {
+          "lat": 40.0957361,
+          "lng": -92.59908349999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.125031,
+            "lng": -92.51505979999999
+          },
+          "southwest": {
+            "lat": 40.0371169,
+            "lng": -92.70728539999999
+          }
+        }
+      },
+      "place_id": "ChIJY3zWsy8F6IcR0hrTxSmJH68",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63501",
+          "short_name": "63501",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Kirksville",
+          "short_name": "Kirksville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kirksville, MO 63501, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.31811,
+            "lng": -92.41326409999999
+          },
+          "southwest": {
+            "lat": 40.0242499,
+            "lng": -92.8192979
+          }
+        },
+        "location": {
+          "lat": 40.1575874,
+          "lng": -92.5792482
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.31811,
+            "lng": -92.41326409999999
+          },
+          "southwest": {
+            "lat": 40.0242499,
+            "lng": -92.8192979
+          }
+        }
+      },
+      "place_id": "ChIJIwC7QOYR6IcRoXLbx9dP9bg",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Adair County",
+          "short_name": "Adair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Adair County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.346683,
+            "lng": -92.34506390000001
+          },
+          "southwest": {
+            "lat": 40.036894,
+            "lng": -92.85637179999999
+          }
+        },
+        "location": {
+          "lat": 40.1993655,
+          "lng": -92.539603
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.346683,
+            "lng": -92.34506390000001
+          },
+          "southwest": {
+            "lat": 40.036894,
+            "lng": -92.85637179999999
+          }
+        }
+      },
+      "place_id": "ChIJx4XcWkQM6IcRTMBpXv55KZ0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kirksville",
+          "short_name": "Kirksville",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kirksville, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.597274,
+            "lng": -92.34528499999999
+          },
+          "southwest": {
+            "lat": 40.03703,
+            "lng": -92.85639189999999
+          }
+        },
+        "location": {
+          "lat": 40.362703,
+          "lng": -92.539603
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.597274,
+            "lng": -92.34528499999999
+          },
+          "southwest": {
+            "lat": 40.03703,
+            "lng": -92.85639189999999
+          }
+        }
+      },
+      "place_id": "ChIJCaEmFy9z6IcRts5uq4iUseI",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

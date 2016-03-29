@@ -1,0 +1,493 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "322-332",
+          "short_name": "322-332",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Neosho Street",
+          "short_name": "Neosho St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "New Strawn",
+          "short_name": "New Strawn",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ottumwa",
+          "short_name": "Ottumwa",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coffey County",
+          "short_name": "Coffey County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66839",
+          "short_name": "66839",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "322-332 Neosho St, New Strawn, KS 66839, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.2618809,
+            "lng": -95.7420896
+          },
+          "southwest": {
+            "lat": 38.26186939999999,
+            "lng": -95.742859
+          }
+        },
+        "location": {
+          "lat": 38.2618856,
+          "lng": -95.74235540000001
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.2632241302915,
+            "lng": -95.7411253197085
+          },
+          "southwest": {
+            "lat": 38.2605261697085,
+            "lng": -95.74382328029151
+          }
+        }
+      },
+      "place_id": "EiwzMjItMzMyIE5lb3NobyBTdCwgTmV3IFN0cmF3biwgS1MgNjY4MzksIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New Strawn",
+          "short_name": "New Strawn",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ottumwa",
+          "short_name": "Ottumwa",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coffey County",
+          "short_name": "Coffey County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66839",
+          "short_name": "66839",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "New Strawn, KS 66839, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.273987,
+            "lng": -95.7364549
+          },
+          "southwest": {
+            "lat": 38.2501419,
+            "lng": -95.74806799999999
+          }
+        },
+        "location": {
+          "lat": 38.2625197,
+          "lng": -95.7419311
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.273987,
+            "lng": -95.7364549
+          },
+          "southwest": {
+            "lat": 38.2501419,
+            "lng": -95.74806799999999
+          }
+        }
+      },
+      "place_id": "ChIJu6h7RU0nuYcR_xmLA_hmExM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ottumwa",
+          "short_name": "Ottumwa",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coffey County",
+          "short_name": "Coffey County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ottumwa, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.346882,
+            "lng": -95.673497
+          },
+          "southwest": {
+            "lat": 38.2191719,
+            "lng": -95.831683
+          }
+        },
+        "location": {
+          "lat": 38.2812025,
+          "lng": -95.7510475
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.346882,
+            "lng": -95.673497
+          },
+          "southwest": {
+            "lat": 38.2191719,
+            "lng": -95.831683
+          }
+        }
+      },
+      "place_id": "ChIJq1UnFBUnuYcRlIWi473eUh0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66839",
+          "short_name": "66839",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Burlington",
+          "short_name": "Burlington",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coffey County",
+          "short_name": "Coffey County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Burlington, KS 66839, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.332096,
+            "lng": -95.591769
+          },
+          "southwest": {
+            "lat": 38.10505380000001,
+            "lng": -95.9258529
+          }
+        },
+        "location": {
+          "lat": 38.1970642,
+          "lng": -95.7510475
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.332096,
+            "lng": -95.591769
+          },
+          "southwest": {
+            "lat": 38.10505380000001,
+            "lng": -95.9258529
+          }
+        }
+      },
+      "place_id": "ChIJO6MOZvjfuIcRTfiRtoEKIqo",
+      "postcode_localities": [
+        "Burlington",
+        "New Strawn"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Coffey County",
+          "short_name": "Coffey County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Coffey County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.4345321,
+            "lng": -95.507474
+          },
+          "southwest": {
+            "lat": 38.0379379,
+            "lng": -95.9593019
+          }
+        },
+        "location": {
+          "lat": 38.2570639,
+          "lng": -95.81428849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.4345321,
+            "lng": -95.507474
+          },
+          "southwest": {
+            "lat": 38.0379379,
+            "lng": -95.9593019
+          }
+        }
+      },
+      "place_id": "ChIJvWrBkjEnuYcRLpVsKGCxdMo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

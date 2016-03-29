@@ -1,0 +1,481 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "401",
+          "short_name": "401",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Newberry Avenue",
+          "short_name": "M-123",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Newberry",
+          "short_name": "Newberry",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McMillan Township",
+          "short_name": "McMillan Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Luce County",
+          "short_name": "Luce County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49868",
+          "short_name": "49868",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "401 Newberry Ave, Newberry, MI 49868, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.3538433,
+            "lng": -85.5097964
+          },
+          "southwest": {
+            "lat": 46.3527875,
+            "lng": -85.5097971
+          }
+        },
+        "location": {
+          "lat": 46.353821,
+          "lng": -85.5097783
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 46.3546643802915,
+            "lng": -85.50844776970848
+          },
+          "southwest": {
+            "lat": 46.3519664197085,
+            "lng": -85.5111457302915
+          }
+        }
+      },
+      "place_id": "Eik0MDEgTmV3YmVycnkgQXZlLCBOZXdiZXJyeSwgTUkgNDk4NjgsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Newberry",
+          "short_name": "Newberry",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McMillan Township",
+          "short_name": "McMillan Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Luce County",
+          "short_name": "Luce County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49868",
+          "short_name": "49868",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Newberry, MI 49868, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.361106,
+            "lng": -85.49943979999999
+          },
+          "southwest": {
+            "lat": 46.346539,
+            "lng": -85.520359
+          }
+        },
+        "location": {
+          "lat": 46.3549984,
+          "lng": -85.50955859999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.361106,
+            "lng": -85.49943979999999
+          },
+          "southwest": {
+            "lat": 46.346539,
+            "lng": -85.520359
+          }
+        }
+      },
+      "place_id": "ChIJD9DN0itySU0RLVOACFe6L_Y",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "McMillan Township",
+          "short_name": "McMillan Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Luce County",
+          "short_name": "Luce County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "McMillan Township, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.7555328,
+            "lng": -85.23783800000001
+          },
+          "southwest": {
+            "lat": 46.3315701,
+            "lng": -85.8649319
+          }
+        },
+        "location": {
+          "lat": 46.5025918,
+          "lng": -85.4386459
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.7555328,
+            "lng": -85.23783800000001
+          },
+          "southwest": {
+            "lat": 46.3315701,
+            "lng": -85.8649319
+          }
+        }
+      },
+      "place_id": "ChIJodnBdGcJSU0Rr410UdLxQdI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "49868",
+          "short_name": "49868",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Newberry",
+          "short_name": "Newberry",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Newberry, MI 49868, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.76636999999999,
+            "lng": -85.23712309999999
+          },
+          "southwest": {
+            "lat": 46.1921779,
+            "lng": -85.9560829
+          }
+        },
+        "location": {
+          "lat": 46.5025918,
+          "lng": -85.4386459
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.76636999999999,
+            "lng": -85.23712309999999
+          },
+          "southwest": {
+            "lat": 46.1921779,
+            "lng": -85.9560829
+          }
+        }
+      },
+      "place_id": "ChIJJ9IPcKgNSU0RfbGzJqI3oz0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Luce County",
+          "short_name": "Luce County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Luce County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.7555328,
+            "lng": -85.23782899999999
+          },
+          "southwest": {
+            "lat": 46.244631,
+            "lng": -85.8650601
+          }
+        },
+        "location": {
+          "lat": 46.5827512,
+          "lng": -85.513329
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.7555328,
+            "lng": -85.23782899999999
+          },
+          "southwest": {
+            "lat": 46.244631,
+            "lng": -85.8650601
+          }
+        }
+      },
+      "place_id": "ChIJt7sYO8r9SE0R7e5VZGnvdoA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

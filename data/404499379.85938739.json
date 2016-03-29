@@ -1,0 +1,532 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200-220",
+          "short_name": "200-220",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Railroad Street",
+          "short_name": "N Railroad St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Medora",
+          "short_name": "Medora",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chesterfield Township",
+          "short_name": "Chesterfield Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Macoupin County",
+          "short_name": "Macoupin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62063",
+          "short_name": "62063",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "200-220 N Railroad St, Medora, IL 62063, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.1769339,
+            "lng": -90.1412019
+          },
+          "southwest": {
+            "lat": 39.176024,
+            "lng": -90.141339
+          }
+        },
+        "location": {
+          "lat": 39.1765299,
+          "lng": -90.1412805
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1778279302915,
+            "lng": -90.1399214697085
+          },
+          "southwest": {
+            "lat": 39.1751299697085,
+            "lng": -90.1426194302915
+          }
+        }
+      },
+      "place_id": "EiwyMDAtMjIwIE4gUmFpbHJvYWQgU3QsIE1lZG9yYSwgSUwgNjIwNjMsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Medora",
+          "short_name": "Medora",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chesterfield Township",
+          "short_name": "Chesterfield Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Macoupin County",
+          "short_name": "Macoupin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62063",
+          "short_name": "62063",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Medora, IL 62063, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.1813361,
+            "lng": -90.134959
+          },
+          "southwest": {
+            "lat": 39.1671988,
+            "lng": -90.1464379
+          }
+        },
+        "location": {
+          "lat": 39.1744908,
+          "lng": -90.1431654
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1813361,
+            "lng": -90.134959
+          },
+          "southwest": {
+            "lat": 39.1671988,
+            "lng": -90.1464379
+          }
+        }
+      },
+      "place_id": "ChIJ9d_Fbph634cRcBAPnLCrK8k",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chesterfield Township",
+          "short_name": "Chesterfield Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Macoupin County",
+          "short_name": "Macoupin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chesterfield Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.262113,
+            "lng": -90.03612609999999
+          },
+          "southwest": {
+            "lat": 39.17423110000001,
+            "lng": -90.1480689
+          }
+        },
+        "location": {
+          "lat": 39.2167279,
+          "lng": -90.09336859999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.262113,
+            "lng": -90.03612609999999
+          },
+          "southwest": {
+            "lat": 39.17423110000001,
+            "lng": -90.1480689
+          }
+        }
+      },
+      "place_id": "ChIJNXvj6up734cR-kWENY3d168",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62063",
+          "short_name": "62063",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Medora",
+          "short_name": "Medora",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Medora, IL 62063, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.298451,
+            "lng": -90.031053
+          },
+          "southwest": {
+            "lat": 39.13767199999999,
+            "lng": -90.24938089999999
+          }
+        },
+        "location": {
+          "lat": 39.2166442,
+          "lng": -90.1682271
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.298451,
+            "lng": -90.031053
+          },
+          "southwest": {
+            "lat": 39.13767199999999,
+            "lng": -90.24938089999999
+          }
+        }
+      },
+      "place_id": "ChIJoae9mIFw34cRadSAT3ABngA",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Macoupin County",
+          "short_name": "Macoupin County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Macoupin County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5233688,
+            "lng": -89.6983829
+          },
+          "southwest": {
+            "lat": 38.998349,
+            "lng": -90.1537499
+          }
+        },
+        "location": {
+          "lat": 39.2375268,
+          "lng": -89.9253233
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5233688,
+            "lng": -89.6983829
+          },
+          "southwest": {
+            "lat": 38.998349,
+            "lng": -90.1537499
+          }
+        }
+      },
+      "place_id": "ChIJL1_AUVCDdYgRcdRWuts_TzI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Louis",
+          "short_name": "St. Louis",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Louis, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        },
+        "location": {
+          "lat": 38.8196814,
+          "lng": -90.4502368
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        }
+      },
+      "place_id": "ChIJneBzzj4z34cRFGg2ez6q57o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

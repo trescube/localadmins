@@ -1,0 +1,555 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "401-499",
+          "short_name": "401-499",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Gerrard Avenue",
+          "short_name": "Gerrard Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Monroe",
+          "short_name": "Monroe",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oconee",
+          "short_name": "Oconee",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68647",
+          "short_name": "68647",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4035",
+          "short_name": "4035",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "401-499 Gerrard Ave, Monroe, NE 68647, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4742897,
+            "lng": -97.5993039
+          },
+          "southwest": {
+            "lat": 41.4742457,
+            "lng": -97.60172610000001
+          }
+        },
+        "location": {
+          "lat": 41.4742644,
+          "lng": -97.59992129999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4756166802915,
+            "lng": -97.5991660197085
+          },
+          "southwest": {
+            "lat": 41.4729187197085,
+            "lng": -97.60186398029151
+          }
+        }
+      },
+      "place_id": "Eio0MDEtNDk5IEdlcnJhcmQgQXZlLCBNb25yb2UsIE5FIDY4NjQ3LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Monroe",
+          "short_name": "Monroe",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oconee",
+          "short_name": "Oconee",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68647",
+          "short_name": "68647",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Monroe, NE 68647, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.47697,
+            "lng": -97.5940398
+          },
+          "southwest": {
+            "lat": 41.4712898,
+            "lng": -97.606459
+          }
+        },
+        "location": {
+          "lat": 41.474144,
+          "lng": -97.5993531
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.47697,
+            "lng": -97.5940398
+          },
+          "southwest": {
+            "lat": 41.4712898,
+            "lng": -97.606459
+          }
+        }
+      },
+      "place_id": "ChIJJSPtTWOQkIcR4LrKUTrZEMg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Oconee",
+          "short_name": "Oconee",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Oconee, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4831321,
+            "lng": -97.48362010000001
+          },
+          "southwest": {
+            "lat": 41.420939,
+            "lng": -97.704
+          }
+        },
+        "location": {
+          "lat": 41.4555241,
+          "lng": -97.6656625
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4831321,
+            "lng": -97.48362010000001
+          },
+          "southwest": {
+            "lat": 41.420939,
+            "lng": -97.704
+          }
+        }
+      },
+      "place_id": "ChIJacZ9x5WQkIcRd8eGE7bAlpk",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68647",
+          "short_name": "68647",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Monroe",
+          "short_name": "Monroe",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Monroe, NE 68647, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6276699,
+            "lng": -97.5209749
+          },
+          "southwest": {
+            "lat": 41.4385909,
+            "lng": -97.6986969
+          }
+        },
+        "location": {
+          "lat": 41.5273037,
+          "lng": -97.63311300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6276699,
+            "lng": -97.5209749
+          },
+          "southwest": {
+            "lat": 41.4385909,
+            "lng": -97.6986969
+          }
+        }
+      },
+      "place_id": "ChIJVddi2FiFkIcRLfKuWAnBFCk",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Platte County",
+          "short_name": "Platte County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Platte County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.743212,
+            "lng": -97.252415
+          },
+          "southwest": {
+            "lat": 41.3329869,
+            "lng": -97.831215
+          }
+        },
+        "location": {
+          "lat": 41.59406,
+          "lng": -97.5247243
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.743212,
+            "lng": -97.252415
+          },
+          "southwest": {
+            "lat": 41.3329869,
+            "lng": -97.831215
+          }
+        }
+      },
+      "place_id": "ChIJdfcCSL7ZkIcRr_fKU3bOcvc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Columbus",
+          "short_name": "Columbus",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Columbus, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.743164,
+            "lng": -97.25228489999999
+          },
+          "southwest": {
+            "lat": 41.332989,
+            "lng": -97.83134799999999
+          }
+        },
+        "location": {
+          "lat": 41.59406,
+          "lng": -97.5247243
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.743164,
+            "lng": -97.25228489999999
+          },
+          "southwest": {
+            "lat": 41.332989,
+            "lng": -97.83134799999999
+          }
+        }
+      },
+      "place_id": "ChIJ-wTcUCGMkIcRCIWQqWaNr5M",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

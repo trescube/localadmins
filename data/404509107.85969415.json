@@ -1,0 +1,442 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "11727",
+          "short_name": "11727",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Highway 52",
+          "short_name": "Hwy 52",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Baker",
+          "short_name": "Baker",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Alliance Township",
+          "short_name": "Alliance Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clay County",
+          "short_name": "Clay County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Minnesota",
+          "short_name": "MN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "56580",
+          "short_name": "56580",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "11727 Hwy 52, Baker, MN 56580, USA",
+      "geometry": {
+        "location": {
+          "lat": 46.711248,
+          "lng": -96.55387999999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 46.7125969802915,
+            "lng": -96.5525310197085
+          },
+          "southwest": {
+            "lat": 46.7098990197085,
+            "lng": -96.5552289802915
+          }
+        }
+      },
+      "place_id": "ChIJmQimTaHeyFIR95G8XmWdtD4",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Alliance Township",
+          "short_name": "Alliance Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clay County",
+          "short_name": "Clay County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Minnesota",
+          "short_name": "MN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Alliance Township, MN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.7179499,
+            "lng": -96.5468001
+          },
+          "southwest": {
+            "lat": 46.6305939,
+            "lng": -96.67434589999999
+          }
+        },
+        "location": {
+          "lat": 46.6734373,
+          "lng": -96.608369
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.7179499,
+            "lng": -96.5468001
+          },
+          "southwest": {
+            "lat": 46.6305939,
+            "lng": -96.67434589999999
+          }
+        }
+      },
+      "place_id": "ChIJHaTIuKrZyFIRCdgBEZ9sKsA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "56580",
+          "short_name": "56580",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Sabin",
+          "short_name": "Sabin",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Minnesota",
+          "short_name": "MN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sabin, MN 56580, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 46.846248,
+            "lng": -96.4825498
+          },
+          "southwest": {
+            "lat": 46.5582001,
+            "lng": -96.68426509999999
+          }
+        },
+        "location": {
+          "lat": 46.7321982,
+          "lng": -96.5990612
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 46.846248,
+            "lng": -96.4825498
+          },
+          "southwest": {
+            "lat": 46.5582001,
+            "lng": -96.68426509999999
+          }
+        }
+      },
+      "place_id": "ChIJhfy4ekbayFIRYbAOBr2RvH0",
+      "postcode_localities": [
+        "Baker",
+        "Sabin"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clay County",
+          "short_name": "Clay County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Minnesota",
+          "short_name": "MN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clay County, MN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.151435,
+            "lng": -96.1722705
+          },
+          "southwest": {
+            "lat": 46.628569,
+            "lng": -96.84012190000001
+          }
+        },
+        "location": {
+          "lat": 46.878186,
+          "lng": -96.42575889999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.151435,
+            "lng": -96.1722705
+          },
+          "southwest": {
+            "lat": 46.628569,
+            "lng": -96.84012190000001
+          }
+        }
+      },
+      "place_id": "ChIJ5RcS3T6FyFIR9zcWg_OsdIc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fargo",
+          "short_name": "Fargo",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fargo, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.2400391,
+            "lng": -96.17227009999999
+          },
+          "southwest": {
+            "lat": 46.6291531,
+            "lng": -97.7061171
+          }
+        },
+        "location": {
+          "lat": 47.071168,
+          "lng": -97.12155790000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.2400391,
+            "lng": -96.17227009999999
+          },
+          "southwest": {
+            "lat": 46.6291531,
+            "lng": -97.7061171
+          }
+        }
+      },
+      "place_id": "ChIJ25xg6Yw1z1IRXmjap8fq35U",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Minnesota",
+          "short_name": "MN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Minnesota, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 49.3828204,
+            "lng": -89.49183339999999
+          },
+          "southwest": {
+            "lat": 43.499361,
+            "lng": -97.23919579999999
+          }
+        },
+        "location": {
+          "lat": 46.729553,
+          "lng": -94.6858998
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.3826902,
+            "lng": -89.49183339999999
+          },
+          "southwest": {
+            "lat": 43.499361,
+            "lng": -97.23919579999999
+          }
+        }
+      },
+      "place_id": "ChIJmwt4YJpbWE0RD6L-EJvJogI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

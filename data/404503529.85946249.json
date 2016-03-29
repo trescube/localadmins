@@ -1,0 +1,543 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301-351",
+          "short_name": "301-351",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Maple Street",
+          "short_name": "Maple St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Leona",
+          "short_name": "Leona",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wolf River",
+          "short_name": "Wolf River",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Doniphan County",
+          "short_name": "Doniphan County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66532",
+          "short_name": "66532",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9554",
+          "short_name": "9554",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "301-351 Maple St, Leona, KS 66532, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.786614,
+            "lng": -95.321585
+          },
+          "southwest": {
+            "lat": 39.786117,
+            "lng": -95.32159
+          }
+        },
+        "location": {
+          "lat": 39.7861876,
+          "lng": -95.3216076
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7877144802915,
+            "lng": -95.3202385197085
+          },
+          "southwest": {
+            "lat": 39.7850165197085,
+            "lng": -95.3229364802915
+          }
+        }
+      },
+      "place_id": "EiYzMDEtMzUxIE1hcGxlIFN0LCBMZW9uYSwgS1MgNjY1MzIsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Leona",
+          "short_name": "Leona",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wolf River",
+          "short_name": "Wolf River",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Doniphan County",
+          "short_name": "Doniphan County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66532",
+          "short_name": "66532",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Leona, KS 66532, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.788803,
+            "lng": -95.31938079999999
+          },
+          "southwest": {
+            "lat": 39.784028,
+            "lng": -95.323768
+          }
+        },
+        "location": {
+          "lat": 39.7872224,
+          "lng": -95.3216436
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.788803,
+            "lng": -95.31938079999999
+          },
+          "southwest": {
+            "lat": 39.784028,
+            "lng": -95.323768
+          }
+        }
+      },
+      "place_id": "ChIJxyRueALgv4cRvUmTihJdVFU",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wolf River",
+          "short_name": "Wolf River",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Doniphan County",
+          "short_name": "Doniphan County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wolf River, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8277778,
+            "lng": -95.152687
+          },
+          "southwest": {
+            "lat": 39.7402839,
+            "lng": -95.33989509999999
+          }
+        },
+        "location": {
+          "lat": 39.8012156,
+          "lng": -95.2475518
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8277778,
+            "lng": -95.152687
+          },
+          "southwest": {
+            "lat": 39.7402839,
+            "lng": -95.33989509999999
+          }
+        }
+      },
+      "place_id": "ChIJ29YOSV7jv4cR3W65_kgHZTw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66532",
+          "short_name": "66532",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Robinson",
+          "short_name": "Robinson",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Robinson, KS 66532, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.98706689999999,
+            "lng": -95.26505379999999
+          },
+          "southwest": {
+            "lat": 39.740124,
+            "lng": -95.4895669
+          }
+        },
+        "location": {
+          "lat": 39.836542,
+          "lng": -95.37301760000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.98706689999999,
+            "lng": -95.26505379999999
+          },
+          "southwest": {
+            "lat": 39.740124,
+            "lng": -95.4895669
+          }
+        }
+      },
+      "place_id": "ChIJKSza_j_gv4cRzlRK9wYMB8g",
+      "postcode_localities": [
+        "Leona",
+        "Robinson"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Doniphan County",
+          "short_name": "Doniphan County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Doniphan County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0000001,
+            "lng": -94.8590349
+          },
+          "southwest": {
+            "lat": 39.6235268,
+            "lng": -95.339958
+          }
+        },
+        "location": {
+          "lat": 39.8245628,
+          "lng": -95.18492189999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0000001,
+            "lng": -94.8590349
+          },
+          "southwest": {
+            "lat": 39.6235268,
+            "lng": -95.339958
+          }
+        }
+      },
+      "place_id": "ChIJOduz0ET8v4cRnpWFQznHNiM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Joseph",
+          "short_name": "St. Joseph",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Joseph, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.130305,
+            "lng": -94.203454
+          },
+          "southwest": {
+            "lat": 39.531296,
+            "lng": -95.33994299999999
+          }
+        },
+        "location": {
+          "lat": 39.7995828,
+          "lng": -94.81059549999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.130305,
+            "lng": -94.203454
+          },
+          "southwest": {
+            "lat": 39.531296,
+            "lng": -95.33994299999999
+          }
+        }
+      },
+      "place_id": "ChIJzx5Jd_EewIcRMPOa-xvQ4d4",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

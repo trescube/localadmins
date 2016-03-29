@@ -1,0 +1,501 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "401-467",
+          "short_name": "401-467",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Dix Street",
+          "short_name": "Dix St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Octavia",
+          "short_name": "Octavia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bone Creek",
+          "short_name": "Bone Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68632",
+          "short_name": "68632",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "6516",
+          "short_name": "6516",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "401-467 Dix St, Octavia, NE 68632, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3475413,
+            "lng": -97.05884689999999
+          },
+          "southwest": {
+            "lat": 41.3465838,
+            "lng": -97.05885669999999
+          }
+        },
+        "location": {
+          "lat": 41.3474535,
+          "lng": -97.0588666
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.34841153029149,
+            "lng": -97.05750281970847
+          },
+          "southwest": {
+            "lat": 41.3457135697085,
+            "lng": -97.0602007802915
+          }
+        }
+      },
+      "place_id": "EiY0MDEtNDY3IERpeCBTdCwgT2N0YXZpYSwgTkUgNjg2MzIsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Octavia",
+          "short_name": "Octavia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bone Creek",
+          "short_name": "Bone Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68632",
+          "short_name": "68632",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Octavia, NE 68632, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3521889,
+            "lng": -97.05607479999999
+          },
+          "southwest": {
+            "lat": 41.3434999,
+            "lng": -97.0635279
+          }
+        },
+        "location": {
+          "lat": 41.348066,
+          "lng": -97.05892349999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3521889,
+            "lng": -97.05607479999999
+          },
+          "southwest": {
+            "lat": 41.3434999,
+            "lng": -97.0635279
+          }
+        }
+      },
+      "place_id": "ChIJ9ztNoFcgkYcRg8F-hXhcKns",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bone Creek",
+          "short_name": "Bone Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bone Creek, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4132741,
+            "lng": -97.02071289999999
+          },
+          "southwest": {
+            "lat": 41.307077,
+            "lng": -97.1382469
+          }
+        },
+        "location": {
+          "lat": 41.3641318,
+          "lng": -97.0713572
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4132741,
+            "lng": -97.02071289999999
+          },
+          "southwest": {
+            "lat": 41.307077,
+            "lng": -97.1382469
+          }
+        }
+      },
+      "place_id": "ChIJY9RMHW0gkYcRIMw7qs3kEpk",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68632",
+          "short_name": "68632",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "David City",
+          "short_name": "David City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "David City, NE 68632, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3870809,
+            "lng": -97.0045879
+          },
+          "southwest": {
+            "lat": 41.07571799999999,
+            "lng": -97.3109559
+          }
+        },
+        "location": {
+          "lat": 41.2602986,
+          "lng": -97.1359377
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3870809,
+            "lng": -97.0045879
+          },
+          "southwest": {
+            "lat": 41.07571799999999,
+            "lng": -97.3109559
+          }
+        }
+      },
+      "place_id": "ChIJmyfo3PPXkIcRV7tjEg8Sk9A",
+      "postcode_localities": [
+        "David City",
+        "Garrison",
+        "Octavia"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Butler County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4564359,
+            "lng": -96.9057699
+          },
+          "southwest": {
+            "lat": 41.04609079999999,
+            "lng": -97.368274
+          }
+        },
+        "location": {
+          "lat": 41.1375727,
+          "lng": -97.179026
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4564359,
+            "lng": -96.9057699
+          },
+          "southwest": {
+            "lat": 41.04609079999999,
+            "lng": -97.368274
+          }
+        }
+      },
+      "place_id": "ChIJId_NSz_YkIcR9jOVcMh-L1A",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,495 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "403-409",
+          "short_name": "403-409",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "4th Street",
+          "short_name": "4th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Jamestown",
+          "short_name": "Jamestown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Grant",
+          "short_name": "Grant",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cloud County",
+          "short_name": "Cloud County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66948",
+          "short_name": "66948",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9754",
+          "short_name": "9754",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "403-409 4th St, Jamestown, KS 66948, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5994257,
+            "lng": -97.8610063
+          },
+          "southwest": {
+            "lat": 39.5993966,
+            "lng": -97.8623945
+          }
+        },
+        "location": {
+          "lat": 39.59941610000001,
+          "lng": -97.8612479
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.6007601302915,
+            "lng": -97.86035141970848
+          },
+          "southwest": {
+            "lat": 39.5980621697085,
+            "lng": -97.8630493802915
+          }
+        }
+      },
+      "place_id": "Eig0MDMtNDA5IDR0aCBTdCwgSmFtZXN0b3duLCBLUyA2Njk0OCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Jamestown",
+          "short_name": "Jamestown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Grant",
+          "short_name": "Grant",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cloud County",
+          "short_name": "Cloud County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66948",
+          "short_name": "66948",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Jamestown, KS 66948, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.604071,
+            "lng": -97.85651109999999
+          },
+          "southwest": {
+            "lat": 39.5938419,
+            "lng": -97.8659491
+          }
+        },
+        "location": {
+          "lat": 39.5994495,
+          "lng": -97.8611542
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.604071,
+            "lng": -97.85651109999999
+          },
+          "southwest": {
+            "lat": 39.5938419,
+            "lng": -97.8659491
+          }
+        }
+      },
+      "place_id": "ChIJx92qxS2soocRShKm2zbzSEs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Grant",
+          "short_name": "Grant",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cloud County",
+          "short_name": "Cloud County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66948",
+          "short_name": "66948",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Grant, KS 66948, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.653844,
+            "lng": -97.819189
+          },
+          "southwest": {
+            "lat": 39.56673,
+            "lng": -97.9319979
+          }
+        },
+        "location": {
+          "lat": 39.6102999,
+          "lng": -97.8939317
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.653844,
+            "lng": -97.819189
+          },
+          "southwest": {
+            "lat": 39.56673,
+            "lng": -97.9319979
+          }
+        }
+      },
+      "place_id": "ChIJ1ZqxGp-uoocR0j5yUeNFVmI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66948",
+          "short_name": "66948",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Jamestown",
+          "short_name": "Jamestown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Jamestown, KS 66948, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.7130831,
+            "lng": -97.717539
+          },
+          "southwest": {
+            "lat": 39.4666511,
+            "lng": -97.9878641
+          }
+        },
+        "location": {
+          "lat": 39.61325660000001,
+          "lng": -97.8503951
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7130831,
+            "lng": -97.717539
+          },
+          "southwest": {
+            "lat": 39.4666511,
+            "lng": -97.9878641
+          }
+        }
+      },
+      "place_id": "ChIJlYPKRkmsoocRb9Cg1iKLlCg",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cloud County",
+          "short_name": "Cloud County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cloud County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.654043,
+            "lng": -97.3683739
+          },
+          "southwest": {
+            "lat": 39.306011,
+            "lng": -97.9319979
+          }
+        },
+        "location": {
+          "lat": 39.4795571,
+          "lng": -97.69822719999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.654043,
+            "lng": -97.3683739
+          },
+          "southwest": {
+            "lat": 39.306011,
+            "lng": -97.9319979
+          }
+        }
+      },
+      "place_id": "ChIJkZPtt_NFvYcR6CCNXkovR4w",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

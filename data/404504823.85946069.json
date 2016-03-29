@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "406",
+          "short_name": "406",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Highway Avenue",
+          "short_name": "Hwy Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Mahaska",
+          "short_name": "Mahaska",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Union",
+          "short_name": "Union",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66955",
+          "short_name": "66955",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9216",
+          "short_name": "9216",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "406 Hwy Ave, Mahaska, KS 66955, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9877037,
+            "lng": -97.3524965
+          },
+          "southwest": {
+            "lat": 39.9876965,
+            "lng": -97.3538073
+          }
+        },
+        "location": {
+          "lat": 39.9876823,
+          "lng": -97.353765
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9890490802915,
+            "lng": -97.35180291970849
+          },
+          "southwest": {
+            "lat": 39.9863511197085,
+            "lng": -97.3545008802915
+          }
+        }
+      },
+      "place_id": "EiM0MDYgSHd5IEF2ZSwgTWFoYXNrYSwgS1MgNjY5NTUsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mahaska",
+          "short_name": "Mahaska",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Union",
+          "short_name": "Union",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66955",
+          "short_name": "66955",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Mahaska, KS 66955, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9935338,
+            "lng": -97.3491729
+          },
+          "southwest": {
+            "lat": 39.982309,
+            "lng": -97.357834
+          }
+        },
+        "location": {
+          "lat": 39.9875046,
+          "lng": -97.35420529999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9935338,
+            "lng": -97.3491729
+          },
+          "southwest": {
+            "lat": 39.982309,
+            "lng": -97.357834
+          }
+        }
+      },
+      "place_id": "ChIJbU55xPjDl4cRS9mP2p2Wuu0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Union",
+          "short_name": "Union",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Union, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0020339,
+            "lng": -97.2564419
+          },
+          "southwest": {
+            "lat": 39.914922,
+            "lng": -97.369237
+          }
+        },
+        "location": {
+          "lat": 39.9750336,
+          "lng": -97.33005299999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0020339,
+            "lng": -97.2564419
+          },
+          "southwest": {
+            "lat": 39.914922,
+            "lng": -97.369237
+          }
+        }
+      },
+      "place_id": "ChIJS5YShFbEl4cRUus0IJi-oG4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66955",
+          "short_name": "66955",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Mahaska",
+          "short_name": "Mahaska",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mahaska, KS 66955, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0599519,
+            "lng": -97.18188889999999
+          },
+          "southwest": {
+            "lat": 39.9006491,
+            "lng": -97.4073119
+          }
+        },
+        "location": {
+          "lat": 39.9750336,
+          "lng": -97.33005299999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0599519,
+            "lng": -97.18188889999999
+          },
+          "southwest": {
+            "lat": 39.9006491,
+            "lng": -97.4073119
+          }
+        }
+      },
+      "place_id": "ChIJdwOKxp_Fl4cRI-x_5tKYb08",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Washington County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0020339,
+            "lng": -96.8056929
+          },
+          "southwest": {
+            "lat": 39.566345,
+            "lng": -97.369244
+          }
+        },
+        "location": {
+          "lat": 39.8413319,
+          "lng": -97.179026
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0020339,
+            "lng": -96.8056929
+          },
+          "southwest": {
+            "lat": 39.566345,
+            "lng": -97.369244
+          }
+        }
+      },
+      "place_id": "ChIJRz6OWwiAvYcRkpxGOzSWGZ8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-199",
+          "short_name": "101-199",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Garfield Street",
+          "short_name": "Garfield St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Prescott",
+          "short_name": "Prescott",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Richland Township",
+          "short_name": "Richland Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ogemaw County",
+          "short_name": "Ogemaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "48756",
+          "short_name": "48756",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5101",
+          "short_name": "5101",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "101-199 Garfield St, Prescott, MI 48756, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.1918248,
+            "lng": -83.9304962
+          },
+          "southwest": {
+            "lat": 44.1917803,
+            "lng": -83.9326036
+          }
+        },
+        "location": {
+          "lat": 44.1917744,
+          "lng": -83.93224599999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 44.1931515302915,
+            "lng": -83.93020091970848
+          },
+          "southwest": {
+            "lat": 44.1904535697085,
+            "lng": -83.9328988802915
+          }
+        }
+      },
+      "place_id": "EiwxMDEtMTk5IEdhcmZpZWxkIFN0LCBQcmVzY290dCwgTUkgNDg3NTYsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Prescott",
+          "short_name": "Prescott",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Richland Township",
+          "short_name": "Richland Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ogemaw County",
+          "short_name": "Ogemaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "48756",
+          "short_name": "48756",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Prescott, MI 48756, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.198267,
+            "lng": -83.919803
+          },
+          "southwest": {
+            "lat": 44.18496589999999,
+            "lng": -83.9447299
+          }
+        },
+        "location": {
+          "lat": 44.1919638,
+          "lng": -83.9308245
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.198267,
+            "lng": -83.919803
+          },
+          "southwest": {
+            "lat": 44.18496589999999,
+            "lng": -83.9447299
+          }
+        }
+      },
+      "place_id": "ChIJKQUwVH0fIYgRl9StnPsNqxI",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Richland Township",
+          "short_name": "Richland Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ogemaw County",
+          "short_name": "Ogemaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Richland Township, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.2483469,
+            "lng": -83.883428
+          },
+          "southwest": {
+            "lat": 44.161716,
+            "lng": -84.005552
+          }
+        },
+        "location": {
+          "lat": 44.2206063,
+          "lng": -83.9532571
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.2483469,
+            "lng": -83.883428
+          },
+          "southwest": {
+            "lat": 44.161716,
+            "lng": -84.005552
+          }
+        }
+      },
+      "place_id": "ChIJ5SozkpwfIYgRNwbdf_vvBiE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "48756",
+          "short_name": "48756",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Prescott",
+          "short_name": "Prescott",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Prescott, MI 48756, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.3131029,
+            "lng": -83.883428
+          },
+          "southwest": {
+            "lat": 44.1554621,
+            "lng": -84.083107
+          }
+        },
+        "location": {
+          "lat": 44.2028231,
+          "lng": -83.9744262
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.3131029,
+            "lng": -83.883428
+          },
+          "southwest": {
+            "lat": 44.1554621,
+            "lng": -84.083107
+          }
+        }
+      },
+      "place_id": "ChIJ3YzOat7hIIgRG4HcVMttvqI",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ogemaw County",
+          "short_name": "Ogemaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ogemaw County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.5092679,
+            "lng": -83.88317909999999
+          },
+          "southwest": {
+            "lat": 44.1605378,
+            "lng": -84.370643
+          }
+        },
+        "location": {
+          "lat": 44.3270741,
+          "lng": -84.1857115
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.5092679,
+            "lng": -83.88317909999999
+          },
+          "southwest": {
+            "lat": 44.1605378,
+            "lng": -84.370643
+          }
+        }
+      },
+      "place_id": "ChIJe2TeI8TtIIgR_27gean5m7Q",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

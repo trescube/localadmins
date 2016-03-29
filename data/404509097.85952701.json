@@ -1,0 +1,389 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "30300",
+          "short_name": "30300",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Oak Street",
+          "short_name": "Oak St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lindstrom",
+          "short_name": "Lindstrom",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chisago County",
+          "short_name": "Chisago County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Minnesota",
+          "short_name": "MN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "55045",
+          "short_name": "55045",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "30300 Oak St, Lindstrom, MN 55045, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.3876752,
+            "lng": -92.84467959999999
+          },
+          "southwest": {
+            "lat": 45.38718410000001,
+            "lng": -92.84549419999999
+          }
+        },
+        "location": {
+          "lat": 45.38719409999999,
+          "lng": -92.84550639999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 45.3887786302915,
+            "lng": -92.84373791970849
+          },
+          "southwest": {
+            "lat": 45.3860806697085,
+            "lng": -92.8464358802915
+          }
+        }
+      },
+      "place_id": "EiYzMDMwMCBPYWsgU3QsIExpbmRzdHJvbSwgTU4gNTUwNDUsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "55045",
+          "short_name": "55045",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Lindstrom",
+          "short_name": "Lindstrom",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Minnesota",
+          "short_name": "MN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lindstrom, MN 55045, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.5131971,
+            "lng": -92.75296999999999
+          },
+          "southwest": {
+            "lat": 45.2963211,
+            "lng": -92.897043
+          }
+        },
+        "location": {
+          "lat": 45.3678572,
+          "lng": -92.82734909999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.5131971,
+            "lng": -92.75296999999999
+          },
+          "southwest": {
+            "lat": 45.2963211,
+            "lng": -92.897043
+          }
+        }
+      },
+      "place_id": "ChIJe4iOyTbtslIRKWKhOiST004",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chisago Lake Township",
+          "short_name": "Chisago Lake Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chisago County",
+          "short_name": "Chisago County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Minnesota",
+          "short_name": "MN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chisago Lake Township, MN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.470254,
+            "lng": -92.77484179999999
+          },
+          "southwest": {
+            "lat": 45.295953,
+            "lng": -92.8980419
+          }
+        },
+        "location": {
+          "lat": 45.4343399,
+          "lng": -92.8034897
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.470254,
+            "lng": -92.77484179999999
+          },
+          "southwest": {
+            "lat": 45.295953,
+            "lng": -92.8980419
+          }
+        }
+      },
+      "place_id": "ChIJVYB_5RjtslIRT7V525UlBN8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chisago County",
+          "short_name": "Chisago County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Minnesota",
+          "short_name": "MN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chisago County, MN, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.7309991,
+            "lng": -92.6470251
+          },
+          "southwest": {
+            "lat": 45.295953,
+            "lng": -93.14201290000001
+          }
+        },
+        "location": {
+          "lat": 45.524828,
+          "lng": -92.9550305
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.7309991,
+            "lng": -92.6470251
+          },
+          "southwest": {
+            "lat": 45.295953,
+            "lng": -93.14201290000001
+          }
+        }
+      },
+      "place_id": "ChIJ29yPf38MrVIRO4Jz9jgnyj8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Minnesota",
+          "short_name": "MN",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Minnesota, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 49.3828204,
+            "lng": -89.49183339999999
+          },
+          "southwest": {
+            "lat": 43.499361,
+            "lng": -97.23919579999999
+          }
+        },
+        "location": {
+          "lat": 46.729553,
+          "lng": -94.6858998
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.3826902,
+            "lng": -89.49183339999999
+          },
+          "southwest": {
+            "lat": 43.499361,
+            "lng": -97.23919579999999
+          }
+        }
+      },
+      "place_id": "ChIJmwt4YJpbWE0RD6L-EJvJogI",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

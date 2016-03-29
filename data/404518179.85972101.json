@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "201-299",
+          "short_name": "201-299",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East 2nd Street",
+          "short_name": "E 2nd St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Milan",
+          "short_name": "Milan",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Polk Township",
+          "short_name": "Polk Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sullivan County",
+          "short_name": "Sullivan County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63556",
+          "short_name": "63556",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1333",
+          "short_name": "1333",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "201-299 E 2nd St, Milan, MO 63556, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.2028292,
+            "lng": -93.1234559
+          },
+          "southwest": {
+            "lat": 40.2028154,
+            "lng": -93.1245229
+          }
+        },
+        "location": {
+          "lat": 40.2028359,
+          "lng": -93.1240468
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.2041712802915,
+            "lng": -93.12264041970849
+          },
+          "southwest": {
+            "lat": 40.2014733197085,
+            "lng": -93.12533838029151
+          }
+        }
+      },
+      "place_id": "EiYyMDEtMjk5IEUgMm5kIFN0LCBNaWxhbiwgTU8gNjM1NTYsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Milan",
+          "short_name": "Milan",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Polk Township",
+          "short_name": "Polk Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sullivan County",
+          "short_name": "Sullivan County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63556",
+          "short_name": "63556",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Milan, MO 63556, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.21517,
+            "lng": -93.1123777
+          },
+          "southwest": {
+            "lat": 40.190103,
+            "lng": -93.138189
+          }
+        },
+        "location": {
+          "lat": 40.2022408,
+          "lng": -93.125209
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.21517,
+            "lng": -93.1123777
+          },
+          "southwest": {
+            "lat": 40.190103,
+            "lng": -93.138189
+          }
+        }
+      },
+      "place_id": "ChIJy67mq23L6YcRfSMYz7D2VnI",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Polk Township",
+          "short_name": "Polk Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sullivan County",
+          "short_name": "Sullivan County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Polk Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.2555,
+            "lng": -93.02570279999999
+          },
+          "southwest": {
+            "lat": 40.1526269,
+            "lng": -93.1970091
+          }
+        },
+        "location": {
+          "lat": 40.2057229,
+          "lng": -93.1177555
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.2555,
+            "lng": -93.02570279999999
+          },
+          "southwest": {
+            "lat": 40.1526269,
+            "lng": -93.1970091
+          }
+        }
+      },
+      "place_id": "ChIJx8amVEDL6YcR1SaGJKmErKk",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63556",
+          "short_name": "63556",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Milan",
+          "short_name": "Milan",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Milan, MO 63556, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3385139,
+            "lng": -92.8560189
+          },
+          "southwest": {
+            "lat": 40.05676,
+            "lng": -93.301011
+          }
+        },
+        "location": {
+          "lat": 40.2256155,
+          "lng": -93.1378173
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3385139,
+            "lng": -92.8560189
+          },
+          "southwest": {
+            "lat": 40.05676,
+            "lng": -93.301011
+          }
+        }
+      },
+      "place_id": "ChIJaZ9c-j8k6IcRJ-b1H-xE4J4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sullivan County",
+          "short_name": "Sullivan County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sullivan County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3864519,
+            "lng": -92.855313
+          },
+          "southwest": {
+            "lat": 40.0330979,
+            "lng": -93.3673149
+          }
+        },
+        "location": {
+          "lat": 40.1836505,
+          "lng": -93.17796589999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3864519,
+            "lng": -92.855313
+          },
+          "southwest": {
+            "lat": 40.0330979,
+            "lng": -93.3673149
+          }
+        }
+      },
+      "place_id": "ChIJ5QnqTczK6YcRLAFVxvERhHg",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

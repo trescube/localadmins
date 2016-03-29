@@ -1,0 +1,547 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200-298",
+          "short_name": "200-298",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Snoddy Street",
+          "short_name": "Snoddy St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Armstrong",
+          "short_name": "Armstrong",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Prairie Township",
+          "short_name": "Prairie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Howard County",
+          "short_name": "Howard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65230",
+          "short_name": "65230",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9701",
+          "short_name": "9701",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "200-298 Snoddy St, Armstrong, MO 65230, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2686009,
+            "lng": -92.702477
+          },
+          "southwest": {
+            "lat": 39.2685281,
+            "lng": -92.7046939
+          }
+        },
+        "location": {
+          "lat": 39.2686118,
+          "lng": -92.70417970000001
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.2699134802915,
+            "lng": -92.7022364697085
+          },
+          "southwest": {
+            "lat": 39.2672155197085,
+            "lng": -92.7049344302915
+          }
+        }
+      },
+      "place_id": "EisyMDAtMjk4IFNub2RkeSBTdCwgQXJtc3Ryb25nLCBNTyA2NTIzMCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Armstrong",
+          "short_name": "Armstrong",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Prairie Township",
+          "short_name": "Prairie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Howard County",
+          "short_name": "Howard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65230",
+          "short_name": "65230",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Armstrong, MO 65230, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.276035,
+            "lng": -92.69554409999999
+          },
+          "southwest": {
+            "lat": 39.262408,
+            "lng": -92.713081
+          }
+        },
+        "location": {
+          "lat": 39.2697545,
+          "lng": -92.7012936
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.276035,
+            "lng": -92.69554409999999
+          },
+          "southwest": {
+            "lat": 39.262408,
+            "lng": -92.713081
+          }
+        }
+      },
+      "place_id": "ChIJdecr5rUgw4cRrmzROk_C88w",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Prairie Township",
+          "short_name": "Prairie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Howard County",
+          "short_name": "Howard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Prairie Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.33622,
+            "lng": -92.65184810000001
+          },
+          "southwest": {
+            "lat": 39.195963,
+            "lng": -92.7669389
+          }
+        },
+        "location": {
+          "lat": 39.2682532,
+          "lng": -92.7182728
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.33622,
+            "lng": -92.65184810000001
+          },
+          "southwest": {
+            "lat": 39.195963,
+            "lng": -92.7669389
+          }
+        }
+      },
+      "place_id": "ChIJ9bu2y8cgw4cR0HGbNtvtbus",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "65230",
+          "short_name": "65230",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Armstrong",
+          "short_name": "Armstrong",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Armstrong, MO 65230, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3723139,
+            "lng": -92.577714
+          },
+          "southwest": {
+            "lat": 39.205483,
+            "lng": -92.7978201
+          }
+        },
+        "location": {
+          "lat": 39.2691715,
+          "lng": -92.6785092
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3723139,
+            "lng": -92.577714
+          },
+          "southwest": {
+            "lat": 39.205483,
+            "lng": -92.7978201
+          }
+        }
+      },
+      "place_id": "ChIJzxu53LQgw4cRj0p4G7WTdgw",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Howard County",
+          "short_name": "Howard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Howard County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3435859,
+            "lng": -92.430229
+          },
+          "southwest": {
+            "lat": 38.9675369,
+            "lng": -92.945848
+          }
+        },
+        "location": {
+          "lat": 39.2064126,
+          "lng": -92.6983868
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3435859,
+            "lng": -92.430229
+          },
+          "southwest": {
+            "lat": 38.9675369,
+            "lng": -92.945848
+          }
+        }
+      },
+      "place_id": "ChIJYbLlFB49w4cR8sQ9Mk73eOI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Columbia",
+          "short_name": "Columbia",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Columbia, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3435859,
+            "lng": -92.104551
+          },
+          "southwest": {
+            "lat": 38.6431671,
+            "lng": -92.945848
+          }
+        },
+        "location": {
+          "lat": 39.0468547,
+          "lng": -92.38136209999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3435859,
+            "lng": -92.104551
+          },
+          "southwest": {
+            "lat": 38.6431671,
+            "lng": -92.945848
+          }
+        }
+      },
+      "place_id": "ChIJhb4pZVEzw4cR8xAbwevMZnk",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,408 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "128-136",
+          "short_name": "128-136",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Northwest 20th Street",
+          "short_name": "NW 20th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Pratt",
+          "short_name": "Pratt",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12",
+          "short_name": "12",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pratt County",
+          "short_name": "Pratt County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67124",
+          "short_name": "67124",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7925",
+          "short_name": "7925",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "128-136 NW 20th St, Pratt, KS 67124, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.6752175,
+            "lng": -98.7390624
+          },
+          "southwest": {
+            "lat": 37.6752063,
+            "lng": -98.7493255
+          }
+        },
+        "location": {
+          "lat": 37.6752293,
+          "lng": -98.7464744
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 37.6765608802915,
+            "lng": -98.7390624
+          },
+          "southwest": {
+            "lat": 37.6738629197085,
+            "lng": -98.7493255
+          }
+        }
+      },
+      "place_id": "EigxMjgtMTM2IE5XIDIwdGggU3QsIFByYXR0LCBLUyA2NzEyNCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12",
+          "short_name": "12",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Pratt County",
+          "short_name": "Pratt County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "12, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.6908471,
+            "lng": -98.46475900000002
+          },
+          "southwest": {
+            "lat": 37.557744,
+            "lng": -98.7946388
+          }
+        },
+        "location": {
+          "lat": 37.5984519,
+          "lng": -98.63805980000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.6908471,
+            "lng": -98.46475900000002
+          },
+          "southwest": {
+            "lat": 37.557744,
+            "lng": -98.7946388
+          }
+        }
+      },
+      "place_id": "ChIJPW71Sm-tpYcRZ2T4BmCfx3c",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67124",
+          "short_name": "67124",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Pratt",
+          "short_name": "Pratt",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pratt, KS 67124, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.79222,
+            "lng": -98.5382351
+          },
+          "southwest": {
+            "lat": 37.470438,
+            "lng": -98.99682209999999
+          }
+        },
+        "location": {
+          "lat": 37.60817040000001,
+          "lng": -98.7921836
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.79222,
+            "lng": -98.5382351
+          },
+          "southwest": {
+            "lat": 37.470438,
+            "lng": -98.99682209999999
+          }
+        }
+      },
+      "place_id": "ChIJRX3SC1GzpYcRdNfOmM3QEYo",
+      "postcode_localities": [
+        "Cullison",
+        "Pratt"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pratt County",
+          "short_name": "Pratt County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Pratt County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.825435,
+            "lng": -98.46464399999999
+          },
+          "southwest": {
+            "lat": 37.470143,
+            "lng": -99.0153589
+          }
+        },
+        "location": {
+          "lat": 37.5691719,
+          "lng": -98.7481167
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.825435,
+            "lng": -98.46464399999999
+          },
+          "southwest": {
+            "lat": 37.470143,
+            "lng": -99.0153589
+          }
+        }
+      },
+      "place_id": "ChIJY_D6OuOypYcRwDBBVN9Lnqo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

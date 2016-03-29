@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200-298",
+          "short_name": "200-298",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Alexander",
+          "short_name": "Alexander",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Alexander-Belle Prairie",
+          "short_name": "Alexander-Belle Prairie",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rush County",
+          "short_name": "Rush County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67513",
+          "short_name": "67513",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9710",
+          "short_name": "9710",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "200-298 Main St, Alexander, KS 67513, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.4698576,
+            "lng": -99.55294049999999
+          },
+          "southwest": {
+            "lat": 38.4688845,
+            "lng": -99.5531261
+          }
+        },
+        "location": {
+          "lat": 38.4692838,
+          "lng": -99.55299769999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.4707200302915,
+            "lng": -99.55168431970849
+          },
+          "southwest": {
+            "lat": 38.4680220697085,
+            "lng": -99.55438228029149
+          }
+        }
+      },
+      "place_id": "EikyMDAtMjk4IE1haW4gU3QsIEFsZXhhbmRlciwgS1MgNjc1MTMsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Alexander",
+          "short_name": "Alexander",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Alexander-Belle Prairie",
+          "short_name": "Alexander-Belle Prairie",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rush County",
+          "short_name": "Rush County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67513",
+          "short_name": "67513",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Alexander, KS 67513, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.472861,
+            "lng": -99.5472949
+          },
+          "southwest": {
+            "lat": 38.4657611,
+            "lng": -99.55776879999999
+          }
+        },
+        "location": {
+          "lat": 38.4694588,
+          "lng": -99.5531697
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.472861,
+            "lng": -99.5472949
+          },
+          "southwest": {
+            "lat": 38.4657611,
+            "lng": -99.55776879999999
+          }
+        }
+      },
+      "place_id": "ChIJU5cxs304oYcR43Q750tQrsI",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67513",
+          "short_name": "67513",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Alexander",
+          "short_name": "Alexander",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Alexander, KS 67513, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.5238808,
+            "lng": -99.47361389999999
+          },
+          "southwest": {
+            "lat": 38.320099,
+            "lng": -99.59506809999999
+          }
+        },
+        "location": {
+          "lat": 38.411966,
+          "lng": -99.5228528
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5238808,
+            "lng": -99.47361389999999
+          },
+          "southwest": {
+            "lat": 38.320099,
+            "lng": -99.59506809999999
+          }
+        }
+      },
+      "place_id": "ChIJ7-HD9QA4oYcR-5zV1cK-meo",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Alexander-Belle Prairie",
+          "short_name": "Alexander-Belle Prairie",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rush County",
+          "short_name": "Rush County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Alexander-Belle Prairie, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.55321,
+            "lng": -99.472332
+          },
+          "southwest": {
+            "lat": 38.349326,
+            "lng": -99.58645899999999
+          }
+        },
+        "location": {
+          "lat": 38.4536744,
+          "lng": -99.5228528
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.55321,
+            "lng": -99.472332
+          },
+          "southwest": {
+            "lat": 38.349326,
+            "lng": -99.58645899999999
+          }
+        }
+      },
+      "place_id": "ChIJY0mTkexHoYcR-PU0fzLZ8K0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rush County",
+          "short_name": "Rush County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rush County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6972839,
+            "lng": -99.0324079
+          },
+          "southwest": {
+            "lat": 38.3483299,
+            "lng": -99.586604
+          }
+        },
+        "location": {
+          "lat": 38.5358968,
+          "lng": -99.2785583
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6972839,
+            "lng": -99.0324079
+          },
+          "southwest": {
+            "lat": 38.3483299,
+            "lng": -99.586604
+          }
+        }
+      },
+      "place_id": "ChIJL3o8F6FboYcRAFUQY6b7-Ns",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

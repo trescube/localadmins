@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "400-426",
+          "short_name": "400-426",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 7th Street",
+          "short_name": "W 7th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Chapman",
+          "short_name": "Chapman",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Noble",
+          "short_name": "Noble",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dickinson County",
+          "short_name": "Dickinson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67431",
+          "short_name": "67431",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9576",
+          "short_name": "9576",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "400-426 W 7th St, Chapman, KS 67431, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.9736598,
+            "lng": -97.02391
+          },
+          "southwest": {
+            "lat": 38.973603,
+            "lng": -97.0255131
+          }
+        },
+        "location": {
+          "lat": 38.9736216,
+          "lng": -97.0240225
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.9749803802915,
+            "lng": -97.0233625697085
+          },
+          "southwest": {
+            "lat": 38.9722824197085,
+            "lng": -97.0260605302915
+          }
+        }
+      },
+      "place_id": "Eig0MDAtNDI2IFcgN3RoIFN0LCBDaGFwbWFuLCBLUyA2NzQzMSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chapman",
+          "short_name": "Chapman",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Noble",
+          "short_name": "Noble",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dickinson County",
+          "short_name": "Dickinson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67431",
+          "short_name": "67431",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Chapman, KS 67431, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.984065,
+            "lng": -97.011371
+          },
+          "southwest": {
+            "lat": 38.963559,
+            "lng": -97.037325
+          }
+        },
+        "location": {
+          "lat": 38.9722212,
+          "lng": -97.02251389999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.984065,
+            "lng": -97.011371
+          },
+          "southwest": {
+            "lat": 38.963559,
+            "lng": -97.037325
+          }
+        }
+      },
+      "place_id": "ChIJF_hfQCFXvIcRsopIAW2V7AM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Noble",
+          "short_name": "Noble",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dickinson County",
+          "short_name": "Dickinson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Noble, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0457989,
+            "lng": -96.9261509
+          },
+          "southwest": {
+            "lat": 38.9575419,
+            "lng": -97.0560349
+          }
+        },
+        "location": {
+          "lat": 39.0078193,
+          "lng": -96.9853474
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0457989,
+            "lng": -96.9261509
+          },
+          "southwest": {
+            "lat": 38.9575419,
+            "lng": -97.0560349
+          }
+        }
+      },
+      "place_id": "ChIJGzOf8DtRvIcR6bomq4Y5mVU",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67431",
+          "short_name": "67431",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Chapman",
+          "short_name": "Chapman",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chapman, KS 67431, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.1191339,
+            "lng": -96.922268
+          },
+          "southwest": {
+            "lat": 38.812228,
+            "lng": -97.095214
+          }
+        },
+        "location": {
+          "lat": 38.9637077,
+          "lng": -97.0283383
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1191339,
+            "lng": -96.922268
+          },
+          "southwest": {
+            "lat": 38.812228,
+            "lng": -97.095214
+          }
+        }
+      },
+      "place_id": "ChIJ6Z2KVDJXvIcRmeBymOCaSPI",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Dickinson County",
+          "short_name": "Dickinson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dickinson County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.1335129,
+            "lng": -96.8900189
+          },
+          "southwest": {
+            "lat": 38.608974,
+            "lng": -97.38121489999999
+          }
+        },
+        "location": {
+          "lat": 38.85059770000001,
+          "lng": -97.179026
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1335129,
+            "lng": -96.8900189
+          },
+          "southwest": {
+            "lat": 38.608974,
+            "lng": -97.38121489999999
+          }
+        }
+      },
+      "place_id": "ChIJwR4xSrH1vIcRr7rcudH0yRg",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

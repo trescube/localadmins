@@ -1,0 +1,496 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "201-299",
+          "short_name": "201-299",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Clay Street",
+          "short_name": "W Clay St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Albany",
+          "short_name": "Albany",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens Township",
+          "short_name": "Athens Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gentry County",
+          "short_name": "Gentry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64402",
+          "short_name": "64402",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1603",
+          "short_name": "1603",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "201-299 W Clay St, Albany, MO 64402, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.2478262,
+            "lng": -94.3326842
+          },
+          "southwest": {
+            "lat": 40.2478229,
+            "lng": -94.3336138
+          }
+        },
+        "location": {
+          "lat": 40.2478399,
+          "lng": -94.3334554
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.2491735302915,
+            "lng": -94.33180001970848
+          },
+          "southwest": {
+            "lat": 40.2464755697085,
+            "lng": -94.3344979802915
+          }
+        }
+      },
+      "place_id": "EigyMDEtMjk5IFcgQ2xheSBTdCwgQWxiYW55LCBNTyA2NDQwMiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Albany",
+          "short_name": "Albany",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens Township",
+          "short_name": "Athens Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gentry County",
+          "short_name": "Gentry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64402",
+          "short_name": "64402",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Albany, MO 64402, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.2633219,
+            "lng": -94.31575690000001
+          },
+          "southwest": {
+            "lat": 40.2345669,
+            "lng": -94.35157
+          }
+        },
+        "location": {
+          "lat": 40.2486069,
+          "lng": -94.33106800000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.2633219,
+            "lng": -94.31575690000001
+          },
+          "southwest": {
+            "lat": 40.2345669,
+            "lng": -94.35157
+          }
+        }
+      },
+      "place_id": "ChIJoc9ALjxe6ocRuX25DukreME",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Athens Township",
+          "short_name": "Athens Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gentry County",
+          "short_name": "Gentry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Athens Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3000599,
+            "lng": -94.215931
+          },
+          "southwest": {
+            "lat": 40.1660568,
+            "lng": -94.40858300000001
+          }
+        },
+        "location": {
+          "lat": 40.2498045,
+          "lng": -94.29488839999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3000599,
+            "lng": -94.215931
+          },
+          "southwest": {
+            "lat": 40.1660568,
+            "lng": -94.40858300000001
+          }
+        }
+      },
+      "place_id": "ChIJdXsll_5d6ocRKzbSnbIPSSk",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64402",
+          "short_name": "64402",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Albany",
+          "short_name": "Albany",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gentry County",
+          "short_name": "Gentry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Albany, MO 64402, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.386672,
+            "lng": -94.21600199999999
+          },
+          "southwest": {
+            "lat": 40.075562,
+            "lng": -94.4677289
+          }
+        },
+        "location": {
+          "lat": 40.267906,
+          "lng": -94.35651299999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.386672,
+            "lng": -94.21600199999999
+          },
+          "southwest": {
+            "lat": 40.075562,
+            "lng": -94.4677289
+          }
+        }
+      },
+      "place_id": "ChIJnRq96FJe6ocRs3MHLoYpwp8",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Gentry County",
+          "short_name": "Gentry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Gentry County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.386925,
+            "lng": -94.2142499
+          },
+          "southwest": {
+            "lat": 40.0348849,
+            "lng": -94.606596
+          }
+        },
+        "location": {
+          "lat": 40.1406981,
+          "lng": -94.479976
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.386925,
+            "lng": -94.2142499
+          },
+          "southwest": {
+            "lat": 40.0348849,
+            "lng": -94.606596
+          }
+        }
+      },
+      "place_id": "ChIJtQ9WoDhg6ocRH11tJfQ2lnY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

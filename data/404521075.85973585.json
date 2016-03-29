@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200-298",
+          "short_name": "200-298",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "NE-29",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Harrison",
+          "short_name": "Harrison",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bowen",
+          "short_name": "Bowen",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sioux County",
+          "short_name": "Sioux County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "69346",
+          "short_name": "69346",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1767",
+          "short_name": "1767",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "200-298 Main St, Harrison, NE 69346, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.6886068,
+            "lng": -103.8829945
+          },
+          "southwest": {
+            "lat": 42.6872411,
+            "lng": -103.8830259
+          }
+        },
+        "location": {
+          "lat": 42.6880785,
+          "lng": -103.882995
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.6892729302915,
+            "lng": -103.8816612197085
+          },
+          "southwest": {
+            "lat": 42.6865749697085,
+            "lng": -103.8843591802915
+          }
+        }
+      },
+      "place_id": "EigyMDAtMjk4IE1haW4gU3QsIEhhcnJpc29uLCBORSA2OTM0NiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Harrison",
+          "short_name": "Harrison",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bowen",
+          "short_name": "Bowen",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sioux County",
+          "short_name": "Sioux County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "69346",
+          "short_name": "69346",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Harrison, NE 69346, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.6951619,
+            "lng": -103.873118
+          },
+          "southwest": {
+            "lat": 42.683217,
+            "lng": -103.887916
+          }
+        },
+        "location": {
+          "lat": 42.6871883,
+          "lng": -103.8827115
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.6951619,
+            "lng": -103.873118
+          },
+          "southwest": {
+            "lat": 42.683217,
+            "lng": -103.887916
+          }
+        }
+      },
+      "place_id": "ChIJm-a2cES-ZIcR5X9GOcCvYY4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bowen",
+          "short_name": "Bowen",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sioux County",
+          "short_name": "Sioux County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bowen, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -103.48016
+          },
+          "southwest": {
+            "lat": 42.260684,
+            "lng": -104.053152
+          }
+        },
+        "location": {
+          "lat": 42.808752,
+          "lng": -103.7289167
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -103.48016
+          },
+          "southwest": {
+            "lat": 42.260684,
+            "lng": -104.053152
+          }
+        }
+      },
+      "place_id": "ChIJCT6gmEoveocRgCE_R6YehEo",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "69346",
+          "short_name": "69346",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Harrison",
+          "short_name": "Harrison",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Harrison, NE 69346, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -103.459324
+          },
+          "southwest": {
+            "lat": 42.2035628,
+            "lng": -104.053152
+          }
+        },
+        "location": {
+          "lat": 42.7207272,
+          "lng": -103.8216261
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -103.459324
+          },
+          "southwest": {
+            "lat": 42.2035628,
+            "lng": -104.053152
+          }
+        }
+      },
+      "place_id": "ChIJ8ada21W_ZIcRFJI3OZry_R8",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sioux County",
+          "short_name": "Sioux County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sioux County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -103.400971
+          },
+          "southwest": {
+            "lat": 42.000402,
+            "lng": -104.053152
+          }
+        },
+        "location": {
+          "lat": 42.5012873,
+          "lng": -103.7289167
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -103.400971
+          },
+          "southwest": {
+            "lat": 42.000402,
+            "lng": -104.053152
+          }
+        }
+      },
+      "place_id": "ChIJCT6gmEoveocR4HvWLfUYVDA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

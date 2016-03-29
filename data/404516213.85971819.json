@@ -1,0 +1,539 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-108",
+          "short_name": "100-108",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Chestnut Street",
+          "short_name": "E Chestnut St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Brashear",
+          "short_name": "Brashear",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salt River Township",
+          "short_name": "Salt River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adair County",
+          "short_name": "Adair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63533",
+          "short_name": "63533",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2428",
+          "short_name": "2428",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "100-108 E Chestnut St, Brashear, MO 63533, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.1481926,
+            "lng": -92.3781566
+          },
+          "southwest": {
+            "lat": 40.1481797,
+            "lng": -92.3791308
+          }
+        },
+        "location": {
+          "lat": 40.1481979,
+          "lng": -92.3788388
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.1495351302915,
+            "lng": -92.37729471970849
+          },
+          "southwest": {
+            "lat": 40.1468371697085,
+            "lng": -92.3799926802915
+          }
+        }
+      },
+      "place_id": "Ei4xMDAtMTA4IEUgQ2hlc3RudXQgU3QsIEJyYXNoZWFyLCBNTyA2MzUzMywgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brashear",
+          "short_name": "Brashear",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salt River Township",
+          "short_name": "Salt River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adair County",
+          "short_name": "Adair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63533",
+          "short_name": "63533",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Brashear, MO 63533, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.15333589999999,
+            "lng": -92.372897
+          },
+          "southwest": {
+            "lat": 40.1429559,
+            "lng": -92.383684
+          }
+        },
+        "location": {
+          "lat": 40.1489249,
+          "lng": -92.37907709999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.15333589999999,
+            "lng": -92.372897
+          },
+          "southwest": {
+            "lat": 40.1429559,
+            "lng": -92.383684
+          }
+        }
+      },
+      "place_id": "ChIJ89E3seHj54cRU-lIcmWhOxw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Salt River Township",
+          "short_name": "Salt River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adair County",
+          "short_name": "Adair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Salt River Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.2158879,
+            "lng": -92.34571799999999
+          },
+          "southwest": {
+            "lat": 40.12414,
+            "lng": -92.5156489
+          }
+        },
+        "location": {
+          "lat": 40.1810382,
+          "lng": -92.4406387
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.2158879,
+            "lng": -92.34571799999999
+          },
+          "southwest": {
+            "lat": 40.12414,
+            "lng": -92.5156489
+          }
+        }
+      },
+      "place_id": "ChIJbXRAClDi54cRp4y0t3ezTNI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63533",
+          "short_name": "63533",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Brashear",
+          "short_name": "Brashear",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brashear, MO 63533, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.291526,
+            "lng": -92.2640189
+          },
+          "southwest": {
+            "lat": 40.0885301,
+            "lng": -92.4783679
+          }
+        },
+        "location": {
+          "lat": 40.1826715,
+          "lng": -92.3616203
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.291526,
+            "lng": -92.2640189
+          },
+          "southwest": {
+            "lat": 40.0885301,
+            "lng": -92.4783679
+          }
+        }
+      },
+      "place_id": "ChIJy6Fdvl_h54cR5IW9ocHSUz0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Adair County",
+          "short_name": "Adair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Adair County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.346683,
+            "lng": -92.34506390000001
+          },
+          "southwest": {
+            "lat": 40.036894,
+            "lng": -92.85637179999999
+          }
+        },
+        "location": {
+          "lat": 40.1993655,
+          "lng": -92.539603
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.346683,
+            "lng": -92.34506390000001
+          },
+          "southwest": {
+            "lat": 40.036894,
+            "lng": -92.85637179999999
+          }
+        }
+      },
+      "place_id": "ChIJx4XcWkQM6IcRTMBpXv55KZ0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kirksville",
+          "short_name": "Kirksville",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kirksville, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.597274,
+            "lng": -92.34528499999999
+          },
+          "southwest": {
+            "lat": 40.03703,
+            "lng": -92.85639189999999
+          }
+        },
+        "location": {
+          "lat": 40.362703,
+          "lng": -92.539603
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.597274,
+            "lng": -92.34528499999999
+          },
+          "southwest": {
+            "lat": 40.03703,
+            "lng": -92.85639189999999
+          }
+        }
+      },
+      "place_id": "ChIJCaEmFy9z6IcRts5uq4iUseI",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

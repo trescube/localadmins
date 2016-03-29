@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-198",
+          "short_name": "100-198",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Maple Street",
+          "short_name": "E Maple St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Clarence",
+          "short_name": "Clarence",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clay Township",
+          "short_name": "Clay Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63437",
+          "short_name": "63437",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1723",
+          "short_name": "1723",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "100-198 E Maple St, Clarence, MO 63437, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.7430017,
+            "lng": -92.25964139999999
+          },
+          "southwest": {
+            "lat": 39.7429222,
+            "lng": -92.26108719999999
+          }
+        },
+        "location": {
+          "lat": 39.742965,
+          "lng": -92.26015609999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.7443109302915,
+            "lng": -92.25901531970848
+          },
+          "southwest": {
+            "lat": 39.7416129697085,
+            "lng": -92.2617132802915
+          }
+        }
+      },
+      "place_id": "EisxMDAtMTk4IEUgTWFwbGUgU3QsIENsYXJlbmNlLCBNTyA2MzQzNywgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clarence",
+          "short_name": "Clarence",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clay Township",
+          "short_name": "Clay Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63437",
+          "short_name": "63437",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Clarence, MO 63437, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.750403,
+            "lng": -92.248651
+          },
+          "southwest": {
+            "lat": 39.7355121,
+            "lng": -92.27754700000001
+          }
+        },
+        "location": {
+          "lat": 39.7419808,
+          "lng": -92.25851519999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.750403,
+            "lng": -92.248651
+          },
+          "southwest": {
+            "lat": 39.7355121,
+            "lng": -92.27754700000001
+          }
+        }
+      },
+      "place_id": "ChIJx8Cqhk1E3YcRAzoK1_jDZoo",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clay Township",
+          "short_name": "Clay Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clay Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.867157,
+            "lng": -92.179333
+          },
+          "southwest": {
+            "lat": 39.7354068,
+            "lng": -92.295091
+          }
+        },
+        "location": {
+          "lat": 39.8157262,
+          "lng": -92.2433487
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.867157,
+            "lng": -92.179333
+          },
+          "southwest": {
+            "lat": 39.7354068,
+            "lng": -92.295091
+          }
+        }
+      },
+      "place_id": "ChIJgXYT90Fb3YcRWrce-4CAn0g",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63437",
+          "short_name": "63437",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Clarence",
+          "short_name": "Clarence",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clarence, MO 63437, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8949231,
+            "lng": -92.128796
+          },
+          "southwest": {
+            "lat": 39.5731479,
+            "lng": -92.329842
+          }
+        },
+        "location": {
+          "lat": 39.7333551,
+          "lng": -92.2433487
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8949231,
+            "lng": -92.128796
+          },
+          "southwest": {
+            "lat": 39.5731479,
+            "lng": -92.329842
+          }
+        }
+      },
+      "place_id": "ChIJYX447BdE3YcROGTOYxZuzC0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shelby County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9544938,
+            "lng": -91.840353
+          },
+          "southwest": {
+            "lat": 39.604082,
+            "lng": -92.2993158
+          }
+        },
+        "location": {
+          "lat": 39.8388716,
+          "lng": -92.1057549
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9544938,
+            "lng": -91.840353
+          },
+          "southwest": {
+            "lat": 39.604082,
+            "lng": -92.2993158
+          }
+        }
+      },
+      "place_id": "ChIJBYmfPiNv3YcR1tWLLHt7ljQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

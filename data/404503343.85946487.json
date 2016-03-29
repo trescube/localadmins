@@ -1,0 +1,492 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "300-398",
+          "short_name": "300-398",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Broadway Street",
+          "short_name": "W Broadway St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lebo",
+          "short_name": "Lebo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln",
+          "short_name": "Lincoln",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coffey County",
+          "short_name": "Coffey County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66856",
+          "short_name": "66856",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9314",
+          "short_name": "9314",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "300-398 W Broadway St, Lebo, KS 66856, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.4156554,
+            "lng": -95.8618384
+          },
+          "southwest": {
+            "lat": 38.4156315,
+            "lng": -95.86314349999999
+          }
+        },
+        "location": {
+          "lat": 38.4156672,
+          "lng": -95.8621692
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.4169924302915,
+            "lng": -95.86114196970848
+          },
+          "southwest": {
+            "lat": 38.4142944697085,
+            "lng": -95.8638399302915
+          }
+        }
+      },
+      "place_id": "EiozMDAtMzk4IFcgQnJvYWR3YXkgU3QsIExlYm8sIEtTIDY2ODU2LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lebo",
+          "short_name": "Lebo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln",
+          "short_name": "Lincoln",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coffey County",
+          "short_name": "Coffey County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66856",
+          "short_name": "66856",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Lebo, KS 66856, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.427037,
+            "lng": -95.84838309999999
+          },
+          "southwest": {
+            "lat": 38.404741,
+            "lng": -95.891691
+          }
+        },
+        "location": {
+          "lat": 38.4166818,
+          "lng": -95.85304409999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.4262609,
+            "lng": -95.84838309999999
+          },
+          "southwest": {
+            "lat": 38.404741,
+            "lng": -95.873746
+          }
+        }
+      },
+      "place_id": "ChIJDUYT1XwuuYcREJ_mvHupYhc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lincoln",
+          "short_name": "Lincoln",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Coffey County",
+          "short_name": "Coffey County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lincoln, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.4341049,
+            "lng": -95.820751
+          },
+          "southwest": {
+            "lat": 38.269768,
+            "lng": -95.950621
+          }
+        },
+        "location": {
+          "lat": 38.3589644,
+          "lng": -95.8775964
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.4341049,
+            "lng": -95.820751
+          },
+          "southwest": {
+            "lat": 38.269768,
+            "lng": -95.950621
+          }
+        }
+      },
+      "place_id": "ChIJX4VL9u8vuYcR3Yk_fFL-ij8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66856",
+          "short_name": "66856",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Lebo",
+          "short_name": "Lebo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lebo, KS 66856, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.5221078,
+            "lng": -95.673943
+          },
+          "southwest": {
+            "lat": 38.3030781,
+            "lng": -95.9504889
+          }
+        },
+        "location": {
+          "lat": 38.3851922,
+          "lng": -95.77212039999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5221078,
+            "lng": -95.673943
+          },
+          "southwest": {
+            "lat": 38.3030781,
+            "lng": -95.9504889
+          }
+        }
+      },
+      "place_id": "ChIJ1xvJEOAruYcRY0tCHtyYuHA",
+      "postcode_localities": [
+        "Lebo",
+        "Olivet"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Coffey County",
+          "short_name": "Coffey County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Coffey County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.4345321,
+            "lng": -95.507474
+          },
+          "southwest": {
+            "lat": 38.0379379,
+            "lng": -95.9593019
+          }
+        },
+        "location": {
+          "lat": 38.2570639,
+          "lng": -95.81428849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.4345321,
+            "lng": -95.507474
+          },
+          "southwest": {
+            "lat": 38.0379379,
+            "lng": -95.9593019
+          }
+        }
+      },
+      "place_id": "ChIJvWrBkjEnuYcRLpVsKGCxdMo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

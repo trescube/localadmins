@@ -1,0 +1,377 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "8",
+          "short_name": "8",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Point Drive",
+          "short_name": "Point Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Brooklyn",
+          "short_name": "Brooklyn",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Columbia Township",
+          "short_name": "Columbia Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jackson County",
+          "short_name": "Jackson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49230",
+          "short_name": "49230",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "8 Point Dr, Brooklyn, MI 49230, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.08669099999999,
+          "lng": -84.210791
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0880399802915,
+            "lng": -84.20944201970849
+          },
+          "southwest": {
+            "lat": 42.0853420197085,
+            "lng": -84.21213998029151
+          }
+        }
+      },
+      "place_id": "ChIJrYKNv57gPIgR4pcNrfoafZQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "49230",
+          "short_name": "49230",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Brooklyn",
+          "short_name": "Brooklyn",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brooklyn, MI 49230, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.171776,
+            "lng": -84.126616
+          },
+          "southwest": {
+            "lat": 42.0283401,
+            "lng": -84.639321
+          }
+        },
+        "location": {
+          "lat": 42.1099888,
+          "lng": -84.20679919999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.171776,
+            "lng": -84.126616
+          },
+          "southwest": {
+            "lat": 42.0283401,
+            "lng": -84.315949
+          }
+        }
+      },
+      "place_id": "ChIJn_GIlCvePIgRK7lnrHHTyso",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Jackson County",
+          "short_name": "Jackson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Jackson County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.4248671,
+            "lng": -84.130771
+          },
+          "southwest": {
+            "lat": 42.0703368,
+            "lng": -84.718632
+          }
+        },
+        "location": {
+          "lat": 42.1764362,
+          "lng": -84.3542049
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.4248671,
+            "lng": -84.130771
+          },
+          "southwest": {
+            "lat": 42.0703368,
+            "lng": -84.718632
+          }
+        }
+      },
+      "place_id": "ChIJQc6iKWHfPIgRUve3SJMFTvk",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Jackson",
+          "short_name": "Jackson",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Jackson, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.4248352,
+            "lng": -84.130752
+          },
+          "southwest": {
+            "lat": 42.07038,
+            "lng": -84.718639
+          }
+        },
+        "location": {
+          "lat": 42.1764362,
+          "lng": -84.3542049
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.4248357,
+            "lng": -84.130752
+          },
+          "southwest": {
+            "lat": 42.07038,
+            "lng": -84.718639
+          }
+        }
+      },
+      "place_id": "ChIJ0xAzskQlPYgR4gZgoC0aNDI",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

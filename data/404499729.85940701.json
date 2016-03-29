@@ -1,0 +1,618 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "5606",
+          "short_name": "5606",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Warren Avenue",
+          "short_name": "Warren Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "East Saint Louis",
+          "short_name": "East St Louis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Canteen Township",
+          "short_name": "Canteen Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62204",
+          "short_name": "62204",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2835",
+          "short_name": "2835",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "5606 Warren Ave, East St Louis, IL 62204, USA",
+      "geometry": {
+        "location": {
+          "lat": 38.627987,
+          "lng": -90.09245
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6293359802915,
+            "lng": -90.09110101970849
+          },
+          "southwest": {
+            "lat": 38.6266380197085,
+            "lng": -90.09379898029151
+          }
+        }
+      },
+      "place_id": "ChIJy6BFv5Ss2IcRMAn91Rc1ioU",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kingshighway @ Westmoreland Ave SB",
+          "short_name": "Kingshighway @ Westmoreland Ave SB",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Washington Park",
+          "short_name": "Washington Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Canteen Township",
+          "short_name": "Canteen Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "62204",
+          "short_name": "62204",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Kingshighway @ Westmoreland Ave SB, Washington Park, IL 62204, USA",
+      "geometry": {
+        "location": {
+          "lat": 38.627519,
+          "lng": -90.09311
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6288679802915,
+            "lng": -90.0917610197085
+          },
+          "southwest": {
+            "lat": 38.6261700197085,
+            "lng": -90.0944589802915
+          }
+        }
+      },
+      "place_id": "ChIJpTsuspSs2IcRihWuhIIqRzg",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Washington Park",
+          "short_name": "Washington Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Canteen Township",
+          "short_name": "Canteen Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Washington Park, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.645349,
+            "lng": -90.078706
+          },
+          "southwest": {
+            "lat": 38.613015,
+            "lng": -90.111606
+          }
+        },
+        "location": {
+          "lat": 38.6350501,
+          "lng": -90.0928852
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.645349,
+            "lng": -90.078706
+          },
+          "southwest": {
+            "lat": 38.613015,
+            "lng": -90.111606
+          }
+        }
+      },
+      "place_id": "ChIJgRx2GJWs2IcRkgGC3DqXWgI",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "62204",
+          "short_name": "62204",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "East Saint Louis",
+          "short_name": "East St Louis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East St Louis, IL 62204, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.648141,
+            "lng": -90.04546189999999
+          },
+          "southwest": {
+            "lat": 38.615012,
+            "lng": -90.13622699999999
+          }
+        },
+        "location": {
+          "lat": 38.6372196,
+          "lng": -90.0886948
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.648141,
+            "lng": -90.04546189999999
+          },
+          "southwest": {
+            "lat": 38.615012,
+            "lng": -90.13622699999999
+          }
+        }
+      },
+      "place_id": "ChIJE3ZsL5Ws2IcRNE0e9oE_wbk",
+      "postcode_localities": [
+        "East Saint Louis",
+        "Washington Park"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Canteen Township",
+          "short_name": "Canteen Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Canteen Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6601541,
+            "lng": -90.035989
+          },
+          "southwest": {
+            "lat": 38.5713549,
+            "lng": -90.14829999999999
+          }
+        },
+        "location": {
+          "lat": 38.6424671,
+          "lng": -90.08402149999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6601541,
+            "lng": -90.035989
+          },
+          "southwest": {
+            "lat": 38.5713549,
+            "lng": -90.14829999999999
+          }
+        }
+      },
+      "place_id": "ChIJ4TIzj_Ss2IcRywlw1hi-L1k",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Clair County",
+          "short_name": "St Clair County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St Clair County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6606498,
+            "lng": -89.7032468
+          },
+          "southwest": {
+            "lat": 38.2194181,
+            "lng": -90.26637079999999
+          }
+        },
+        "location": {
+          "lat": 38.40081199999999,
+          "lng": -89.9253233
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6606498,
+            "lng": -89.7032468
+          },
+          "southwest": {
+            "lat": 38.2194181,
+            "lng": -90.26637079999999
+          }
+        }
+      },
+      "place_id": "ChIJeRbja679dYgR3ASXSadGyno",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Louis",
+          "short_name": "St. Louis",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Louis, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        },
+        "location": {
+          "lat": 38.8196814,
+          "lng": -90.4502368
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        }
+      },
+      "place_id": "ChIJneBzzj4z34cRFGg2ez6q57o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

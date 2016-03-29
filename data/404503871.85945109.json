@@ -1,0 +1,493 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "204-208",
+          "short_name": "204-208",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Terrapin Street",
+          "short_name": "Terrapin St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Hiawatha",
+          "short_name": "Hiawatha",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hamlin",
+          "short_name": "Hamlin",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brown County",
+          "short_name": "Brown County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66434",
+          "short_name": "66434",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8329",
+          "short_name": "8329",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "204-208 Terrapin St, Hiawatha, KS 66434, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.915553,
+            "lng": -95.62655079999999
+          },
+          "southwest": {
+            "lat": 39.9155301,
+            "lng": -95.6282391
+          }
+        },
+        "location": {
+          "lat": 39.9155247,
+          "lng": -95.62721119999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9168905302915,
+            "lng": -95.62604596970849
+          },
+          "southwest": {
+            "lat": 39.9141925697085,
+            "lng": -95.62874393029149
+          }
+        }
+      },
+      "place_id": "EiwyMDQtMjA4IFRlcnJhcGluIFN0LCBIaWF3YXRoYSwgS1MgNjY0MzQsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hamlin",
+          "short_name": "Hamlin",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hamlin",
+          "short_name": "Hamlin",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brown County",
+          "short_name": "Brown County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66434",
+          "short_name": "66434",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Hamlin, KS 66434, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9177001,
+            "lng": -95.6234159
+          },
+          "southwest": {
+            "lat": 39.9135769,
+            "lng": -95.631091
+          }
+        },
+        "location": {
+          "lat": 39.916113,
+          "lng": -95.62804
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9177001,
+            "lng": -95.6234159
+          },
+          "southwest": {
+            "lat": 39.9135769,
+            "lng": -95.631091
+          }
+        }
+      },
+      "place_id": "ChIJ1ficjBJ8lYcRFf63seMkIqI",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hamlin",
+          "short_name": "Hamlin",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brown County",
+          "short_name": "Brown County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hamlin, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.00044889999999,
+            "lng": -95.56380209999999
+          },
+          "southwest": {
+            "lat": 39.8993428,
+            "lng": -95.6757349
+          }
+        },
+        "location": {
+          "lat": 39.9476299,
+          "lng": -95.62476699999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.00044889999999,
+            "lng": -95.56380209999999
+          },
+          "southwest": {
+            "lat": 39.8993428,
+            "lng": -95.6757349
+          }
+        }
+      },
+      "place_id": "ChIJ4U8EeL57lYcR0PJKiGnhvmk",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66434",
+          "short_name": "66434",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Hiawatha",
+          "short_name": "Hiawatha",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hiawatha, KS 66434, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.000307,
+            "lng": -95.39289989999999
+          },
+          "southwest": {
+            "lat": 39.681855,
+            "lng": -95.6765819
+          }
+        },
+        "location": {
+          "lat": 39.8911985,
+          "lng": -95.51973939999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.000307,
+            "lng": -95.39289989999999
+          },
+          "southwest": {
+            "lat": 39.681855,
+            "lng": -95.6765819
+          }
+        }
+      },
+      "place_id": "ChIJmysq37tilYcROMoFrk7_Ccc",
+      "postcode_localities": [
+        "Hiawatha",
+        "Reserve",
+        "Willis"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brown County",
+          "short_name": "Brown County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brown County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.00047379999999,
+            "lng": -95.339477
+          },
+          "southwest": {
+            "lat": 39.6527508,
+            "lng": -95.789051
+          }
+        },
+        "location": {
+          "lat": 39.770047,
+          "lng": -95.4777811
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.00047379999999,
+            "lng": -95.339477
+          },
+          "southwest": {
+            "lat": 39.6527508,
+            "lng": -95.789051
+          }
+        }
+      },
+      "place_id": "ChIJj3wwfubWv4cRih-P5f11hlM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

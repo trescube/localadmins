@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-199",
+          "short_name": "101-199",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Gillis Street",
+          "short_name": "E Gillis St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Mound City",
+          "short_name": "Mound City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Benton Township",
+          "short_name": "Benton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Holt County",
+          "short_name": "Holt County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64470",
+          "short_name": "64470",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1400",
+          "short_name": "1400",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "101-199 E Gillis St, Mound City, MO 64470, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.1363823,
+            "lng": -95.23341339999999
+          },
+          "southwest": {
+            "lat": 40.1363521,
+            "lng": -95.2356459
+          }
+        },
+        "location": {
+          "lat": 40.1363856,
+          "lng": -95.2339811
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.13771618029151,
+            "lng": -95.23318066970847
+          },
+          "southwest": {
+            "lat": 40.13501821970851,
+            "lng": -95.2358786302915
+          }
+        }
+      },
+      "place_id": "Ei4xMDEtMTk5IEUgR2lsbGlzIFN0LCBNb3VuZCBDaXR5LCBNTyA2NDQ3MCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mound City",
+          "short_name": "Mound City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Benton Township",
+          "short_name": "Benton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Holt County",
+          "short_name": "Holt County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64470",
+          "short_name": "64470",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Mound City, MO 64470, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.1497571,
+            "lng": -95.2225629
+          },
+          "southwest": {
+            "lat": 40.125582,
+            "lng": -95.2433219
+          }
+        },
+        "location": {
+          "lat": 40.1311066,
+          "lng": -95.23164279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.1497571,
+            "lng": -95.2225629
+          },
+          "southwest": {
+            "lat": 40.125582,
+            "lng": -95.2433219
+          }
+        }
+      },
+      "place_id": "ChIJLdtERSNGlYcRrkzhtuy8Yl0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Benton Township",
+          "short_name": "Benton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Holt County",
+          "short_name": "Holt County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Benton Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.1758029,
+            "lng": -95.163142
+          },
+          "southwest": {
+            "lat": 40.043318,
+            "lng": -95.317674
+          }
+        },
+        "location": {
+          "lat": 40.1308249,
+          "lng": -95.2057909
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.1758029,
+            "lng": -95.163142
+          },
+          "southwest": {
+            "lat": 40.043318,
+            "lng": -95.317674
+          }
+        }
+      },
+      "place_id": "ChIJc6VnxQlGlYcRpIJnF7pFm_U",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64470",
+          "short_name": "64470",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Mound City",
+          "short_name": "Mound City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mound City, MO 64470, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.2917449,
+            "lng": -95.116585
+          },
+          "southwest": {
+            "lat": 40.06348,
+            "lng": -95.31456
+          }
+        },
+        "location": {
+          "lat": 40.169783,
+          "lng": -95.2475518
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.2917449,
+            "lng": -95.116585
+          },
+          "southwest": {
+            "lat": 40.06348,
+            "lng": -95.31456
+          }
+        }
+      },
+      "place_id": "ChIJNWV632JIlYcRLPp9fLoYqSY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Holt County",
+          "short_name": "Holt County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Holt County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.2657379,
+            "lng": -94.987978
+          },
+          "southwest": {
+            "lat": 39.8617179,
+            "lng": -95.55495590000001
+          }
+        },
+        "location": {
+          "lat": 40.0704458,
+          "lng": -95.18492189999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.2657379,
+            "lng": -94.987978
+          },
+          "southwest": {
+            "lat": 39.8617179,
+            "lng": -95.55495590000001
+          }
+        }
+      },
+      "place_id": "ChIJ5Wu5rVNElYcRxlBxIV644TY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

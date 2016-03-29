@@ -1,0 +1,480 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "13001-13025",
+          "short_name": "13001-13025",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Hickory Street",
+          "short_name": "Hickory St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Eagleville",
+          "short_name": "Eagleville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marion Township",
+          "short_name": "Marion Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Harrison County",
+          "short_name": "Harrison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64442",
+          "short_name": "64442",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8157",
+          "short_name": "8157",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "13001-13025 Hickory St, Eagleville, MO 64442, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.468241,
+            "lng": -93.9855439
+          },
+          "southwest": {
+            "lat": 40.4682352,
+            "lng": -93.9864128
+          }
+        },
+        "location": {
+          "lat": 40.4682515,
+          "lng": -93.9861097
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4695870802915,
+            "lng": -93.98462936970849
+          },
+          "southwest": {
+            "lat": 40.4668891197085,
+            "lng": -93.9873273302915
+          }
+        }
+      },
+      "place_id": "EjExMzAwMS0xMzAyNSBIaWNrb3J5IFN0LCBFYWdsZXZpbGxlLCBNTyA2NDQ0MiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Eagleville",
+          "short_name": "Eagleville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Harrison County",
+          "short_name": "Harrison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64442",
+          "short_name": "64442",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Eagleville, MO 64442, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.47517,
+            "lng": -93.9712919
+          },
+          "southwest": {
+            "lat": 40.461776,
+            "lng": -93.9966819
+          }
+        },
+        "location": {
+          "lat": 40.4691664,
+          "lng": -93.98717359999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.47517,
+            "lng": -93.9712919
+          },
+          "southwest": {
+            "lat": 40.461776,
+            "lng": -93.9966819
+          }
+        }
+      },
+      "place_id": "ChIJ0aCp6ksx6ocRwAl1FUUk1Ws",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Marion Township",
+          "short_name": "Marion Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Harrison County",
+          "short_name": "Harrison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Marion Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.4716309,
+            "lng": -93.8799279
+          },
+          "southwest": {
+            "lat": 40.3803878,
+            "lng": -93.98738089999999
+          }
+        },
+        "location": {
+          "lat": 40.4258759,
+          "lng": -93.9266502
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4716309,
+            "lng": -93.8799279
+          },
+          "southwest": {
+            "lat": 40.3803878,
+            "lng": -93.98738089999999
+          }
+        }
+      },
+      "place_id": "ChIJjSGSb0Iw6ocRAgFy0AVxtlE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64442",
+          "short_name": "64442",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Eagleville",
+          "short_name": "Eagleville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Eagleville, MO 64442, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.5758403,
+            "lng": -93.895883
+          },
+          "southwest": {
+            "lat": 40.374345,
+            "lng": -94.11999000000002
+          }
+        },
+        "location": {
+          "lat": 40.5044216,
+          "lng": -94.0082563
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.5758403,
+            "lng": -93.895883
+          },
+          "southwest": {
+            "lat": 40.374345,
+            "lng": -94.11999000000002
+          }
+        }
+      },
+      "place_id": "ChIJffjXRyY06ocR2VfH9dXlWJY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Harrison County",
+          "short_name": "Harrison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Harrison County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.5775481,
+            "lng": -93.7631739
+          },
+          "southwest": {
+            "lat": 40.132909,
+            "lng": -94.23238
+          }
+        },
+        "location": {
+          "lat": 40.3219529,
+          "lng": -93.9878427
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.5775481,
+            "lng": -93.7631739
+          },
+          "southwest": {
+            "lat": 40.132909,
+            "lng": -94.23238
+          }
+        }
+      },
+      "place_id": "ChIJjaKvEVU56ocRwTjGuuaWWf0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

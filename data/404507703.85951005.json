@@ -1,0 +1,404 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "299",
+          "short_name": "299",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South 3rd Street",
+          "short_name": "S 3rd St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Vicksburg",
+          "short_name": "Vicksburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schoolcraft Township",
+          "short_name": "Schoolcraft Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kalamazoo County",
+          "short_name": "Kalamazoo County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49097",
+          "short_name": "49097",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1083",
+          "short_name": "1083",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "299 S 3rd St, Vicksburg, MI 49097, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1205922,
+            "lng": -85.5433395
+          },
+          "southwest": {
+            "lat": 42.1197367,
+            "lng": -85.54337559999999
+          }
+        },
+        "location": {
+          "lat": 42.1197361,
+          "lng": -85.54332459999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.12151343029149,
+            "lng": -85.5420085697085
+          },
+          "southwest": {
+            "lat": 42.1188154697085,
+            "lng": -85.5447065302915
+          }
+        }
+      },
+      "place_id": "EiYyOTkgUyAzcmQgU3QsIFZpY2tzYnVyZywgTUkgNDkwOTcsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Schoolcraft Township",
+          "short_name": "Schoolcraft Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kalamazoo County",
+          "short_name": "Kalamazoo County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Schoolcraft Township, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.15791189999999,
+            "lng": -85.5291489
+          },
+          "southwest": {
+            "lat": 42.070234,
+            "lng": -85.64781300000001
+          }
+        },
+        "location": {
+          "lat": 42.1316666,
+          "lng": -85.58179109999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.15791189999999,
+            "lng": -85.5291489
+          },
+          "southwest": {
+            "lat": 42.070234,
+            "lng": -85.64781300000001
+          }
+        }
+      },
+      "place_id": "ChIJCfggSWKgF4gRvxPAWDn_jZo",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "49097",
+          "short_name": "49097",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Vicksburg",
+          "short_name": "Vicksburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Vicksburg, MI 49097, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.186985,
+            "lng": -85.3333371
+          },
+          "southwest": {
+            "lat": 42.04952890000001,
+            "lng": -85.60774909999999
+          }
+        },
+        "location": {
+          "lat": 42.1284707,
+          "lng": -85.49941919999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.186985,
+            "lng": -85.3333371
+          },
+          "southwest": {
+            "lat": 42.04952890000001,
+            "lng": -85.60774909999999
+          }
+        }
+      },
+      "place_id": "ChIJ21F941GiF4gR_UPFliP7XwA",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kalamazoo County",
+          "short_name": "Kalamazoo County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kalamazoo County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.4215229,
+            "lng": -85.293623
+          },
+          "southwest": {
+            "lat": 42.069327,
+            "lng": -85.76606609999999
+          }
+        },
+        "location": {
+          "lat": 42.2278346,
+          "lng": -85.52002399999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.4215229,
+            "lng": -85.293623
+          },
+          "southwest": {
+            "lat": 42.069327,
+            "lng": -85.76606609999999
+          }
+        }
+      },
+      "place_id": "ChIJuf0n9q6eF4gR_Y1LA3Eg7go",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

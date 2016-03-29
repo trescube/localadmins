@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "500-512",
+          "short_name": "500-512",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Broad Street",
+          "short_name": "E Broad St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Colony",
+          "short_name": "Colony",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ozark",
+          "short_name": "Ozark",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Anderson County",
+          "short_name": "Anderson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66015",
+          "short_name": "66015",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7219",
+          "short_name": "7219",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "500-512 E Broad St, Colony, KS 66015, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.071137,
+            "lng": -95.362219
+          },
+          "southwest": {
+            "lat": 38.0711109,
+            "lng": -95.363063
+          }
+        },
+        "location": {
+          "lat": 38.0711089,
+          "lng": -95.36263389999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.0724729302915,
+            "lng": -95.36129201970849
+          },
+          "southwest": {
+            "lat": 38.0697749697085,
+            "lng": -95.3639899802915
+          }
+        }
+      },
+      "place_id": "Eik1MDAtNTEyIEUgQnJvYWQgU3QsIENvbG9ueSwgS1MgNjYwMTUsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Colony",
+          "short_name": "Colony",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ozark",
+          "short_name": "Ozark",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Anderson County",
+          "short_name": "Anderson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66015",
+          "short_name": "66015",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Colony, KS 66015, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.075359,
+            "lng": -95.349498
+          },
+          "southwest": {
+            "lat": 38.06588800000001,
+            "lng": -95.372355
+          }
+        },
+        "location": {
+          "lat": 38.0708626,
+          "lng": -95.3655356
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.075359,
+            "lng": -95.349498
+          },
+          "southwest": {
+            "lat": 38.06588800000001,
+            "lng": -95.372355
+          }
+        }
+      },
+      "place_id": "ChIJLWEI_QKTuIcRPCNFVcvyfYw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ozark",
+          "short_name": "Ozark",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Anderson County",
+          "short_name": "Anderson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ozark, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.12602500000001,
+            "lng": -95.298655
+          },
+          "southwest": {
+            "lat": 38.0380671,
+            "lng": -95.408367
+          }
+        },
+        "location": {
+          "lat": 38.088532,
+          "lng": -95.37301760000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.12602500000001,
+            "lng": -95.298655
+          },
+          "southwest": {
+            "lat": 38.0380671,
+            "lng": -95.408367
+          }
+        }
+      },
+      "place_id": "ChIJG0WItwmTuIcRulFAWUEr07o",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66015",
+          "short_name": "66015",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Colony",
+          "short_name": "Colony",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Colony, KS 66015, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.1697659,
+            "lng": -95.2921119
+          },
+          "southwest": {
+            "lat": 38.009155,
+            "lng": -95.519284
+          }
+        },
+        "location": {
+          "lat": 38.086612,
+          "lng": -95.4149003
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.1697659,
+            "lng": -95.2921119
+          },
+          "southwest": {
+            "lat": 38.009155,
+            "lng": -95.519284
+          }
+        }
+      },
+      "place_id": "ChIJ8dZXEw2WuIcRNs45MuA2KpE",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Anderson County",
+          "short_name": "Anderson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Anderson County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.390464,
+            "lng": -95.0648949
+          },
+          "southwest": {
+            "lat": 38.037692,
+            "lng": -95.51897
+          }
+        },
+        "location": {
+          "lat": 38.2809328,
+          "lng": -95.3102505
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.390464,
+            "lng": -95.0648949
+          },
+          "southwest": {
+            "lat": 38.037692,
+            "lng": -95.51897
+          }
+        }
+      },
+      "place_id": "ChIJRbLp0HSWuIcRpQMArBN-MVA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

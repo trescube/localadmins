@@ -1,0 +1,540 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "165-199",
+          "short_name": "165-199",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Center Street",
+          "short_name": "N Center St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Clarksburg",
+          "short_name": "Clarksburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Moreau Township",
+          "short_name": "Moreau Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Moniteau County",
+          "short_name": "Moniteau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65025",
+          "short_name": "65025",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "165-199 N Center St, Clarksburg, MO 65025, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6614636,
+            "lng": -92.66552159999999
+          },
+          "southwest": {
+            "lat": 38.6605475,
+            "lng": -92.66617099999999
+          }
+        },
+        "location": {
+          "lat": 38.6610587,
+          "lng": -92.6658301
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.66235453029149,
+            "lng": -92.66449731970849
+          },
+          "southwest": {
+            "lat": 38.6596565697085,
+            "lng": -92.6671952802915
+          }
+        }
+      },
+      "place_id": "Ei4xNjUtMTk5IE4gQ2VudGVyIFN0LCBDbGFya3NidXJnLCBNTyA2NTAyNSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clarksburg",
+          "short_name": "Clarksburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Moreau Township",
+          "short_name": "Moreau Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Moniteau County",
+          "short_name": "Moniteau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65025",
+          "short_name": "65025",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Clarksburg, MO 65025, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6667949,
+            "lng": -92.658886
+          },
+          "southwest": {
+            "lat": 38.65535800000001,
+            "lng": -92.673188
+          }
+        },
+        "location": {
+          "lat": 38.6591919,
+          "lng": -92.6635246
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6667949,
+            "lng": -92.658886
+          },
+          "southwest": {
+            "lat": 38.65535800000001,
+            "lng": -92.673188
+          }
+        }
+      },
+      "place_id": "ChIJgQS0WPxYw4cRB5c9fx5oax0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Moreau Township",
+          "short_name": "Moreau Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Moniteau County",
+          "short_name": "Moniteau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Moreau Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.683135,
+            "lng": -92.617147
+          },
+          "southwest": {
+            "lat": 38.555622,
+            "lng": -92.731923
+          }
+        },
+        "location": {
+          "lat": 38.64340120000001,
+          "lng": -92.6785092
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.683135,
+            "lng": -92.617147
+          },
+          "southwest": {
+            "lat": 38.555622,
+            "lng": -92.731923
+          }
+        }
+      },
+      "place_id": "ChIJ0UM3cmGnxIcR01L5h0R0R2s",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "65025",
+          "short_name": "65025",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Clarksburg",
+          "short_name": "Clarksburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clarksburg, MO 65025, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.7422989,
+            "lng": -92.6168419
+          },
+          "southwest": {
+            "lat": 38.58040889999999,
+            "lng": -92.7453049
+          }
+        },
+        "location": {
+          "lat": 38.6853085,
+          "lng": -92.6785092
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.7422989,
+            "lng": -92.6168419
+          },
+          "southwest": {
+            "lat": 38.58040889999999,
+            "lng": -92.7453049
+          }
+        }
+      },
+      "place_id": "ChIJi18tLttYw4cRYCyd_9F-sB4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Moniteau County",
+          "short_name": "Moniteau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Moniteau County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.9220839,
+            "lng": -92.3800119
+          },
+          "southwest": {
+            "lat": 38.427729,
+            "lng": -92.84187109999999
+          }
+        },
+        "location": {
+          "lat": 38.5827118,
+          "lng": -92.5792482
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.9220839,
+            "lng": -92.3800119
+          },
+          "southwest": {
+            "lat": 38.427729,
+            "lng": -92.84187109999999
+          }
+        }
+      },
+      "place_id": "ChIJ69j_dzNaw4cRr7lTuMHWdko",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Jefferson City",
+          "short_name": "Jefferson City",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Jefferson City, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.064697,
+            "lng": -91.6339991
+          },
+          "southwest": {
+            "lat": 38.28814,
+            "lng": -92.84187109999999
+          }
+        },
+        "location": {
+          "lat": 38.468187,
+          "lng": -91.9881527
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.064697,
+            "lng": -91.6339991
+          },
+          "southwest": {
+            "lat": 38.28814,
+            "lng": -92.84187109999999
+          }
+        }
+      },
+      "place_id": "ChIJS1oEHiSe3IcReDWU-udvLWw",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

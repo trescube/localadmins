@@ -1,0 +1,547 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301-399",
+          "short_name": "301-399",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West State Street",
+          "short_name": "W State St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Vandalia",
+          "short_name": "Vandalia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cuivre",
+          "short_name": "Cuivre",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Audrain County",
+          "short_name": "Audrain County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63382",
+          "short_name": "63382",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1740",
+          "short_name": "1740",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "301-399 W State St, Vandalia, MO 63382, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.30811629999999,
+            "lng": -91.4888658
+          },
+          "southwest": {
+            "lat": 39.307714,
+            "lng": -91.4897869
+          }
+        },
+        "location": {
+          "lat": 39.3079813,
+          "lng": -91.48918289999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3092641302915,
+            "lng": -91.48797736970849
+          },
+          "southwest": {
+            "lat": 39.3065661697085,
+            "lng": -91.4906753302915
+          }
+        }
+      },
+      "place_id": "EiszMDEtMzk5IFcgU3RhdGUgU3QsIFZhbmRhbGlhLCBNTyA2MzM4MiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Vandalia",
+          "short_name": "Vandalia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cuivre",
+          "short_name": "Cuivre",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Audrain County",
+          "short_name": "Audrain County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63382",
+          "short_name": "63382",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Vandalia, MO 63382, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3216928,
+            "lng": -91.471991
+          },
+          "southwest": {
+            "lat": 39.2909659,
+            "lng": -91.5082539
+          }
+        },
+        "location": {
+          "lat": 39.3108745,
+          "lng": -91.48848869999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3216928,
+            "lng": -91.471991
+          },
+          "southwest": {
+            "lat": 39.2909659,
+            "lng": -91.5082539
+          }
+        }
+      },
+      "place_id": "ChIJnxy3TCw13IcRWdrfmHMpSz0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cuivre",
+          "short_name": "Cuivre",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Audrain County",
+          "short_name": "Audrain County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cuivre, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.32421910000001,
+            "lng": -91.4090329
+          },
+          "southwest": {
+            "lat": 39.1425421,
+            "lng": -91.627055
+          }
+        },
+        "location": {
+          "lat": 39.2697057,
+          "lng": -91.4821482
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.32421910000001,
+            "lng": -91.4090329
+          },
+          "southwest": {
+            "lat": 39.1425421,
+            "lng": -91.627055
+          }
+        }
+      },
+      "place_id": "ChIJHf4dL_k13IcRVq3P4LMbjAU",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63382",
+          "short_name": "63382",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Vandalia",
+          "short_name": "Vandalia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Vandalia, MO 63382, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.4436871,
+            "lng": -91.3830469
+          },
+          "southwest": {
+            "lat": 39.163761,
+            "lng": -91.61288979999999
+          }
+        },
+        "location": {
+          "lat": 39.3527187,
+          "lng": -91.4821482
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.4436871,
+            "lng": -91.3830469
+          },
+          "southwest": {
+            "lat": 39.163761,
+            "lng": -91.61288979999999
+          }
+        }
+      },
+      "place_id": "ChIJV7dtuD813IcRtGnXSyUoTW4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Audrain County",
+          "short_name": "Audrain County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Audrain County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3477928,
+            "lng": -91.4090329
+          },
+          "southwest": {
+            "lat": 39.0590569,
+            "lng": -92.3144679
+          }
+        },
+        "location": {
+          "lat": 39.22195300000001,
+          "lng": -91.9099238
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3477928,
+            "lng": -91.4090329
+          },
+          "southwest": {
+            "lat": 39.0590569,
+            "lng": -92.3144679
+          }
+        }
+      },
+      "place_id": "ChIJzcntDTb_3IcRF8jo6NwtoFE",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mexico",
+          "short_name": "Mexico",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mexico, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.347796,
+            "lng": -91.409033
+          },
+          "southwest": {
+            "lat": 39.059036,
+            "lng": -92.31442899999999
+          }
+        },
+        "location": {
+          "lat": 39.22195300000001,
+          "lng": -91.9099238
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.347796,
+            "lng": -91.409033
+          },
+          "southwest": {
+            "lat": 39.059036,
+            "lng": -92.31442899999999
+          }
+        }
+      },
+      "place_id": "ChIJ0WQPKK743IcRIyXvatvhuYA",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

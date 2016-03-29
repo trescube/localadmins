@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "401-499",
+          "short_name": "401-499",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Baird Street",
+          "short_name": "Baird St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Cuba",
+          "short_name": "Cuba",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Richland",
+          "short_name": "Richland",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Republic County",
+          "short_name": "Republic County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66940",
+          "short_name": "66940",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3020",
+          "short_name": "3020",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "401-499 Baird St, Cuba, KS 66940, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.802543,
+            "lng": -97.457871
+          },
+          "southwest": {
+            "lat": 39.8014529,
+            "lng": -97.4578739
+          }
+        },
+        "location": {
+          "lat": 39.8020899,
+          "lng": -97.45789099999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8033469302915,
+            "lng": -97.45652346970849
+          },
+          "southwest": {
+            "lat": 39.8006489697085,
+            "lng": -97.45922143029149
+          }
+        }
+      },
+      "place_id": "EiU0MDEtNDk5IEJhaXJkIFN0LCBDdWJhLCBLUyA2Njk0MCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cuba",
+          "short_name": "Cuba",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Richland",
+          "short_name": "Richland",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Republic County",
+          "short_name": "Republic County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66940",
+          "short_name": "66940",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Cuba, KS 66940, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8074231,
+            "lng": -97.45114
+          },
+          "southwest": {
+            "lat": 39.7963459,
+            "lng": -97.462631
+          }
+        },
+        "location": {
+          "lat": 39.802781,
+          "lng": -97.45587200000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8074231,
+            "lng": -97.45114
+          },
+          "southwest": {
+            "lat": 39.7963459,
+            "lng": -97.462631
+          }
+        }
+      },
+      "place_id": "ChIJv5XtKJHgl4cR0jTqfLAUX8w",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Richland",
+          "short_name": "Richland",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Republic County",
+          "short_name": "Republic County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Richland, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.82797000000001,
+            "lng": -97.36856089999999
+          },
+          "southwest": {
+            "lat": 39.740408,
+            "lng": -97.48106510000001
+          }
+        },
+        "location": {
+          "lat": 39.7649174,
+          "lng": -97.4165053
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.82797000000001,
+            "lng": -97.36856089999999
+          },
+          "southwest": {
+            "lat": 39.740408,
+            "lng": -97.48106510000001
+          }
+        }
+      },
+      "place_id": "ChIJ98RRJs3fl4cR7Rcjr9z5tuM",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66940",
+          "short_name": "66940",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Cuba",
+          "short_name": "Cuba",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cuba, KS 66940, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8767009,
+            "lng": -97.35072500000001
+          },
+          "southwest": {
+            "lat": 39.726003,
+            "lng": -97.58548789999999
+          }
+        },
+        "location": {
+          "lat": 39.8031161,
+          "lng": -97.4597725
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8767009,
+            "lng": -97.35072500000001
+          },
+          "southwest": {
+            "lat": 39.726003,
+            "lng": -97.58548789999999
+          }
+        }
+      },
+      "place_id": "ChIJvVMFCUjel4cReQAYe5xqNTM",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Republic County",
+          "short_name": "Republic County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Republic County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0022589,
+            "lng": -97.3684918
+          },
+          "southwest": {
+            "lat": 39.65336,
+            "lng": -97.9334179
+          }
+        },
+        "location": {
+          "lat": 39.807989,
+          "lng": -97.69822719999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0022589,
+            "lng": -97.3684918
+          },
+          "southwest": {
+            "lat": 39.65336,
+            "lng": -97.9334179
+          }
+        }
+      },
+      "place_id": "ChIJC4_50fr7l4cRvzxyrcDjQFs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

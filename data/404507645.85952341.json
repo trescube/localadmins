@@ -1,0 +1,482 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1115",
+          "short_name": "1115",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Boynton Drive",
+          "short_name": "Boynton Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Edgemont Park",
+          "short_name": "Edgemont Park",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lansing",
+          "short_name": "Lansing",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lansing Charter Township",
+          "short_name": "Lansing Charter Twp",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ingham County",
+          "short_name": "Ingham County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "48917",
+          "short_name": "48917",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5706",
+          "short_name": "5706",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1115 Boynton Dr, Lansing, MI 48917, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.746718,
+          "lng": -84.59275
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7480669802915,
+            "lng": -84.5914010197085
+          },
+          "southwest": {
+            "lat": 42.7453690197085,
+            "lng": -84.5940989802915
+          }
+        }
+      },
+      "place_id": "ChIJj9KaKLvqIogRU5LHhJzNOaQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Edgemont Park",
+          "short_name": "Edgemont Park",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lansing Charter Township",
+          "short_name": "Lansing Charter Twp",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ingham County",
+          "short_name": "Ingham County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Edgemont Park, Lansing Charter Twp, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7542969,
+            "lng": -84.5818709
+          },
+          "southwest": {
+            "lat": 42.740403,
+            "lng": -84.6028931
+          }
+        },
+        "location": {
+          "lat": 42.7467016,
+          "lng": -84.5935918
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7542969,
+            "lng": -84.5818709
+          },
+          "southwest": {
+            "lat": 42.740403,
+            "lng": -84.6028931
+          }
+        }
+      },
+      "place_id": "ChIJOfHvz7rqIogRwmxKe1Eh-uA",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lansing Charter Township",
+          "short_name": "Lansing Charter Twp",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ingham County",
+          "short_name": "Ingham County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lansing Charter Twp, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.76969589999999,
+            "lng": -84.483997
+          },
+          "southwest": {
+            "lat": 42.6827878,
+            "lng": -84.603122
+          }
+        },
+        "location": {
+          "lat": 42.7563594,
+          "lng": -84.5283267
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.76969589999999,
+            "lng": -84.507024
+          },
+          "southwest": {
+            "lat": 42.7231061,
+            "lng": -84.53377100000002
+          }
+        }
+      },
+      "place_id": "ChIJjwB05zzCIogRmmVFFK8_U1M",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "48917",
+          "short_name": "48917",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Lansing",
+          "short_name": "Lansing",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lansing, MI 48917, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7688139,
+            "lng": -84.5705919
+          },
+          "southwest": {
+            "lat": 42.674338,
+            "lng": -84.701274
+          }
+        },
+        "location": {
+          "lat": 42.7287542,
+          "lng": -84.63744840000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7688139,
+            "lng": -84.5705919
+          },
+          "southwest": {
+            "lat": 42.674338,
+            "lng": -84.701274
+          }
+        }
+      },
+      "place_id": "ChIJv2iDgcW_IogRptZ5ubgSqFw",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ingham County",
+          "short_name": "Ingham County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ingham County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.776639,
+            "lng": -84.1406009
+          },
+          "southwest": {
+            "lat": 42.4219371,
+            "lng": -84.6031369
+          }
+        },
+        "location": {
+          "lat": 42.6468943,
+          "lng": -84.3542049
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.776639,
+            "lng": -84.1406009
+          },
+          "southwest": {
+            "lat": 42.4219371,
+            "lng": -84.6031369
+          }
+        }
+      },
+      "place_id": "ChIJD9W2LEnaIogRAyhZlrTppyY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

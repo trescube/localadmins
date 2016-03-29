@@ -1,0 +1,539 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-199",
+          "short_name": "101-199",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North 3rd Street",
+          "short_name": "State Hwy KK",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Elmo",
+          "short_name": "Elmo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln Township",
+          "short_name": "Lincoln Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nodaway County",
+          "short_name": "Nodaway County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64445",
+          "short_name": "64445",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8148",
+          "short_name": "8148",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "101-199 N 3rd St, Elmo, MO 64445, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.5195055,
+            "lng": -95.116486
+          },
+          "southwest": {
+            "lat": 40.5184775,
+            "lng": -95.1164929
+          }
+        },
+        "location": {
+          "lat": 40.5188452,
+          "lng": -95.1165072
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.5203404802915,
+            "lng": -95.11514046970849
+          },
+          "southwest": {
+            "lat": 40.5176425197085,
+            "lng": -95.1178384302915
+          }
+        }
+      },
+      "place_id": "EiUxMDEtMTk5IE4gM3JkIFN0LCBFbG1vLCBNTyA2NDQ0NSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Elmo",
+          "short_name": "Elmo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln Township",
+          "short_name": "Lincoln Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nodaway County",
+          "short_name": "Nodaway County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64445",
+          "short_name": "64445",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Elmo, MO 64445, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.5220619,
+            "lng": -95.111277
+          },
+          "southwest": {
+            "lat": 40.51487789999999,
+            "lng": -95.12134900000001
+          }
+        },
+        "location": {
+          "lat": 40.5183264,
+          "lng": -95.1155323
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.5220619,
+            "lng": -95.111277
+          },
+          "southwest": {
+            "lat": 40.51487789999999,
+            "lng": -95.12134900000001
+          }
+        }
+      },
+      "place_id": "ChIJJef_KXQqlYcR0iPJ_Z-5lsk",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64445",
+          "short_name": "64445",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Elmo",
+          "short_name": "Elmo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Elmo, MO 64445, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.578016,
+            "lng": -95.06743879999999
+          },
+          "southwest": {
+            "lat": 40.464625,
+            "lng": -95.2028541
+          }
+        },
+        "location": {
+          "lat": 40.5416991,
+          "lng": -95.1223608
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.578016,
+            "lng": -95.06743879999999
+          },
+          "southwest": {
+            "lat": 40.464625,
+            "lng": -95.2028541
+          }
+        }
+      },
+      "place_id": "ChIJPwJEHebVlIcRfOzQiBdfQmc",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lincoln Township",
+          "short_name": "Lincoln Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nodaway County",
+          "short_name": "Nodaway County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lincoln Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.578488,
+            "lng": -95.01527
+          },
+          "southwest": {
+            "lat": 40.4342769,
+            "lng": -95.20240009999999
+          }
+        },
+        "location": {
+          "lat": 40.5011097,
+          "lng": -95.1223608
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.578488,
+            "lng": -95.01527
+          },
+          "southwest": {
+            "lat": 40.4342769,
+            "lng": -95.20240009999999
+          }
+        }
+      },
+      "place_id": "ChIJcYL-7G0qlYcRgqdS1ePETTQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nodaway County",
+          "short_name": "Nodaway County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nodaway County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.578488,
+            "lng": -94.59848690000001
+          },
+          "southwest": {
+            "lat": 40.1261269,
+            "lng": -95.20240009999999
+          }
+        },
+        "location": {
+          "lat": 40.2907281,
+          "lng": -94.81059549999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.578488,
+            "lng": -94.59848690000001
+          },
+          "southwest": {
+            "lat": 40.1261269,
+            "lng": -95.20240009999999
+          }
+        }
+      },
+      "place_id": "ChIJJTflPxzF6ocR8bF2TAPBcWU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Maryville",
+          "short_name": "Maryville",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Maryville, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.5785299,
+            "lng": -94.59848699999999
+          },
+          "southwest": {
+            "lat": 40.126161,
+            "lng": -95.20242619999999
+          }
+        },
+        "location": {
+          "lat": 40.2907281,
+          "lng": -94.81059549999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.5785299,
+            "lng": -94.59848699999999
+          },
+          "southwest": {
+            "lat": 40.126161,
+            "lng": -95.20242619999999
+          }
+        }
+      },
+      "place_id": "ChIJm7Q8J1DF6ocRDTWHJSY8s-o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

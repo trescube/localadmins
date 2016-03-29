@@ -1,0 +1,460 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1-67",
+          "short_name": "1-67",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Saint Kathrin Drive",
+          "short_name": "St Kathrin Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Big Indian",
+          "short_name": "Big Indian",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shandaken",
+          "short_name": "Shandaken",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ulster County",
+          "short_name": "Ulster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12410",
+          "short_name": "12410",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "1-67 St Kathrin Dr, Big Indian, NY 12410, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1319249,
+            "lng": -74.463088
+          },
+          "southwest": {
+            "lat": 42.1294569,
+            "lng": -74.4669462
+          }
+        },
+        "location": {
+          "lat": 42.1303514,
+          "lng": -74.4667353
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1320398802915,
+            "lng": -74.463088
+          },
+          "southwest": {
+            "lat": 42.1293419197085,
+            "lng": -74.4669462
+          }
+        }
+      },
+      "place_id": "Ei0xLTY3IFN0IEthdGhyaW4gRHIsIEJpZyBJbmRpYW4sIE5ZIDEyNDEwLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12410",
+          "short_name": "12410",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Big Indian",
+          "short_name": "Big Indian",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Big Indian, NY 12410, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1662869,
+            "lng": -74.39120690000001
+          },
+          "southwest": {
+            "lat": 42.00215499999999,
+            "lng": -74.547412
+          }
+        },
+        "location": {
+          "lat": 42.0831161,
+          "lng": -74.4642861
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1662869,
+            "lng": -74.39120690000001
+          },
+          "southwest": {
+            "lat": 42.00215499999999,
+            "lng": -74.547412
+          }
+        }
+      },
+      "place_id": "ChIJq-eb3qf33IkRK1K1MTRJZg8",
+      "postcode_localities": [
+        "Big Indian",
+        "Oliverea"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Shandaken",
+          "short_name": "Shandaken",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ulster County",
+          "short_name": "Ulster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shandaken, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1692251,
+            "lng": -74.2617679
+          },
+          "southwest": {
+            "lat": 41.951056,
+            "lng": -74.548265
+          }
+        },
+        "location": {
+          "lat": 42.0588079,
+          "lng": -74.35874729999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1692251,
+            "lng": -74.2617679
+          },
+          "southwest": {
+            "lat": 41.951056,
+            "lng": -74.548265
+          }
+        }
+      },
+      "place_id": "ChIJyeTxv0T43IkRpUBI4H-lLnQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kingston",
+          "short_name": "Kingston",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kingston, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1769919,
+            "lng": -73.910675
+          },
+          "southwest": {
+            "lat": 41.5806101,
+            "lng": -74.780693
+          }
+        },
+        "location": {
+          "lat": 41.8586493,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1769919,
+            "lng": -73.910675
+          },
+          "southwest": {
+            "lat": 41.5806101,
+            "lng": -74.780693
+          }
+        }
+      },
+      "place_id": "ChIJNZcje1bi3IkRJvm1-FceLq0",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ulster County",
+          "short_name": "Ulster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ulster County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1769919,
+            "lng": -73.9168121
+          },
+          "southwest": {
+            "lat": 41.58061000000001,
+            "lng": -74.780693
+          }
+        },
+        "location": {
+          "lat": 41.8586493,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1769919,
+            "lng": -73.9168121
+          },
+          "southwest": {
+            "lat": 41.58061000000001,
+            "lng": -74.780693
+          }
+        }
+      },
+      "place_id": "ChIJcYmy32Tn3IkRE4hwyqUfabM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,541 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2696-2698",
+          "short_name": "2696-2698",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Smoky Valley Road",
+          "short_name": "Smoky Valley Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Roxbury",
+          "short_name": "Roxbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gypsum Creek",
+          "short_name": "Gypsum Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McPherson County",
+          "short_name": "McPherson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67476",
+          "short_name": "67476",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "2696-2698 Smoky Valley Rd, Roxbury, KS 67476, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.5510783,
+            "lng": -97.4273886
+          },
+          "southwest": {
+            "lat": 38.55107479999999,
+            "lng": -97.42806309999999
+          }
+        },
+        "location": {
+          "lat": 38.5510634,
+          "lng": -97.427437
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5524255302915,
+            "lng": -97.42637686970848
+          },
+          "southwest": {
+            "lat": 38.5497275697085,
+            "lng": -97.4290748302915
+          }
+        }
+      },
+      "place_id": "EjEyNjk2LTI2OTggU21va3kgVmFsbGV5IFJkLCBSb3hidXJ5LCBLUyA2NzQ3NiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Roxbury",
+          "short_name": "Roxbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gypsum Creek",
+          "short_name": "Gypsum Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McPherson County",
+          "short_name": "McPherson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Roxbury, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.5656229,
+            "lng": -97.4088269
+          },
+          "southwest": {
+            "lat": 38.5364041,
+            "lng": -97.4461549
+          }
+        },
+        "location": {
+          "lat": 38.5509121,
+          "lng": -97.427494
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.5656229,
+            "lng": -97.4088269
+          },
+          "southwest": {
+            "lat": 38.5364041,
+            "lng": -97.4461549
+          }
+        }
+      },
+      "place_id": "ChIJ5S1-KnuYvIcRycHHXvfqDZU",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67476",
+          "short_name": "67476",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Roxbury",
+          "short_name": "Roxbury",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McPherson County",
+          "short_name": "McPherson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Roxbury, KS 67476, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.565581,
+            "lng": -97.4088269
+          },
+          "southwest": {
+            "lat": 38.521957,
+            "lng": -97.4461549
+          }
+        },
+        "location": {
+          "lat": 38.5278731,
+          "lng": -97.4219122
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.565581,
+            "lng": -97.4088269
+          },
+          "southwest": {
+            "lat": 38.521957,
+            "lng": -97.4461549
+          }
+        }
+      },
+      "place_id": "ChIJmSLFeWifvIcRtqWrrnQMR5Y",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Gypsum Creek",
+          "short_name": "Gypsum Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McPherson County",
+          "short_name": "McPherson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Gypsum Creek, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.60947,
+            "lng": -97.3718689
+          },
+          "southwest": {
+            "lat": 38.521855,
+            "lng": -97.482528
+          }
+        },
+        "location": {
+          "lat": 38.5647777,
+          "lng": -97.4165053
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.60947,
+            "lng": -97.3718689
+          },
+          "southwest": {
+            "lat": 38.521855,
+            "lng": -97.482528
+          }
+        }
+      },
+      "place_id": "ChIJ6exonhKYvIcRe3_0aYV5puA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "McPherson",
+          "short_name": "McPherson",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "McPherson, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.609939,
+            "lng": -97.37138589999999
+          },
+          "southwest": {
+            "lat": 38.17335,
+            "lng": -97.92543309999999
+          }
+        },
+        "location": {
+          "lat": 38.3164433,
+          "lng": -97.69822719999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.609939,
+            "lng": -97.37138589999999
+          },
+          "southwest": {
+            "lat": 38.17335,
+            "lng": -97.92543309999999
+          }
+        }
+      },
+      "place_id": "ChIJnUbnQc5Xu4cRo_OtUUoigpI",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "McPherson County",
+          "short_name": "McPherson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "McPherson County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6100939,
+            "lng": -97.3715919
+          },
+          "southwest": {
+            "lat": 38.1733599,
+            "lng": -97.9252559
+          }
+        },
+        "location": {
+          "lat": 38.3164433,
+          "lng": -97.69822719999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6100939,
+            "lng": -97.3715919
+          },
+          "southwest": {
+            "lat": 38.1733599,
+            "lng": -97.9252559
+          }
+        }
+      },
+      "place_id": "ChIJPZ_gGp2pvIcRqdVQm1HfaQk",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "112-116",
+          "short_name": "112-116",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Main Street",
+          "short_name": "N Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Oakley",
+          "short_name": "Oakley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brady Township",
+          "short_name": "Brady Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saginaw County",
+          "short_name": "Saginaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "48649",
+          "short_name": "48649",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7716",
+          "short_name": "7716",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "112-116 N Main St, Oakley, MI 48649, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.14371,
+            "lng": -84.1684001
+          },
+          "southwest": {
+            "lat": 43.1433291,
+            "lng": -84.1684021
+          }
+        },
+        "location": {
+          "lat": 43.1433646,
+          "lng": -84.1683815
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 43.1448685302915,
+            "lng": -84.16705211970849
+          },
+          "southwest": {
+            "lat": 43.1421705697085,
+            "lng": -84.1697500802915
+          }
+        }
+      },
+      "place_id": "EigxMTItMTE2IE4gTWFpbiBTdCwgT2FrbGV5LCBNSSA0ODY0OSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Oakley",
+          "short_name": "Oakley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brady Township",
+          "short_name": "Brady Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saginaw County",
+          "short_name": "Saginaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "48649",
+          "short_name": "48649",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Oakley, MI 48649, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.1510269,
+            "lng": -84.1579509
+          },
+          "southwest": {
+            "lat": 43.135664,
+            "lng": -84.17812579999999
+          }
+        },
+        "location": {
+          "lat": 43.1397481,
+          "lng": -84.1680305
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.1510269,
+            "lng": -84.1579509
+          },
+          "southwest": {
+            "lat": 43.135664,
+            "lng": -84.17812579999999
+          }
+        }
+      },
+      "place_id": "ChIJlcapwmGuI4gRp00tGYExwAY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "48649",
+          "short_name": "48649",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Oakley",
+          "short_name": "Oakley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Oakley, MI 48649, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.212449,
+            "lng": -84.10927889999999
+          },
+          "southwest": {
+            "lat": 43.1142198,
+            "lng": -84.2864939
+          }
+        },
+        "location": {
+          "lat": 43.153545,
+          "lng": -84.1962563
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.212449,
+            "lng": -84.10927889999999
+          },
+          "southwest": {
+            "lat": 43.1142198,
+            "lng": -84.2864939
+          }
+        }
+      },
+      "place_id": "ChIJ6wttbZStI4gRwNMEs8ke7j8",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brady Township",
+          "short_name": "Brady Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saginaw County",
+          "short_name": "Saginaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brady Township, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.215415,
+            "lng": -84.1544689
+          },
+          "southwest": {
+            "lat": 43.128631,
+            "lng": -84.287269
+          }
+        },
+        "location": {
+          "lat": 43.1637378,
+          "lng": -84.20679919999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.215415,
+            "lng": -84.1544689
+          },
+          "southwest": {
+            "lat": 43.128631,
+            "lng": -84.287269
+          }
+        }
+      },
+      "place_id": "ChIJpwdtmpitI4gRMOkP_usic4E",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Saginaw County",
+          "short_name": "Saginaw County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Saginaw County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.5688989,
+            "lng": -83.6952051
+          },
+          "southwest": {
+            "lat": 43.128452,
+            "lng": -84.3699769
+          }
+        },
+        "location": {
+          "lat": 43.4044253,
+          "lng": -84.01674229999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.5688989,
+            "lng": -83.6952051
+          },
+          "southwest": {
+            "lat": 43.128452,
+            "lng": -84.3699769
+          }
+        }
+      },
+      "place_id": "ChIJzakSEePAI4gRERAGr9F7HeA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

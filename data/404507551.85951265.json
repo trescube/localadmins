@@ -1,0 +1,549 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "37-59",
+          "short_name": "37-59",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "1st Street",
+          "short_name": "1st St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "South Range",
+          "short_name": "South Range",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adams Township",
+          "short_name": "Adams Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49963",
+          "short_name": "49963",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "37-59 1st St, South Range, MI 49963, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.07060449999999,
+            "lng": -88.6432488
+          },
+          "southwest": {
+            "lat": 47.07058,
+            "lng": -88.6459208
+          }
+        },
+        "location": {
+          "lat": 47.0705734,
+          "lng": -88.6439204
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 47.0719412302915,
+            "lng": -88.6432358197085
+          },
+          "southwest": {
+            "lat": 47.0692432697085,
+            "lng": -88.6459337802915
+          }
+        }
+      },
+      "place_id": "EigzNy01OSAxc3QgU3QsIFNvdXRoIFJhbmdlLCBNSSA0OTk2MywgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "South Range",
+          "short_name": "South Range",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adams Township",
+          "short_name": "Adams Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "South Range, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.0757509,
+            "lng": -88.6368811
+          },
+          "southwest": {
+            "lat": 47.065224,
+            "lng": -88.6536149
+          }
+        },
+        "location": {
+          "lat": 47.0699279,
+          "lng": -88.6431812
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.0757509,
+            "lng": -88.6368811
+          },
+          "southwest": {
+            "lat": 47.065224,
+            "lng": -88.6536149
+          }
+        }
+      },
+      "place_id": "ChIJ8wDWlaLLUE0RMOKG6rtBDwc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "49963",
+          "short_name": "49963",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "South Range",
+          "short_name": "South Range",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adams Township",
+          "short_name": "Adams Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "South Range, MI 49963, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.08027200000001,
+            "lng": -88.6368811
+          },
+          "southwest": {
+            "lat": 47.067437,
+            "lng": -88.6536149
+          }
+        },
+        "location": {
+          "lat": 47.0734103,
+          "lng": -88.643461
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.08027200000001,
+            "lng": -88.6368811
+          },
+          "southwest": {
+            "lat": 47.067437,
+            "lng": -88.6536149
+          }
+        }
+      },
+      "place_id": "ChIJ1VsoL4rLUE0RksaO0C5vXy0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Adams Township",
+          "short_name": "Adams Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Adams Township, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.127431,
+            "lng": -88.60609
+          },
+          "southwest": {
+            "lat": 46.981466,
+            "lng": -88.80640079999999
+          }
+        },
+        "location": {
+          "lat": 47.0317009,
+          "lng": -88.7190475
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.127431,
+            "lng": -88.60609
+          },
+          "southwest": {
+            "lat": 46.981466,
+            "lng": -88.80640079999999
+          }
+        }
+      },
+      "place_id": "ChIJPWMK66g0V00R-lwJh76283s",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Houghton County",
+          "short_name": "Houghton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Houghton County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 47.286254,
+            "lng": -88.227403
+          },
+          "southwest": {
+            "lat": 46.419643,
+            "lng": -88.9915489
+          }
+        },
+        "location": {
+          "lat": 47.1211215,
+          "lng": -88.5694012
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.286254,
+            "lng": -88.227403
+          },
+          "southwest": {
+            "lat": 46.419643,
+            "lng": -88.9915489
+          }
+        }
+      },
+      "place_id": "ChIJTfO5_mQ7UU0RWG667XtdKyc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Houghton",
+          "short_name": "Houghton",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Houghton, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.19097499999999,
+            "lng": -87.710471
+          },
+          "southwest": {
+            "lat": 46.419689,
+            "lng": -89.2552019
+          }
+        },
+        "location": {
+          "lat": 47.0499507,
+          "lng": -88.6148185
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 47.4794201,
+            "lng": -87.710471
+          },
+          "southwest": {
+            "lat": 46.419689,
+            "lng": -88.991295
+          }
+        }
+      },
+      "place_id": "ChIJU0kmS3u2UE0RaZxuic7LhPE",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,534 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "12",
+          "short_name": "12",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Hampton Road",
+          "short_name": "Hampton Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Eastborough",
+          "short_name": "Eastborough",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Minneha",
+          "short_name": "Minneha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sedgwick County",
+          "short_name": "Sedgwick County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67207",
+          "short_name": "67207",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1008",
+          "short_name": "1008",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "12 Hampton Rd, Eastborough, KS 67207, USA",
+      "geometry": {
+        "location": {
+          "lat": 37.685568,
+          "lng": -97.259141
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 37.6869169802915,
+            "lng": -97.2577920197085
+          },
+          "southwest": {
+            "lat": 37.6842190197085,
+            "lng": -97.26048998029151
+          }
+        }
+      },
+      "place_id": "ChIJE-ZCRbH8uocR9ckKVMxCsiY",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Eastborough",
+          "short_name": "Eastborough",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Minneha",
+          "short_name": "Minneha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sedgwick County",
+          "short_name": "Sedgwick County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Eastborough, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.690301,
+            "lng": -97.25357299999999
+          },
+          "southwest": {
+            "lat": 37.6792649,
+            "lng": -97.267394
+          }
+        },
+        "location": {
+          "lat": 37.6880698,
+          "lng": -97.263655
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.690301,
+            "lng": -97.25357299999999
+          },
+          "southwest": {
+            "lat": 37.6792649,
+            "lng": -97.267394
+          }
+        }
+      },
+      "place_id": "ChIJw4WZFLH8uocRVfFiJMDx8OA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67207",
+          "short_name": "67207",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Wichita",
+          "short_name": "Wichita",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sedgwick County",
+          "short_name": "Sedgwick County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wichita, KS 67207, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.68660690000001,
+            "lng": -97.1895061
+          },
+          "southwest": {
+            "lat": 37.642922,
+            "lng": -97.2621609
+          }
+        },
+        "location": {
+          "lat": 37.6614293,
+          "lng": -97.2329255
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.68660690000001,
+            "lng": -97.1895061
+          },
+          "southwest": {
+            "lat": 37.642922,
+            "lng": -97.2621609
+          }
+        }
+      },
+      "place_id": "ChIJbVG2CHn7uocREwa8xMMlk1k",
+      "postcode_localities": [
+        "Eastborough",
+        "Wichita"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Minneha",
+          "short_name": "Minneha",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sedgwick County",
+          "short_name": "Sedgwick County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Minneha, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.7379,
+            "lng": -97.152874
+          },
+          "southwest": {
+            "lat": 37.649515,
+            "lng": -97.27134
+          }
+        },
+        "location": {
+          "lat": 37.70209639999999,
+          "lng": -97.1736385
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.7379,
+            "lng": -97.152874
+          },
+          "southwest": {
+            "lat": 37.6500908,
+            "lng": -97.2260709
+          }
+        }
+      },
+      "place_id": "ChIJGbCk9Wn8uocRF_3RdPfocMM",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sedgwick County",
+          "short_name": "Sedgwick County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sedgwick County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.9127329,
+            "lng": -97.1521449
+          },
+          "southwest": {
+            "lat": 37.4741841,
+            "lng": -97.80835800000001
+          }
+        },
+        "location": {
+          "lat": 37.6537367,
+          "lng": -97.5247243
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.9127329,
+            "lng": -97.1521449
+          },
+          "southwest": {
+            "lat": 37.4741841,
+            "lng": -97.80835800000001
+          }
+        }
+      },
+      "place_id": "ChIJYdTfu-7fuocR5CnuybPf61c",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wichita",
+          "short_name": "Wichita",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wichita, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.174845,
+            "lng": -96.52278199999999
+          },
+          "southwest": {
+            "lat": 36.998682,
+            "lng": -97.808684
+          }
+        },
+        "location": {
+          "lat": 37.56345719999999,
+          "lng": -97.6114217
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.174845,
+            "lng": -96.52278199999999
+          },
+          "southwest": {
+            "lat": 36.998682,
+            "lng": -97.808684
+          }
+        }
+      },
+      "place_id": "ChIJBR4vHiP7uocRb5iXYk82f7k",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

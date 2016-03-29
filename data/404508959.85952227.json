@@ -1,0 +1,548 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "3046-3172",
+          "short_name": "3046-3172",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Navarre Boulevard",
+          "short_name": "Navarre Blvd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Detroit Beach",
+          "short_name": "Detroit Beach",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe",
+          "short_name": "Monroe",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Frenchtown Charter Township",
+          "short_name": "Frenchtown Charter Twp",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "48162",
+          "short_name": "48162",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4925",
+          "short_name": "4925",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "3046-3172 Navarre Blvd, Monroe, MI 48162, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.93166189999999,
+            "lng": -83.3264677
+          },
+          "southwest": {
+            "lat": 41.9310114,
+            "lng": -83.329612
+          }
+        },
+        "location": {
+          "lat": 41.9315781,
+          "lng": -83.3291759
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.93268563029149,
+            "lng": -83.3264677
+          },
+          "southwest": {
+            "lat": 41.9299876697085,
+            "lng": -83.329612
+          }
+        }
+      },
+      "place_id": "Ei0zMDQ2LTMxNzIgTmF2YXJyZSBCbHZkLCBNb25yb2UsIE1JIDQ4MTYyLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Detroit Beach",
+          "short_name": "Detroit Beach",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Frenchtown Charter Township",
+          "short_name": "Frenchtown Charter Twp",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Detroit Beach, Frenchtown Charter Twp, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.93937700000001,
+            "lng": -83.3181939
+          },
+          "southwest": {
+            "lat": 41.9234839,
+            "lng": -83.340581
+          }
+        },
+        "location": {
+          "lat": 41.9311563,
+          "lng": -83.3268753
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.93937700000001,
+            "lng": -83.3181939
+          },
+          "southwest": {
+            "lat": 41.9234839,
+            "lng": -83.340581
+          }
+        }
+      },
+      "place_id": "ChIJ0Z1gAi9sO4gRhaSy493_z2w",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Frenchtown Charter Township",
+          "short_name": "Frenchtown Charter Twp",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Frenchtown Charter Twp, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0075299,
+            "lng": -83.245865
+          },
+          "southwest": {
+            "lat": 41.8764259,
+            "lng": -83.46176
+          }
+        },
+        "location": {
+          "lat": 41.96426,
+          "lng": -83.3583803
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0075299,
+            "lng": -83.245865
+          },
+          "southwest": {
+            "lat": 41.9065674,
+            "lng": -83.46176
+          }
+        }
+      },
+      "place_id": "ChIJpUjmGoJlO4gR0pCLdYEdaps",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "48162",
+          "short_name": "48162",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Monroe",
+          "short_name": "Monroe",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Monroe, MI 48162, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.01133,
+            "lng": -83.3031259
+          },
+          "southwest": {
+            "lat": 41.892744,
+            "lng": -83.5878489
+          }
+        },
+        "location": {
+          "lat": 41.9480522,
+          "lng": -83.4003037
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.01133,
+            "lng": -83.3031259
+          },
+          "southwest": {
+            "lat": 41.892744,
+            "lng": -83.5878489
+          }
+        }
+      },
+      "place_id": "ChIJ2SoRv8FlO4gRzYv-i6OEbhg",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Monroe",
+          "short_name": "Monroe",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Monroe, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.094269,
+            "lng": -83.1814749
+          },
+          "southwest": {
+            "lat": 41.72355,
+            "lng": -83.773956
+          }
+        },
+        "location": {
+          "lat": 41.9738893,
+          "lng": -83.5070203
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.094269,
+            "lng": -83.1814749
+          },
+          "southwest": {
+            "lat": 41.72355,
+            "lng": -83.773956
+          }
+        }
+      },
+      "place_id": "ChIJk4KXmg9jO4gR9HXKZfYA0kg",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Monroe County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0943801,
+            "lng": -83.1487458
+          },
+          "southwest": {
+            "lat": 41.723546,
+            "lng": -83.773922
+          }
+        },
+        "location": {
+          "lat": 41.9738893,
+          "lng": -83.5070203
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0943801,
+            "lng": -83.1487458
+          },
+          "southwest": {
+            "lat": 41.723546,
+            "lng": -83.773922
+          }
+        }
+      },
+      "place_id": "ChIJ0yMoNdhmO4gR5ZubrvcyyZM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

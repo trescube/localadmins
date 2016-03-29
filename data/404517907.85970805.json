@@ -1,0 +1,481 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301-399",
+          "short_name": "301-399",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Fordyce Avenue",
+          "short_name": "W Fordyce Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Bernie",
+          "short_name": "Bernie",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Liberty Township",
+          "short_name": "Liberty Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stoddard County",
+          "short_name": "Stoddard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63822",
+          "short_name": "63822",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9266",
+          "short_name": "9266",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "301-399 W Fordyce Ave, Bernie, MO 63822, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 36.6715019,
+            "lng": -89.969636
+          },
+          "southwest": {
+            "lat": 36.67145600000001,
+            "lng": -89.9710449
+          }
+        },
+        "location": {
+          "lat": 36.6715058,
+          "lng": -89.9707008
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 36.6728279302915,
+            "lng": -89.9689914697085
+          },
+          "southwest": {
+            "lat": 36.6701299697085,
+            "lng": -89.9716894302915
+          }
+        }
+      },
+      "place_id": "EiwzMDEtMzk5IFcgRm9yZHljZSBBdmUsIEJlcm5pZSwgTU8gNjM4MjIsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bernie",
+          "short_name": "Bernie",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Liberty Township",
+          "short_name": "Liberty Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stoddard County",
+          "short_name": "Stoddard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bernie, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 36.6853089,
+            "lng": -89.9587079
+          },
+          "southwest": {
+            "lat": 36.65838189999999,
+            "lng": -89.9829659
+          }
+        },
+        "location": {
+          "lat": 36.6689446,
+          "lng": -89.9687021
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 36.6853089,
+            "lng": -89.9587079
+          },
+          "southwest": {
+            "lat": 36.65838189999999,
+            "lng": -89.9829659
+          }
+        }
+      },
+      "place_id": "ChIJLXo8d4DV14cRUq21mK_W-Cs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63822",
+          "short_name": "63822",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Bernie",
+          "short_name": "Bernie",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bernie, MO 63822, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 36.703736,
+            "lng": -89.837209
+          },
+          "southwest": {
+            "lat": 36.567317,
+            "lng": -90.156194
+          }
+        },
+        "location": {
+          "lat": 36.6741356,
+          "lng": -89.9440061
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 36.703736,
+            "lng": -89.837209
+          },
+          "southwest": {
+            "lat": 36.567317,
+            "lng": -90.156194
+          }
+        }
+      },
+      "place_id": "ChIJDQQmGJvV14cRIdTMb7_r7MA",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Liberty Township",
+          "short_name": "Liberty Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Stoddard County",
+          "short_name": "Stoddard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Liberty Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 36.81981409999999,
+            "lng": -89.913871
+          },
+          "southwest": {
+            "lat": 36.6284,
+            "lng": -90.1879131
+          }
+        },
+        "location": {
+          "lat": 36.7388427,
+          "lng": -89.9626799
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 36.81981409999999,
+            "lng": -89.913871
+          },
+          "southwest": {
+            "lat": 36.6284,
+            "lng": -90.1879131
+          }
+        }
+      },
+      "place_id": "ChIJ1cCgA-zW14cRslxZ-hUVtqQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Stoddard County",
+          "short_name": "Stoddard County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Stoddard County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 37.1273699,
+            "lng": -89.68467
+          },
+          "southwest": {
+            "lat": 36.627375,
+            "lng": -90.259918
+          }
+        },
+        "location": {
+          "lat": 36.8680558,
+          "lng": -89.9253233
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 37.1273699,
+            "lng": -89.68467
+          },
+          "southwest": {
+            "lat": 36.627375,
+            "lng": -90.259918
+          }
+        }
+      },
+      "place_id": "ChIJkwsEpPdzeIgRwPs8LT1k6wA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "801-899",
+          "short_name": "801-899",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Lake Drive",
+          "short_name": "Lake Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Cawker City",
+          "short_name": "Cawker City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cawker",
+          "short_name": "Cawker",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mitchell County",
+          "short_name": "Mitchell County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67430",
+          "short_name": "67430",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9619",
+          "short_name": "9619",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "801-899 Lake Dr, Cawker City, KS 67430, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.510034,
+            "lng": -98.43307030000001
+          },
+          "southwest": {
+            "lat": 39.5094416,
+            "lng": -98.43308359999999
+          }
+        },
+        "location": {
+          "lat": 39.5095675,
+          "lng": -98.4330919
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.51108678029149,
+            "lng": -98.43172796970849
+          },
+          "southwest": {
+            "lat": 39.5083888197085,
+            "lng": -98.43442593029151
+          }
+        }
+      },
+      "place_id": "Eis4MDEtODk5IExha2UgRHIsIENhd2tlciBDaXR5LCBLUyA2NzQzMCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cawker City",
+          "short_name": "Cawker City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cawker",
+          "short_name": "Cawker",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mitchell County",
+          "short_name": "Mitchell County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67430",
+          "short_name": "67430",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Cawker City, KS 67430, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5176189,
+            "lng": -98.42380390000001
+          },
+          "southwest": {
+            "lat": 39.502266,
+            "lng": -98.4425069
+          }
+        },
+        "location": {
+          "lat": 39.5094301,
+          "lng": -98.4343907
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5176189,
+            "lng": -98.42380390000001
+          },
+          "southwest": {
+            "lat": 39.502266,
+            "lng": -98.4425069
+          }
+        }
+      },
+      "place_id": "ChIJ6QpqaYKIoocR5q7q9ZrpVHA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cawker",
+          "short_name": "Cawker",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mitchell County",
+          "short_name": "Mitchell County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cawker, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5675129,
+            "lng": -98.376449
+          },
+          "southwest": {
+            "lat": 39.480238,
+            "lng": -98.4885089
+          }
+        },
+        "location": {
+          "lat": 39.5323143,
+          "lng": -98.4184224
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5675129,
+            "lng": -98.376449
+          },
+          "southwest": {
+            "lat": 39.480238,
+            "lng": -98.4885089
+          }
+        }
+      },
+      "place_id": "ChIJ9W9QSzCGoocRcyy8kjfI1-I",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67430",
+          "short_name": "67430",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Cawker City",
+          "short_name": "Cawker City",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cawker City, KS 67430, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.6269408,
+            "lng": -98.32260099999999
+          },
+          "southwest": {
+            "lat": 39.30662890000001,
+            "lng": -98.5081469
+          }
+        },
+        "location": {
+          "lat": 39.509361,
+          "lng": -98.4343541
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.6269408,
+            "lng": -98.32260099999999
+          },
+          "southwest": {
+            "lat": 39.30662890000001,
+            "lng": -98.5081469
+          }
+        }
+      },
+      "place_id": "ChIJS17T9DCGoocRvSh3KkvzAgI",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mitchell County",
+          "short_name": "Mitchell County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mitchell County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5675129,
+            "lng": -97.92865499999999
+          },
+          "southwest": {
+            "lat": 39.2187569,
+            "lng": -98.4901709
+          }
+        },
+        "location": {
+          "lat": 39.443669,
+          "lng": -98.2212979
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5675129,
+            "lng": -97.92865499999999
+          },
+          "southwest": {
+            "lat": 39.2187569,
+            "lng": -98.4901709
+          }
+        }
+      },
+      "place_id": "ChIJo24A43-VoocRko_kFDhkhNA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

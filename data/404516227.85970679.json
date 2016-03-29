@@ -1,0 +1,449 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "12320",
+          "short_name": "12320",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Donovan Drive",
+          "short_name": "Donovan Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Country Club",
+          "short_name": "Country Club",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jefferson Township",
+          "short_name": "Jefferson Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Andrew County",
+          "short_name": "Andrew County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64505",
+          "short_name": "64505",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3790",
+          "short_name": "3790",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "12320 Donovan Dr, Country Club, MO 64505, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.839957,
+          "lng": -94.819856
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.84130598029149,
+            "lng": -94.8185070197085
+          },
+          "southwest": {
+            "lat": 39.8386080197085,
+            "lng": -94.82120498029151
+          }
+        }
+      },
+      "place_id": "ChIJc519SS0cwIcRcc1TksuqHtA",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Jefferson Township",
+          "short_name": "Jefferson Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Andrew County",
+          "short_name": "Andrew County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Jefferson Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9089109,
+            "lng": -94.75343300000002
+          },
+          "southwest": {
+            "lat": 39.820498,
+            "lng": -94.881103
+          }
+        },
+        "location": {
+          "lat": 39.86033500000001,
+          "lng": -94.8313257
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9089109,
+            "lng": -94.75343300000002
+          },
+          "southwest": {
+            "lat": 39.820498,
+            "lng": -94.881103
+          }
+        }
+      },
+      "place_id": "ChIJL9Q86-YdwIcR0XVZ2KYqCiI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64505",
+          "short_name": "64505",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Saint Joseph",
+          "short_name": "St Joseph",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St Joseph, MO 64505, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8913718,
+            "lng": -94.75343300000002
+          },
+          "southwest": {
+            "lat": 39.7697959,
+            "lng": -94.9008559
+          }
+        },
+        "location": {
+          "lat": 39.82910529999999,
+          "lng": -94.8416936
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8913718,
+            "lng": -94.75343300000002
+          },
+          "southwest": {
+            "lat": 39.7697959,
+            "lng": -94.9008559
+          }
+        }
+      },
+      "place_id": "ChIJUZwwWVAcwIcREkgnKia-xrk",
+      "postcode_localities": [
+        "Country Club",
+        "Saint Joseph"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Andrew County",
+          "short_name": "Andrew County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Andrew County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.1300959,
+            "lng": -94.6024999
+          },
+          "southwest": {
+            "lat": 39.819589,
+            "lng": -95.0607969
+          }
+        },
+        "location": {
+          "lat": 39.9637436,
+          "lng": -94.81059549999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.1300959,
+            "lng": -94.6024999
+          },
+          "southwest": {
+            "lat": 39.819589,
+            "lng": -95.0607969
+          }
+        }
+      },
+      "place_id": "ChIJw1rTzxMswocRpopTQLAYLZY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Joseph",
+          "short_name": "St. Joseph",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Joseph, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.130305,
+            "lng": -94.203454
+          },
+          "southwest": {
+            "lat": 39.531296,
+            "lng": -95.33994299999999
+          }
+        },
+        "location": {
+          "lat": 39.7995828,
+          "lng": -94.81059549999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.130305,
+            "lng": -94.203454
+          },
+          "southwest": {
+            "lat": 39.531296,
+            "lng": -95.33994299999999
+          }
+        }
+      },
+      "place_id": "ChIJzx5Jd_EewIcRMPOa-xvQ4d4",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

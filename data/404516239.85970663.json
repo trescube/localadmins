@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301-399",
+          "short_name": "301-399",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East Main Street",
+          "short_name": "E Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Fairfax",
+          "short_name": "Fairfax",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clark Township",
+          "short_name": "Clark Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Atchison County",
+          "short_name": "Atchison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64446",
+          "short_name": "64446",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9312",
+          "short_name": "9312",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "301-399 E Main St, Fairfax, MO 64446, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3390615,
+            "lng": -95.3913235
+          },
+          "southwest": {
+            "lat": 40.3390411,
+            "lng": -95.39274449999999
+          }
+        },
+        "location": {
+          "lat": 40.3390362,
+          "lng": -95.39195629999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3404002802915,
+            "lng": -95.39068501970849
+          },
+          "southwest": {
+            "lat": 40.3377023197085,
+            "lng": -95.3933829802915
+          }
+        }
+      },
+      "place_id": "EikzMDEtMzk5IEUgTWFpbiBTdCwgRmFpcmZheCwgTU8gNjQ0NDYsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fairfax",
+          "short_name": "Fairfax",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clark Township",
+          "short_name": "Clark Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Atchison County",
+          "short_name": "Atchison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64446",
+          "short_name": "64446",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Fairfax, MO 64446, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3442219,
+            "lng": -95.3845181
+          },
+          "southwest": {
+            "lat": 40.333961,
+            "lng": -95.3987789
+          }
+        },
+        "location": {
+          "lat": 40.3386088,
+          "lng": -95.3933136
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3442219,
+            "lng": -95.3845181
+          },
+          "southwest": {
+            "lat": 40.333961,
+            "lng": -95.3987789
+          }
+        }
+      },
+      "place_id": "ChIJmc_Nplc9lYcRQ9TO2ERwCL4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clark Township",
+          "short_name": "Clark Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Atchison County",
+          "short_name": "Atchison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clark Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3947011,
+            "lng": -95.34953600000001
+          },
+          "southwest": {
+            "lat": 40.262875,
+            "lng": -95.5978399
+          }
+        },
+        "location": {
+          "lat": 40.325161,
+          "lng": -95.4149003
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3947011,
+            "lng": -95.34953600000001
+          },
+          "southwest": {
+            "lat": 40.262875,
+            "lng": -95.5978399
+          }
+        }
+      },
+      "place_id": "ChIJSS4pPkwXlYcRwcpkW9D39YQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64446",
+          "short_name": "64446",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Fairfax",
+          "short_name": "Fairfax",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fairfax, MO 64446, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.4015561,
+            "lng": -95.1776139
+          },
+          "southwest": {
+            "lat": 40.23892190000001,
+            "lng": -95.63237690000001
+          }
+        },
+        "location": {
+          "lat": 40.3271121,
+          "lng": -95.37301760000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4015561,
+            "lng": -95.1776139
+          },
+          "southwest": {
+            "lat": 40.23892190000001,
+            "lng": -95.63237690000001
+          }
+        }
+      },
+      "place_id": "ChIJnS1Q_LgXlYcR2CR15v7T-zM",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Atchison County",
+          "short_name": "Atchison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Atchison County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.585208,
+            "lng": -95.177369
+          },
+          "southwest": {
+            "lat": 40.2617058,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 40.42389600000001,
+          "lng": -95.4777811
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.585208,
+            "lng": -95.177369
+          },
+          "southwest": {
+            "lat": 40.2617058,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJCW4RiVcZlYcRMhN0zW7z7Es",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

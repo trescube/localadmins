@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "318-358",
+          "short_name": "318-358",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Windom Street",
+          "short_name": "Windom St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Orchard",
+          "short_name": "Orchard",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Garfield",
+          "short_name": "Garfield",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Antelope County",
+          "short_name": "Antelope County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68764",
+          "short_name": "68764",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5078",
+          "short_name": "5078",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "318-358 Windom St, Orchard, NE 68764, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.33687889999999,
+            "lng": -98.2410203
+          },
+          "southwest": {
+            "lat": 42.336331,
+            "lng": -98.24102979999999
+          }
+        },
+        "location": {
+          "lat": 42.3368427,
+          "lng": -98.2410397
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.3379539302915,
+            "lng": -98.2396760697085
+          },
+          "southwest": {
+            "lat": 42.3352559697085,
+            "lng": -98.2423740302915
+          }
+        }
+      },
+      "place_id": "EikzMTgtMzU4IFdpbmRvbSBTdCwgT3JjaGFyZCwgTkUgNjg3NjQsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Orchard",
+          "short_name": "Orchard",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Garfield",
+          "short_name": "Garfield",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Antelope County",
+          "short_name": "Antelope County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68764",
+          "short_name": "68764",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Orchard, NE 68764, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.341808,
+            "lng": -98.23254500000002
+          },
+          "southwest": {
+            "lat": 42.3316009,
+            "lng": -98.25229999999999
+          }
+        },
+        "location": {
+          "lat": 42.3355602,
+          "lng": -98.242852
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.341808,
+            "lng": -98.23254500000002
+          },
+          "southwest": {
+            "lat": 42.3316009,
+            "lng": -98.25229999999999
+          }
+        }
+      },
+      "place_id": "ChIJcySoPF4xhYcR5Eu-Z5IaHT8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Garfield",
+          "short_name": "Garfield",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Antelope County",
+          "short_name": "Antelope County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Garfield, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.34991600000001,
+            "lng": -98.1841659
+          },
+          "southwest": {
+            "lat": 42.2627279,
+            "lng": -98.300502
+          }
+        },
+        "location": {
+          "lat": 42.3134121,
+          "lng": -98.2431747
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.34991600000001,
+            "lng": -98.1841659
+          },
+          "southwest": {
+            "lat": 42.2627279,
+            "lng": -98.300502
+          }
+        }
+      },
+      "place_id": "ChIJR-1NMpYzhYcR4UqehMoAAw8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68764",
+          "short_name": "68764",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Orchard",
+          "short_name": "Orchard",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Orchard, NE 68764, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.56745009999999,
+            "lng": -98.10679499999999
+          },
+          "southwest": {
+            "lat": 42.26272489999999,
+            "lng": -98.37869409999999
+          }
+        },
+        "location": {
+          "lat": 42.370511,
+          "lng": -98.265058
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.56745009999999,
+            "lng": -98.10679499999999
+          },
+          "southwest": {
+            "lat": 42.26272489999999,
+            "lng": -98.37869409999999
+          }
+        }
+      },
+      "place_id": "ChIJvZ7HPq4whYcR0al8zRYxm2g",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Antelope County",
+          "short_name": "Antelope County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Antelope County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.437684,
+            "lng": -97.833288
+          },
+          "southwest": {
+            "lat": 41.9149539,
+            "lng": -98.300714
+          }
+        },
+        "location": {
+          "lat": 42.1902446,
+          "lng": -98.04651849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.437684,
+            "lng": -97.833288
+          },
+          "southwest": {
+            "lat": 41.9149539,
+            "lng": -98.300714
+          }
+        }
+      },
+      "place_id": "ChIJ_2yQeY2zmocRFHQKP0W835k",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

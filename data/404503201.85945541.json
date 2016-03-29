@@ -1,0 +1,485 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301-399",
+          "short_name": "301-399",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Chicago Avenue",
+          "short_name": "Chicago Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lebanon",
+          "short_name": "Lebanon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oak",
+          "short_name": "Oak",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Smith County",
+          "short_name": "Smith County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66952",
+          "short_name": "66952",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "301-399 Chicago Ave, Lebanon, KS 66952, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.80985159999999,
+            "lng": -98.5565525
+          },
+          "southwest": {
+            "lat": 39.8098286,
+            "lng": -98.5578711
+          }
+        },
+        "location": {
+          "lat": 39.8098565,
+          "lng": -98.5573275
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.81118908029149,
+            "lng": -98.5558628197085
+          },
+          "southwest": {
+            "lat": 39.80849111970849,
+            "lng": -98.5585607802915
+          }
+        }
+      },
+      "place_id": "EiszMDEtMzk5IENoaWNhZ28gQXZlLCBMZWJhbm9uLCBLUyA2Njk1MiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lebanon",
+          "short_name": "Lebanon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Oak",
+          "short_name": "Oak",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Smith County",
+          "short_name": "Smith County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "66952",
+          "short_name": "66952",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Lebanon, KS 66952, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.815627,
+            "lng": -98.550387
+          },
+          "southwest": {
+            "lat": 39.8066618,
+            "lng": -98.5634859
+          }
+        },
+        "location": {
+          "lat": 39.8097343,
+          "lng": -98.5556199
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.815627,
+            "lng": -98.550387
+          },
+          "southwest": {
+            "lat": 39.8066618,
+            "lng": -98.5634859
+          }
+        }
+      },
+      "place_id": "ChIJXabZFBOGmIcRosU6WTLXlq4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Oak",
+          "short_name": "Oak",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Smith County",
+          "short_name": "Smith County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Oak, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8284689,
+            "lng": -98.503975
+          },
+          "southwest": {
+            "lat": 39.74113,
+            "lng": -98.61667779999999
+          }
+        },
+        "location": {
+          "lat": 39.7686511,
+          "lng": -98.5501283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8284689,
+            "lng": -98.503975
+          },
+          "southwest": {
+            "lat": 39.74113,
+            "lng": -98.61667779999999
+          }
+        }
+      },
+      "place_id": "ChIJO0PGkIiGmIcRLEKKthFWSpw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "66952",
+          "short_name": "66952",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Lebanon",
+          "short_name": "Lebanon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lebanon, KS 66952, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0025529,
+            "lng": -98.429712
+          },
+          "southwest": {
+            "lat": 39.6098761,
+            "lng": -98.74817189999999
+          }
+        },
+        "location": {
+          "lat": 39.7842111,
+          "lng": -98.61606739999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0025529,
+            "lng": -98.429712
+          },
+          "southwest": {
+            "lat": 39.6098761,
+            "lng": -98.74817189999999
+          }
+        }
+      },
+      "place_id": "ChIJxVqX7aWImIcRWKfklYkpVFE",
+      "postcode_localities": [
+        "Bellaire",
+        "Lebanon"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Smith County",
+          "short_name": "Smith County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Smith County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0025529,
+            "lng": -98.503975
+          },
+          "southwest": {
+            "lat": 39.5672889,
+            "lng": -99.067128
+          }
+        },
+        "location": {
+          "lat": 39.7333849,
+          "lng": -98.7481167
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0025529,
+            "lng": -98.503975
+          },
+          "southwest": {
+            "lat": 39.5672889,
+            "lng": -99.067128
+          }
+        }
+      },
+      "place_id": "ChIJ81cInriYmIcR2-RTem8drV0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,459 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "42001-42199",
+          "short_name": "42001-42199",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North East Road",
+          "short_name": "N East Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Antioch",
+          "short_name": "Antioch",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Antioch Township",
+          "short_name": "Antioch Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "60002",
+          "short_name": "60002",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "8909",
+          "short_name": "8909",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "42001-42199 N East Rd, Antioch, IL 60002, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.47525400000001,
+            "lng": -88.0721629
+          },
+          "southwest": {
+            "lat": 42.4738289,
+            "lng": -88.0722409
+          }
+        },
+        "location": {
+          "lat": 42.47430629999999,
+          "lng": -88.0721962
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.47589043029151,
+            "lng": -88.0708529197085
+          },
+          "southwest": {
+            "lat": 42.47319246970851,
+            "lng": -88.0735508802915
+          }
+        }
+      },
+      "place_id": "Ei00MjAwMS00MjE5OSBOIEVhc3QgUmQsIEFudGlvY2gsIElMIDYwMDAyLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Antioch Township",
+          "short_name": "Antioch Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Antioch Township, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.49563699999999,
+            "lng": -88.002426
+          },
+          "southwest": {
+            "lat": 42.4152901,
+            "lng": -88.199535
+          }
+        },
+        "location": {
+          "lat": 42.4752471,
+          "lng": -88.0314174
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.49563699999999,
+            "lng": -88.002426
+          },
+          "southwest": {
+            "lat": 42.4152901,
+            "lng": -88.199535
+          }
+        }
+      },
+      "place_id": "ChIJS8YRpl-BD4gRw4zAeJuW1RA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "60002",
+          "short_name": "60002",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Antioch",
+          "short_name": "Antioch",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Antioch, IL 60002, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.49562,
+            "lng": -87.97158089999999
+          },
+          "southwest": {
+            "lat": 42.39903289999999,
+            "lng": -88.199535
+          }
+        },
+        "location": {
+          "lat": 42.4752471,
+          "lng": -88.0314174
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.49562,
+            "lng": -87.97158089999999
+          },
+          "southwest": {
+            "lat": 42.39903289999999,
+            "lng": -88.199535
+          }
+        }
+      },
+      "place_id": "ChIJ-czCfA1_D4gR8eBMncWIHnc",
+      "postcode_localities": [
+        "Antioch",
+        "Old Mill Creek"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lake County",
+          "short_name": "Lake County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lake County, IL, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.49563699999999,
+            "lng": -87.75900469999999
+          },
+          "southwest": {
+            "lat": 42.152361,
+            "lng": -88.1997628
+          }
+        },
+        "location": {
+          "lat": 42.3689363,
+          "lng": -87.8271534
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.49563699999999,
+            "lng": -87.75900469999999
+          },
+          "southwest": {
+            "lat": 42.152361,
+            "lng": -88.1997628
+          }
+        }
+      },
+      "place_id": "ChIJKdUvmscAD4gRZsVGNFFqkhs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chicago Metropolitan Area",
+          "short_name": "Chicago Metropolitan Area",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chicago Metropolitan Area, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        },
+        "location": {
+          "lat": 41.7435073,
+          "lng": -88.0118473
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.670123,
+            "lng": -86.92925699999999
+          },
+          "southwest": {
+            "lat": 40.7364641,
+            "lng": -88.942292
+          }
+        }
+      },
+      "place_id": "ChIJg-CZjExEDogRNJNXmgqEe9o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Illinois",
+          "short_name": "IL",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Illinois, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        },
+        "location": {
+          "lat": 40.6331249,
+          "lng": -89.3985283
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5083379,
+            "lng": -87.4951991
+          },
+          "southwest": {
+            "lat": 36.970298,
+            "lng": -91.5130789
+          }
+        }
+      },
+      "place_id": "ChIJGSZubzgtC4gRVlkRZFCCFX8",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

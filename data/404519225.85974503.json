@@ -1,0 +1,540 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "201-207",
+          "short_name": "201-207",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "3rd Street",
+          "short_name": "3rd St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Barneston",
+          "short_name": "Barneston",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Liberty",
+          "short_name": "Liberty",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gage County",
+          "short_name": "Gage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68309",
+          "short_name": "68309",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3038",
+          "short_name": "3038",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "201-207 3rd St, Barneston, NE 68309, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0492283,
+            "lng": -96.5740352
+          },
+          "southwest": {
+            "lat": 40.0482015,
+            "lng": -96.57405080000001
+          }
+        },
+        "location": {
+          "lat": 40.0487292,
+          "lng": -96.57406859999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0500638802915,
+            "lng": -96.57269401970849
+          },
+          "southwest": {
+            "lat": 40.0473659197085,
+            "lng": -96.57539198029151
+          }
+        }
+      },
+      "place_id": "EigyMDEtMjA3IDNyZCBTdCwgQmFybmVzdG9uLCBORSA2ODMwOSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Barneston",
+          "short_name": "Barneston",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Liberty",
+          "short_name": "Liberty",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gage County",
+          "short_name": "Gage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Barneston, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0518809,
+            "lng": -96.567358
+          },
+          "southwest": {
+            "lat": 40.044723,
+            "lng": -96.5863019
+          }
+        },
+        "location": {
+          "lat": 40.0482108,
+          "lng": -96.5767236
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0518809,
+            "lng": -96.567358
+          },
+          "southwest": {
+            "lat": 40.044723,
+            "lng": -96.5863019
+          }
+        }
+      },
+      "place_id": "ChIJzz9ucQQSlocR3yMjqav6Obo",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68309",
+          "short_name": "68309",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Barneston",
+          "short_name": "Barneston",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gage County",
+          "short_name": "Gage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Barneston, NE 68309, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.06647100000001,
+            "lng": -96.558071
+          },
+          "southwest": {
+            "lat": 40.0337478,
+            "lng": -96.5816031
+          }
+        },
+        "location": {
+          "lat": 40.0487247,
+          "lng": -96.5703314
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.06647100000001,
+            "lng": -96.558071
+          },
+          "southwest": {
+            "lat": 40.0337478,
+            "lng": -96.5816031
+          }
+        }
+      },
+      "place_id": "ChIJQdouX_gNlocRliw1ZblSOpk",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Liberty",
+          "short_name": "Liberty",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Gage County",
+          "short_name": "Gage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Liberty, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.088392,
+            "lng": -96.463686
+          },
+          "southwest": {
+            "lat": 40.000841,
+            "lng": -96.57718589999999
+          }
+        },
+        "location": {
+          "lat": 40.0646527,
+          "lng": -96.5143087
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.088392,
+            "lng": -96.463686
+          },
+          "southwest": {
+            "lat": 40.000841,
+            "lng": -96.57718589999999
+          }
+        }
+      },
+      "place_id": "ChIJS5QAOycMlocRnb2TA8GHhRQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Gage County",
+          "short_name": "Gage County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Gage County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.5238279,
+            "lng": -96.4632681
+          },
+          "southwest": {
+            "lat": 40.000841,
+            "lng": -96.91694799999999
+          }
+        },
+        "location": {
+          "lat": 40.1989041,
+          "lng": -96.663812
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.5238279,
+            "lng": -96.4632681
+          },
+          "southwest": {
+            "lat": 40.000841,
+            "lng": -96.91694799999999
+          }
+        }
+      },
+      "place_id": "ChIJTY5Y3B1klocRN8Vm--9EoCg",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Beatrice",
+          "short_name": "Beatrice",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Beatrice, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.52368209999999,
+            "lng": -96.463263
+          },
+          "southwest": {
+            "lat": 40.000851,
+            "lng": -96.91668899999999
+          }
+        },
+        "location": {
+          "lat": 40.1989041,
+          "lng": -96.663812
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.52368209999999,
+            "lng": -96.463263
+          },
+          "southwest": {
+            "lat": 40.000851,
+            "lng": -96.91668899999999
+          }
+        }
+      },
+      "place_id": "ChIJU9G2Z5RolocRHirJQxTJGOI",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

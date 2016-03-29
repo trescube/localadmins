@@ -1,0 +1,460 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1684",
+          "short_name": "1684",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Saint Mary Street",
+          "short_name": "St Mary St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Hays",
+          "short_name": "Hays",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Catherine",
+          "short_name": "Catherine",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ellis County",
+          "short_name": "Ellis County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "67601",
+          "short_name": "67601",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "1684 St Mary St, Hays, KS 67601, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.9292776,
+            "lng": -99.2140967
+          },
+          "southwest": {
+            "lat": 38.9286665,
+            "lng": -99.2143335
+          }
+        },
+        "location": {
+          "lat": 38.9292785,
+          "lng": -99.21431480000001
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.9303210302915,
+            "lng": -99.2128661197085
+          },
+          "southwest": {
+            "lat": 38.9276230697085,
+            "lng": -99.2155640802915
+          }
+        }
+      },
+      "place_id": "EiQxNjg0IFN0IE1hcnkgU3QsIEhheXMsIEtTIDY3NjAxLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Catherine",
+          "short_name": "Catherine",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ellis County",
+          "short_name": "Ellis County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Catherine, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.133324,
+            "lng": -99.08368589999999
+          },
+          "southwest": {
+            "lat": 38.8999919,
+            "lng": -99.2617539
+          }
+        },
+        "location": {
+          "lat": 38.9771934,
+          "lng": -99.21205929999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.133324,
+            "lng": -99.08368589999999
+          },
+          "southwest": {
+            "lat": 38.8999919,
+            "lng": -99.2617539
+          }
+        }
+      },
+      "place_id": "ChIJ1eap4hsqoocR2_O_gBTqq3g",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "67601",
+          "short_name": "67601",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Hays",
+          "short_name": "Hays",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hays, KS 67601, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.1067959,
+            "lng": -99.09770499999999
+          },
+          "southwest": {
+            "lat": 38.6829399,
+            "lng": -99.56056400000001
+          }
+        },
+        "location": {
+          "lat": 38.9062422,
+          "lng": -99.32292129999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1067959,
+            "lng": -99.09770499999999
+          },
+          "southwest": {
+            "lat": 38.6829399,
+            "lng": -99.56056400000001
+          }
+        }
+      },
+      "place_id": "ChIJw1jOnYx4oYcRVGNhJ0aLIr4",
+      "postcode_localities": [
+        "Antonino",
+        "Hays"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hays",
+          "short_name": "Hays",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hays, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.13324,
+            "lng": -99.0375001
+          },
+          "southwest": {
+            "lat": 38.69652,
+            "lng": -99.598524
+          }
+        },
+        "location": {
+          "lat": 38.8683549,
+          "lng": -99.2785583
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.13324,
+            "lng": -99.0375001
+          },
+          "southwest": {
+            "lat": 38.69652,
+            "lng": -99.598524
+          }
+        }
+      },
+      "place_id": "ChIJGa9cKvp4oYcR3vpxUSGWufI",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ellis County",
+          "short_name": "Ellis County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ellis County, KS, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.133324,
+            "lng": -99.0375001
+          },
+          "southwest": {
+            "lat": 38.6965139,
+            "lng": -99.5983229
+          }
+        },
+        "location": {
+          "lat": 38.8683549,
+          "lng": -99.2785583
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.133324,
+            "lng": -99.0375001
+          },
+          "southwest": {
+            "lat": 38.6965139,
+            "lng": -99.5983229
+          }
+        }
+      },
+      "place_id": "ChIJYTmDRo93oYcRaZDwE6gUNwY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas",
+          "short_name": "KS",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        },
+        "location": {
+          "lat": 39.011902,
+          "lng": -98.4842465
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0045419,
+            "lng": -94.588387
+          },
+          "southwest": {
+            "lat": 36.9930159,
+            "lng": -102.0517688
+          }
+        }
+      },
+      "place_id": "ChIJawF8cXEXo4cRXwk-S6m0wmg",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

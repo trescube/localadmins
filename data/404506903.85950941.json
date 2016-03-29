@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100-162",
+          "short_name": "100-162",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Beech Street",
+          "short_name": "Beech St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Freeport",
+          "short_name": "Freeport",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Irving Township",
+          "short_name": "Irving Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Barry County",
+          "short_name": "Barry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49325",
+          "short_name": "49325",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5114",
+          "short_name": "5114",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "100-162 Beech St, Freeport, MI 49325, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7641647,
+            "lng": -85.31513269999999
+          },
+          "southwest": {
+            "lat": 42.7641541,
+            "lng": -85.31637429999999
+          }
+        },
+        "location": {
+          "lat": 42.7641459,
+          "lng": -85.31578209999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7655083802915,
+            "lng": -85.31440451970849
+          },
+          "southwest": {
+            "lat": 42.7628104197085,
+            "lng": -85.31710248029151
+          }
+        }
+      },
+      "place_id": "EikxMDAtMTYyIEJlZWNoIFN0LCBGcmVlcG9ydCwgTUkgNDkzMjUsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Freeport",
+          "short_name": "Freeport",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Irving Township",
+          "short_name": "Irving Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Barry County",
+          "short_name": "Barry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "49325",
+          "short_name": "49325",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Freeport, MI 49325, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.769885,
+            "lng": -85.305793
+          },
+          "southwest": {
+            "lat": 42.758455,
+            "lng": -85.325977
+          }
+        },
+        "location": {
+          "lat": 42.7661449,
+          "lng": -85.31334389999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.769885,
+            "lng": -85.305793
+          },
+          "southwest": {
+            "lat": 42.758455,
+            "lng": -85.325977
+          }
+        }
+      },
+      "place_id": "ChIJ4zIwJH8_GIgRFDIQro66TM4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Irving Township",
+          "short_name": "Irving Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Barry County",
+          "short_name": "Barry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Irving Township, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.769885,
+            "lng": -85.30892
+          },
+          "southwest": {
+            "lat": 42.6818309,
+            "lng": -85.427646
+          }
+        },
+        "location": {
+          "lat": 42.712152,
+          "lng": -85.37562489999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.769885,
+            "lng": -85.30892
+          },
+          "southwest": {
+            "lat": 42.6818309,
+            "lng": -85.427646
+          }
+        }
+      },
+      "place_id": "ChIJzwDeMSQ5GIgRrKYPh_q-kbw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "49325",
+          "short_name": "49325",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Freeport",
+          "short_name": "Freeport",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Freeport, MI 49325, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.8278599,
+            "lng": -85.19192489999999
+          },
+          "southwest": {
+            "lat": 42.7214869,
+            "lng": -85.4081999
+          }
+        },
+        "location": {
+          "lat": 42.7579636,
+          "lng": -85.30328109999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.8278599,
+            "lng": -85.19192489999999
+          },
+          "southwest": {
+            "lat": 42.7214869,
+            "lng": -85.4081999
+          }
+        }
+      },
+      "place_id": "ChIJYWx7-o4_GIgRvf7ryiBJlxw",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Barry County",
+          "short_name": "Barry County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Barry County, MI, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7707841,
+            "lng": -85.0716089
+          },
+          "southwest": {
+            "lat": 42.4197221,
+            "lng": -85.545575
+          }
+        },
+        "location": {
+          "lat": 42.5354321,
+          "lng": -85.35496499999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7707841,
+            "lng": -85.0716089
+          },
+          "southwest": {
+            "lat": 42.4197221,
+            "lng": -85.545575
+          }
+        }
+      },
+      "place_id": "ChIJER5N0rMkGIgRx1xTF7tq8vc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Michigan",
+          "short_name": "MI",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Michigan, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 48.1986461,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        },
+        "location": {
+          "lat": 44.3148443,
+          "lng": -85.60236429999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 48.198602,
+            "lng": -82.413474
+          },
+          "southwest": {
+            "lat": 41.696118,
+            "lng": -90.4181358
+          }
+        }
+      },
+      "place_id": "ChIJEQTKxz2qTE0Rs8liellI3Zc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}
