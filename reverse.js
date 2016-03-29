@@ -57,7 +57,7 @@ fs.createReadStream('locality_localadmin_mismatches.psv')
         fs.writeFileSync(filename, JSON.stringify(result, null, 2) + '\n');
       }
       else {
-        console.log('nothing for ' + record.localadmin_id + '.' + record.locality_id);
+        console.log('nothing for ' + record.localadmin_id + '.' + record.locality_id + ': ' + err);
       }
 
     });
