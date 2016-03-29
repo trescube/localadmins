@@ -1,0 +1,547 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "4400-4498",
+          "short_name": "4400-4498",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Columbia",
+          "short_name": "Columbia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Katy Township",
+          "short_name": "Katy Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Boone County",
+          "short_name": "Boone County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65203",
+          "short_name": "65203",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9219",
+          "short_name": "9219",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "4400-4498 Main St, Columbia, MO 65203, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.9116124,
+            "lng": -92.47148070000001
+          },
+          "southwest": {
+            "lat": 38.9108578,
+            "lng": -92.47240339999999
+          }
+        },
+        "location": {
+          "lat": 38.9114944,
+          "lng": -92.4722331
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.9125840802915,
+            "lng": -92.4705930697085
+          },
+          "southwest": {
+            "lat": 38.9098861197085,
+            "lng": -92.4732910302915
+          }
+        }
+      },
+      "place_id": "Eio0NDAwLTQ0OTggTWFpbiBTdCwgQ29sdW1iaWEsIE1PIDY1MjAzLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Huntsdale",
+          "short_name": "Huntsdale",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Katy Township",
+          "short_name": "Katy Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Boone County",
+          "short_name": "Boone County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "65203",
+          "short_name": "65203",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Huntsdale, MO 65203, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.9129859,
+            "lng": -92.47047189999999
+          },
+          "southwest": {
+            "lat": 38.90982290000001,
+            "lng": -92.47382189999999
+          }
+        },
+        "location": {
+          "lat": 38.9117021,
+          "lng": -92.4724075
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.9129859,
+            "lng": -92.47047189999999
+          },
+          "southwest": {
+            "lat": 38.90982290000001,
+            "lng": -92.47382189999999
+          }
+        }
+      },
+      "place_id": "ChIJXdZhDyVLw4cRB9QceFBt6TY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Katy Township",
+          "short_name": "Katy Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Boone County",
+          "short_name": "Boone County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Katy Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.03467,
+            "lng": -92.386032
+          },
+          "southwest": {
+            "lat": 38.9008349,
+            "lng": -92.5702451
+          }
+        },
+        "location": {
+          "lat": 38.9822734,
+          "lng": -92.4801989
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.03467,
+            "lng": -92.386032
+          },
+          "southwest": {
+            "lat": 38.9008349,
+            "lng": -92.5702451
+          }
+        }
+      },
+      "place_id": "ChIJHdAWyV01w4cRuEOQsgEaD4k",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "65203",
+          "short_name": "65203",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Columbia",
+          "short_name": "Columbia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Columbia, MO 65203, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.9736039,
+            "lng": -92.312366
+          },
+          "southwest": {
+            "lat": 38.770708,
+            "lng": -92.4955399
+          }
+        },
+        "location": {
+          "lat": 38.9538484,
+          "lng": -92.3714428
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.9736039,
+            "lng": -92.312366
+          },
+          "southwest": {
+            "lat": 38.770708,
+            "lng": -92.4955399
+          }
+        }
+      },
+      "place_id": "ChIJgQsfzqBMw4cRbuujqduZ7c0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Boone County",
+          "short_name": "Boone County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Boone County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2487951,
+            "lng": -92.1043739
+          },
+          "southwest": {
+            "lat": 38.6431671,
+            "lng": -92.5702451
+          }
+        },
+        "location": {
+          "lat": 39.0468547,
+          "lng": -92.38136209999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.2487951,
+            "lng": -92.1043739
+          },
+          "southwest": {
+            "lat": 38.6431671,
+            "lng": -92.5702451
+          }
+        }
+      },
+      "place_id": "ChIJJYH0pyWf3IcRR7g9tbBfVNs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Columbia",
+          "short_name": "Columbia",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Columbia, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3435859,
+            "lng": -92.104551
+          },
+          "southwest": {
+            "lat": 38.6431671,
+            "lng": -92.945848
+          }
+        },
+        "location": {
+          "lat": 39.0468547,
+          "lng": -92.38136209999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3435859,
+            "lng": -92.104551
+          },
+          "southwest": {
+            "lat": 38.6431671,
+            "lng": -92.945848
+          }
+        }
+      },
+      "place_id": "ChIJhb4pZVEzw4cR8xAbwevMZnk",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

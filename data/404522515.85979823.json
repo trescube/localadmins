@@ -1,0 +1,497 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "61-71",
+          "short_name": "61-71",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Prospect Road",
+          "short_name": "Prospect Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Centerport",
+          "short_name": "Centerport",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Huntington",
+          "short_name": "Huntington",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11721",
+          "short_name": "11721",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1133",
+          "short_name": "1133",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "61-71 Prospect Rd, Centerport, NY 11721, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8953318,
+            "lng": -73.3706041
+          },
+          "southwest": {
+            "lat": 40.8937529,
+            "lng": -73.3714031
+          }
+        },
+        "location": {
+          "lat": 40.8942659,
+          "lng": -73.37080019999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8958913302915,
+            "lng": -73.3696546197085
+          },
+          "southwest": {
+            "lat": 40.89319336970851,
+            "lng": -73.3723525802915
+          }
+        }
+      },
+      "place_id": "Eiw2MS03MSBQcm9zcGVjdCBSZCwgQ2VudGVycG9ydCwgTlkgMTE3MjEsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Centerport",
+          "short_name": "Centerport",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Huntington",
+          "short_name": "Huntington",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Centerport, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9138487,
+            "lng": -73.3507131
+          },
+          "southwest": {
+            "lat": 40.8751509,
+            "lng": -73.392089
+          }
+        },
+        "location": {
+          "lat": 40.8991963,
+          "lng": -73.3678388
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9138487,
+            "lng": -73.3507131
+          },
+          "southwest": {
+            "lat": 40.8751509,
+            "lng": -73.392089
+          }
+        }
+      },
+      "place_id": "ChIJtxmGmHQm6IkR5A2O48Oma-A",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11721",
+          "short_name": "11721",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Centerport",
+          "short_name": "Centerport",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Huntington",
+          "short_name": "Huntington",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Centerport, NY 11721, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9206969,
+            "lng": -73.3507131
+          },
+          "southwest": {
+            "lat": 40.8751959,
+            "lng": -73.392264
+          }
+        },
+        "location": {
+          "lat": 40.8989447,
+          "lng": -73.3767641
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9206969,
+            "lng": -73.3507131
+          },
+          "southwest": {
+            "lat": 40.8751959,
+            "lng": -73.392264
+          }
+        }
+      },
+      "place_id": "ChIJw_K7incm6IkRHR37ruHBjII",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Huntington",
+          "short_name": "Huntington",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Huntington, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9557223,
+            "lng": -73.28644
+          },
+          "southwest": {
+            "lat": 40.751311,
+            "lng": -73.4971345
+          }
+        },
+        "location": {
+          "lat": 40.8867997,
+          "lng": -73.3944466
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9557223,
+            "lng": -73.28644
+          },
+          "southwest": {
+            "lat": 40.751311,
+            "lng": -73.4971345
+          }
+        }
+      },
+      "place_id": "ChIJTyWIrhUm6IkRIXE67Cf2oFw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffolk County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2923797,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        },
+        "location": {
+          "lat": 40.9848784,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2923194,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        }
+      },
+      "place_id": "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

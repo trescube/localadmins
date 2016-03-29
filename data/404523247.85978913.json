@@ -1,0 +1,548 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "14",
+          "short_name": "14",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Bristol Court",
+          "short_name": "Bristol Ct",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "West Hurley",
+          "short_name": "West Hurley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hurley",
+          "short_name": "Hurley",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ulster County",
+          "short_name": "Ulster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12491",
+          "short_name": "12491",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5601",
+          "short_name": "5601",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "14 Bristol Ct, West Hurley, NY 12491, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.008361,
+            "lng": -74.1122489
+          },
+          "southwest": {
+            "lat": 42.008282,
+            "lng": -74.112877
+          }
+        },
+        "location": {
+          "lat": 42.0082958,
+          "lng": -74.1122458
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0096704802915,
+            "lng": -74.1112139697085
+          },
+          "southwest": {
+            "lat": 42.0069725197085,
+            "lng": -74.11391193029151
+          }
+        }
+      },
+      "place_id": "EikxNCBCcmlzdG9sIEN0LCBXZXN0IEh1cmxleSwgTlkgMTI0OTEsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "West Hurley",
+          "short_name": "West Hurley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hurley",
+          "short_name": "Hurley",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ulster County",
+          "short_name": "Ulster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "West Hurley, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0253879,
+            "lng": -74.08158879999999
+          },
+          "southwest": {
+            "lat": 41.99350889999999,
+            "lng": -74.1404561
+          }
+        },
+        "location": {
+          "lat": 41.9973144,
+          "lng": -74.10486399999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0253879,
+            "lng": -74.08158879999999
+          },
+          "southwest": {
+            "lat": 41.99350889999999,
+            "lng": -74.1404561
+          }
+        }
+      },
+      "place_id": "ChIJedJ8C_cD3YkRvdsIOSEdONc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12491",
+          "short_name": "12491",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "West Hurley",
+          "short_name": "West Hurley",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ulster County",
+          "short_name": "Ulster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "West Hurley, NY 12491, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.02344,
+            "lng": -74.0866619
+          },
+          "southwest": {
+            "lat": 41.930963,
+            "lng": -74.20839099999999
+          }
+        },
+        "location": {
+          "lat": 41.97918809999999,
+          "lng": -74.1357407
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.02344,
+            "lng": -74.0866619
+          },
+          "southwest": {
+            "lat": 41.930963,
+            "lng": -74.20839099999999
+          }
+        }
+      },
+      "place_id": "ChIJ1fd4kvID3YkRE318GVR687s",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hurley",
+          "short_name": "Hurley",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ulster County",
+          "short_name": "Ulster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hurley, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0253879,
+            "lng": -74.0435621
+          },
+          "southwest": {
+            "lat": 41.890737,
+            "lng": -74.18999699999999
+          }
+        },
+        "location": {
+          "lat": 41.9565207,
+          "lng": -74.1122506
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0253879,
+            "lng": -74.0435621
+          },
+          "southwest": {
+            "lat": 41.890737,
+            "lng": -74.18999699999999
+          }
+        }
+      },
+      "place_id": "ChIJZfHYvXAE3YkRfLP-zoh_7ho",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kingston",
+          "short_name": "Kingston",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kingston, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1769919,
+            "lng": -73.910675
+          },
+          "southwest": {
+            "lat": 41.5806101,
+            "lng": -74.780693
+          }
+        },
+        "location": {
+          "lat": 41.8586493,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1769919,
+            "lng": -73.910675
+          },
+          "southwest": {
+            "lat": 41.5806101,
+            "lng": -74.780693
+          }
+        }
+      },
+      "place_id": "ChIJNZcje1bi3IkRJvm1-FceLq0",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ulster County",
+          "short_name": "Ulster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ulster County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1769919,
+            "lng": -73.9168121
+          },
+          "southwest": {
+            "lat": 41.58061000000001,
+            "lng": -74.780693
+          }
+        },
+        "location": {
+          "lat": 41.8586493,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1769919,
+            "lng": -73.9168121
+          },
+          "southwest": {
+            "lat": 41.58061000000001,
+            "lng": -74.780693
+          }
+        }
+      },
+      "place_id": "ChIJcYmy32Tn3IkRE4hwyqUfabM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

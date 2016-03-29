@@ -1,0 +1,446 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "900",
+          "short_name": "900",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Red Mills Road",
+          "short_name": "Red Mills Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Wallkill",
+          "short_name": "Wallkill",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shawangunk",
+          "short_name": "Shawangunk",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ulster County",
+          "short_name": "Ulster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12589",
+          "short_name": "12589",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "900 Red Mills Rd, Wallkill, NY 12589, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.6371316,
+          "lng": -74.2632246
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.63848058029149,
+            "lng": -74.26187561970849
+          },
+          "southwest": {
+            "lat": 41.6357826197085,
+            "lng": -74.26457358029151
+          }
+        }
+      },
+      "place_id": "ChIJ2TGiyEfY3IkRXzExvbcAwOk",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Shawangunk",
+          "short_name": "Shawangunk",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ulster County",
+          "short_name": "Ulster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shawangunk, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.694589,
+            "lng": -74.12466289999999
+          },
+          "southwest": {
+            "lat": 41.5825439,
+            "lng": -74.39527199999999
+          }
+        },
+        "location": {
+          "lat": 41.6284438,
+          "lng": -74.1944529
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.694589,
+            "lng": -74.12466289999999
+          },
+          "southwest": {
+            "lat": 41.5825439,
+            "lng": -74.39527199999999
+          }
+        }
+      },
+      "place_id": "ChIJV4PRFkrY3IkRtNTxSref0XI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12589",
+          "short_name": "12589",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Wallkill",
+          "short_name": "Wallkill",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wallkill, NY 12589, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7277979,
+            "lng": -74.0265259
+          },
+          "southwest": {
+            "lat": 41.5605568,
+            "lng": -74.3036318
+          }
+        },
+        "location": {
+          "lat": 41.61375100000001,
+          "lng": -74.1592278
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7277979,
+            "lng": -74.0265259
+          },
+          "southwest": {
+            "lat": 41.5605568,
+            "lng": -74.3036318
+          }
+        }
+      },
+      "place_id": "ChIJ3wPPPnLY3IkRYr9UuMx6LYI",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kingston",
+          "short_name": "Kingston",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kingston, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1769919,
+            "lng": -73.910675
+          },
+          "southwest": {
+            "lat": 41.5806101,
+            "lng": -74.780693
+          }
+        },
+        "location": {
+          "lat": 41.8586493,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1769919,
+            "lng": -73.910675
+          },
+          "southwest": {
+            "lat": 41.5806101,
+            "lng": -74.780693
+          }
+        }
+      },
+      "place_id": "ChIJNZcje1bi3IkRJvm1-FceLq0",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ulster County",
+          "short_name": "Ulster County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ulster County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1769919,
+            "lng": -73.9168121
+          },
+          "southwest": {
+            "lat": 41.58061000000001,
+            "lng": -74.780693
+          }
+        },
+        "location": {
+          "lat": 41.8586493,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1769919,
+            "lng": -73.9168121
+          },
+          "southwest": {
+            "lat": 41.58061000000001,
+            "lng": -74.780693
+          }
+        }
+      },
+      "place_id": "ChIJcYmy32Tn3IkRE4hwyqUfabM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

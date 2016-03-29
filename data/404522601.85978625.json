@@ -1,0 +1,536 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "99",
+          "short_name": "99",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Emily Drive",
+          "short_name": "Emily Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "South Corning",
+          "short_name": "South Corning",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Corning",
+          "short_name": "Corning",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Steuben County",
+          "short_name": "Steuben County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14830",
+          "short_name": "14830",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "99 Emily Dr, South Corning, NY 14830, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.125909,
+            "lng": -77.03546999999999
+          },
+          "southwest": {
+            "lat": 42.125327,
+            "lng": -77.035771
+          }
+        },
+        "location": {
+          "lat": 42.1259027,
+          "lng": -77.0357878
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1269669802915,
+            "lng": -77.03427151970848
+          },
+          "southwest": {
+            "lat": 42.1242690197085,
+            "lng": -77.03696948029149
+          }
+        }
+      },
+      "place_id": "Eik5OSBFbWlseSBEciwgU291dGggQ29ybmluZywgTlkgMTQ4MzAsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "South Corning",
+          "short_name": "South Corning",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Corning",
+          "short_name": "Corning",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Steuben County",
+          "short_name": "Steuben County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14830",
+          "short_name": "14830",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "South Corning, NY 14830, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.13418410000001,
+            "lng": -77.025758
+          },
+          "southwest": {
+            "lat": 42.1182059,
+            "lng": -77.043436
+          }
+        },
+        "location": {
+          "lat": 42.121741,
+          "lng": -77.0371895
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.13418410000001,
+            "lng": -77.025758
+          },
+          "southwest": {
+            "lat": 42.1182059,
+            "lng": -77.043436
+          }
+        }
+      },
+      "place_id": "ChIJkXR58N430IkRqUNqo5pGh_Y",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Corning",
+          "short_name": "Corning",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Steuben County",
+          "short_name": "Steuben County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Corning, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2080259,
+            "lng": -76.965349
+          },
+          "southwest": {
+            "lat": 42.091114,
+            "lng": -77.085081
+          }
+        },
+        "location": {
+          "lat": 42.1545153,
+          "lng": -77.0219019
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2080259,
+            "lng": -76.965349
+          },
+          "southwest": {
+            "lat": 42.091114,
+            "lng": -77.085081
+          }
+        }
+      },
+      "place_id": "ChIJWybaImxI0IkRC_-dqSA92OU",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "14830",
+          "short_name": "14830",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Corning",
+          "short_name": "Corning",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Corning, NY 14830, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.256032,
+            "lng": -76.925722
+          },
+          "southwest": {
+            "lat": 42.0171869,
+            "lng": -77.1317591
+          }
+        },
+        "location": {
+          "lat": 42.1072182,
+          "lng": -77.03341790000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.256032,
+            "lng": -76.925722
+          },
+          "southwest": {
+            "lat": 42.0171869,
+            "lng": -77.1317591
+          }
+        }
+      },
+      "place_id": "ChIJo-mcAac30IkRPaAXCuMUqNo",
+      "postcode_localities": [
+        "Corning",
+        "South Corning"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Steuben County",
+          "short_name": "Steuben County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Steuben County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.580413,
+            "lng": -76.9650278
+          },
+          "southwest": {
+            "lat": 41.998636,
+            "lng": -77.7499309
+          }
+        },
+        "location": {
+          "lat": 42.321027,
+          "lng": -77.3783789
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.580413,
+            "lng": -76.9650278
+          },
+          "southwest": {
+            "lat": 41.998636,
+            "lng": -77.7499309
+          }
+        }
+      },
+      "place_id": "ChIJAS8L6mha0IkR5lxwoqXwEXo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Corning",
+          "short_name": "Corning",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Corning, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.58034199999999,
+            "lng": -76.96502799999999
+          },
+          "southwest": {
+            "lat": 41.9987819,
+            "lng": -77.74993099999999
+          }
+        },
+        "location": {
+          "lat": 42.321027,
+          "lng": -77.3783789
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.58034199999999,
+            "lng": -76.96502799999999
+          },
+          "southwest": {
+            "lat": 41.9987819,
+            "lng": -77.74993099999999
+          }
+        }
+      },
+      "place_id": "ChIJFRQTD3S60YkRSBqobXKIP2k",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

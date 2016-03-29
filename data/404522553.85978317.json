@@ -1,0 +1,489 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "606-698",
+          "short_name": "606-698",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Perry Street",
+          "short_name": "N Perry St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Watkins Glen",
+          "short_name": "Watkins Glen",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dix",
+          "short_name": "Dix",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuyler County",
+          "short_name": "Schuyler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14891",
+          "short_name": "14891",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1338",
+          "short_name": "1338",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "606-698 N Perry St, Watkins Glen, NY 14891, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.3807625,
+            "lng": -76.86724219999999
+          },
+          "southwest": {
+            "lat": 42.3800957,
+            "lng": -76.867589
+          }
+        },
+        "location": {
+          "lat": 42.3801299,
+          "lng": -76.8672399
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.3817780802915,
+            "lng": -76.86606661970849
+          },
+          "southwest": {
+            "lat": 42.3790801197085,
+            "lng": -76.8687645802915
+          }
+        }
+      },
+      "place_id": "Ei82MDYtNjk4IE4gUGVycnkgU3QsIFdhdGtpbnMgR2xlbiwgTlkgMTQ4OTEsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Watkins Glen",
+          "short_name": "Watkins Glen",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dix",
+          "short_name": "Dix",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuyler County",
+          "short_name": "Schuyler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Watkins Glen, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.3911341,
+            "lng": -76.8491559
+          },
+          "southwest": {
+            "lat": 42.368167,
+            "lng": -76.88574779999999
+          }
+        },
+        "location": {
+          "lat": 42.3806287,
+          "lng": -76.8732921
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.3911341,
+            "lng": -76.8491559
+          },
+          "southwest": {
+            "lat": 42.368167,
+            "lng": -76.88574779999999
+          }
+        }
+      },
+      "place_id": "ChIJj2HZewpZ0IkRCRdRnhG9LNQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Dix",
+          "short_name": "Dix",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuyler County",
+          "short_name": "Schuyler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dix, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.3880737,
+            "lng": -76.8491559
+          },
+          "southwest": {
+            "lat": 42.2874399,
+            "lng": -76.96582579999999
+          }
+        },
+        "location": {
+          "lat": 42.3242404,
+          "lng": -76.8951551
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.3880737,
+            "lng": -76.8491559
+          },
+          "southwest": {
+            "lat": 42.2874399,
+            "lng": -76.96582579999999
+          }
+        }
+      },
+      "place_id": "ChIJn2MKehtc0IkRcjqAaXb-66E",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "14891",
+          "short_name": "14891",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Watkins Glen",
+          "short_name": "Watkins Glen",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schuyler County",
+          "short_name": "Schuyler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Watkins Glen, NY 14891, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.4441,
+            "lng": -76.849107
+          },
+          "southwest": {
+            "lat": 42.3092029,
+            "lng": -77.066591
+          }
+        },
+        "location": {
+          "lat": 42.3682998,
+          "lng": -76.9412601
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.4441,
+            "lng": -76.849107
+          },
+          "southwest": {
+            "lat": 42.3092029,
+            "lng": -77.066591
+          }
+        }
+      },
+      "place_id": "ChIJQSDzlgxZ0IkRHavC2FyGSWs",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Schuyler County",
+          "short_name": "Schuyler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Schuyler County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.54679,
+            "lng": -76.6192099
+          },
+          "southwest": {
+            "lat": 42.2337209,
+            "lng": -77.107203
+          }
+        },
+        "location": {
+          "lat": 42.3796425,
+          "lng": -76.8720961
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.54679,
+            "lng": -76.6192099
+          },
+          "southwest": {
+            "lat": 42.2337209,
+            "lng": -77.107203
+          }
+        }
+      },
+      "place_id": "ChIJPd2Bror00IkRGpapgtRpWnI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

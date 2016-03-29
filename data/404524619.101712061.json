@@ -1,0 +1,568 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "100",
+          "short_name": "100",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Stout",
+          "short_name": "Stout",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rome",
+          "short_name": "Rome",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Green Township",
+          "short_name": "Green Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adams County",
+          "short_name": "Adams County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45684",
+          "short_name": "45684",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "100 Main St, Stout, OH 45684, USA",
+      "geometry": {
+        "location": {
+          "lat": 38.665147,
+          "lng": -83.380442
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 38.66649598029149,
+            "lng": -83.3790930197085
+          },
+          "southwest": {
+            "lat": 38.66379801970849,
+            "lng": -83.38179098029151
+          }
+        }
+      },
+      "place_id": "ChIJCbMqNP26RogRKi97ZdJtEhg",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Stout",
+          "short_name": "Stout",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rome",
+          "short_name": "Rome",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Green Township",
+          "short_name": "Green Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adams County",
+          "short_name": "Adams County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45684",
+          "short_name": "45684",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Stout, Rome, OH 45684, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6684176,
+            "lng": -83.3731443
+          },
+          "southwest": {
+            "lat": 38.6615233,
+            "lng": -83.3832958
+          }
+        },
+        "location": {
+          "lat": 38.6638829,
+          "lng": -83.3791512
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6684176,
+            "lng": -83.3731443
+          },
+          "southwest": {
+            "lat": 38.6615233,
+            "lng": -83.3832958
+          }
+        }
+      },
+      "place_id": "ChIJEXHupuK6RogRASEX0fyj-k0",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rome",
+          "short_name": "Rome",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Green Township",
+          "short_name": "Green Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adams County",
+          "short_name": "Adams County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rome, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6698759,
+            "lng": -83.37315889999999
+          },
+          "southwest": {
+            "lat": 38.6613329,
+            "lng": -83.3851639
+          }
+        },
+        "location": {
+          "lat": 38.66611959999999,
+          "lng": -83.3802744
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6698759,
+            "lng": -83.37315889999999
+          },
+          "southwest": {
+            "lat": 38.6613329,
+            "lng": -83.3851639
+          }
+        }
+      },
+      "place_id": "ChIJIw8jVf26RogR2uTBwtKVKoQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Green Township",
+          "short_name": "Green Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Adams County",
+          "short_name": "Adams County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Green Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.756506,
+            "lng": -83.2675501
+          },
+          "southwest": {
+            "lat": 38.5965879,
+            "lng": -83.47163809999999
+          }
+        },
+        "location": {
+          "lat": 38.6972564,
+          "lng": -83.4003037
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.756506,
+            "lng": -83.2675501
+          },
+          "southwest": {
+            "lat": 38.5965879,
+            "lng": -83.47163809999999
+          }
+        }
+      },
+      "place_id": "ChIJO_mIDeG9RogRNpz1AJ5Ely0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "45684",
+          "short_name": "45684",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Stout",
+          "short_name": "Stout",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Stout, OH 45684, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.7710548,
+            "lng": -83.06964909999999
+          },
+          "southwest": {
+            "lat": 38.5966639,
+            "lng": -83.45669509999999
+          }
+        },
+        "location": {
+          "lat": 38.6432345,
+          "lng": -83.1863358
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.7710548,
+            "lng": -83.06964909999999
+          },
+          "southwest": {
+            "lat": 38.5966639,
+            "lng": -83.45669509999999
+          }
+        }
+      },
+      "place_id": "ChIJ4Sgmo5i9RogRd3yifK6e3uM",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Adams County",
+          "short_name": "Adams County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Adams County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.055202,
+            "lng": -83.2675501
+          },
+          "southwest": {
+            "lat": 38.5965879,
+            "lng": -83.7053179
+          }
+        },
+        "location": {
+          "lat": 38.8907822,
+          "lng": -83.5070203
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.055202,
+            "lng": -83.2675501
+          },
+          "southwest": {
+            "lat": 38.5965879,
+            "lng": -83.7053179
+          }
+        }
+      },
+      "place_id": "ChIJtUvMhiPiRogRJX-fMQc2A7c",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

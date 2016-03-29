@@ -1,0 +1,490 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "141-199",
+          "short_name": "141-199",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South High Street",
+          "short_name": "S High St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lindenhurst",
+          "short_name": "Lindenhurst",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Babylon",
+          "short_name": "Babylon",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11757",
+          "short_name": "11757",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "141-199 S High St, Lindenhurst, NY 11757, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6866507,
+            "lng": -73.369809
+          },
+          "southwest": {
+            "lat": 40.684826,
+            "lng": -73.3719618
+          }
+        },
+        "location": {
+          "lat": 40.6857867,
+          "lng": -73.3709768
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6870873302915,
+            "lng": -73.3695364197085
+          },
+          "southwest": {
+            "lat": 40.6843893697085,
+            "lng": -73.3722343802915
+          }
+        }
+      },
+      "place_id": "Ei0xNDEtMTk5IFMgSGlnaCBTdCwgTGluZGVuaHVyc3QsIE5ZIDExNzU3LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lindenhurst",
+          "short_name": "Lindenhurst",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Babylon",
+          "short_name": "Babylon",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lindenhurst, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.708298,
+            "lng": -73.3515
+          },
+          "southwest": {
+            "lat": 40.6658238,
+            "lng": -73.39520809999999
+          }
+        },
+        "location": {
+          "lat": 40.68676670000001,
+          "lng": -73.3734547
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.708298,
+            "lng": -73.3515
+          },
+          "southwest": {
+            "lat": 40.6658238,
+            "lng": -73.39520809999999
+          }
+        }
+      },
+      "place_id": "ChIJkfezFaHU6YkRSQrHxje0B1k",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11757",
+          "short_name": "11757",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Lindenhurst",
+          "short_name": "Lindenhurst",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Babylon",
+          "short_name": "Babylon",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lindenhurst, NY 11757, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7211839,
+            "lng": -73.3296661
+          },
+          "southwest": {
+            "lat": 40.6344999,
+            "lng": -73.4066631
+          }
+        },
+        "location": {
+          "lat": 40.6821467,
+          "lng": -73.3767641
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7211839,
+            "lng": -73.3296661
+          },
+          "southwest": {
+            "lat": 40.6344999,
+            "lng": -73.4066631
+          }
+        }
+      },
+      "place_id": "ChIJkfezFaHU6YkRBkIrdy-MktY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Babylon",
+          "short_name": "Babylon",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Babylon, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7842969,
+            "lng": -73.2635619
+          },
+          "southwest": {
+            "lat": 40.6094168,
+            "lng": -73.4384999
+          }
+        },
+        "location": {
+          "lat": 40.6432284,
+          "lng": -73.3472901
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7842969,
+            "lng": -73.2635619
+          },
+          "southwest": {
+            "lat": 40.6094168,
+            "lng": -73.4384999
+          }
+        }
+      },
+      "place_id": "ChIJ_V4T6KnT6YkR7p8spOZchh0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffolk County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2923797,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        },
+        "location": {
+          "lat": 40.9848784,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2923194,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        }
+      },
+      "place_id": "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

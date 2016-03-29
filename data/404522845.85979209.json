@@ -1,0 +1,542 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "234",
+          "short_name": "234",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Matty Avenue",
+          "short_name": "Matty Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Syracuse",
+          "short_name": "Syracuse",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salina",
+          "short_name": "Salina",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "13211",
+          "short_name": "13211",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1633",
+          "short_name": "1633",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "234 Matty Ave, Syracuse, NY 13211, USA",
+      "geometry": {
+        "location": {
+          "lat": 43.098998,
+          "lng": -76.138823
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 43.1003469802915,
+            "lng": -76.13747401970849
+          },
+          "southwest": {
+            "lat": 43.09764901970851,
+            "lng": -76.1401719802915
+          }
+        }
+      },
+      "place_id": "ChIJtTNsRIft2YkRPxIHGCo-pu4",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mattydale",
+          "short_name": "Mattydale",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salina",
+          "short_name": "Salina",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mattydale, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.112165,
+            "lng": -76.11676109999999
+          },
+          "southwest": {
+            "lat": 43.091882,
+            "lng": -76.163826
+          }
+        },
+        "location": {
+          "lat": 43.09784490000001,
+          "lng": -76.14520209999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.112165,
+            "lng": -76.11676109999999
+          },
+          "southwest": {
+            "lat": 43.091882,
+            "lng": -76.163826
+          }
+        }
+      },
+      "place_id": "ChIJ8cgWAHjy2YkRkrFMeIgWfmA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "13211",
+          "short_name": "13211",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Syracuse",
+          "short_name": "Syracuse",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Syracuse, NY 13211, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.113451,
+            "lng": -76.08169079999999
+          },
+          "southwest": {
+            "lat": 43.086309,
+            "lng": -76.16385
+          }
+        },
+        "location": {
+          "lat": 43.1014013,
+          "lng": -76.1261969
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.113451,
+            "lng": -76.08169079999999
+          },
+          "southwest": {
+            "lat": 43.086309,
+            "lng": -76.16385
+          }
+        }
+      },
+      "place_id": "ChIJ8anyjmXt2YkRacz9qL4RVic",
+      "postcode_localities": [
+        "Mattydale",
+        "Syracuse"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Salina",
+          "short_name": "Salina",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Salina, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.1383578,
+            "lng": -76.1153159
+          },
+          "southwest": {
+            "lat": 43.072959,
+            "lng": -76.25435
+          }
+        },
+        "location": {
+          "lat": 43.10710659999999,
+          "lng": -76.1725774
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.1383578,
+            "lng": -76.1153159
+          },
+          "southwest": {
+            "lat": 43.072959,
+            "lng": -76.25435
+          }
+        }
+      },
+      "place_id": "ChIJI-LtJtzt2YkReLzuKVmJkDM",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Onondaga County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.271605,
+            "lng": -75.89607889999999
+          },
+          "southwest": {
+            "lat": 42.7714292,
+            "lng": -76.499324
+          }
+        },
+        "location": {
+          "lat": 43.026819,
+          "lng": -76.17837390000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.271605,
+            "lng": -75.89607889999999
+          },
+          "southwest": {
+            "lat": 42.7714292,
+            "lng": -76.499324
+          }
+        }
+      },
+      "place_id": "ChIJNf-jRf702YkRWbJ48qyiSrI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Syracuse",
+          "short_name": "Syracuse",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Syracuse, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.7070179,
+            "lng": -75.239972
+          },
+          "southwest": {
+            "lat": 42.723844,
+            "lng": -76.6170478
+          }
+        },
+        "location": {
+          "lat": 43.114397,
+          "lng": -76.2710833
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.7070179,
+            "lng": -75.239972
+          },
+          "southwest": {
+            "lat": 42.723844,
+            "lng": -76.6170478
+          }
+        }
+      },
+      "place_id": "ChIJG1ByhoST2YkRpx440X2eFGo",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,571 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "3111",
+          "short_name": "3111",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Saunders Settlement Road",
+          "short_name": "Saunders Settlement Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Sanborn",
+          "short_name": "Sanborn",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cambria",
+          "short_name": "Cambria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Niagara County",
+          "short_name": "Niagara County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14132",
+          "short_name": "14132",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "3111 Saunders Settlement Rd, Sanborn, NY 14132, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.14322,
+            "lng": -78.8771641
+          },
+          "southwest": {
+            "lat": 43.1432051,
+            "lng": -78.87850329999999
+          }
+        },
+        "location": {
+          "lat": 43.1432257,
+          "lng": -78.87778519999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 43.14456153029149,
+            "lng": -78.87648471970849
+          },
+          "southwest": {
+            "lat": 43.14186356970849,
+            "lng": -78.8791826802915
+          }
+        }
+      },
+      "place_id": "EjMzMTExIFNhdW5kZXJzIFNldHRsZW1lbnQgUmQsIFNhbmJvcm4sIE5ZIDE0MTMyLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Highway 31",
+          "short_name": "NY-31",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Sanborn",
+          "short_name": "Sanborn",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cambria",
+          "short_name": "Cambria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Niagara County",
+          "short_name": "Niagara County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14132",
+          "short_name": "14132",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "NY-31, Sanborn, NY 14132, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.14322,
+            "lng": -78.8771641
+          },
+          "southwest": {
+            "lat": 43.1432051,
+            "lng": -78.87850329999999
+          }
+        },
+        "location": {
+          "lat": 43.1432126,
+          "lng": -78.8778337
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 43.14456153029149,
+            "lng": -78.87648471970849
+          },
+          "southwest": {
+            "lat": 43.14186356970849,
+            "lng": -78.8791826802915
+          }
+        }
+      },
+      "place_id": "ChIJC4WhqfBk04kRzA17CKFJCP4",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sanborn",
+          "short_name": "Sanborn",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Niagara County",
+          "short_name": "Niagara County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14132",
+          "short_name": "14132",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Sanborn, NY 14132, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.1550529,
+            "lng": -78.8551129
+          },
+          "southwest": {
+            "lat": 43.132166,
+            "lng": -78.8972639
+          }
+        },
+        "location": {
+          "lat": 43.1371937,
+          "lng": -78.88480679999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.1550529,
+            "lng": -78.8551129
+          },
+          "southwest": {
+            "lat": 43.132166,
+            "lng": -78.8972639
+          }
+        }
+      },
+      "place_id": "ChIJx1tZl_Bk04kReQRNzVCRAAc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "14132",
+          "short_name": "14132",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Sanborn",
+          "short_name": "Sanborn",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Niagara County",
+          "short_name": "Niagara County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sanborn, NY 14132, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.1911311,
+            "lng": -78.799736
+          },
+          "southwest": {
+            "lat": 43.104824,
+            "lng": -78.949933
+          }
+        },
+        "location": {
+          "lat": 43.1510706,
+          "lng": -78.8609122
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.1911311,
+            "lng": -78.799736
+          },
+          "southwest": {
+            "lat": 43.104824,
+            "lng": -78.949933
+          }
+        }
+      },
+      "place_id": "ChIJC2T5o0Zk04kRrwF96dbWEA4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cambria",
+          "short_name": "Cambria",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Niagara County",
+          "short_name": "Niagara County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cambria, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.2205559,
+            "lng": -78.754108
+          },
+          "southwest": {
+            "lat": 43.132056,
+            "lng": -78.885562
+          }
+        },
+        "location": {
+          "lat": 43.1848992,
+          "lng": -78.8156113
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.2205559,
+            "lng": -78.754108
+          },
+          "southwest": {
+            "lat": 43.132056,
+            "lng": -78.885562
+          }
+        }
+      },
+      "place_id": "ChIJEyaelb5804kRIbwptNdUf7o",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Niagara County",
+          "short_name": "Niagara County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Niagara County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.3750951,
+            "lng": -78.460416
+          },
+          "southwest": {
+            "lat": 43.01886289999999,
+            "lng": -79.075367
+          }
+        },
+        "location": {
+          "lat": 43.3119496,
+          "lng": -78.74762079999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.3750951,
+            "lng": -78.460416
+          },
+          "southwest": {
+            "lat": 43.01886289999999,
+            "lng": -79.075367
+          }
+        }
+      },
+      "place_id": "ChIJqZePrpqE1IkRdVv2SU7kou0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

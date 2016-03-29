@@ -1,0 +1,561 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "723",
+          "short_name": "723",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Empire Boulevard",
+          "short_name": "Empire Blvd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Crown Heights",
+          "short_name": "Crown Heights",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brooklyn",
+          "short_name": "Brooklyn",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kings County",
+          "short_name": "Kings County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11213",
+          "short_name": "11213",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5306",
+          "short_name": "5306",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "723 Empire Blvd, Brooklyn, NY 11213, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.664091,
+          "lng": -73.93824699999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6654399802915,
+            "lng": -73.9368980197085
+          },
+          "southwest": {
+            "lat": 40.6627420197085,
+            "lng": -73.9395959802915
+          }
+        }
+      },
+      "place_id": "ChIJ708c0H1bwokRyYPtBSLoTmg",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Crown Heights",
+          "short_name": "Crown Heights",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brooklyn",
+          "short_name": "Brooklyn",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kings County",
+          "short_name": "Kings County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Crown Heights, Brooklyn, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.681042,
+            "lng": -73.9192388
+          },
+          "southwest": {
+            "lat": 40.6632994,
+            "lng": -73.9643928
+          }
+        },
+        "location": {
+          "lat": 40.6681032,
+          "lng": -73.9447994
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.681042,
+            "lng": -73.9192388
+          },
+          "southwest": {
+            "lat": 40.6632994,
+            "lng": -73.9643928
+          }
+        }
+      },
+      "place_id": "ChIJOw1m54NbwokRrBKS2RArkmw",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brooklyn",
+          "short_name": "Brooklyn",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kings County",
+          "short_name": "Kings County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brooklyn, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.739446,
+            "lng": -73.8333651
+          },
+          "southwest": {
+            "lat": 40.551042,
+            "lng": -74.05663
+          }
+        },
+        "location": {
+          "lat": 40.6781784,
+          "lng": -73.9441579
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.739446,
+            "lng": -73.8333651
+          },
+          "southwest": {
+            "lat": 40.551042,
+            "lng": -74.05663
+          }
+        }
+      },
+      "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "New York",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.91525559999999,
+            "lng": -73.70027209999999
+          },
+          "southwest": {
+            "lat": 40.4960439,
+            "lng": -74.2557349
+          }
+        },
+        "location": {
+          "lat": 40.7127837,
+          "lng": -74.0059413
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.91525559999999,
+            "lng": -73.70027209999999
+          },
+          "southwest": {
+            "lat": 40.4960439,
+            "lng": -74.2557349
+          }
+        }
+      },
+      "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11213",
+          "short_name": "11213",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Brooklyn",
+          "short_name": "Brooklyn",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kings County",
+          "short_name": "Kings County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brooklyn, NY 11213, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6812979,
+            "lng": -73.924244
+          },
+          "southwest": {
+            "lat": 40.663021,
+            "lng": -73.9480669
+          }
+        },
+        "location": {
+          "lat": 40.6722134,
+          "lng": -73.93892129999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6812979,
+            "lng": -73.924244
+          },
+          "southwest": {
+            "lat": 40.663021,
+            "lng": -73.9480669
+          }
+        }
+      },
+      "place_id": "ChIJbTrHY4BbwokR7jvTVZOPoeI",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kings County",
+          "short_name": "Kings County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kings County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7391407,
+            "lng": -73.8333651
+          },
+          "southwest": {
+            "lat": 40.5702197,
+            "lng": -74.0419592
+          }
+        },
+        "location": {
+          "lat": 40.6528762,
+          "lng": -73.95949399999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7391407,
+            "lng": -73.8333651
+          },
+          "southwest": {
+            "lat": 40.5702197,
+            "lng": -74.0419592
+          }
+        }
+      },
+      "place_id": "ChIJOwE7_GTtwokRs75rhW4_I6M",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

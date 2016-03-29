@@ -1,0 +1,514 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2",
+          "short_name": "2",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Railroad Avenue",
+          "short_name": "Railroad Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Cambridge",
+          "short_name": "Cambridge",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "White Creek",
+          "short_name": "White Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12816",
+          "short_name": "12816",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "2 Railroad Ave, Cambridge, NY 12816, USA",
+      "geometry": {
+        "location": {
+          "lat": 43.02766219999999,
+          "lng": -73.3813218
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 43.0290111802915,
+            "lng": -73.37997281970848
+          },
+          "southwest": {
+            "lat": 43.0263132197085,
+            "lng": -73.3826707802915
+          }
+        }
+      },
+      "place_id": "ChIJ72cXuFKD4IkR4dWD2ZxAaic",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cambridge",
+          "short_name": "Cambridge",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12816",
+          "short_name": "12816",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Cambridge, NY 12816, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.038871,
+            "lng": -73.3637079
+          },
+          "southwest": {
+            "lat": 43.0175871,
+            "lng": -73.39928689999999
+          }
+        },
+        "location": {
+          "lat": 43.0281329,
+          "lng": -73.3812231
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.038871,
+            "lng": -73.3637079
+          },
+          "southwest": {
+            "lat": 43.0175871,
+            "lng": -73.39928689999999
+          }
+        }
+      },
+      "place_id": "ChIJj3v6qzuD4IkR2wQFK5cjp0E",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "White Creek",
+          "short_name": "White Creek",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "White Creek, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.0871579,
+            "lng": -73.266223
+          },
+          "southwest": {
+            "lat": 42.943652,
+            "lng": -73.43337
+          }
+        },
+        "location": {
+          "lat": 43.00303539999999,
+          "lng": -73.3472901
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.0871579,
+            "lng": -73.266223
+          },
+          "southwest": {
+            "lat": 42.943652,
+            "lng": -73.43337
+          }
+        }
+      },
+      "place_id": "ChIJnb1mrEmb4IkRUkDNSLs6iFA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12816",
+          "short_name": "12816",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Cambridge",
+          "short_name": "Cambridge",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cambridge, NY 12816, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.1404651,
+            "lng": -73.266164
+          },
+          "southwest": {
+            "lat": 42.9468331,
+            "lng": -73.539681
+          }
+        },
+        "location": {
+          "lat": 43.0100604,
+          "lng": -73.3944466
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.1404651,
+            "lng": -73.266164
+          },
+          "southwest": {
+            "lat": 42.9468331,
+            "lng": -73.539681
+          }
+        }
+      },
+      "place_id": "ChIJNSJc5m2D4IkRYdaOD3guLJY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Washington County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.8076824,
+            "lng": -73.241391
+          },
+          "southwest": {
+            "lat": 42.941222,
+            "lng": -73.6367341
+          }
+        },
+        "location": {
+          "lat": 43.2519472,
+          "lng": -73.37086959999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.8076824,
+            "lng": -73.241391
+          },
+          "southwest": {
+            "lat": 42.941222,
+            "lng": -73.6367341
+          }
+        }
+      },
+      "place_id": "ChIJy-SjZazX34kRx5OKTJZUWJE",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Glens Falls",
+          "short_name": "Glens Falls",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Glens Falls, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.808391,
+            "lng": -73.2413901
+          },
+          "southwest": {
+            "lat": 42.94129,
+            "lng": -74.21462509999999
+          }
+        },
+        "location": {
+          "lat": 43.4303156,
+          "lng": -73.55941279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.808391,
+            "lng": -73.2413901
+          },
+          "southwest": {
+            "lat": 42.94129,
+            "lng": -74.21462509999999
+          }
+        }
+      },
+      "place_id": "ChIJdRmf_lXb34kRtheyKNNydqs",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

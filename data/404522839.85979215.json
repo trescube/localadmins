@@ -1,0 +1,548 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "6401-6499",
+          "short_name": "6401-6499",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Salina Street",
+          "short_name": "S Salina St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Nedrow",
+          "short_name": "Nedrow",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga",
+          "short_name": "Onondaga",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "13120",
+          "short_name": "13120",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1025",
+          "short_name": "1025",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "6401-6499 S Salina St, Nedrow, NY 13120, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.9782707,
+            "lng": -76.1416404
+          },
+          "southwest": {
+            "lat": 42.9775666,
+            "lng": -76.1418217
+          }
+        },
+        "location": {
+          "lat": 42.9780177,
+          "lng": -76.1417374
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.9792676302915,
+            "lng": -76.1403820697085
+          },
+          "southwest": {
+            "lat": 42.9765696697085,
+            "lng": -76.1430800302915
+          }
+        }
+      },
+      "place_id": "Eiw2NDAxLTY0OTkgUyBTYWxpbmEgU3QsIE5lZHJvdywgTlkgMTMxMjAsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nedrow",
+          "short_name": "Nedrow",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga",
+          "short_name": "Onondaga",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nedrow, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.987623,
+            "lng": -76.13168399999999
+          },
+          "southwest": {
+            "lat": 42.9662129,
+            "lng": -76.1531188
+          }
+        },
+        "location": {
+          "lat": 42.9750662,
+          "lng": -76.1413132
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.987623,
+            "lng": -76.13168399999999
+          },
+          "southwest": {
+            "lat": 42.9662129,
+            "lng": -76.1531188
+          }
+        }
+      },
+      "place_id": "ChIJtyfsjq_12YkRMmMvYDJrix0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "13120",
+          "short_name": "13120",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Nedrow",
+          "short_name": "Nedrow",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nedrow, NY 13120, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.98533190000001,
+            "lng": -76.131134
+          },
+          "southwest": {
+            "lat": 42.908857,
+            "lng": -76.2332868
+          }
+        },
+        "location": {
+          "lat": 42.936849,
+          "lng": -76.1841701
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.98533190000001,
+            "lng": -76.131134
+          },
+          "southwest": {
+            "lat": 42.908857,
+            "lng": -76.2332868
+          }
+        }
+      },
+      "place_id": "ChIJgaZL0QH22YkRI5KuKZp6-cU",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Onondaga",
+          "short_name": "Onondaga",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Onondaga, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.032115,
+            "lng": -76.10463899999999
+          },
+          "southwest": {
+            "lat": 42.8989289,
+            "lng": -76.291725
+          }
+        },
+        "location": {
+          "lat": 42.97807580000001,
+          "lng": -76.247912
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.032115,
+            "lng": -76.10463899999999
+          },
+          "southwest": {
+            "lat": 42.8989289,
+            "lng": -76.291725
+          }
+        }
+      },
+      "place_id": "ChIJNfJxfBf22YkRbypzwD9T3So",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Onondaga County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.271605,
+            "lng": -75.89607889999999
+          },
+          "southwest": {
+            "lat": 42.7714292,
+            "lng": -76.499324
+          }
+        },
+        "location": {
+          "lat": 43.026819,
+          "lng": -76.17837390000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.271605,
+            "lng": -75.89607889999999
+          },
+          "southwest": {
+            "lat": 42.7714292,
+            "lng": -76.499324
+          }
+        }
+      },
+      "place_id": "ChIJNf-jRf702YkRWbJ48qyiSrI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Syracuse",
+          "short_name": "Syracuse",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Syracuse, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.7070179,
+            "lng": -75.239972
+          },
+          "southwest": {
+            "lat": 42.723844,
+            "lng": -76.6170478
+          }
+        },
+        "location": {
+          "lat": 43.114397,
+          "lng": -76.2710833
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.7070179,
+            "lng": -75.239972
+          },
+          "southwest": {
+            "lat": 42.723844,
+            "lng": -76.6170478
+          }
+        }
+      },
+      "place_id": "ChIJG1ByhoST2YkRpx440X2eFGo",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

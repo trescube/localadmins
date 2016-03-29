@@ -1,0 +1,535 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "10",
+          "short_name": "10",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West Franklin Street",
+          "short_name": "W Franklin St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Celina",
+          "short_name": "Celina",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marion Township",
+          "short_name": "Marion Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mercer County",
+          "short_name": "Mercer County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45822",
+          "short_name": "45822",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "10 W Franklin St, Celina, OH 45822, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.4366908,
+          "lng": -84.4937226
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4380397802915,
+            "lng": -84.49237361970849
+          },
+          "southwest": {
+            "lat": 40.4353418197085,
+            "lng": -84.4950715802915
+          }
+        }
+      },
+      "place_id": "ChIJsw4PNsSzP4gR9WcuTSllKOU",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chickasaw",
+          "short_name": "Chickasaw",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marion Township",
+          "short_name": "Marion Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mercer County",
+          "short_name": "Mercer County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chickasaw, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.4425529,
+            "lng": -84.48899209999999
+          },
+          "southwest": {
+            "lat": 40.432505,
+            "lng": -84.4996649
+          }
+        },
+        "location": {
+          "lat": 40.4369913,
+          "lng": -84.4932863
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4425529,
+            "lng": -84.48899209999999
+          },
+          "southwest": {
+            "lat": 40.432505,
+            "lng": -84.4996649
+          }
+        }
+      },
+      "place_id": "ChIJo3n2QMSzP4gRK365aU7qaI4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "45826",
+          "short_name": "45826",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Chickasaw",
+          "short_name": "Chickasaw",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Marion Township",
+          "short_name": "Marion Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mercer County",
+          "short_name": "Mercer County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chickasaw, OH 45826, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.43779,
+            "lng": -84.4922201
+          },
+          "southwest": {
+            "lat": 40.4351081,
+            "lng": -84.496663
+          }
+        },
+        "location": {
+          "lat": 40.4362253,
+          "lng": -84.4943593
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4377980302915,
+            "lng": -84.4922201
+          },
+          "southwest": {
+            "lat": 40.4351000697085,
+            "lng": -84.496663
+          }
+        }
+      },
+      "place_id": "ChIJhepeiMizP4gR0TwBPWvBHek",
+      "postcode_localities": [
+        "Celina",
+        "Chickasaw"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Marion Township",
+          "short_name": "Marion Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mercer County",
+          "short_name": "Mercer County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Marion Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.451659,
+            "lng": -84.43163179999999
+          },
+          "southwest": {
+            "lat": 40.353457,
+            "lng": -84.5717399
+          }
+        },
+        "location": {
+          "lat": 40.4025767,
+          "lng": -84.5012435
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.451659,
+            "lng": -84.43163179999999
+          },
+          "southwest": {
+            "lat": 40.353457,
+            "lng": -84.5717399
+          }
+        }
+      },
+      "place_id": "ChIJ4fKa-D-xP4gRWQaS-gmUe8I",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Celina",
+          "short_name": "Celina",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Celina, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.728272,
+            "lng": -84.434426
+          },
+          "southwest": {
+            "lat": 40.3518211,
+            "lng": -84.8045041
+          }
+        },
+        "location": {
+          "lat": 40.59405479999999,
+          "lng": -84.68974949999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.728272,
+            "lng": -84.434426
+          },
+          "southwest": {
+            "lat": 40.3518211,
+            "lng": -84.8045041
+          }
+        }
+      },
+      "place_id": "ChIJoyaWiBI1PogReo88aq-gPug",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mercer County",
+          "short_name": "Mercer County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mercer County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.728306,
+            "lng": -84.43163179999999
+          },
+          "southwest": {
+            "lat": 40.3517209,
+            "lng": -84.804239
+          }
+        },
+        "location": {
+          "lat": 40.59405479999999,
+          "lng": -84.68974949999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.728306,
+            "lng": -84.43163179999999
+          },
+          "southwest": {
+            "lat": 40.3517209,
+            "lng": -84.804239
+          }
+        }
+      },
+      "place_id": "ChIJNWZwoBVTPogRJ3vbJqog7GY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

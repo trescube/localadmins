@@ -1,0 +1,482 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "113",
+          "short_name": "113",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "King Drive",
+          "short_name": "King Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Poughkeepsie",
+          "short_name": "Poughkeepsie",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "La Grange",
+          "short_name": "La Grange",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dutchess County",
+          "short_name": "Dutchess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12603",
+          "short_name": "12603",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3254",
+          "short_name": "3254",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "113 King Dr, Poughkeepsie, NY 12603, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.666756,
+          "lng": -73.8629459
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6681049802915,
+            "lng": -73.86159691970849
+          },
+          "southwest": {
+            "lat": 41.6654070197085,
+            "lng": -73.8642948802915
+          }
+        }
+      },
+      "place_id": "ChIJCUgLBG0_3YkRn92OdDZ92M8",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Red Oaks Mill",
+          "short_name": "Red Oaks Mill",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dutchess County",
+          "short_name": "Dutchess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12603",
+          "short_name": "12603",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Red Oaks Mill, NY 12603, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.684382,
+            "lng": -73.8540919
+          },
+          "southwest": {
+            "lat": 41.636933,
+            "lng": -73.8956469
+          }
+        },
+        "location": {
+          "lat": 41.6556492,
+          "lng": -73.8748574
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.684382,
+            "lng": -73.8540919
+          },
+          "southwest": {
+            "lat": 41.636933,
+            "lng": -73.8956469
+          }
+        }
+      },
+      "place_id": "ChIJIYXahzs_3YkRETDqcfpgjv8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12603",
+          "short_name": "12603",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Poughkeepsie",
+          "short_name": "Poughkeepsie",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dutchess County",
+          "short_name": "Dutchess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Poughkeepsie, NY 12603, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.74899389999999,
+            "lng": -73.793425
+          },
+          "southwest": {
+            "lat": 41.6158469,
+            "lng": -73.936649
+          }
+        },
+        "location": {
+          "lat": 41.6983702,
+          "lng": -73.86542949999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.74899389999999,
+            "lng": -73.793425
+          },
+          "southwest": {
+            "lat": 41.6158469,
+            "lng": -73.936649
+          }
+        }
+      },
+      "place_id": "ChIJV3R953U_3YkRuzf7KQiWQI4",
+      "postcode_localities": [
+        "Arlington",
+        "Poughkeepsie"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "La Grange",
+          "short_name": "La Grange",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dutchess County",
+          "short_name": "Dutchess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "La Grange, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.7312218,
+            "lng": -73.740527
+          },
+          "southwest": {
+            "lat": 41.626365,
+            "lng": -73.87867
+          }
+        },
+        "location": {
+          "lat": 41.6915997,
+          "lng": -73.8183804
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.7312218,
+            "lng": -73.740527
+          },
+          "southwest": {
+            "lat": 41.626365,
+            "lng": -73.87867
+          }
+        }
+      },
+      "place_id": "ChIJsWutAltA3YkRMDg83d_d3vE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Dutchess County",
+          "short_name": "Dutchess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dutchess County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0809059,
+            "lng": -73.48731409999999
+          },
+          "southwest": {
+            "lat": 41.4421468,
+            "lng": -73.989972
+          }
+        },
+        "location": {
+          "lat": 41.7784372,
+          "lng": -73.7477857
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0809059,
+            "lng": -73.48731409999999
+          },
+          "southwest": {
+            "lat": 41.4421468,
+            "lng": -73.989972
+          }
+        }
+      },
+      "place_id": "ChIJgXGMHTpq3YkRLcG0JidTOfc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

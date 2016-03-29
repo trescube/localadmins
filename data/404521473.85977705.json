@@ -1,0 +1,497 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "458-470",
+          "short_name": "458-470",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "5th Avenue",
+          "short_name": "5th Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Cedarhurst",
+          "short_name": "Cedarhurst",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11516",
+          "short_name": "11516",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1536",
+          "short_name": "1536",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "458-470 5th Ave, Cedarhurst, NY 11516, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6254778,
+            "lng": -73.7268204
+          },
+          "southwest": {
+            "lat": 40.6249197,
+            "lng": -73.72820039999999
+          }
+        },
+        "location": {
+          "lat": 40.6250521,
+          "lng": -73.7277624
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.62654773029149,
+            "lng": -73.72616141970848
+          },
+          "southwest": {
+            "lat": 40.6238497697085,
+            "lng": -73.7288593802915
+          }
+        }
+      },
+      "place_id": "Eio0NTgtNDcwIDV0aCBBdmUsIENlZGFyaHVyc3QsIE5ZIDExNTE2LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cedarhurst",
+          "short_name": "Cedarhurst",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cedarhurst, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6338429,
+            "lng": -73.7170939
+          },
+          "southwest": {
+            "lat": 40.617166,
+            "lng": -73.73734499999999
+          }
+        },
+        "location": {
+          "lat": 40.6228819,
+          "lng": -73.7242983
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6338429,
+            "lng": -73.7170939
+          },
+          "southwest": {
+            "lat": 40.617166,
+            "lng": -73.73734499999999
+          }
+        }
+      },
+      "place_id": "ChIJhRc328ZlwokR4V7ERLdjC2E",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11516",
+          "short_name": "11516",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Cedarhurst",
+          "short_name": "Cedarhurst",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cedarhurst, NY 11516, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6419629,
+            "lng": -73.7114551
+          },
+          "southwest": {
+            "lat": 40.617166,
+            "lng": -73.7394521
+          }
+        },
+        "location": {
+          "lat": 40.6270365,
+          "lng": -73.7271909
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6419629,
+            "lng": -73.7114551
+          },
+          "southwest": {
+            "lat": 40.617166,
+            "lng": -73.7394521
+          }
+        }
+      },
+      "place_id": "ChIJZ5JAGMdlwokRv3vHu9ZbDV0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hempstead, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7566779,
+            "lng": -73.4815866
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        },
+        "location": {
+          "lat": 40.6451257,
+          "lng": -73.6300729
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7566779,
+            "lng": -73.4815866
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        }
+      },
+      "place_id": "ChIJHTbFH9BkwokR6paY895RsDs",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nassau County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9478348,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        },
+        "location": {
+          "lat": 40.6546145,
+          "lng": -73.55941279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9478286,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        }
+      },
+      "place_id": "ChIJoQxey52xwokRap4G05mKJBs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

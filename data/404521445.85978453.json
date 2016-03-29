@@ -1,0 +1,481 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "68",
+          "short_name": "68",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Lost at Sea Memorial Pike",
+          "short_name": "Lost at Sea Memorial Pike",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Sag Harbor",
+          "short_name": "Sag Harbor",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "East Hampton",
+          "short_name": "East Hampton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11963",
+          "short_name": "11963",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4201",
+          "short_name": "4201",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "68 Lost at Sea Memorial Pike, Sag Harbor, NY 11963, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9972809,
+            "lng": -72.2885008
+          },
+          "southwest": {
+            "lat": 40.9971085,
+            "lng": -72.28937119999999
+          }
+        },
+        "location": {
+          "lat": 40.9972164,
+          "lng": -72.28911939999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9985436802915,
+            "lng": -72.2875870197085
+          },
+          "southwest": {
+            "lat": 40.99584571970851,
+            "lng": -72.2902849802915
+          }
+        }
+      },
+      "place_id": "Ejc2OCBMb3N0IGF0IFNlYSBNZW1vcmlhbCBQaWtlLCBTYWcgSGFyYm9yLCBOWSAxMTk2MywgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sag Harbor",
+          "short_name": "Sag Harbor",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sag Harbor, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0053302,
+            "lng": -72.266269
+          },
+          "southwest": {
+            "lat": 40.9851368,
+            "lng": -72.3151922
+          }
+        },
+        "location": {
+          "lat": 40.99787730000001,
+          "lng": -72.2925819
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0053302,
+            "lng": -72.266269
+          },
+          "southwest": {
+            "lat": 40.9851368,
+            "lng": -72.3151922
+          }
+        }
+      },
+      "place_id": "ChIJpwynzCO96IkRnYnAllsP_9g",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11963",
+          "short_name": "11963",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Sag Harbor",
+          "short_name": "Sag Harbor",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sag Harbor, NY 11963, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.070725,
+            "lng": -72.262441
+          },
+          "southwest": {
+            "lat": 40.9501709,
+            "lng": -72.38322699999999
+          }
+        },
+        "location": {
+          "lat": 41.0092107,
+          "lng": -72.3015121
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.070725,
+            "lng": -72.262441
+          },
+          "southwest": {
+            "lat": 40.9501709,
+            "lng": -72.38322699999999
+          }
+        }
+      },
+      "place_id": "ChIJPTGZcWi96IkRTp4QemOqhF4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "East Hampton",
+          "short_name": "East Hampton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East Hampton, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.124145,
+            "lng": -71.8562029
+          },
+          "southwest": {
+            "lat": 40.9237119,
+            "lng": -72.296179
+          }
+        },
+        "location": {
+          "lat": 41.083151,
+          "lng": -71.9994067
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.124145,
+            "lng": -71.8562029
+          },
+          "southwest": {
+            "lat": 40.9237119,
+            "lng": -72.296179
+          }
+        }
+      },
+      "place_id": "ChIJt4t0DgWs6IkRUU8e_gBUcys",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffolk County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2923797,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        },
+        "location": {
+          "lat": 40.9848784,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2923194,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        }
+      },
+      "place_id": "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,534 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "210",
+          "short_name": "210",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Main Street",
+          "short_name": "S Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Syracuse",
+          "short_name": "Syracuse",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clay",
+          "short_name": "Clay",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "13212",
+          "short_name": "13212",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3106",
+          "short_name": "3106",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "210 S Main St, Syracuse, NY 13212, USA",
+      "geometry": {
+        "location": {
+          "lat": 43.13390099999999,
+          "lng": -76.130763
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 43.13524998029149,
+            "lng": -76.12941401970849
+          },
+          "southwest": {
+            "lat": 43.1325520197085,
+            "lng": -76.1321119802915
+          }
+        }
+      },
+      "place_id": "ChIJKy6wawDt2YkRBKG2DS4wLw8",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Syracuse",
+          "short_name": "North Syracuse",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Syracuse, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.14506,
+            "lng": -76.111514
+          },
+          "southwest": {
+            "lat": 43.122336,
+            "lng": -76.148741
+          }
+        },
+        "location": {
+          "lat": 43.1347897,
+          "lng": -76.1299238
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.14506,
+            "lng": -76.111514
+          },
+          "southwest": {
+            "lat": 43.122336,
+            "lng": -76.148741
+          }
+        }
+      },
+      "place_id": "ChIJvaMk8gDt2YkRgrXGaU7iPpo",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "13212",
+          "short_name": "13212",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Syracuse",
+          "short_name": "Syracuse",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Syracuse, NY 13212, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.16956700000001,
+            "lng": -76.015028
+          },
+          "southwest": {
+            "lat": 43.08961679999999,
+            "lng": -76.1814138
+          }
+        },
+        "location": {
+          "lat": 43.1270971,
+          "lng": -76.1030007
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.16956700000001,
+            "lng": -76.015028
+          },
+          "southwest": {
+            "lat": 43.08961679999999,
+            "lng": -76.1814138
+          }
+        }
+      },
+      "place_id": "ChIJX0OAvAft2YkR-6TwKz3XnX8",
+      "postcode_localities": [
+        "North Syracuse",
+        "Syracuse"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clay",
+          "short_name": "Clay",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clay, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.271605,
+            "lng": -76.1276141
+          },
+          "southwest": {
+            "lat": 43.11512889999999,
+            "lng": -76.2829509
+          }
+        },
+        "location": {
+          "lat": 43.1630043,
+          "lng": -76.2015572
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.271605,
+            "lng": -76.1276141
+          },
+          "southwest": {
+            "lat": 43.11512889999999,
+            "lng": -76.2829509
+          }
+        }
+      },
+      "place_id": "ChIJswlWSzjp2YkR1BpzG1DeEMI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Onondaga County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.271605,
+            "lng": -75.89607889999999
+          },
+          "southwest": {
+            "lat": 42.7714292,
+            "lng": -76.499324
+          }
+        },
+        "location": {
+          "lat": 43.026819,
+          "lng": -76.17837390000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.271605,
+            "lng": -75.89607889999999
+          },
+          "southwest": {
+            "lat": 42.7714292,
+            "lng": -76.499324
+          }
+        }
+      },
+      "place_id": "ChIJNf-jRf702YkRWbJ48qyiSrI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Syracuse",
+          "short_name": "Syracuse",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Syracuse, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.7070179,
+            "lng": -75.239972
+          },
+          "southwest": {
+            "lat": 42.723844,
+            "lng": -76.6170478
+          }
+        },
+        "location": {
+          "lat": 43.114397,
+          "lng": -76.2710833
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.7070179,
+            "lng": -75.239972
+          },
+          "southwest": {
+            "lat": 42.723844,
+            "lng": -76.6170478
+          }
+        }
+      },
+      "place_id": "ChIJG1ByhoST2YkRpx440X2eFGo",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

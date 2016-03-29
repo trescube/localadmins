@@ -1,0 +1,577 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "8",
+          "short_name": "8",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Station Plaza",
+          "short_name": "S Station Plaza",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Great Neck Plaza",
+          "short_name": "Great Neck Plaza",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Hempstead",
+          "short_name": "North Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11021",
+          "short_name": "11021",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3531",
+          "short_name": "3531",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "8 S Station Plaza, Great Neck Plaza, NY 11021, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7869939,
+            "lng": -73.7262241
+          },
+          "southwest": {
+            "lat": 40.78685189999999,
+            "lng": -73.7264971
+          }
+        },
+        "location": {
+          "lat": 40.786959,
+          "lng": -73.7262677
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7882718802915,
+            "lng": -73.7250116197085
+          },
+          "southwest": {
+            "lat": 40.7855739197085,
+            "lng": -73.7277095802915
+          }
+        }
+      },
+      "place_id": "EjI4IFMgU3RhdGlvbiBQbGF6YSwgR3JlYXQgTmVjayBQbGF6YSwgTlkgMTEwMjEsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Great Neck",
+          "short_name": "Great Neck",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Great Neck Plaza",
+          "short_name": "Great Neck Plaza",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Hempstead",
+          "short_name": "North Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11021",
+          "short_name": "11021",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Great Neck, Great Neck Plaza, NY 11021, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.7872877,
+          "lng": -73.72633859999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7886366802915,
+            "lng": -73.72498961970848
+          },
+          "southwest": {
+            "lat": 40.7859387197085,
+            "lng": -73.7276875802915
+          }
+        }
+      },
+      "place_id": "ChIJuwthiZeJwokRTbFgTUABCaA",
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Great Neck Plaza",
+          "short_name": "Great Neck Plaza",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Hempstead",
+          "short_name": "North Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11021",
+          "short_name": "11021",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Great Neck Plaza, NY 11021, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.79130809999999,
+            "lng": -73.71550289999999
+          },
+          "southwest": {
+            "lat": 40.780713,
+            "lng": -73.734674
+          }
+        },
+        "location": {
+          "lat": 40.7867681,
+          "lng": -73.7265202
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.79130809999999,
+            "lng": -73.71550289999999
+          },
+          "southwest": {
+            "lat": 40.780713,
+            "lng": -73.734674
+          }
+        }
+      },
+      "place_id": "ChIJ5SZVhZeJwokRE4LSa9218TM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11021",
+          "short_name": "11021",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Great Neck",
+          "short_name": "Great Neck",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Great Neck, NY 11021, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.799313,
+            "lng": -73.704415
+          },
+          "southwest": {
+            "lat": 40.77196,
+            "lng": -73.74958
+          }
+        },
+        "location": {
+          "lat": 40.7851185,
+          "lng": -73.7271909
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.799313,
+            "lng": -73.704415
+          },
+          "southwest": {
+            "lat": 40.77196,
+            "lng": -73.74958
+          }
+        }
+      },
+      "place_id": "ChIJ8Zq0E5eJwokR37Uvskq5BhM",
+      "postcode_localities": [
+        "GREAT NCK PLZ",
+        "Great Neck",
+        "Great Neck Plaza"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Hempstead",
+          "short_name": "North Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Hempstead, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8702434,
+            "lng": -73.549553
+          },
+          "southwest": {
+            "lat": 40.72783099999999,
+            "lng": -73.7650574
+          }
+        },
+        "location": {
+          "lat": 40.8099413,
+          "lng": -73.6771662
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8702434,
+            "lng": -73.549553
+          },
+          "southwest": {
+            "lat": 40.72783099999999,
+            "lng": -73.7650574
+          }
+        }
+      },
+      "place_id": "ChIJDRQO56WGwokR5LZK05ql6qs",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nassau County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9478348,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        },
+        "location": {
+          "lat": 40.6546145,
+          "lng": -73.55941279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9478286,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        }
+      },
+      "place_id": "ChIJoQxey52xwokRap4G05mKJBs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

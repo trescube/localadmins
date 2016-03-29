@@ -1,0 +1,576 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "244",
+          "short_name": "244",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Roslyn Avenue",
+          "short_name": "Roslyn Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Carle Place",
+          "short_name": "Carle Place",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Hempstead",
+          "short_name": "North Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11514",
+          "short_name": "11514",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1623",
+          "short_name": "1623",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "244 Roslyn Ave, Carle Place, NY 11514, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.74997,
+          "lng": -73.6120679
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7513189802915,
+            "lng": -73.61071891970849
+          },
+          "southwest": {
+            "lat": 40.7486210197085,
+            "lng": -73.61341688029151
+          }
+        }
+      },
+      "place_id": "ChIJj-UFXoOHwokRx10kHwDWQjs",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Yasmin Limo and Car Services",
+          "short_name": "Yasmin Limo and Car Services",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "311",
+          "short_name": "311",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Roslyn Avenue",
+          "short_name": "Roslyn Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Carle Place",
+          "short_name": "Carle Place",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Hempstead",
+          "short_name": "North Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11514",
+          "short_name": "11514",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Yasmin Limo and Car Services, 311 Roslyn Ave, Carle Place, NY 11514, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.7504381,
+          "lng": -73.61161249999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.75178708029149,
+            "lng": -73.61026351970848
+          },
+          "southwest": {
+            "lat": 40.7490891197085,
+            "lng": -73.6129614802915
+          }
+        }
+      },
+      "place_id": "ChIJ48EltG-HwokRMGLnHsJs4Zs",
+      "types": [
+        "airport",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Carle Place",
+          "short_name": "Carle Place",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Hempstead",
+          "short_name": "North Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Carle Place, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7582661,
+            "lng": -73.600084
+          },
+          "southwest": {
+            "lat": 40.7423181,
+            "lng": -73.6245266
+          }
+        },
+        "location": {
+          "lat": 40.7526008,
+          "lng": -73.6104058
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7582661,
+            "lng": -73.600084
+          },
+          "southwest": {
+            "lat": 40.7423181,
+            "lng": -73.6245266
+          }
+        }
+      },
+      "place_id": "ChIJhXEFTYOHwokRXPEJgnP1nqw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11514",
+          "short_name": "11514",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Carle Place",
+          "short_name": "Carle Place",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Carle Place, NY 11514, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.758895,
+            "lng": -73.600084
+          },
+          "southwest": {
+            "lat": 40.7411989,
+            "lng": -73.6244619
+          }
+        },
+        "location": {
+          "lat": 40.7491789,
+          "lng": -73.61535409999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.758895,
+            "lng": -73.600084
+          },
+          "southwest": {
+            "lat": 40.7411989,
+            "lng": -73.6244619
+          }
+        }
+      },
+      "place_id": "ChIJ3YYbX4OHwokRPtir68740FQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Hempstead",
+          "short_name": "North Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Hempstead, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8702434,
+            "lng": -73.549553
+          },
+          "southwest": {
+            "lat": 40.72783099999999,
+            "lng": -73.7650574
+          }
+        },
+        "location": {
+          "lat": 40.8099413,
+          "lng": -73.6771662
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8702434,
+            "lng": -73.549553
+          },
+          "southwest": {
+            "lat": 40.72783099999999,
+            "lng": -73.7650574
+          }
+        }
+      },
+      "place_id": "ChIJDRQO56WGwokR5LZK05ql6qs",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nassau County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9478348,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        },
+        "location": {
+          "lat": 40.6546145,
+          "lng": -73.55941279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9478286,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        }
+      },
+      "place_id": "ChIJoQxey52xwokRap4G05mKJBs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

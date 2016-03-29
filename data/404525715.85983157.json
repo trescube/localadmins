@@ -1,0 +1,549 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "252-298",
+          "short_name": "252-298",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Broad",
+          "short_name": "Broad",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Port Jefferson",
+          "short_name": "Port Jefferson",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salem Township",
+          "short_name": "Salem Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45360",
+          "short_name": "45360",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "252-298 Broad, Port Jefferson, OH 45360, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3305845,
+            "lng": -84.0914911
+          },
+          "southwest": {
+            "lat": 40.3301553,
+            "lng": -84.0917566
+          }
+        },
+        "location": {
+          "lat": 40.3301746,
+          "lng": -84.0914823
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3317188802915,
+            "lng": -84.0902748697085
+          },
+          "southwest": {
+            "lat": 40.3290209197085,
+            "lng": -84.0929728302915
+          }
+        }
+      },
+      "place_id": "EiwyNTItMjk4IEJyb2FkLCBQb3J0IEplZmZlcnNvbiwgT0ggNDUzNjAsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Port Jefferson",
+          "short_name": "Port Jefferson",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salem Township",
+          "short_name": "Salem Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Port Jefferson, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.3359179,
+            "lng": -84.08596
+          },
+          "southwest": {
+            "lat": 40.3260321,
+            "lng": -84.098182
+          }
+        },
+        "location": {
+          "lat": 40.3286609,
+          "lng": -84.0943865
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.3359179,
+            "lng": -84.08596
+          },
+          "southwest": {
+            "lat": 40.3260321,
+            "lng": -84.098182
+          }
+        }
+      },
+      "place_id": "ChIJn990vq8aP4gRuZSJoBcyn3Q",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "45360",
+          "short_name": "45360",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Port Jefferson",
+          "short_name": "Port Jefferson",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Salem Township",
+          "short_name": "Salem Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Port Jefferson, OH 45360, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.33185510000001,
+            "lng": -84.087455
+          },
+          "southwest": {
+            "lat": 40.328441,
+            "lng": -84.0937271
+          }
+        },
+        "location": {
+          "lat": 40.3299308,
+          "lng": -84.0910547
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.33185510000001,
+            "lng": -84.087455
+          },
+          "southwest": {
+            "lat": 40.328441,
+            "lng": -84.0937271
+          }
+        }
+      },
+      "place_id": "ChIJP-wjYqUaP4gR1jMJ6LEpV0Q",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Salem Township",
+          "short_name": "Salem Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Salem Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.390384,
+            "lng": -84.0037
+          },
+          "southwest": {
+            "lat": 40.306491,
+            "lng": -84.132499
+          }
+        },
+        "location": {
+          "lat": 40.3507618,
+          "lng": -84.0695961
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.390384,
+            "lng": -84.0037
+          },
+          "southwest": {
+            "lat": 40.306491,
+            "lng": -84.132499
+          }
+        }
+      },
+      "place_id": "ChIJ-3HTS_AaP4gRj-Gljx2jYB4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sidney",
+          "short_name": "Sidney",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sidney, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.4833139,
+            "lng": -84.001947
+          },
+          "southwest": {
+            "lat": 40.183909,
+            "lng": -84.43466889999999
+          }
+        },
+        "location": {
+          "lat": 40.3689335,
+          "lng": -84.2278796
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.4833139,
+            "lng": -84.001947
+          },
+          "southwest": {
+            "lat": 40.183909,
+            "lng": -84.43466889999999
+          }
+        }
+      },
+      "place_id": "ChIJkSJRJR8GP4gR9pIeynXXD9I",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Shelby County",
+          "short_name": "Shelby County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Shelby County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.483242,
+            "lng": -84.001937
+          },
+          "southwest": {
+            "lat": 40.183879,
+            "lng": -84.434631
+          }
+        },
+        "location": {
+          "lat": 40.3689335,
+          "lng": -84.2278796
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.483242,
+            "lng": -84.001937
+          },
+          "southwest": {
+            "lat": 40.183879,
+            "lng": -84.434631
+          }
+        }
+      },
+      "place_id": "ChIJse_tNiIJP4gRvxmlAxRUueM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

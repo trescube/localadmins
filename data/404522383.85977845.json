@@ -1,0 +1,483 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "126",
+          "short_name": "126",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Bruce Street",
+          "short_name": "Bruce St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Scotia",
+          "short_name": "Scotia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Glenville",
+          "short_name": "Glenville",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schenectady County",
+          "short_name": "Schenectady County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12302",
+          "short_name": "12302",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2303",
+          "short_name": "2303",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "126 Bruce St, Scotia, NY 12302, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.83215,
+          "lng": -73.960748
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.83349898029149,
+            "lng": -73.9593990197085
+          },
+          "southwest": {
+            "lat": 42.8308010197085,
+            "lng": -73.9620969802915
+          }
+        }
+      },
+      "place_id": "ChIJo3raHkJu3okR1g-K_mJtRa8",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Scotia",
+          "short_name": "Scotia",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Glenville",
+          "short_name": "Glenville",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schenectady County",
+          "short_name": "Schenectady County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12302",
+          "short_name": "12302",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Scotia, NY 12302, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.85321889999999,
+            "lng": -73.94305279999999
+          },
+          "southwest": {
+            "lat": 42.820785,
+            "lng": -73.9782379
+          }
+        },
+        "location": {
+          "lat": 42.8264652,
+          "lng": -73.9642915
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.85321889999999,
+            "lng": -73.94305279999999
+          },
+          "southwest": {
+            "lat": 42.820785,
+            "lng": -73.9782379
+          }
+        }
+      },
+      "place_id": "ChIJgeS7H0Ju3okR2uOFp9ZpTbc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12302",
+          "short_name": "12302",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Schenectady",
+          "short_name": "Schenectady",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Schenectady, NY 12302, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.9602189,
+            "lng": -73.896874
+          },
+          "southwest": {
+            "lat": 42.8130789,
+            "lng": -74.0848439
+          }
+        },
+        "location": {
+          "lat": 42.8649909,
+          "lng": -73.95949399999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.9602189,
+            "lng": -73.896874
+          },
+          "southwest": {
+            "lat": 42.8130789,
+            "lng": -74.0848439
+          }
+        }
+      },
+      "place_id": "ChIJZ-CIPSpv3okRvhL4GYYXZE8",
+      "postcode_localities": [
+        "Glenville",
+        "Schenectady",
+        "Scotia"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Glenville",
+          "short_name": "Glenville",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Schenectady County",
+          "short_name": "Schenectady County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Glenville, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.9557689,
+            "lng": -73.895938
+          },
+          "southwest": {
+            "lat": 42.8147189,
+            "lng": -74.092664
+          }
+        },
+        "location": {
+          "lat": 42.8649909,
+          "lng": -73.95949399999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.9557689,
+            "lng": -73.895938
+          },
+          "southwest": {
+            "lat": 42.8147189,
+            "lng": -74.092664
+          }
+        }
+      },
+      "place_id": "ChIJC-IM7S1v3okRMlHa6XmmpHg",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Schenectady County",
+          "short_name": "Schenectady County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Schenectady County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.9557689,
+            "lng": -73.8093688
+          },
+          "southwest": {
+            "lat": 42.710826,
+            "lng": -74.3066649
+          }
+        },
+        "location": {
+          "lat": 42.8493445,
+          "lng": -73.98300290000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.9557689,
+            "lng": -73.8093688
+          },
+          "southwest": {
+            "lat": 42.710826,
+            "lng": -74.3066649
+          }
+        }
+      },
+      "place_id": "ChIJl0U8cZtv3okRn7RP-8dPzb8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

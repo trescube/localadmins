@@ -1,0 +1,387 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "43",
+          "short_name": "43",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "School Street",
+          "short_name": "School St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Newport Center",
+          "short_name": "Newport Center",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Newport",
+          "short_name": "Newport",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orleans County",
+          "short_name": "Orleans County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Vermont",
+          "short_name": "VT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "05857",
+          "short_name": "05857",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "43 School St, Newport Center, VT 05857, USA",
+      "geometry": {
+        "location": {
+          "lat": 44.9509499,
+          "lng": -72.3045248
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 44.95229888029149,
+            "lng": -72.3031758197085
+          },
+          "southwest": {
+            "lat": 44.94960091970849,
+            "lng": -72.3058737802915
+          }
+        }
+      },
+      "place_id": "ChIJrw1NjcFytkwR4cm7aIig7vw",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Newport",
+          "short_name": "Newport",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orleans County",
+          "short_name": "Orleans County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Vermont",
+          "short_name": "VT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Newport, VT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.004727,
+            "lng": -72.2326885
+          },
+          "southwest": {
+            "lat": 44.8419859,
+            "lng": -72.376571
+          }
+        },
+        "location": {
+          "lat": 44.954556,
+          "lng": -72.3005232
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.004727,
+            "lng": -72.2326885
+          },
+          "southwest": {
+            "lat": 44.8419859,
+            "lng": -72.376571
+          }
+        }
+      },
+      "place_id": "ChIJF1jp2w5ztkwRdil2g3a-4lE",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "05857",
+          "short_name": "05857",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Newport Center",
+          "short_name": "Newport Center",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Vermont",
+          "short_name": "VT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Newport Center, VT 05857, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.004727,
+            "lng": -72.218374
+          },
+          "southwest": {
+            "lat": 44.8420459,
+            "lng": -72.46672079999999
+          }
+        },
+        "location": {
+          "lat": 44.9477963,
+          "lng": -72.3183513
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.004727,
+            "lng": -72.218374
+          },
+          "southwest": {
+            "lat": 44.8420459,
+            "lng": -72.368974
+          }
+        }
+      },
+      "place_id": "ChIJddn49w5ztkwRIs-K-TEeuLs",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Orleans County",
+          "short_name": "Orleans County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Vermont",
+          "short_name": "VT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Orleans County, VT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.0088699,
+            "lng": -71.87466
+          },
+          "southwest": {
+            "lat": 44.542336,
+            "lng": -72.5781609
+          }
+        },
+        "location": {
+          "lat": 44.8905506,
+          "lng": -72.2603468
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.0088699,
+            "lng": -71.87466
+          },
+          "southwest": {
+            "lat": 44.542336,
+            "lng": -72.5781609
+          }
+        }
+      },
+      "place_id": "ChIJ_SOWBDbatUwRdg-uc_y8mSY",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Vermont",
+          "short_name": "VT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Vermont, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.0166591,
+            "lng": -71.46503899999999
+          },
+          "southwest": {
+            "lat": 42.7268499,
+            "lng": -73.43055980000001
+          }
+        },
+        "location": {
+          "lat": 44.5588028,
+          "lng": -72.57784149999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.0166591,
+            "lng": -71.46503899999999
+          },
+          "southwest": {
+            "lat": 42.7268499,
+            "lng": -73.43055980000001
+          }
+        }
+      },
+      "place_id": "ChIJ_87aSGzctEwRtGtUNnSJTSY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

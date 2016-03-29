@@ -1,0 +1,533 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "22-24",
+          "short_name": "22-24",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Rothermel Lane",
+          "short_name": "Rothermel Ln",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Kinderhook",
+          "short_name": "Kinderhook",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kinderhook",
+          "short_name": "Kinderhook",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Columbia County",
+          "short_name": "Columbia County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12106",
+          "short_name": "12106",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "22-24 Rothermel Ln, Kinderhook, NY 12106, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.3946225,
+            "lng": -73.7033072
+          },
+          "southwest": {
+            "lat": 42.3941795,
+            "lng": -73.704256
+          }
+        },
+        "location": {
+          "lat": 42.3943796,
+          "lng": -73.7037709
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.3957499802915,
+            "lng": -73.70243261970849
+          },
+          "southwest": {
+            "lat": 42.3930520197085,
+            "lng": -73.70513058029151
+          }
+        }
+      },
+      "place_id": "Ei0yMi0yNCBSb3RoZXJtZWwgTG4sIEtpbmRlcmhvb2ssIE5ZIDEyMTA2LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kinderhook",
+          "short_name": "Kinderhook",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kinderhook",
+          "short_name": "Kinderhook",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Columbia County",
+          "short_name": "Columbia County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kinderhook, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.4083619,
+            "lng": -73.688144
+          },
+          "southwest": {
+            "lat": 42.367559,
+            "lng": -73.720463
+          }
+        },
+        "location": {
+          "lat": 42.3953617,
+          "lng": -73.69789829999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.4083619,
+            "lng": -73.688144
+          },
+          "southwest": {
+            "lat": 42.367559,
+            "lng": -73.720463
+          }
+        }
+      },
+      "place_id": "ChIJZVcy2obu3YkR4Ppzg48-Xlg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12106",
+          "short_name": "12106",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Kinderhook",
+          "short_name": "Kinderhook",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Columbia County",
+          "short_name": "Columbia County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kinderhook, NY 12106, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.432914,
+            "lng": -73.66114809999999
+          },
+          "southwest": {
+            "lat": 42.339322,
+            "lng": -73.748142
+          }
+        },
+        "location": {
+          "lat": 42.3806695,
+          "lng": -73.712479
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.432914,
+            "lng": -73.66114809999999
+          },
+          "southwest": {
+            "lat": 42.339322,
+            "lng": -73.748142
+          }
+        }
+      },
+      "place_id": "ChIJt9e2iCjs3YkRLImWA0OoBa8",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kinderhook",
+          "short_name": "Kinderhook",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Columbia County",
+          "short_name": "Columbia County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kinderhook, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.4777069,
+            "lng": -73.62860409999999
+          },
+          "southwest": {
+            "lat": 42.345894,
+            "lng": -73.7230029
+          }
+        },
+        "location": {
+          "lat": 42.4042762,
+          "lng": -73.6771662
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.4777069,
+            "lng": -73.62860409999999
+          },
+          "southwest": {
+            "lat": 42.345894,
+            "lng": -73.7230029
+          }
+        }
+      },
+      "place_id": "ChIJz2rBZzju3YkRH5VP6cTO43o",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hudson",
+          "short_name": "Hudson",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hudson, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.510002,
+            "lng": -73.352527
+          },
+          "southwest": {
+            "lat": 41.97798,
+            "lng": -73.9296261
+          }
+        },
+        "location": {
+          "lat": 42.3678759,
+          "lng": -73.55941279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.510002,
+            "lng": -73.352527
+          },
+          "southwest": {
+            "lat": 41.97798,
+            "lng": -73.9296261
+          }
+        }
+      },
+      "place_id": "ChIJGfvHbpaN3YkRekvURbEwdI0",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Columbia County",
+          "short_name": "Columbia County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Columbia County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.510002,
+            "lng": -73.352527
+          },
+          "southwest": {
+            "lat": 41.97797980000001,
+            "lng": -73.9215966
+          }
+        },
+        "location": {
+          "lat": 42.3678759,
+          "lng": -73.55941279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.510002,
+            "lng": -73.352527
+          },
+          "southwest": {
+            "lat": 41.97797980000001,
+            "lng": -73.9215966
+          }
+        }
+      },
+      "place_id": "ChIJl0woY2iN3YkRyw5zf5ClcbE",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,541 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200-212",
+          "short_name": "200-212",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Northeast Main Street",
+          "short_name": "NE Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Lee's Summit",
+          "short_name": "Lee's Summit",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Prairie Township",
+          "short_name": "Prairie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jackson County",
+          "short_name": "Jackson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "64063",
+          "short_name": "64063",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "200-212 NE Main St, Lee's Summit, MO 64063, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.920102,
+            "lng": -94.3809697
+          },
+          "southwest": {
+            "lat": 38.9168589,
+            "lng": -94.3817653
+          }
+        },
+        "location": {
+          "lat": 38.9172606,
+          "lng": -94.3814353
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 38.920102,
+            "lng": -94.38001851970849
+          },
+          "southwest": {
+            "lat": 38.9168589,
+            "lng": -94.3827164802915
+          }
+        }
+      },
+      "place_id": "Ei8yMDAtMjEyIE5FIE1haW4gU3QsIExlZSdzIFN1bW1pdCwgTU8gNjQwNjMsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lee's Summit",
+          "short_name": "Lee's Summit",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Prairie Township",
+          "short_name": "Prairie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jackson County",
+          "short_name": "Jackson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lee's Summit, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0267149,
+            "lng": -94.30380889999999
+          },
+          "southwest": {
+            "lat": 38.824396,
+            "lng": -94.47167689999999
+          }
+        },
+        "location": {
+          "lat": 38.9108408,
+          "lng": -94.3821724
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0267149,
+            "lng": -94.30380889999999
+          },
+          "southwest": {
+            "lat": 38.824396,
+            "lng": -94.47167689999999
+          }
+        }
+      },
+      "place_id": "ChIJ_Za1qPbfwIcRh7EHoOnC0gg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "64063",
+          "short_name": "64063",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Lee's Summit",
+          "short_name": "Lee's Summit",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Prairie Township",
+          "short_name": "Prairie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jackson County",
+          "short_name": "Jackson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lee's Summit, MO 64063, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.925968,
+            "lng": -94.297375
+          },
+          "southwest": {
+            "lat": 38.900187,
+            "lng": -94.4039859
+          }
+        },
+        "location": {
+          "lat": 38.9116463,
+          "lng": -94.36165160000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.925968,
+            "lng": -94.297375
+          },
+          "southwest": {
+            "lat": 38.900187,
+            "lng": -94.4039859
+          }
+        }
+      },
+      "place_id": "ChIJqZm0F4IfwYcRuXcJVdwiCqg",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Prairie Township",
+          "short_name": "Prairie Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Jackson County",
+          "short_name": "Jackson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Prairie Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.0267669,
+            "lng": -94.260212
+          },
+          "southwest": {
+            "lat": 38.835484,
+            "lng": -94.47167689999999
+          }
+        },
+        "location": {
+          "lat": 38.9282364,
+          "lng": -94.33596349999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.0267669,
+            "lng": -94.260212
+          },
+          "southwest": {
+            "lat": 38.835484,
+            "lng": -94.47167689999999
+          }
+        }
+      },
+      "place_id": "ChIJ8TQMRL8fwYcR-JidSKS2CAQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Jackson County",
+          "short_name": "Jackson County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Jackson County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.237107,
+            "lng": -94.1048229
+          },
+          "southwest": {
+            "lat": 38.833006,
+            "lng": -94.6084571
+          }
+        },
+        "location": {
+          "lat": 38.9914998,
+          "lng": -94.315422
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.237107,
+            "lng": -94.1048229
+          },
+          "southwest": {
+            "lat": 38.833006,
+            "lng": -94.6084571
+          }
+        }
+      },
+      "place_id": "ChIJ1ROsTw1swYcRCr5MOFp61_0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kansas City",
+          "short_name": "Kansas City",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kansas City, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.788955,
+            "lng": -93.477233
+          },
+          "southwest": {
+            "lat": 38.026143,
+            "lng": -95.5090159
+          }
+        },
+        "location": {
+          "lat": 39.0653602,
+          "lng": -94.5624426
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.788955,
+            "lng": -93.477233
+          },
+          "southwest": {
+            "lat": 38.026143,
+            "lng": -95.5090159
+          }
+        }
+      },
+      "place_id": "ChIJ5176R2TnwIcRX_TpnWkvgMk",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,487 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2",
+          "short_name": "2",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Nicole Place",
+          "short_name": "Nicole Pl",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Middle Island",
+          "short_name": "Middle Island",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brookhaven",
+          "short_name": "Brookhaven",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11953",
+          "short_name": "11953",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1200",
+          "short_name": "1200",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "2 Nicole Pl, Middle Island, NY 11953, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.885596,
+          "lng": -72.944788
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8869449802915,
+            "lng": -72.9434390197085
+          },
+          "southwest": {
+            "lat": 40.8842470197085,
+            "lng": -72.94613698029151
+          }
+        }
+      },
+      "place_id": "ChIJhYqbi3hD6IkR2posKXJRPBY",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Middle Island",
+          "short_name": "Middle Island",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brookhaven",
+          "short_name": "Brookhaven",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Middle Island, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9085228,
+            "lng": -72.91499189999999
+          },
+          "southwest": {
+            "lat": 40.84974709999999,
+            "lng": -72.9781943
+          }
+        },
+        "location": {
+          "lat": 40.8831181,
+          "lng": -72.94218690000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9085228,
+            "lng": -72.91499189999999
+          },
+          "southwest": {
+            "lat": 40.84974709999999,
+            "lng": -72.9781943
+          }
+        }
+      },
+      "place_id": "ChIJ_-GQ73hD6IkRZouESksEk0s",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11953",
+          "short_name": "11953",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Middle Island",
+          "short_name": "Middle Island",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Brookhaven",
+          "short_name": "Brookhaven",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Middle Island, NY 11953, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.913915,
+            "lng": -72.91499189999999
+          },
+          "southwest": {
+            "lat": 40.851002,
+            "lng": -72.987934
+          }
+        },
+        "location": {
+          "lat": 40.8902916,
+          "lng": -72.9578676
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.913915,
+            "lng": -72.91499189999999
+          },
+          "southwest": {
+            "lat": 40.851002,
+            "lng": -72.987934
+          }
+        }
+      },
+      "place_id": "ChIJY1B5k39D6IkR5veBBcwpw-U",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Brookhaven",
+          "short_name": "Brookhaven",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Brookhaven, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9776667,
+            "lng": -72.7029008
+          },
+          "southwest": {
+            "lat": 40.6455704,
+            "lng": -73.1590131
+          }
+        },
+        "location": {
+          "lat": 40.8858353,
+          "lng": -72.99329689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9776667,
+            "lng": -72.7029008
+          },
+          "southwest": {
+            "lat": 40.6455704,
+            "lng": -73.1590131
+          }
+        }
+      },
+      "place_id": "ChIJC6iSqSlf6IkRKpM-iqF_WnY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffolk County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2923797,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        },
+        "location": {
+          "lat": 40.9848784,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2923194,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        }
+      },
+      "place_id": "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

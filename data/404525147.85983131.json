@@ -1,0 +1,626 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "515",
+          "short_name": "515",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North East Street",
+          "short_name": "N East St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Galion",
+          "short_name": "Galion",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Galion",
+          "short_name": "Galion",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "44833",
+          "short_name": "44833",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2142",
+          "short_name": "2142",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "515 N East St, Galion, OH 44833, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7397269,
+            "lng": -82.77618819999999
+          },
+          "southwest": {
+            "lat": 40.7384251,
+            "lng": -82.7779424
+          }
+        },
+        "location": {
+          "lat": 40.739076,
+          "lng": -82.77706529999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7404249802915,
+            "lng": -82.7757163197085
+          },
+          "southwest": {
+            "lat": 40.7377270197085,
+            "lng": -82.7784142802915
+          }
+        }
+      },
+      "place_id": "ChIJHcBM7X2YOYgRcf86Sm3wZWk",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "500",
+          "short_name": "500",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Sherman Street",
+          "short_name": "Sherman St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Galion",
+          "short_name": "Galion",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Galion",
+          "short_name": "Galion",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "44833",
+          "short_name": "44833",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2031",
+          "short_name": "2031",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "500 Sherman St, Galion, OH 44833, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.742781,
+          "lng": -82.777417
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7441299802915,
+            "lng": -82.7760680197085
+          },
+          "southwest": {
+            "lat": 40.7414320197085,
+            "lng": -82.77876598029151
+          }
+        }
+      },
+      "place_id": "ChIJY9GgU32YOYgRSohbRxAMagA",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Galion",
+          "short_name": "Galion",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Galion, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7696191,
+            "lng": -82.71229600000001
+          },
+          "southwest": {
+            "lat": 40.707346,
+            "lng": -82.820269
+          }
+        },
+        "location": {
+          "lat": 40.7336687,
+          "lng": -82.78990259999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7696191,
+            "lng": -82.71229600000001
+          },
+          "southwest": {
+            "lat": 40.707346,
+            "lng": -82.820269
+          }
+        }
+      },
+      "place_id": "ChIJQ3zFLmeiOYgREq2BzuzJEiE",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Galion",
+          "short_name": "Galion",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Galion, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.755519,
+            "lng": -82.726626
+          },
+          "southwest": {
+            "lat": 40.71215189999999,
+            "lng": -82.820269
+          }
+        },
+        "location": {
+          "lat": 40.7382702,
+          "lng": -82.78324889999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.755519,
+            "lng": -82.726626
+          },
+          "southwest": {
+            "lat": 40.71215189999999,
+            "lng": -82.820269
+          }
+        }
+      },
+      "place_id": "ChIJZ3xNR3-YOYgRYhquxoqHK1s",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "44833",
+          "short_name": "44833",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Galion",
+          "short_name": "Galion",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Galion, OH 44833, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.79946289999999,
+            "lng": -82.68834509999999
+          },
+          "southwest": {
+            "lat": 40.6248059,
+            "lng": -82.938943
+          }
+        },
+        "location": {
+          "lat": 40.7140659,
+          "lng": -82.79941939999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.79946289999999,
+            "lng": -82.68834509999999
+          },
+          "southwest": {
+            "lat": 40.6248059,
+            "lng": -82.938943
+          }
+        }
+      },
+      "place_id": "ChIJZ7e1HIUKOYgR7GH09e9FOrk",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bucyrus",
+          "short_name": "Bucyrus",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bucyrus, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.997176,
+            "lng": -82.724243
+          },
+          "southwest": {
+            "lat": 40.7028739,
+            "lng": -83.11266789999999
+          }
+        },
+        "location": {
+          "lat": 40.8268068,
+          "lng": -82.99316069999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.997176,
+            "lng": -82.724243
+          },
+          "southwest": {
+            "lat": 40.7028739,
+            "lng": -83.11266789999999
+          }
+        }
+      },
+      "place_id": "ChIJYSJO7jp2OYgRDCM0T1HSPrc",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Crawford County",
+          "short_name": "Crawford County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Crawford County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.996943,
+            "lng": -82.7241839
+          },
+          "southwest": {
+            "lat": 40.7025499,
+            "lng": -83.1127449
+          }
+        },
+        "location": {
+          "lat": 40.8268068,
+          "lng": -82.99316069999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.996943,
+            "lng": -82.7241839
+          },
+          "southwest": {
+            "lat": 40.7025499,
+            "lng": -83.1127449
+          }
+        }
+      },
+      "place_id": "ChIJn6s3eqydOYgR-xZdtX4vIRo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

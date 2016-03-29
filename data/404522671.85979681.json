@@ -1,0 +1,476 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2081",
+          "short_name": "2081",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Flanders Road",
+          "short_name": "Flanders Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Flanders",
+          "short_name": "Flanders",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Southampton",
+          "short_name": "Southampton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11901",
+          "short_name": "11901",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "2081 Flanders Rd, Flanders, NY 11901, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.887571,
+          "lng": -72.601467
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8889199802915,
+            "lng": -72.60011801970849
+          },
+          "southwest": {
+            "lat": 40.88622201970851,
+            "lng": -72.60281598029151
+          }
+        }
+      },
+      "place_id": "ChIJx7BmGUPz6IkR-aM7M9WhKbI",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Flanders",
+          "short_name": "Flanders",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Southampton",
+          "short_name": "Southampton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Flanders, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9194335,
+            "lng": -72.54780910000001
+          },
+          "southwest": {
+            "lat": 40.8681401,
+            "lng": -72.649107
+          }
+        },
+        "location": {
+          "lat": 40.9034328,
+          "lng": -72.61759359999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9194335,
+            "lng": -72.54780910000001
+          },
+          "southwest": {
+            "lat": 40.8681401,
+            "lng": -72.649107
+          }
+        }
+      },
+      "place_id": "ChIJD8HPaVvz6IkRJ7d8s9ydt4M",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11901",
+          "short_name": "11901",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Riverhead",
+          "short_name": "Riverhead",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Riverhead, NY 11901, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.002946,
+            "lng": -72.554771
+          },
+          "southwest": {
+            "lat": 40.854535,
+            "lng": -72.72943459999999
+          }
+        },
+        "location": {
+          "lat": 40.9413697,
+          "lng": -72.6505957
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.002946,
+            "lng": -72.554771
+          },
+          "southwest": {
+            "lat": 40.854535,
+            "lng": -72.72943459999999
+          }
+        }
+      },
+      "place_id": "ChIJ5-EBZDeL6IkRrEnpWqyasq0",
+      "postcode_localities": [
+        "Flanders",
+        "Riverhead"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Southampton",
+          "short_name": "Southampton",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Southampton, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0409569,
+            "lng": -72.2456265
+          },
+          "southwest": {
+            "lat": 40.7712478,
+            "lng": -72.7287111
+          }
+        },
+        "location": {
+          "lat": 40.8598656,
+          "lng": -72.5678041
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0409569,
+            "lng": -72.2456265
+          },
+          "southwest": {
+            "lat": 40.7712478,
+            "lng": -72.7287111
+          }
+        }
+      },
+      "place_id": "ChIJ_TWoDO5e6IkRvbxwplwpKsM",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffolk County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2923797,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        },
+        "location": {
+          "lat": 40.9848784,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2923194,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        }
+      },
+      "place_id": "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,492 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "4-6",
+          "short_name": "4-6",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Marion Avenue",
+          "short_name": "Marion Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "South Glens Falls",
+          "short_name": "South Glens Falls",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Moreau",
+          "short_name": "Moreau",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saratoga County",
+          "short_name": "Saratoga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12803",
+          "short_name": "12803",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4807",
+          "short_name": "4807",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "4-6 Marion Ave, South Glens Falls, NY 12803, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.295204,
+            "lng": -73.63162
+          },
+          "southwest": {
+            "lat": 43.2951559,
+            "lng": -73.6362123
+          }
+        },
+        "location": {
+          "lat": 43.295143,
+          "lng": -73.635087
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 43.29652893029149,
+            "lng": -73.63162
+          },
+          "southwest": {
+            "lat": 43.2938309697085,
+            "lng": -73.6362123
+          }
+        }
+      },
+      "place_id": "EjA0LTYgTWFyaW9uIEF2ZSwgU291dGggR2xlbnMgRmFsbHMsIE5ZIDEyODAzLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "South Glens Falls",
+          "short_name": "South Glens Falls",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Moreau",
+          "short_name": "Moreau",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saratoga County",
+          "short_name": "Saratoga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12803",
+          "short_name": "12803",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "South Glens Falls, NY 12803, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.30685159999999,
+            "lng": -73.621456
+          },
+          "southwest": {
+            "lat": 43.282881,
+            "lng": -73.651175
+          }
+        },
+        "location": {
+          "lat": 43.2992389,
+          "lng": -73.63511679999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.30685159999999,
+            "lng": -73.621456
+          },
+          "southwest": {
+            "lat": 43.282881,
+            "lng": -73.651175
+          }
+        }
+      },
+      "place_id": "ChIJcXW_WYrR34kRuFda2tzCuFc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12803",
+          "short_name": "12803",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "South Glens Falls",
+          "short_name": "South Glens Falls",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "South Glens Falls, NY 12803, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.308836,
+            "lng": -73.588549
+          },
+          "southwest": {
+            "lat": 43.2679819,
+            "lng": -73.67667589999999
+          }
+        },
+        "location": {
+          "lat": 43.2941106,
+          "lng": -73.6241855
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.308836,
+            "lng": -73.588549
+          },
+          "southwest": {
+            "lat": 43.2679819,
+            "lng": -73.67667589999999
+          }
+        }
+      },
+      "place_id": "ChIJae854RvS34kReGTGVnGm2WQ",
+      "postcode_localities": [
+        "Glens Falls",
+        "South Glens Falls"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Moreau",
+          "short_name": "Moreau",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Saratoga County",
+          "short_name": "Saratoga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Moreau, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.30685159999999,
+            "lng": -73.58236409999999
+          },
+          "southwest": {
+            "lat": 43.199424,
+            "lng": -73.762742
+          }
+        },
+        "location": {
+          "lat": 43.2406297,
+          "lng": -73.6771662
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.30685159999999,
+            "lng": -73.58236409999999
+          },
+          "southwest": {
+            "lat": 43.199424,
+            "lng": -73.762742
+          }
+        }
+      },
+      "place_id": "ChIJI_vzFHPN34kR5n5R-NLPxS4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Saratoga County",
+          "short_name": "Saratoga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Saratoga County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.398041,
+            "lng": -73.5738851
+          },
+          "southwest": {
+            "lat": 42.775377,
+            "lng": -74.16009989999999
+          }
+        },
+        "location": {
+          "lat": 43.0324245,
+          "lng": -73.93598209999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.398041,
+            "lng": -73.5738851
+          },
+          "southwest": {
+            "lat": 42.775377,
+            "lng": -74.16009989999999
+          }
+        }
+      },
+      "place_id": "ChIJ_wmheghF3okRp4CsEEsdMi8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

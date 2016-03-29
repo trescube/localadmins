@@ -1,0 +1,540 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "300-320",
+          "short_name": "300-320",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Avenue",
+          "short_name": "Main Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Meadow Grove",
+          "short_name": "Meadow Grove",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Meadow Grove-Jefferson",
+          "short_name": "Meadow Grove-Jefferson",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Madison County",
+          "short_name": "Madison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68752",
+          "short_name": "68752",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "300-320 Main Ave, Meadow Grove, NE 68752, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0287926,
+            "lng": -97.73562
+          },
+          "southwest": {
+            "lat": 42.0287836,
+            "lng": -97.7371008
+          }
+        },
+        "location": {
+          "lat": 42.0288001,
+          "lng": -97.7360423
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0301370802915,
+            "lng": -97.7350114197085
+          },
+          "southwest": {
+            "lat": 42.0274391197085,
+            "lng": -97.7377093802915
+          }
+        }
+      },
+      "place_id": "Ei0zMDAtMzIwIE1haW4gQXZlLCBNZWFkb3cgR3JvdmUsIE5FIDY4NzUyLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Meadow Grove",
+          "short_name": "Meadow Grove",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Meadow Grove-Jefferson",
+          "short_name": "Meadow Grove-Jefferson",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Madison County",
+          "short_name": "Madison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68752",
+          "short_name": "68752",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Meadow Grove, NE 68752, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.03310889999999,
+            "lng": -97.72845889999999
+          },
+          "southwest": {
+            "lat": 42.0250379,
+            "lng": -97.74319179999999
+          }
+        },
+        "location": {
+          "lat": 42.028895,
+          "lng": -97.733948
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.03310889999999,
+            "lng": -97.72845889999999
+          },
+          "southwest": {
+            "lat": 42.0250379,
+            "lng": -97.74319179999999
+          }
+        }
+      },
+      "place_id": "ChIJT3ugU7ELkIcRQNLW7rBfKSk",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Meadow Grove-Jefferson",
+          "short_name": "Meadow Grove-Jefferson",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Madison County",
+          "short_name": "Madison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Meadow Grove-Jefferson, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0904049,
+            "lng": -97.6011559
+          },
+          "southwest": {
+            "lat": 42.003229,
+            "lng": -97.83453589999999
+          }
+        },
+        "location": {
+          "lat": 42.0358388,
+          "lng": -97.7199454
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0904049,
+            "lng": -97.6011559
+          },
+          "southwest": {
+            "lat": 42.003229,
+            "lng": -97.83453589999999
+          }
+        }
+      },
+      "place_id": "ChIJxQrvy-cLkIcR96axiNNxvOA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68752",
+          "short_name": "68752",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Meadow Grove",
+          "short_name": "Meadow Grove",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Meadow Grove, NE 68752, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.133969,
+            "lng": -97.620755
+          },
+          "southwest": {
+            "lat": 41.8497,
+            "lng": -97.7954989
+          }
+        },
+        "location": {
+          "lat": 41.935838,
+          "lng": -97.7416703
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.133969,
+            "lng": -97.620755
+          },
+          "southwest": {
+            "lat": 41.8497,
+            "lng": -97.7954989
+          }
+        }
+      },
+      "place_id": "ChIJofySNJ0LkIcRuzfhk6vKxh4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Madison County",
+          "short_name": "Madison County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Madison County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0909289,
+            "lng": -97.368033
+          },
+          "southwest": {
+            "lat": 41.7422339,
+            "lng": -97.83453589999999
+          }
+        },
+        "location": {
+          "lat": 41.9108264,
+          "lng": -97.5247243
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0909289,
+            "lng": -97.368033
+          },
+          "southwest": {
+            "lat": 41.7422339,
+            "lng": -97.83453589999999
+          }
+        }
+      },
+      "place_id": "ChIJj1SKBcFtkIcRx9yzHisigIA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Norfolk",
+          "short_name": "Norfolk",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Norfolk, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.43897,
+            "lng": -97.0193329
+          },
+          "southwest": {
+            "lat": 41.7421521,
+            "lng": -97.83514489999999
+          }
+        },
+        "location": {
+          "lat": 42.1414599,
+          "lng": -97.6114217
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.43897,
+            "lng": -97.0193329
+          },
+          "southwest": {
+            "lat": 41.7421521,
+            "lng": -97.83514489999999
+          }
+        }
+      },
+      "place_id": "ChIJse93rk8UkIcRlZWBT0Z5gOM",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,485 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "28-98",
+          "short_name": "28-98",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Barnaby Court East",
+          "short_name": "Barnaby Ct E",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Hauppauge",
+          "short_name": "Hauppauge",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Islip",
+          "short_name": "Islip",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11788",
+          "short_name": "11788",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2423",
+          "short_name": "2423",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "28-98 Barnaby Ct E, Hauppauge, NY 11788, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8221564,
+            "lng": -73.2105223
+          },
+          "southwest": {
+            "lat": 40.82162659999999,
+            "lng": -73.21201479999999
+          }
+        },
+        "location": {
+          "lat": 40.8216386,
+          "lng": -73.211837
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8232404802915,
+            "lng": -73.20991956970849
+          },
+          "southwest": {
+            "lat": 40.8205425197085,
+            "lng": -73.2126175302915
+          }
+        }
+      },
+      "place_id": "EiwyOC05OCBCYXJuYWJ5IEN0IEUsIEhhdXBwYXVnZSwgTlkgMTE3ODgsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hauppauge",
+          "short_name": "Hauppauge",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hauppauge, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8504846,
+            "lng": -73.1477819
+          },
+          "southwest": {
+            "lat": 40.801677,
+            "lng": -73.2723019
+          }
+        },
+        "location": {
+          "lat": 40.8256536,
+          "lng": -73.2026138
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8504846,
+            "lng": -73.1477819
+          },
+          "southwest": {
+            "lat": 40.801677,
+            "lng": -73.2723019
+          }
+        }
+      },
+      "place_id": "ChIJPSErlOow6IkRVtvz2P4QEBk",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11788",
+          "short_name": "11788",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Hauppauge",
+          "short_name": "Hauppauge",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hauppauge, NY 11788, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.837105,
+            "lng": -73.1477929
+          },
+          "southwest": {
+            "lat": 40.8014941,
+            "lng": -73.2723019
+          }
+        },
+        "location": {
+          "lat": 40.8153846,
+          "lng": -73.21165839999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.837105,
+            "lng": -73.1477929
+          },
+          "southwest": {
+            "lat": 40.8014941,
+            "lng": -73.2723019
+          }
+        }
+      },
+      "place_id": "ChIJkQZ5Cusw6IkRC42oHx8TKOc",
+      "postcode_localities": [
+        "Hauppauge",
+        "Smithtown"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Islip",
+          "short_name": "Islip",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Islip, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.832977,
+            "lng": -73.03787969999999
+          },
+          "southwest": {
+            "lat": 40.6218023,
+            "lng": -73.3182693
+          }
+        },
+        "location": {
+          "lat": 40.7244213,
+          "lng": -73.2293542
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.832977,
+            "lng": -73.03787969999999
+          },
+          "southwest": {
+            "lat": 40.6844449,
+            "lng": -73.3182693
+          }
+        }
+      },
+      "place_id": "ChIJQ31O4ZM06IkRViOB2gbibWA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffolk County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2923797,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        },
+        "location": {
+          "lat": 40.9848784,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2923194,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        }
+      },
+      "place_id": "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

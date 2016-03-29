@@ -1,0 +1,545 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "17",
+          "short_name": "17",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Elm Street",
+          "short_name": "Elm St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "McGraw",
+          "short_name": "McGraw",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cortlandville",
+          "short_name": "Cortlandville",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cortland County",
+          "short_name": "Cortland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "13101",
+          "short_name": "13101",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9422",
+          "short_name": "9422",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "17 Elm St, McGraw, NY 13101, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.593614,
+          "lng": -76.097574
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.59496298029149,
+            "lng": -76.0962250197085
+          },
+          "southwest": {
+            "lat": 42.59226501970849,
+            "lng": -76.0989229802915
+          }
+        }
+      },
+      "place_id": "ChIJAwGH0WJq2okRtiYnRAXCd4U",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "McGraw",
+          "short_name": "McGraw",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cortlandville",
+          "short_name": "Cortlandville",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cortland County",
+          "short_name": "Cortland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "13101",
+          "short_name": "13101",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "McGraw, NY 13101, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.601479,
+            "lng": -76.0874049
+          },
+          "southwest": {
+            "lat": 42.58607800000001,
+            "lng": -76.1074489
+          }
+        },
+        "location": {
+          "lat": 42.5961811,
+          "lng": -76.09325969999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.601479,
+            "lng": -76.0874049
+          },
+          "southwest": {
+            "lat": 42.58607800000001,
+            "lng": -76.1074489
+          }
+        }
+      },
+      "place_id": "ChIJf1iYOGNq2okR3Ycp4r5-Ttc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "13101",
+          "short_name": "13101",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "McGraw",
+          "short_name": "McGraw",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cortland County",
+          "short_name": "Cortland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "McGraw, NY 13101, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.672391,
+            "lng": -75.995704
+          },
+          "southwest": {
+            "lat": 42.5273079,
+            "lng": -76.134742
+          }
+        },
+        "location": {
+          "lat": 42.6104215,
+          "lng": -76.0623979
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.672391,
+            "lng": -75.995704
+          },
+          "southwest": {
+            "lat": 42.5273079,
+            "lng": -76.134742
+          }
+        }
+      },
+      "place_id": "ChIJPxLiyTBA2okRKU6xabPJX_Y",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cortlandville",
+          "short_name": "Cortlandville",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cortland County",
+          "short_name": "Cortland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cortlandville, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.633441,
+            "lng": -76.0647379
+          },
+          "southwest": {
+            "lat": 42.5419428,
+            "lng": -76.265619
+          }
+        },
+        "location": {
+          "lat": 42.5776902,
+          "lng": -76.1088001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.633441,
+            "lng": -76.0647379
+          },
+          "southwest": {
+            "lat": 42.5419428,
+            "lng": -76.265619
+          }
+        }
+      },
+      "place_id": "ChIJMzbcQpJr2okRyipAvfkzvmo",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cortland County",
+          "short_name": "Cortland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cortland County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7909639,
+            "lng": -75.86402
+          },
+          "southwest": {
+            "lat": 42.4075679,
+            "lng": -76.27419309999999
+          }
+        },
+        "location": {
+          "lat": 42.5440918,
+          "lng": -75.9927652
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7909639,
+            "lng": -75.86402
+          },
+          "southwest": {
+            "lat": 42.4075679,
+            "lng": -76.27419309999999
+          }
+        }
+      },
+      "place_id": "ChIJnbctU8s92okRtpzbyEQ88Mg",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cortland",
+          "short_name": "Cortland",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cortland, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7909639,
+            "lng": -75.86402
+          },
+          "southwest": {
+            "lat": 42.4075679,
+            "lng": -76.27467299999999
+          }
+        },
+        "location": {
+          "lat": 42.5440918,
+          "lng": -75.9927652
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7909639,
+            "lng": -75.86402
+          },
+          "southwest": {
+            "lat": 42.4075679,
+            "lng": -76.27467299999999
+          }
+        }
+      },
+      "place_id": "ChIJKT12pjNA2okR-yna5bG4_QU",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

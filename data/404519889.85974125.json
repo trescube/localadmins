@@ -1,0 +1,481 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "700-798",
+          "short_name": "700-798",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Nebraska Avenue",
+          "short_name": "Nebraska Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Fairmont",
+          "short_name": "Fairmont",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Exeter-Fairmont Consolidated",
+          "short_name": "Exeter-Fairmont Consolidated",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fillmore County",
+          "short_name": "Fillmore County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68354",
+          "short_name": "68354",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "700-798 Nebraska Ave, Fairmont, NE 68354, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6342609,
+            "lng": -97.5880272
+          },
+          "southwest": {
+            "lat": 40.63286,
+            "lng": -97.588039
+          }
+        },
+        "location": {
+          "lat": 40.6331334,
+          "lng": -97.5880107
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6349094302915,
+            "lng": -97.58668411970848
+          },
+          "southwest": {
+            "lat": 40.6322114697085,
+            "lng": -97.5893820802915
+          }
+        }
+      },
+      "place_id": "Ei03MDAtNzk4IE5lYnJhc2thIEF2ZSwgRmFpcm1vbnQsIE5FIDY4MzU0LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fairmont",
+          "short_name": "Fairmont",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Exeter-Fairmont Consolidated",
+          "short_name": "Exeter-Fairmont Consolidated",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fillmore County",
+          "short_name": "Fillmore County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68354",
+          "short_name": "68354",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Fairmont, NE 68354, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.641443,
+            "lng": -97.5736609
+          },
+          "southwest": {
+            "lat": 40.6299559,
+            "lng": -97.6055421
+          }
+        },
+        "location": {
+          "lat": 40.6352901,
+          "lng": -97.5851206
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.641443,
+            "lng": -97.5736609
+          },
+          "southwest": {
+            "lat": 40.6299559,
+            "lng": -97.6055421
+          }
+        }
+      },
+      "place_id": "ChIJ9RjzHbZol4cRx4QW8gHR-hs",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Exeter-Fairmont Consolidated",
+          "short_name": "Exeter-Fairmont Consolidated",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Fillmore County",
+          "short_name": "Fillmore County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Exeter-Fairmont Consolidated, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6987498,
+            "lng": -97.3683739
+          },
+          "southwest": {
+            "lat": 40.61121,
+            "lng": -97.59607000000001
+          }
+        },
+        "location": {
+          "lat": 40.6544071,
+          "lng": -97.5030669
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6987498,
+            "lng": -97.3683739
+          },
+          "southwest": {
+            "lat": 40.61121,
+            "lng": -97.59607000000001
+          }
+        }
+      },
+      "place_id": "ChIJw-HR7Z9rl4cRtKIGuAJLaYA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68354",
+          "short_name": "68354",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Fairmont",
+          "short_name": "Fairmont",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fairmont, NE 68354, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7276618,
+            "lng": -97.463607
+          },
+          "southwest": {
+            "lat": 40.5249069,
+            "lng": -97.711631
+          }
+        },
+        "location": {
+          "lat": 40.6487322,
+          "lng": -97.5897372
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7276618,
+            "lng": -97.463607
+          },
+          "southwest": {
+            "lat": 40.5249069,
+            "lng": -97.711631
+          }
+        }
+      },
+      "place_id": "ChIJ74vvNBxol4cRKuUCqsJV35w",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fillmore County",
+          "short_name": "Fillmore County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fillmore County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.698837,
+            "lng": -97.36831099999999
+          },
+          "southwest": {
+            "lat": 40.3503,
+            "lng": -97.824942
+          }
+        },
+        "location": {
+          "lat": 40.47101190000001,
+          "lng": -97.5247243
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.698837,
+            "lng": -97.36831099999999
+          },
+          "southwest": {
+            "lat": 40.3503,
+            "lng": -97.824942
+          }
+        }
+      },
+      "place_id": "ChIJacLw4QNwl4cRwYLn-3qRxqg",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

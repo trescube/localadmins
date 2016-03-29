@@ -1,0 +1,649 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101",
+          "short_name": "101",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Main Street",
+          "short_name": "S Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Buckland",
+          "short_name": "Buckland",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Logan Township",
+          "short_name": "Logan Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Auglaize County",
+          "short_name": "Auglaize County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45819",
+          "short_name": "45819",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9723",
+          "short_name": "9723",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "101 S Main St, Buckland, OH 45819, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6241221,
+            "lng": -84.26043179999999
+          },
+          "southwest": {
+            "lat": 40.6239299,
+            "lng": -84.2604429
+          }
+        },
+        "location": {
+          "lat": 40.62401819999999,
+          "lng": -84.2604181
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6253749802915,
+            "lng": -84.25908836970848
+          },
+          "southwest": {
+            "lat": 40.6226770197085,
+            "lng": -84.2617863302915
+          }
+        }
+      },
+      "place_id": "EiYxMDEgUyBNYWluIFN0LCBCdWNrbGFuZCwgT0ggNDU4MTksIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio 197",
+          "short_name": "OH-197",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Buckland",
+          "short_name": "Buckland",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Logan Township",
+          "short_name": "Logan Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Auglaize County",
+          "short_name": "Auglaize County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45819",
+          "short_name": "45819",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "9723",
+          "short_name": "9723",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "OH-197, Buckland, OH 45819, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6241221,
+            "lng": -84.26043179999999
+          },
+          "southwest": {
+            "lat": 40.6239299,
+            "lng": -84.2604429
+          }
+        },
+        "location": {
+          "lat": 40.624026,
+          "lng": -84.26043729999999
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6253749802915,
+            "lng": -84.25908836970848
+          },
+          "southwest": {
+            "lat": 40.6226770197085,
+            "lng": -84.2617863302915
+          }
+        }
+      },
+      "place_id": "ChIJmY8pp3r4PogRLH2SgbsQ_EU",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Buckland",
+          "short_name": "Buckland",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Logan Township",
+          "short_name": "Logan Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Auglaize County",
+          "short_name": "Auglaize County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Buckland, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6292589,
+            "lng": -84.254457
+          },
+          "southwest": {
+            "lat": 40.620101,
+            "lng": -84.2652531
+          }
+        },
+        "location": {
+          "lat": 40.6228268,
+          "lng": -84.25995069999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6292589,
+            "lng": -84.254457
+          },
+          "southwest": {
+            "lat": 40.620101,
+            "lng": -84.2652531
+          }
+        }
+      },
+      "place_id": "ChIJTex0h3r4PogRStbsxlBnMtQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "45819",
+          "short_name": "45819",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Buckland",
+          "short_name": "Buckland",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Auglaize County",
+          "short_name": "Auglaize County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Buckland, OH 45819, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6292589,
+            "lng": -84.25446579999999
+          },
+          "southwest": {
+            "lat": 40.6203609,
+            "lng": -84.2652531
+          }
+        },
+        "location": {
+          "lat": 40.6229267,
+          "lng": -84.2608027
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6292589,
+            "lng": -84.25446579999999
+          },
+          "southwest": {
+            "lat": 40.6203609,
+            "lng": -84.2652531
+          }
+        }
+      },
+      "place_id": "ChIJVdyye3D4PogRoLOcp122QgA",
+      "postcode_localities": [
+        "Buckland",
+        "Lima"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Logan Township",
+          "short_name": "Logan Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Auglaize County",
+          "short_name": "Auglaize County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Logan Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6860798,
+            "lng": -84.2221529
+          },
+          "southwest": {
+            "lat": 40.619031,
+            "lng": -84.339494
+          }
+        },
+        "location": {
+          "lat": 40.6454133,
+          "lng": -84.2805478
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6860798,
+            "lng": -84.2221529
+          },
+          "southwest": {
+            "lat": 40.619031,
+            "lng": -84.339494
+          }
+        }
+      },
+      "place_id": "ChIJY5x4fPdXPogRolw4EVRt_Q0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wapakoneta",
+          "short_name": "Wapakoneta",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wapakoneta, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6860491,
+            "lng": -83.8799329
+          },
+          "southwest": {
+            "lat": 40.354529,
+            "lng": -84.4559981
+          }
+        },
+        "location": {
+          "lat": 40.5781556,
+          "lng": -84.3542049
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6860491,
+            "lng": -83.8799329
+          },
+          "southwest": {
+            "lat": 40.354529,
+            "lng": -84.4559981
+          }
+        }
+      },
+      "place_id": "ChIJuUhXDtr-PogRMVuyEcZX8WY",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Auglaize County",
+          "short_name": "Auglaize County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Auglaize County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6860798,
+            "lng": -83.879932
+          },
+          "southwest": {
+            "lat": 40.3545339,
+            "lng": -84.456227
+          }
+        },
+        "location": {
+          "lat": 40.5781556,
+          "lng": -84.3542049
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6860798,
+            "lng": -83.879932
+          },
+          "southwest": {
+            "lat": 40.3545339,
+            "lng": -84.456227
+          }
+        }
+      },
+      "place_id": "ChIJ78plQMf-PogR8DtVoy1gqWM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

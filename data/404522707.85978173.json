@@ -1,0 +1,527 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "16",
+          "short_name": "16",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Park Drive",
+          "short_name": "Park Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Amsterdam",
+          "short_name": "Amsterdam",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Amsterdam",
+          "short_name": "Amsterdam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12010",
+          "short_name": "12010",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "16 Park Dr, Amsterdam, NY 12010, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.972637,
+          "lng": -74.153864
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.9739859802915,
+            "lng": -74.1525150197085
+          },
+          "southwest": {
+            "lat": 42.9712880197085,
+            "lng": -74.15521298029151
+          }
+        }
+      },
+      "place_id": "ChIJa1oF8ZNg3okR97k_JrzS79k",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hagaman",
+          "short_name": "Hagaman",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Amsterdam",
+          "short_name": "Amsterdam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hagaman, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.983115,
+            "lng": -74.1411128
+          },
+          "southwest": {
+            "lat": 42.9627259,
+            "lng": -74.170624
+          }
+        },
+        "location": {
+          "lat": 42.9745189,
+          "lng": -74.1509633
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.983115,
+            "lng": -74.1411128
+          },
+          "southwest": {
+            "lat": 42.9627259,
+            "lng": -74.170624
+          }
+        }
+      },
+      "place_id": "ChIJe08r9vBd3okRU0KUP1oWD_U",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Amsterdam",
+          "short_name": "Amsterdam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Amsterdam, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.984426,
+            "lng": -74.083504
+          },
+          "southwest": {
+            "lat": 42.896869,
+            "lng": -74.2893039
+          }
+        },
+        "location": {
+          "lat": 42.9566087,
+          "lng": -74.1357407
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.984426,
+            "lng": -74.083504
+          },
+          "southwest": {
+            "lat": 42.896869,
+            "lng": -74.2893039
+          }
+        }
+      },
+      "place_id": "ChIJ49G8yO5F3okRm0r9tUZqYPY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12010",
+          "short_name": "12010",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Amsterdam",
+          "short_name": "Amsterdam",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Amsterdam, NY 12010, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.05168099999999,
+            "lng": -74.0235331
+          },
+          "southwest": {
+            "lat": 42.821432,
+            "lng": -74.37200299999999
+          }
+        },
+        "location": {
+          "lat": 42.9297842,
+          "lng": -74.1474846
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.05168099999999,
+            "lng": -74.0235331
+          },
+          "southwest": {
+            "lat": 42.821432,
+            "lng": -74.37200299999999
+          }
+        }
+      },
+      "place_id": "ChIJgYIrALNg3okRfTkuRbq0FDg",
+      "postcode_localities": [
+        "Amsterdam",
+        "West Charlton"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Montgomery County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.0474228,
+            "lng": -74.083504
+          },
+          "southwest": {
+            "lat": 42.77297900000001,
+            "lng": -74.763303
+          }
+        },
+        "location": {
+          "lat": 42.915521,
+          "lng": -74.4525627
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.0474228,
+            "lng": -74.083504
+          },
+          "southwest": {
+            "lat": 42.77297900000001,
+            "lng": -74.763303
+          }
+        }
+      },
+      "place_id": "ChIJf3xQTc_03okRRV3UyjW0K5U",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Amsterdam",
+          "short_name": "Amsterdam",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Amsterdam, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.047434,
+            "lng": -74.0840109
+          },
+          "southwest": {
+            "lat": 42.77297900000001,
+            "lng": -74.763303
+          }
+        },
+        "location": {
+          "lat": 42.915521,
+          "lng": -74.4525627
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.047434,
+            "lng": -74.0840109
+          },
+          "southwest": {
+            "lat": 42.77297900000001,
+            "lng": -74.763303
+          }
+        }
+      },
+      "place_id": "ChIJz31EI0WQ3okRGyvYVm7jgZU",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

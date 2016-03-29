@@ -1,0 +1,549 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "401-523",
+          "short_name": "401-523",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Central Avenue",
+          "short_name": "N Central Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Minoa",
+          "short_name": "Minoa",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Manlius",
+          "short_name": "Manlius",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "13116",
+          "short_name": "13116",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "401-523 N Central Ave, Minoa, NY 13116, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.075125,
+            "lng": -76.005557
+          },
+          "southwest": {
+            "lat": 43.074658,
+            "lng": -76.01348949999999
+          }
+        },
+        "location": {
+          "lat": 43.0748741,
+          "lng": -76.00857719999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 43.0762404802915,
+            "lng": -76.005557
+          },
+          "southwest": {
+            "lat": 43.0735425197085,
+            "lng": -76.01348949999999
+          }
+        }
+      },
+      "place_id": "Eis0MDEtNTIzIE4gQ2VudHJhbCBBdmUsIE1pbm9hLCBOWSAxMzExNiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Minoa",
+          "short_name": "Minoa",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Manlius",
+          "short_name": "Manlius",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Minoa, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.08378889999999,
+            "lng": -75.99196309999999
+          },
+          "southwest": {
+            "lat": 43.064144,
+            "lng": -76.021039
+          }
+        },
+        "location": {
+          "lat": 43.0761781,
+          "lng": -76.0007529
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.08378889999999,
+            "lng": -75.99196309999999
+          },
+          "southwest": {
+            "lat": 43.064144,
+            "lng": -76.021039
+          }
+        }
+      },
+      "place_id": "ChIJO8kL9vCN2YkRkZfMokgwKxw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "13116",
+          "short_name": "13116",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Minoa",
+          "short_name": "Minoa",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Manlius",
+          "short_name": "Manlius",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Minoa, NY 13116, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.08378889999999,
+            "lng": -75.9918869
+          },
+          "southwest": {
+            "lat": 43.06527,
+            "lng": -76.0210511
+          }
+        },
+        "location": {
+          "lat": 43.0747792,
+          "lng": -76.0072749
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.08378889999999,
+            "lng": -75.9918869
+          },
+          "southwest": {
+            "lat": 43.06527,
+            "lng": -76.0210511
+          }
+        }
+      },
+      "place_id": "ChIJfTyvYfCN2YkRYJdZZqKce2w",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Manlius",
+          "short_name": "Manlius",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Manlius, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.1230471,
+            "lng": -75.910613
+          },
+          "southwest": {
+            "lat": 42.9850658,
+            "lng": -76.042667
+          }
+        },
+        "location": {
+          "lat": 43.0581768,
+          "lng": -75.96954649999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.1230471,
+            "lng": -75.910613
+          },
+          "southwest": {
+            "lat": 42.9850658,
+            "lng": -76.042667
+          }
+        }
+      },
+      "place_id": "ChIJob7b42-O2YkR2RYLH9xjgb0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Onondaga County",
+          "short_name": "Onondaga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Onondaga County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.271605,
+            "lng": -75.89607889999999
+          },
+          "southwest": {
+            "lat": 42.7714292,
+            "lng": -76.499324
+          }
+        },
+        "location": {
+          "lat": 43.026819,
+          "lng": -76.17837390000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.271605,
+            "lng": -75.89607889999999
+          },
+          "southwest": {
+            "lat": 42.7714292,
+            "lng": -76.499324
+          }
+        }
+      },
+      "place_id": "ChIJNf-jRf702YkRWbJ48qyiSrI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Syracuse",
+          "short_name": "Syracuse",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Syracuse, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.7070179,
+            "lng": -75.239972
+          },
+          "southwest": {
+            "lat": 42.723844,
+            "lng": -76.6170478
+          }
+        },
+        "location": {
+          "lat": 43.114397,
+          "lng": -76.2710833
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.7070179,
+            "lng": -75.239972
+          },
+          "southwest": {
+            "lat": 42.723844,
+            "lng": -76.6170478
+          }
+        }
+      },
+      "place_id": "ChIJG1ByhoST2YkRpx440X2eFGo",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

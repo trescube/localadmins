@@ -1,0 +1,528 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "143",
+          "short_name": "143",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Westpark Road",
+          "short_name": "Westpark Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Dayton",
+          "short_name": "Dayton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington Township",
+          "short_name": "Washington Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45459",
+          "short_name": "45459",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4814",
+          "short_name": "4814",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "143 Westpark Rd, Dayton, OH 45459, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.633519,
+          "lng": -84.14424400000001
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.6348679802915,
+            "lng": -84.14289501970852
+          },
+          "southwest": {
+            "lat": 39.6321700197085,
+            "lng": -84.14559298029153
+          }
+        }
+      },
+      "place_id": "ChIJAYRzTQePQIgRvZNfVXzPDk4",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Centerville",
+          "short_name": "Centerville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington Township",
+          "short_name": "Washington Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Centerville, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.673569,
+            "lng": -84.10873099999999
+          },
+          "southwest": {
+            "lat": 39.5906138,
+            "lng": -84.208829
+          }
+        },
+        "location": {
+          "lat": 39.6283928,
+          "lng": -84.15938179999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.673569,
+            "lng": -84.10873099999999
+          },
+          "southwest": {
+            "lat": 39.5906138,
+            "lng": -84.208829
+          }
+        }
+      },
+      "place_id": "ChIJW2OqA9dYQIgRaIwsVS1hBbM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "45459",
+          "short_name": "45459",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Dayton",
+          "short_name": "Dayton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dayton, OH 45459, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.6779269,
+            "lng": -84.108842
+          },
+          "southwest": {
+            "lat": 39.6196969,
+            "lng": -84.235029
+          }
+        },
+        "location": {
+          "lat": 39.6400784,
+          "lng": -84.17516479999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.6779269,
+            "lng": -84.108842
+          },
+          "southwest": {
+            "lat": 39.6196969,
+            "lng": -84.235029
+          }
+        }
+      },
+      "place_id": "ChIJrXgFYSCGQIgRzeYkYby0SVg",
+      "postcode_localities": [
+        "Centerville",
+        "Dayton",
+        "Kettering",
+        "Moraine"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Washington Township",
+          "short_name": "Washington Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Washington Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.6769869,
+            "lng": -84.10873099999999
+          },
+          "southwest": {
+            "lat": 39.577983,
+            "lng": -84.21093809999999
+          }
+        },
+        "location": {
+          "lat": 39.60867229999999,
+          "lng": -84.16461629999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.6769869,
+            "lng": -84.10873099999999
+          },
+          "southwest": {
+            "lat": 39.577983,
+            "lng": -84.21093809999999
+          }
+        }
+      },
+      "place_id": "ChIJj2uVi-GOQIgRvO-wypFZc-w",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Montgomery County",
+          "short_name": "Montgomery County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Montgomery County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9229798,
+            "lng": -84.051039
+          },
+          "southwest": {
+            "lat": 39.577983,
+            "lng": -84.48565289999999
+          }
+        },
+        "location": {
+          "lat": 39.7620028,
+          "lng": -84.3542049
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9229798,
+            "lng": -84.051039
+          },
+          "southwest": {
+            "lat": 39.577983,
+            "lng": -84.48565289999999
+          }
+        }
+      },
+      "place_id": "ChIJcc4RhY9iQIgRFxRmOJXb_kk",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Dayton",
+          "short_name": "Dayton",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dayton, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.20008199999999,
+            "lng": -83.64661
+          },
+          "southwest": {
+            "lat": 39.5502529,
+            "lng": -84.815156
+          }
+        },
+        "location": {
+          "lat": 39.7620028,
+          "lng": -84.3542049
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.20008199999999,
+            "lng": -83.64661
+          },
+          "southwest": {
+            "lat": 39.5502529,
+            "lng": -84.815156
+          }
+        }
+      },
+      "place_id": "ChIJHUhBS3iAQIgRfuAqWL17twA",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

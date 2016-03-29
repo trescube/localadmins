@@ -1,0 +1,491 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "126",
+          "short_name": "126",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Nims Avenue",
+          "short_name": "Nims Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "West Babylon",
+          "short_name": "West Babylon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Babylon",
+          "short_name": "Babylon",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11704",
+          "short_name": "11704",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "6307",
+          "short_name": "6307",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "126 Nims Ave, West Babylon, NY 11704, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.711143,
+          "lng": -73.35668199999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7124919802915,
+            "lng": -73.35533301970848
+          },
+          "southwest": {
+            "lat": 40.7097940197085,
+            "lng": -73.35803098029149
+          }
+        }
+      },
+      "place_id": "ChIJz7LirLEs6IkRMCtgQE2uhjg",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "West Babylon",
+          "short_name": "West Babylon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Babylon",
+          "short_name": "Babylon",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "West Babylon, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.741693,
+            "lng": -73.3298207
+          },
+          "southwest": {
+            "lat": 40.6685858,
+            "lng": -73.396878
+          }
+        },
+        "location": {
+          "lat": 40.718155,
+          "lng": -73.354287
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.741693,
+            "lng": -73.3298207
+          },
+          "southwest": {
+            "lat": 40.6685858,
+            "lng": -73.396878
+          }
+        }
+      },
+      "place_id": "ChIJl4MC57Es6IkRdIRsA4g2H5E",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11704",
+          "short_name": "11704",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "West Babylon",
+          "short_name": "West Babylon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Babylon",
+          "short_name": "Babylon",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "West Babylon, NY 11704, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.742648,
+            "lng": -73.31425
+          },
+          "southwest": {
+            "lat": 40.6679999,
+            "lng": -73.3986529
+          }
+        },
+        "location": {
+          "lat": 40.7181416,
+          "lng": -73.3531852
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.742648,
+            "lng": -73.31425
+          },
+          "southwest": {
+            "lat": 40.6679999,
+            "lng": -73.3986529
+          }
+        }
+      },
+      "place_id": "ChIJiUKu16Qs6IkRwmdvPpCIWjI",
+      "postcode_localities": [
+        "Babylon",
+        "West Babylon"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Babylon",
+          "short_name": "Babylon",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Babylon, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7842969,
+            "lng": -73.2635619
+          },
+          "southwest": {
+            "lat": 40.6094168,
+            "lng": -73.4384999
+          }
+        },
+        "location": {
+          "lat": 40.6432284,
+          "lng": -73.3472901
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7842969,
+            "lng": -73.2635619
+          },
+          "southwest": {
+            "lat": 40.6094168,
+            "lng": -73.4384999
+          }
+        }
+      },
+      "place_id": "ChIJ_V4T6KnT6YkR7p8spOZchh0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffolk County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2923797,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        },
+        "location": {
+          "lat": 40.9848784,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2923194,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        }
+      },
+      "place_id": "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

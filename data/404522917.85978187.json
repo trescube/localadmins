@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2-174",
+          "short_name": "2-174",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Turtle Point Road",
+          "short_name": "Turtle Point Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Tuxedo Park",
+          "short_name": "Tuxedo Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tuxedo",
+          "short_name": "Tuxedo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10987",
+          "short_name": "10987",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4114",
+          "short_name": "4114",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "2-174 Turtle Point Rd, Tuxedo Park, NY 10987, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.201504,
+            "lng": -74.2084106
+          },
+          "southwest": {
+            "lat": 41.1959914,
+            "lng": -74.21264029999999
+          }
+        },
+        "location": {
+          "lat": 41.20075749999999,
+          "lng": -74.20855519999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.201504,
+            "lng": -74.2084106
+          },
+          "southwest": {
+            "lat": 41.1959914,
+            "lng": -74.21264029999999
+          }
+        }
+      },
+      "place_id": "EjEyLTE3NCBUdXJ0bGUgUG9pbnQgUmQsIFR1eGVkbyBQYXJrLCBOWSAxMDk4NywgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tuxedo Park",
+          "short_name": "Tuxedo Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tuxedo",
+          "short_name": "Tuxedo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10987",
+          "short_name": "10987",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Tuxedo Park, NY 10987, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.22097600000001,
+            "lng": -74.1854671
+          },
+          "southwest": {
+            "lat": 41.180602,
+            "lng": -74.223137
+          }
+        },
+        "location": {
+          "lat": 41.20416760000001,
+          "lng": -74.20032309999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.22097600000001,
+            "lng": -74.1854671
+          },
+          "southwest": {
+            "lat": 41.180602,
+            "lng": -74.223137
+          }
+        }
+      },
+      "place_id": "ChIJ6Q7Ap7zfwokRtYhYIgrB5i4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "10987",
+          "short_name": "10987",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Tuxedo Park",
+          "short_name": "Tuxedo Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Tuxedo Park, NY 10987, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2739409,
+            "lng": -74.1393848
+          },
+          "southwest": {
+            "lat": 41.1421951,
+            "lng": -74.2882939
+          }
+        },
+        "location": {
+          "lat": 41.2050167,
+          "lng": -74.24140919999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2739409,
+            "lng": -74.1393848
+          },
+          "southwest": {
+            "lat": 41.1421951,
+            "lng": -74.2882939
+          }
+        }
+      },
+      "place_id": "ChIJ3221m0rfwokRSZBPK2vcv7U",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tuxedo",
+          "short_name": "Tuxedo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Tuxedo, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.292842,
+            "lng": -74.06950479999999
+          },
+          "southwest": {
+            "lat": 41.142883,
+            "lng": -74.247959
+          }
+        },
+        "location": {
+          "lat": 41.2376671,
+          "lng": -74.1944529
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.292842,
+            "lng": -74.06950479999999
+          },
+          "southwest": {
+            "lat": 41.142883,
+            "lng": -74.247959
+          }
+        }
+      },
+      "place_id": "ChIJL_lfsmrZwokRhaXkieV49jI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Orange County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6327378,
+            "lng": -73.9507237
+          },
+          "southwest": {
+            "lat": 41.142883,
+            "lng": -74.76262299999999
+          }
+        },
+        "location": {
+          "lat": 41.3911653,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6327378,
+            "lng": -73.9507237
+          },
+          "southwest": {
+            "lat": 41.142883,
+            "lng": -74.76262299999999
+          }
+        }
+      },
+      "place_id": "ChIJC1B7Fc3S3IkRu6ik0rYBvT4",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

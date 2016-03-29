@@ -1,0 +1,571 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "36",
+          "short_name": "36",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Chestnut Street",
+          "short_name": "Chestnut St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Rhinebeck Village",
+          "short_name": "Rhinebeck Village",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rhinebeck",
+          "short_name": "Rhinebeck",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rhinebeck",
+          "short_name": "Rhinebeck",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dutchess County",
+          "short_name": "Dutchess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12572",
+          "short_name": "12572",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1502",
+          "short_name": "1502",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "36 Chestnut St, Rhinebeck, NY 12572, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.929181,
+          "lng": -73.90802699999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9305299802915,
+            "lng": -73.9066780197085
+          },
+          "southwest": {
+            "lat": 41.9278320197085,
+            "lng": -73.9093759802915
+          }
+        }
+      },
+      "place_id": "ChIJu28ZaEYM3YkRiL0PtR20yH0",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rhinebeck Village",
+          "short_name": "Rhinebeck Village",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rhinebeck",
+          "short_name": "Rhinebeck",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rhinebeck",
+          "short_name": "Rhinebeck",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dutchess County",
+          "short_name": "Dutchess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12572",
+          "short_name": "12572",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Rhinebeck Village, Rhinebeck, NY 12572, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.93998,
+            "lng": -73.896545
+          },
+          "southwest": {
+            "lat": 41.9185919,
+            "lng": -73.923903
+          }
+        },
+        "location": {
+          "lat": 41.9270873,
+          "lng": -73.91209479999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.93998,
+            "lng": -73.896545
+          },
+          "southwest": {
+            "lat": 41.9185919,
+            "lng": -73.923903
+          }
+        }
+      },
+      "place_id": "ChIJMebckmsM3YkREBOzuYEiGX0",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rhinebeck",
+          "short_name": "Rhinebeck",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rhinebeck",
+          "short_name": "Rhinebeck",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dutchess County",
+          "short_name": "Dutchess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rhinebeck, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9796122,
+            "lng": -73.821477
+          },
+          "southwest": {
+            "lat": 41.8729174,
+            "lng": -73.9558546
+          }
+        },
+        "location": {
+          "lat": 41.9318294,
+          "lng": -73.90743719999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9796122,
+            "lng": -73.821477
+          },
+          "southwest": {
+            "lat": 41.8729174,
+            "lng": -73.9558546
+          }
+        }
+      },
+      "place_id": "ChIJyyTj_jcM3YkRCQmHutys9yg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rhinebeck",
+          "short_name": "Rhinebeck",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Dutchess County",
+          "short_name": "Dutchess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rhinebeck, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9796122,
+            "lng": -73.821477
+          },
+          "southwest": {
+            "lat": 41.8729174,
+            "lng": -73.9558546
+          }
+        },
+        "location": {
+          "lat": 41.937736,
+          "lng": -73.9124674
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9796122,
+            "lng": -73.821477
+          },
+          "southwest": {
+            "lat": 41.8729174,
+            "lng": -73.9558546
+          }
+        }
+      },
+      "place_id": "ChIJoeFcu1kM3YkR4DAXFh6zYH4",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12572",
+          "short_name": "12572",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Rhinebeck",
+          "short_name": "Rhinebeck",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rhinebeck, NY 12572, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.987409,
+            "lng": -73.78326000000001
+          },
+          "southwest": {
+            "lat": 41.8656269,
+            "lng": -73.9644129
+          }
+        },
+        "location": {
+          "lat": 41.9309816,
+          "lng": -73.86542949999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.987409,
+            "lng": -73.78326000000001
+          },
+          "southwest": {
+            "lat": 41.8656269,
+            "lng": -73.9644129
+          }
+        }
+      },
+      "place_id": "ChIJOwePYuYM3YkRH2XKejtzjdw",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Dutchess County",
+          "short_name": "Dutchess County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dutchess County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0809059,
+            "lng": -73.48731409999999
+          },
+          "southwest": {
+            "lat": 41.4421468,
+            "lng": -73.989972
+          }
+        },
+        "location": {
+          "lat": 41.7784372,
+          "lng": -73.7477857
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0809059,
+            "lng": -73.48731409999999
+          },
+          "southwest": {
+            "lat": 41.4421468,
+            "lng": -73.989972
+          }
+        }
+      },
+      "place_id": "ChIJgXGMHTpq3YkRLcG0JidTOfc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

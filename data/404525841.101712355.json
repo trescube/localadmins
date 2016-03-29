@@ -1,0 +1,492 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1164-1174",
+          "short_name": "1164-1174",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "East 3rd Street",
+          "short_name": "E 3rd St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Ottawa",
+          "short_name": "Ottawa",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ottawa Township",
+          "short_name": "Ottawa Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Putnam County",
+          "short_name": "Putnam County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45875",
+          "short_name": "45875",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2021",
+          "short_name": "2021",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1164-1174 E 3rd St, Ottawa, OH 45875, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0203848,
+            "lng": -84.0345821
+          },
+          "southwest": {
+            "lat": 41.0203772,
+            "lng": -84.0351115
+          }
+        },
+        "location": {
+          "lat": 41.0203638,
+          "lng": -84.03505799999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0217299802915,
+            "lng": -84.03349781970849
+          },
+          "southwest": {
+            "lat": 41.0190320197085,
+            "lng": -84.03619578029151
+          }
+        }
+      },
+      "place_id": "EikxMTY0LTExNzQgRSAzcmQgU3QsIE90dGF3YSwgT0ggNDU4NzUsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ottawa",
+          "short_name": "Ottawa",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ottawa Township",
+          "short_name": "Ottawa Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Putnam County",
+          "short_name": "Putnam County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45875",
+          "short_name": "45875",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Ottawa, OH 45875, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.043343,
+            "lng": -83.9999019
+          },
+          "southwest": {
+            "lat": 40.995002,
+            "lng": -84.063575
+          }
+        },
+        "location": {
+          "lat": 41.0192185,
+          "lng": -84.0471666
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.043343,
+            "lng": -83.9999019
+          },
+          "southwest": {
+            "lat": 40.995002,
+            "lng": -84.063575
+          }
+        }
+      },
+      "place_id": "ChIJ-_ENfa6bPogRrGiptq7Tydw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ottawa Township",
+          "short_name": "Ottawa Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Putnam County",
+          "short_name": "Putnam County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ottawa Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.07986700000001,
+            "lng": -83.99564099999999
+          },
+          "southwest": {
+            "lat": 40.9920699,
+            "lng": -84.111792
+          }
+        },
+        "location": {
+          "lat": 41.0264299,
+          "lng": -84.0378894
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.07986700000001,
+            "lng": -83.99564099999999
+          },
+          "southwest": {
+            "lat": 40.9920699,
+            "lng": -84.111792
+          }
+        }
+      },
+      "place_id": "ChIJ1-8YYJubPogRxFFVxxqYieQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "45875",
+          "short_name": "45875",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Ottawa",
+          "short_name": "Ottawa",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ottawa, OH 45875, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1083888,
+            "lng": -83.8805721
+          },
+          "southwest": {
+            "lat": 40.934115,
+            "lng": -84.2171159
+          }
+        },
+        "location": {
+          "lat": 41.0264299,
+          "lng": -84.0378894
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1083888,
+            "lng": -83.8805721
+          },
+          "southwest": {
+            "lat": 40.934115,
+            "lng": -84.2171159
+          }
+        }
+      },
+      "place_id": "ChIJE3pMMAqbPogRp3qoZUSKYeY",
+      "postcode_localities": [
+        "Gilboa",
+        "Ottawa"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Putnam County",
+          "short_name": "Putnam County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Putnam County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.16782389999999,
+            "lng": -83.880423
+          },
+          "southwest": {
+            "lat": 40.859099,
+            "lng": -84.39948609999999
+          }
+        },
+        "location": {
+          "lat": 41.0540759,
+          "lng": -84.1857115
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.16782389999999,
+            "lng": -83.880423
+          },
+          "southwest": {
+            "lat": 40.859099,
+            "lng": -84.39948609999999
+          }
+        }
+      },
+      "place_id": "ChIJKWpa0KSFPogRRIfCBQeiYZ0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

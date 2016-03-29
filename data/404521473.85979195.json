@@ -1,0 +1,583 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2-24",
+          "short_name": "2-24",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Duckpond Drive North",
+          "short_name": "Duckpond Dr N",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "North Wantagh",
+          "short_name": "North Wantagh",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wantagh",
+          "short_name": "Wantagh",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11793",
+          "short_name": "11793",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "2-24 Duckpond Dr N, Wantagh, NY 11793, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.698234,
+            "lng": -73.5068986
+          },
+          "southwest": {
+            "lat": 40.6978693,
+            "lng": -73.50899299999999
+          }
+        },
+        "location": {
+          "lat": 40.6981493,
+          "lng": -73.50886249999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6994006302915,
+            "lng": -73.5065968197085
+          },
+          "southwest": {
+            "lat": 40.6967026697085,
+            "lng": -73.50929478029151
+          }
+        }
+      },
+      "place_id": "EioyLTI0IER1Y2twb25kIERyIE4sIFdhbnRhZ2gsIE5ZIDExNzkzLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Wantagh",
+          "short_name": "North Wantagh",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wantagh",
+          "short_name": "Wantagh",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Wantagh, Wantagh, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.707896,
+            "lng": -73.48302439999999
+          },
+          "southwest": {
+            "lat": 40.690782,
+            "lng": -73.53187989999999
+          }
+        },
+        "location": {
+          "lat": 40.699164,
+          "lng": -73.5093474
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.707896,
+            "lng": -73.48302439999999
+          },
+          "southwest": {
+            "lat": 40.690782,
+            "lng": -73.53187989999999
+          }
+        }
+      },
+      "place_id": "ChIJcbNsN6x_wokR5c58eRXoBEs",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wantagh",
+          "short_name": "Wantagh",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wantagh, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.707896,
+            "lng": -73.4827959
+          },
+          "southwest": {
+            "lat": 40.6342858,
+            "lng": -73.53187989999999
+          }
+        },
+        "location": {
+          "lat": 40.6837121,
+          "lng": -73.5101258
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.707896,
+            "lng": -73.4827959
+          },
+          "southwest": {
+            "lat": 40.6342858,
+            "lng": -73.53187989999999
+          }
+        }
+      },
+      "place_id": "ChIJlfyGYDF5wokRtscuykCRrEY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11793",
+          "short_name": "11793",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Wantagh",
+          "short_name": "Wantagh",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wantagh, NY 11793, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.715219,
+            "lng": -73.484827
+          },
+          "southwest": {
+            "lat": 40.584814,
+            "lng": -73.5491629
+          }
+        },
+        "location": {
+          "lat": 40.6814503,
+          "lng": -73.506402
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.715219,
+            "lng": -73.484827
+          },
+          "southwest": {
+            "lat": 40.584814,
+            "lng": -73.5491629
+          }
+        }
+      },
+      "place_id": "ChIJx3ylP7h4wokRX8WJuY_V8b4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hempstead, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7566779,
+            "lng": -73.4815866
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        },
+        "location": {
+          "lat": 40.6451257,
+          "lng": -73.6300729
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7566779,
+            "lng": -73.4815866
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        }
+      },
+      "place_id": "ChIJHTbFH9BkwokR6paY895RsDs",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nassau County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9478348,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        },
+        "location": {
+          "lat": 40.6546145,
+          "lng": -73.55941279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9478286,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        }
+      },
+      "place_id": "ChIJoQxey52xwokRap4G05mKJBs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

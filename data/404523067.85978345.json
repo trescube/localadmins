@@ -1,0 +1,572 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "28",
+          "short_name": "28",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Chatham Street",
+          "short_name": "NY-203",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Nassau",
+          "short_name": "Nassau",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau",
+          "short_name": "Nassau",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rensselaer County",
+          "short_name": "Rensselaer County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12123",
+          "short_name": "12123",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2701",
+          "short_name": "2701",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "28 Chatham St, Nassau, NY 12123, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5140958,
+            "lng": -73.6106669
+          },
+          "southwest": {
+            "lat": 42.5134804,
+            "lng": -73.6109326
+          }
+        },
+        "location": {
+          "lat": 42.5139618,
+          "lng": -73.6107447
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5151370802915,
+            "lng": -73.60945076970849
+          },
+          "southwest": {
+            "lat": 42.5124391197085,
+            "lng": -73.6121487302915
+          }
+        }
+      },
+      "place_id": "EiQyOCBDaGF0aGFtIFN0LCBOYXNzYXUsIE5ZIDEyMTIzLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chatham St & Kaunemeek St",
+          "short_name": "Chatham St & Kaunemeek St",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Nassau",
+          "short_name": "Nassau",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau",
+          "short_name": "Nassau",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rensselaer County",
+          "short_name": "Rensselaer County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12123",
+          "short_name": "12123",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Chatham St & Kaunemeek St, Nassau, NY 12123, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.51369,
+          "lng": -73.61084
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5150389802915,
+            "lng": -73.6094910197085
+          },
+          "southwest": {
+            "lat": 42.5123410197085,
+            "lng": -73.6121889802915
+          }
+        }
+      },
+      "place_id": "ChIJux_rInT73YkRtlp1KOe2pnM",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nassau",
+          "short_name": "Nassau",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau",
+          "short_name": "Nassau",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rensselaer County",
+          "short_name": "Rensselaer County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12123",
+          "short_name": "12123",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Nassau, NY 12123, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.5239279,
+            "lng": -73.601362
+          },
+          "southwest": {
+            "lat": 42.503802,
+            "lng": -73.6215579
+          }
+        },
+        "location": {
+          "lat": 42.51591450000001,
+          "lng": -73.61011590000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.5239279,
+            "lng": -73.601362
+          },
+          "southwest": {
+            "lat": 42.503802,
+            "lng": -73.6215579
+          }
+        }
+      },
+      "place_id": "ChIJYUzDKHT73YkROMJH3OgGvRQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12123",
+          "short_name": "12123",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Nassau",
+          "short_name": "Nassau",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nassau, NY 12123, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.591847,
+            "lng": -73.52052110000001
+          },
+          "southwest": {
+            "lat": 42.4751559,
+            "lng": -73.68178499999999
+          }
+        },
+        "location": {
+          "lat": 42.5122393,
+          "lng": -73.6300729
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.591847,
+            "lng": -73.52052110000001
+          },
+          "southwest": {
+            "lat": 42.4751559,
+            "lng": -73.68178499999999
+          }
+        }
+      },
+      "place_id": "ChIJO3Al8oH73YkRDG8CJ2ep5W0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nassau",
+          "short_name": "Nassau",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rensselaer County",
+          "short_name": "Rensselaer County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nassau, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.606027,
+            "lng": -73.467214
+          },
+          "southwest": {
+            "lat": 42.479565,
+            "lng": -73.6316559
+          }
+        },
+        "location": {
+          "lat": 42.53663479999999,
+          "lng": -73.5358541
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.606027,
+            "lng": -73.467214
+          },
+          "southwest": {
+            "lat": 42.479565,
+            "lng": -73.6316559
+          }
+        }
+      },
+      "place_id": "ChIJh20Gkpn-3YkRzRES93xzcQc",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rensselaer County",
+          "short_name": "Rensselaer County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rensselaer County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.95865,
+            "lng": -73.2649571
+          },
+          "southwest": {
+            "lat": 42.4644379,
+            "lng": -73.7844368
+          }
+        },
+        "location": {
+          "lat": 42.673664,
+          "lng": -73.55941279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.95865,
+            "lng": -73.2649571
+          },
+          "southwest": {
+            "lat": 42.4644379,
+            "lng": -73.7844368
+          }
+        }
+      },
+      "place_id": "ChIJp31xcQUa3okRXeon5LH7SRg",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

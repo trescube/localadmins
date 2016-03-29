@@ -1,0 +1,623 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "525",
+          "short_name": "525",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Brunswick Drive",
+          "short_name": "Brunswick Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Kingwood Estates",
+          "short_name": "Kingwood Estates",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Enon",
+          "short_name": "Enon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mad River Township",
+          "short_name": "Mad River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clark County",
+          "short_name": "Clark County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45323",
+          "short_name": "45323",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1802",
+          "short_name": "1802",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "525 Brunswick Dr, Enon, OH 45323, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.86521,
+          "lng": -83.93266899999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8665589802915,
+            "lng": -83.93132001970848
+          },
+          "southwest": {
+            "lat": 39.8638610197085,
+            "lng": -83.9340179802915
+          }
+        }
+      },
+      "place_id": "ChIJ41m-IoBgP4gRBzQw4VvJR7k",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kingwood Estates",
+          "short_name": "Kingwood Estates",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Enon",
+          "short_name": "Enon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mad River Township",
+          "short_name": "Mad River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clark County",
+          "short_name": "Clark County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kingwood Estates, Enon, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.865446,
+            "lng": -83.93162
+          },
+          "southwest": {
+            "lat": 39.86229,
+            "lng": -83.933266
+          }
+        },
+        "location": {
+          "lat": 39.86416810000001,
+          "lng": -83.9324116
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.865446,
+            "lng": -83.93109401970851
+          },
+          "southwest": {
+            "lat": 39.86229,
+            "lng": -83.93379198029152
+          }
+        }
+      },
+      "place_id": "ChIJlylXB4BgP4gR-oVnX0xpxhc",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Enon",
+          "short_name": "Enon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mad River Township",
+          "short_name": "Mad River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clark County",
+          "short_name": "Clark County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Enon, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.8857039,
+            "lng": -83.923667
+          },
+          "southwest": {
+            "lat": 39.8436579,
+            "lng": -83.945016
+          }
+        },
+        "location": {
+          "lat": 39.8781151,
+          "lng": -83.9368765
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.8857039,
+            "lng": -83.923667
+          },
+          "southwest": {
+            "lat": 39.8436579,
+            "lng": -83.945016
+          }
+        }
+      },
+      "place_id": "ChIJ43X1DYBgP4gR4PPO-R2gGgc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "45323",
+          "short_name": "45323",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Enon",
+          "short_name": "Enon",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Enon, OH 45323, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.890419,
+            "lng": -83.888138
+          },
+          "southwest": {
+            "lat": 39.8260741,
+            "lng": -83.96669709999999
+          }
+        },
+        "location": {
+          "lat": 39.8487314,
+          "lng": -83.93737540000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.890419,
+            "lng": -83.888138
+          },
+          "southwest": {
+            "lat": 39.8260741,
+            "lng": -83.96669709999999
+          }
+        }
+      },
+      "place_id": "ChIJC9hHjdFfP4gRgHI-GQR4g6c",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mad River Township",
+          "short_name": "Mad River Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clark County",
+          "short_name": "Clark County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Mad River Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.922284,
+            "lng": -83.8550881
+          },
+          "southwest": {
+            "lat": 39.8247328,
+            "lng": -84.03745500000001
+          }
+        },
+        "location": {
+          "lat": 39.87352449999999,
+          "lng": -83.9214896
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.922284,
+            "lng": -83.8550881
+          },
+          "southwest": {
+            "lat": 39.8247328,
+            "lng": -84.03745500000001
+          }
+        }
+      },
+      "place_id": "ChIJCcosNo5gP4gRZUFhZFpcv94",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Springfield",
+          "short_name": "Springfield",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Springfield, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.040009,
+            "lng": -83.50809799999999
+          },
+          "southwest": {
+            "lat": 39.7687789,
+            "lng": -84.053736
+          }
+        },
+        "location": {
+          "lat": 39.8912092,
+          "lng": -83.67739279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.040009,
+            "lng": -83.50809799999999
+          },
+          "southwest": {
+            "lat": 39.7687789,
+            "lng": -84.053736
+          }
+        }
+      },
+      "place_id": "ChIJI5WWVxVaP4gRwrZjmksVd7g",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clark County",
+          "short_name": "Clark County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clark County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.0401898,
+            "lng": -83.5121549
+          },
+          "southwest": {
+            "lat": 39.7686599,
+            "lng": -84.053736
+          }
+        },
+        "location": {
+          "lat": 39.8912092,
+          "lng": -83.67739279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.0401898,
+            "lng": -83.5121549
+          },
+          "southwest": {
+            "lat": 39.7686599,
+            "lng": -84.053736
+          }
+        }
+      },
+      "place_id": "ChIJpymlUZVoP4gRrQ5QLFH92f0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

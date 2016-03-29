@@ -1,0 +1,493 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "9-13",
+          "short_name": "9-13",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Hawthorne Road",
+          "short_name": "Hawthorne Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Bronxville",
+          "short_name": "Bronxville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Eastchester",
+          "short_name": "Eastchester",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10708",
+          "short_name": "10708",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3210",
+          "short_name": "3210",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "9-13 Hawthorne Rd, Bronxville, NY 10708, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9396048,
+            "lng": -73.82518519999999
+          },
+          "southwest": {
+            "lat": 40.9391015,
+            "lng": -73.8277133
+          }
+        },
+        "location": {
+          "lat": 40.9394176,
+          "lng": -73.82642779999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9407021302915,
+            "lng": -73.82510026970849
+          },
+          "southwest": {
+            "lat": 40.9380041697085,
+            "lng": -73.82779823029149
+          }
+        }
+      },
+      "place_id": "Eiw5LTEzIEhhd3Rob3JuZSBSZCwgQnJvbnh2aWxsZSwgTlkgMTA3MDgsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bronxville",
+          "short_name": "Bronxville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Eastchester",
+          "short_name": "Eastchester",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bronxville, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.948304,
+            "lng": -73.8029176
+          },
+          "southwest": {
+            "lat": 40.9260036,
+            "lng": -73.8386318
+          }
+        },
+        "location": {
+          "lat": 40.93815439999999,
+          "lng": -73.8320784
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.948304,
+            "lng": -73.8029176
+          },
+          "southwest": {
+            "lat": 40.9260036,
+            "lng": -73.8386318
+          }
+        }
+      },
+      "place_id": "ChIJJ0ZDIKWSwokRYVW-noU6SmM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "10708",
+          "short_name": "10708",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Bronxville",
+          "short_name": "Bronxville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bronxville, NY 10708, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.95324189999999,
+            "lng": -73.8017721
+          },
+          "southwest": {
+            "lat": 40.9230899,
+            "lng": -73.856989
+          }
+        },
+        "location": {
+          "lat": 40.9383349,
+          "lng": -73.83308439999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.95324189999999,
+            "lng": -73.8017721
+          },
+          "southwest": {
+            "lat": 40.9230899,
+            "lng": -73.856989
+          }
+        }
+      },
+      "place_id": "ChIJ43E8eKWSwokRVGko4XzjUn0",
+      "postcode_localities": [
+        "Bronxville",
+        "Yonkers"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Eastchester",
+          "short_name": "Eastchester",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Eastchester, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.987908,
+            "lng": -73.7923881
+          },
+          "southwest": {
+            "lat": 40.926836,
+            "lng": -73.8386318
+          }
+        },
+        "location": {
+          "lat": 40.952603,
+          "lng": -73.8124984
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.987908,
+            "lng": -73.7923881
+          },
+          "southwest": {
+            "lat": 40.926836,
+            "lng": -73.8386318
+          }
+        }
+      },
+      "place_id": "ChIJ15iefeiSwokRqI3p0lBqCBA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Westchester County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.366375,
+            "lng": -73.4827091
+          },
+          "southwest": {
+            "lat": 40.8764415,
+            "lng": -73.98062070000002
+          }
+        },
+        "location": {
+          "lat": 41.1220194,
+          "lng": -73.7948516
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.366375,
+            "lng": -73.4827091
+          },
+          "southwest": {
+            "lat": 40.8764415,
+            "lng": -73.98062070000002
+          }
+        }
+      },
+      "place_id": "ChIJr1lrnWrJwokRidu9ImLYDjc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

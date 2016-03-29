@@ -1,0 +1,571 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "154",
+          "short_name": "154",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Washington Avenue",
+          "short_name": "Washington Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Roosevelt",
+          "short_name": "Roosevelt",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11575",
+          "short_name": "11575",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1835",
+          "short_name": "1835",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "154 Washington Ave, Roosevelt, NY 11575, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.6797619,
+          "lng": -73.58375199999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6811108802915,
+            "lng": -73.58240301970848
+          },
+          "southwest": {
+            "lat": 40.6784129197085,
+            "lng": -73.5851009802915
+          }
+        }
+      },
+      "place_id": "ChIJDVn3b0B8wokRHgIiauPuz0c",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Washington Ave / Park Ave",
+          "short_name": "Washington Ave / Park Ave",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Roosevelt",
+          "short_name": "Roosevelt",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11575",
+          "short_name": "11575",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Washington Ave / Park Ave, Roosevelt, NY 11575, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.680051,
+          "lng": -73.583913
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6813999802915,
+            "lng": -73.58256401970849
+          },
+          "southwest": {
+            "lat": 40.6787020197085,
+            "lng": -73.58526198029149
+          }
+        }
+      },
+      "place_id": "ChIJbaxmZEB8wokRe28O5fxK1ks",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Roosevelt",
+          "short_name": "Roosevelt",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Roosevelt, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.691261,
+            "lng": -73.56858
+          },
+          "southwest": {
+            "lat": 40.6652289,
+            "lng": -73.60152409999999
+          }
+        },
+        "location": {
+          "lat": 40.67871299999999,
+          "lng": -73.5890168
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.691261,
+            "lng": -73.56858
+          },
+          "southwest": {
+            "lat": 40.6652289,
+            "lng": -73.60152409999999
+          }
+        }
+      },
+      "place_id": "ChIJAd_wbkB8wokRcLvGEf52SQA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11575",
+          "short_name": "11575",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Roosevelt",
+          "short_name": "Roosevelt",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Roosevelt, NY 11575, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.6911789,
+            "lng": -73.569148
+          },
+          "southwest": {
+            "lat": 40.6688029,
+            "lng": -73.6027519
+          }
+        },
+        "location": {
+          "lat": 40.6786944,
+          "lng": -73.5889997
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.6911789,
+            "lng": -73.569148
+          },
+          "southwest": {
+            "lat": 40.6688029,
+            "lng": -73.6027519
+          }
+        }
+      },
+      "place_id": "ChIJ639QYUB8wokRImq0COtCRxw",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hempstead",
+          "short_name": "Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hempstead, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7566779,
+            "lng": -73.4815866
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        },
+        "location": {
+          "lat": 40.6451257,
+          "lng": -73.6300729
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7566779,
+            "lng": -73.4815866
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        }
+      },
+      "place_id": "ChIJHTbFH9BkwokR6paY895RsDs",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nassau County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9478348,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        },
+        "location": {
+          "lat": 40.6546145,
+          "lng": -73.55941279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9478286,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        }
+      },
+      "place_id": "ChIJoQxey52xwokRap4G05mKJBs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

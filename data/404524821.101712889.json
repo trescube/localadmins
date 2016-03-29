@@ -1,0 +1,939 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "66-98",
+          "short_name": "66-98",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "University Terrace",
+          "short_name": "University Terrace",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Athens",
+          "short_name": "Athens",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens Township",
+          "short_name": "Athens Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens County",
+          "short_name": "Athens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45701",
+          "short_name": "45701",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2913",
+          "short_name": "2913",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "66-98 University Terrace, Athens, OH 45701, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3274072,
+            "lng": -82.0988581
+          },
+          "southwest": {
+            "lat": 39.3250495,
+            "lng": -82.09905669999999
+          }
+        },
+        "location": {
+          "lat": 39.3268159,
+          "lng": -82.098897
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3275773302915,
+            "lng": -82.0976084197085
+          },
+          "southwest": {
+            "lat": 39.3248793697085,
+            "lng": -82.1003063802915
+          }
+        }
+      },
+      "place_id": "Ei82Ni05OCBVbml2ZXJzaXR5IFRlcnJhY2UsIEF0aGVucywgT0ggNDU3MDEsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bryan Hall",
+          "short_name": "Bryan Hall",
+          "types": [
+            "premise"
+          ]
+        },
+        {
+          "long_name": "Athens",
+          "short_name": "Athens",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens Township",
+          "short_name": "Athens Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens County",
+          "short_name": "Athens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45701",
+          "short_name": "45701",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Bryan Hall, Athens, OH 45701, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.3265195,
+          "lng": -82.09858179999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3278684802915,
+            "lng": -82.09723281970848
+          },
+          "southwest": {
+            "lat": 39.3251705197085,
+            "lng": -82.0999307802915
+          }
+        }
+      },
+      "place_id": "ChIJp6ddY7lzSIgRsHdThazXcrQ",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tupper Hall",
+          "short_name": "Tupper Hall",
+          "types": [
+            "premise"
+          ]
+        },
+        {
+          "long_name": "Athens",
+          "short_name": "Athens",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens Township",
+          "short_name": "Athens Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens County",
+          "short_name": "Athens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45701",
+          "short_name": "45701",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Tupper Hall, Athens, OH 45701, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.3260732,
+          "lng": -82.0985196
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3274221802915,
+            "lng": -82.09717061970849
+          },
+          "southwest": {
+            "lat": 39.3247242197085,
+            "lng": -82.09986858029151
+          }
+        }
+      },
+      "place_id": "ChIJQ5gecLlzSIgRUR6lpMOKecI",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "McKee House",
+          "short_name": "McKee House",
+          "types": [
+            "premise"
+          ]
+        },
+        {
+          "long_name": "Athens",
+          "short_name": "Athens",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens Township",
+          "short_name": "Athens Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens County",
+          "short_name": "Athens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45701",
+          "short_name": "45701",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "McKee House, Athens, OH 45701, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.3258506,
+          "lng": -82.0986874
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3271995802915,
+            "lng": -82.09733841970849
+          },
+          "southwest": {
+            "lat": 39.3245016197085,
+            "lng": -82.1000363802915
+          }
+        }
+      },
+      "place_id": "ChIJhQwLbrlzSIgRomK-v_fEJq4",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Upper Grounds Maintenance Building",
+          "short_name": "Upper Grounds Maintenance Bldg",
+          "types": [
+            "premise"
+          ]
+        },
+        {
+          "long_name": "Athens",
+          "short_name": "Athens",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens Township",
+          "short_name": "Athens Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens County",
+          "short_name": "Athens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45701",
+          "short_name": "45701",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Upper Grounds Maintenance Bldg, Athens, OH 45701, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.3258692,
+          "lng": -82.09817609999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3272181802915,
+            "lng": -82.0968271197085
+          },
+          "southwest": {
+            "lat": 39.3245202197085,
+            "lng": -82.0995250802915
+          }
+        }
+      },
+      "place_id": "ChIJZw7DdrlzSIgRNnsZg2e5Alg",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Claire Oates Ping Cottage",
+          "short_name": "Claire Oates Ping Cottage",
+          "types": [
+            "premise"
+          ]
+        },
+        {
+          "long_name": "Athens",
+          "short_name": "Athens",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens Township",
+          "short_name": "Athens Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens County",
+          "short_name": "Athens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45701",
+          "short_name": "45701",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Claire Oates Ping Cottage, Athens, OH 45701, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.3255246,
+          "lng": -82.0982246
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3268735802915,
+            "lng": -82.09687561970848
+          },
+          "southwest": {
+            "lat": 39.32417561970851,
+            "lng": -82.0995735802915
+          }
+        }
+      },
+      "place_id": "ChIJFyFYc7lzSIgRl-XZ9MImyfk",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Athens",
+          "short_name": "Athens",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens Township",
+          "short_name": "Athens Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens County",
+          "short_name": "Athens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45701",
+          "short_name": "45701",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Athens, OH 45701, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3607349,
+            "lng": -82.02705089999999
+          },
+          "southwest": {
+            "lat": 39.2863199,
+            "lng": -82.1427011
+          }
+        },
+        "location": {
+          "lat": 39.3292396,
+          "lng": -82.1012554
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3607349,
+            "lng": -82.02705089999999
+          },
+          "southwest": {
+            "lat": 39.2863199,
+            "lng": -82.1427011
+          }
+        }
+      },
+      "place_id": "ChIJ08VDKIp6SIgRK0piBi8BsDA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Athens Township",
+          "short_name": "Athens Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Athens County",
+          "short_name": "Athens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Athens Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.37783400000001,
+            "lng": -82.06405
+          },
+          "southwest": {
+            "lat": 39.283028,
+            "lng": -82.18378
+          }
+        },
+        "location": {
+          "lat": 39.32218390000001,
+          "lng": -82.10606829999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.37783400000001,
+            "lng": -82.06405
+          },
+          "southwest": {
+            "lat": 39.283028,
+            "lng": -82.18378
+          }
+        }
+      },
+      "place_id": "ChIJ236C8vpzSIgRPp_g57Mem8c",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "45701",
+          "short_name": "45701",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Athens",
+          "short_name": "Athens",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Athens, OH 45701, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.4321101,
+            "lng": -81.900412
+          },
+          "southwest": {
+            "lat": 39.1929219,
+            "lng": -82.2398291
+          }
+        },
+        "location": {
+          "lat": 39.32218390000001,
+          "lng": -82.10606829999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.4321101,
+            "lng": -81.900412
+          },
+          "southwest": {
+            "lat": 39.1929219,
+            "lng": -82.2398291
+          }
+        }
+      },
+      "place_id": "ChIJ8ynSJitySIgRL3EBUbNRN2U",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Athens County",
+          "short_name": "Athens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Athens County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.556574,
+            "lng": -81.721808
+          },
+          "southwest": {
+            "lat": 39.18056,
+            "lng": -82.298476
+          }
+        },
+        "location": {
+          "lat": 39.30303079999999,
+          "lng": -82.12783999999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.556574,
+            "lng": -81.721808
+          },
+          "southwest": {
+            "lat": 39.18056,
+            "lng": -82.298476
+          }
+        }
+      },
+      "place_id": "ChIJcdTEU-Q_SIgRIUtDmRhx1gs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Athens",
+          "short_name": "Athens",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Athens, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.556296,
+            "lng": -81.7216929
+          },
+          "southwest": {
+            "lat": 39.1801713,
+            "lng": -82.2985721
+          }
+        },
+        "location": {
+          "lat": 39.30303079999999,
+          "lng": -82.12783999999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.556296,
+            "lng": -81.7216929
+          },
+          "southwest": {
+            "lat": 39.1801713,
+            "lng": -82.2985721
+          }
+        }
+      },
+      "place_id": "ChIJo9nttH5ySIgRckhiBfcqZxY",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

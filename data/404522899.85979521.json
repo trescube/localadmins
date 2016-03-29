@@ -1,0 +1,490 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "34",
+          "short_name": "34",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Poplar Street",
+          "short_name": "Poplar St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Fort Montgomery",
+          "short_name": "Fort Montgomery",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Highlands",
+          "short_name": "Highlands",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10922",
+          "short_name": "10922",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "34 Poplar St, Fort Montgomery, NY 10922, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.338477,
+            "lng": -73.984565
+          },
+          "southwest": {
+            "lat": 41.338226,
+            "lng": -73.984713
+          }
+        },
+        "location": {
+          "lat": 41.3384862,
+          "lng": -73.98469879999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3397004802915,
+            "lng": -73.98329001970849
+          },
+          "southwest": {
+            "lat": 41.3370025197085,
+            "lng": -73.98598798029151
+          }
+        }
+      },
+      "place_id": "EiwzNCBQb3BsYXIgU3QsIEZvcnQgTW9udGdvbWVyeSwgTlkgMTA5MjIsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Fort Montgomery",
+          "short_name": "Fort Montgomery",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Highlands",
+          "short_name": "Highlands",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fort Montgomery, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.35774,
+            "lng": -73.96902109999999
+          },
+          "southwest": {
+            "lat": 41.3263711,
+            "lng": -74.0026561
+          }
+        },
+        "location": {
+          "lat": 41.3314828,
+          "lng": -73.9868067
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.35774,
+            "lng": -73.96902109999999
+          },
+          "southwest": {
+            "lat": 41.3263711,
+            "lng": -74.0026561
+          }
+        }
+      },
+      "place_id": "ChIJz9-pYGHOwokRdR-WD0lFkc8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "10922",
+          "short_name": "10922",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Fort Montgomery",
+          "short_name": "Fort Montgomery",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Highlands",
+          "short_name": "Highlands",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Fort Montgomery, NY 10922, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3486679,
+            "lng": -73.97620599999999
+          },
+          "southwest": {
+            "lat": 41.3236649,
+            "lng": -74.0026561
+          }
+        },
+        "location": {
+          "lat": 41.33877409999999,
+          "lng": -73.9918181
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3486679,
+            "lng": -73.97620599999999
+          },
+          "southwest": {
+            "lat": 41.3236649,
+            "lng": -74.0026561
+          }
+        }
+      },
+      "place_id": "ChIJy-mnj2XOwokRwza7X5k8BV0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Highlands",
+          "short_name": "Highlands",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Highlands, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4251365,
+            "lng": -73.9507237
+          },
+          "southwest": {
+            "lat": 41.294502,
+            "lng": -74.074761
+          }
+        },
+        "location": {
+          "lat": 41.3491527,
+          "lng": -73.97452109999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4251365,
+            "lng": -73.9507237
+          },
+          "southwest": {
+            "lat": 41.294502,
+            "lng": -74.074761
+          }
+        }
+      },
+      "place_id": "ChIJRzPNGFQt3YkRYepE-QIsyRA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Orange County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6327378,
+            "lng": -73.9507237
+          },
+          "southwest": {
+            "lat": 41.142883,
+            "lng": -74.76262299999999
+          }
+        },
+        "location": {
+          "lat": 41.3911653,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6327378,
+            "lng": -73.9507237
+          },
+          "southwest": {
+            "lat": 41.142883,
+            "lng": -74.76262299999999
+          }
+        }
+      },
+      "place_id": "ChIJC1B7Fc3S3IkRu6ik0rYBvT4",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

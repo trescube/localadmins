@@ -1,0 +1,472 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "80",
+          "short_name": "80",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Bridle Way",
+          "short_name": "Bridle Way",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Oakdale",
+          "short_name": "Oakdale",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Islip",
+          "short_name": "Islip",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11769",
+          "short_name": "11769",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "80 Bridle Way, Oakdale, NY 11769, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.73807499999999,
+          "lng": -73.13409200000001
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.73942398029149,
+            "lng": -73.13274301970851
+          },
+          "southwest": {
+            "lat": 40.73672601970849,
+            "lng": -73.13544098029152
+          }
+        }
+      },
+      "place_id": "ChIJ2bBZOs016IkRhyrjD3t8p6o",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Oakdale",
+          "short_name": "Oakdale",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Islip",
+          "short_name": "Islip",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Oakdale, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7549708,
+            "lng": -73.1119579
+          },
+          "southwest": {
+            "lat": 40.72536059999999,
+            "lng": -73.15770549999999
+          }
+        },
+        "location": {
+          "lat": 40.7439872,
+          "lng": -73.13872420000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7549708,
+            "lng": -73.1119579
+          },
+          "southwest": {
+            "lat": 40.72536059999999,
+            "lng": -73.15770549999999
+          }
+        }
+      },
+      "place_id": "ChIJD6y9zjI06IkRMKL4rbGXYJ0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11769",
+          "short_name": "11769",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Oakdale",
+          "short_name": "Oakdale",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Oakdale, NY 11769, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.755069,
+            "lng": -73.096852
+          },
+          "southwest": {
+            "lat": 40.717186,
+            "lng": -73.16026389999999
+          }
+        },
+        "location": {
+          "lat": 40.7340752,
+          "lng": -73.12905959999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.755069,
+            "lng": -73.096852
+          },
+          "southwest": {
+            "lat": 40.717186,
+            "lng": -73.16026389999999
+          }
+        }
+      },
+      "place_id": "ChIJU21GNMw16IkRqKQ1a7rEgI4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Islip",
+          "short_name": "Islip",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Islip, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.832977,
+            "lng": -73.03787969999999
+          },
+          "southwest": {
+            "lat": 40.6218023,
+            "lng": -73.3182693
+          }
+        },
+        "location": {
+          "lat": 40.7244213,
+          "lng": -73.2293542
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.832977,
+            "lng": -73.03787969999999
+          },
+          "southwest": {
+            "lat": 40.6844449,
+            "lng": -73.3182693
+          }
+        }
+      },
+      "place_id": "ChIJQ31O4ZM06IkRViOB2gbibWA",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffolk County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2923797,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        },
+        "location": {
+          "lat": 40.9848784,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2923194,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        }
+      },
+      "place_id": "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

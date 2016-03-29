@@ -1,0 +1,496 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-119",
+          "short_name": "101-119",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Wallkill Avenue",
+          "short_name": "Wallkill Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Montgomery",
+          "short_name": "Montgomery",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montgomery",
+          "short_name": "Montgomery",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12549",
+          "short_name": "12549",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1510",
+          "short_name": "1510",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "101-119 Wallkill Ave, Montgomery, NY 12549, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.522147,
+            "lng": -74.238957
+          },
+          "southwest": {
+            "lat": 41.521041,
+            "lng": -74.23983799999999
+          }
+        },
+        "location": {
+          "lat": 41.5217937,
+          "lng": -74.2392164
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.5229429802915,
+            "lng": -74.23804851970849
+          },
+          "southwest": {
+            "lat": 41.5202450197085,
+            "lng": -74.2407464802915
+          }
+        }
+      },
+      "place_id": "Ei8xMDEtMTE5IFdhbGxraWxsIEF2ZSwgTW9udGdvbWVyeSwgTlkgMTI1NDksIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Montgomery",
+          "short_name": "Montgomery",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Montgomery",
+          "short_name": "Montgomery",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12549",
+          "short_name": "12549",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Montgomery, NY 12549, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.532926,
+            "lng": -74.2193819
+          },
+          "southwest": {
+            "lat": 41.5088769,
+            "lng": -74.2544681
+          }
+        },
+        "location": {
+          "lat": 41.5275938,
+          "lng": -74.23681599999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.532926,
+            "lng": -74.2193819
+          },
+          "southwest": {
+            "lat": 41.5088769,
+            "lng": -74.2544681
+          }
+        }
+      },
+      "place_id": "ChIJSyfoY3jY3IkRsMf5Mvy6xr4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12549",
+          "short_name": "12549",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Montgomery",
+          "short_name": "Montgomery",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Montgomery, NY 12549, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.589169,
+            "lng": -74.150744
+          },
+          "southwest": {
+            "lat": 41.458169,
+            "lng": -74.3599969
+          }
+        },
+        "location": {
+          "lat": 41.5180848,
+          "lng": -74.24140919999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.589169,
+            "lng": -74.150744
+          },
+          "southwest": {
+            "lat": 41.458169,
+            "lng": -74.3599969
+          }
+        }
+      },
+      "place_id": "ChIJQUkHMiHU3IkRpch66wX6ivU",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Montgomery",
+          "short_name": "Montgomery",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Montgomery, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6037579,
+            "lng": -74.118488
+          },
+          "southwest": {
+            "lat": 41.474491,
+            "lng": -74.3040699
+          }
+        },
+        "location": {
+          "lat": 41.5505074,
+          "lng": -74.1944529
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6037579,
+            "lng": -74.118488
+          },
+          "southwest": {
+            "lat": 41.474491,
+            "lng": -74.3040699
+          }
+        }
+      },
+      "place_id": "ChIJMbvhgfcp3YkRD923qc7IVZg",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Orange County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6327378,
+            "lng": -73.9507237
+          },
+          "southwest": {
+            "lat": 41.142883,
+            "lng": -74.76262299999999
+          }
+        },
+        "location": {
+          "lat": 41.3911653,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6327378,
+            "lng": -73.9507237
+          },
+          "southwest": {
+            "lat": 41.142883,
+            "lng": -74.76262299999999
+          }
+        }
+      },
+      "place_id": "ChIJC1B7Fc3S3IkRu6ik0rYBvT4",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

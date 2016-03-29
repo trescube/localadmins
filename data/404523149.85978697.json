@@ -1,0 +1,489 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "15-17",
+          "short_name": "15-17",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Spring Street",
+          "short_name": "Spring St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Norwood",
+          "short_name": "Norwood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Potsdam",
+          "short_name": "Potsdam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Lawrence County",
+          "short_name": "St Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "13668",
+          "short_name": "13668",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "15-17 Spring St, Norwood, NY 13668, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.7488423,
+            "lng": -74.9946975
+          },
+          "southwest": {
+            "lat": 44.74771339999999,
+            "lng": -74.9975109
+          }
+        },
+        "location": {
+          "lat": 44.7479574,
+          "lng": -74.9968778
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 44.7496268302915,
+            "lng": -74.9946975
+          },
+          "southwest": {
+            "lat": 44.7469288697085,
+            "lng": -74.9975109
+          }
+        }
+      },
+      "place_id": "EicxNS0xNyBTcHJpbmcgU3QsIE5vcndvb2QsIE5ZIDEzNjY4LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Norwood",
+          "short_name": "Norwood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Potsdam",
+          "short_name": "Potsdam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Lawrence County",
+          "short_name": "St Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "13668",
+          "short_name": "13668",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Norwood, NY 13668, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.7629639,
+            "lng": -74.978556
+          },
+          "southwest": {
+            "lat": 44.730736,
+            "lng": -75.015664
+          }
+        },
+        "location": {
+          "lat": 44.7514452,
+          "lng": -74.9943641
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.7629639,
+            "lng": -74.978556
+          },
+          "southwest": {
+            "lat": 44.730736,
+            "lng": -75.015664
+          }
+        }
+      },
+      "place_id": "ChIJfeLonkddzEwRY8j581t1nRA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "13668",
+          "short_name": "13668",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Norwood",
+          "short_name": "Norwood",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Lawrence County",
+          "short_name": "St Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Norwood, NY 13668, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.819333,
+            "lng": -74.881834
+          },
+          "southwest": {
+            "lat": 44.687768,
+            "lng": -75.0991609
+          }
+        },
+        "location": {
+          "lat": 44.7507688,
+          "lng": -75.00919499999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.819333,
+            "lng": -74.881834
+          },
+          "southwest": {
+            "lat": 44.687768,
+            "lng": -75.0991609
+          }
+        }
+      },
+      "place_id": "ChIJNUhJ_u9czEwRKaOEoZoUx_8",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Potsdam",
+          "short_name": "Potsdam",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Lawrence County",
+          "short_name": "St Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Potsdam, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.77933789999999,
+            "lng": -74.8960981
+          },
+          "southwest": {
+            "lat": 44.575407,
+            "lng": -75.1830559
+          }
+        },
+        "location": {
+          "lat": 44.6696474,
+          "lng": -75.039835
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.77933789999999,
+            "lng": -74.8960981
+          },
+          "southwest": {
+            "lat": 44.575407,
+            "lng": -75.1830559
+          }
+        }
+      },
+      "place_id": "ChIJ_ylrpW1ezEwR6o44-MMOHkE",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Lawrence County",
+          "short_name": "St Lawrence County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St Lawrence County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -74.52621189999999
+          },
+          "southwest": {
+            "lat": 44.0504,
+            "lng": -75.84922949999999
+          }
+        },
+        "location": {
+          "lat": 44.4473142,
+          "lng": -74.930206
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -74.52621189999999
+          },
+          "southwest": {
+            "lat": 44.0504,
+            "lng": -75.84922949999999
+          }
+        }
+      },
+      "place_id": "ChIJV4LyZYEs2okRKcnXBU-m01I",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

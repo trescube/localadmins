@@ -1,0 +1,582 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "40",
+          "short_name": "40",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "South Grove Street",
+          "short_name": "S Grove St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "East Aurora",
+          "short_name": "East Aurora",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Aurora",
+          "short_name": "Aurora",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14052",
+          "short_name": "14052",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2326",
+          "short_name": "2326",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "40 S Grove St, East Aurora, NY 14052, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7672169,
+            "lng": -78.61704759999999
+          },
+          "southwest": {
+            "lat": 42.7665387,
+            "lng": -78.6176524
+          }
+        },
+        "location": {
+          "lat": 42.7668778,
+          "lng": -78.61735
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7682267802915,
+            "lng": -78.61600101970849
+          },
+          "southwest": {
+            "lat": 42.7655288197085,
+            "lng": -78.61869898029151
+          }
+        }
+      },
+      "place_id": "ChIJUeGYVtGn04kRU-2cRkCtuh8",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "471",
+          "short_name": "471",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "East Aurora",
+          "short_name": "East Aurora",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Aurora",
+          "short_name": "Aurora",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14052",
+          "short_name": "14052",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1702",
+          "short_name": "1702",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "471 Main St, East Aurora, NY 14052, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.767625,
+          "lng": -78.6172519
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7689739802915,
+            "lng": -78.61590291970849
+          },
+          "southwest": {
+            "lat": 42.7662760197085,
+            "lng": -78.6186008802915
+          }
+        }
+      },
+      "place_id": "ChIJlfaWX9Gn04kRn48jmROpSR8",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "East Aurora",
+          "short_name": "East Aurora",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Aurora",
+          "short_name": "Aurora",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14052",
+          "short_name": "14052",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "East Aurora, NY 14052, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.781231,
+            "lng": -78.5929479
+          },
+          "southwest": {
+            "lat": 42.755671,
+            "lng": -78.6398619
+          }
+        },
+        "location": {
+          "lat": 42.7678376,
+          "lng": -78.6133589
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.781231,
+            "lng": -78.5929479
+          },
+          "southwest": {
+            "lat": 42.755671,
+            "lng": -78.6398619
+          }
+        }
+      },
+      "place_id": "ChIJo5lEH-6m04kR9voKLkl5ytM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Aurora",
+          "short_name": "Aurora",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Aurora, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7820899,
+            "lng": -78.577439
+          },
+          "southwest": {
+            "lat": 42.69296000000001,
+            "lng": -78.696953
+          }
+        },
+        "location": {
+          "lat": 42.7441063,
+          "lng": -78.6341996
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7820899,
+            "lng": -78.577439
+          },
+          "southwest": {
+            "lat": 42.69296000000001,
+            "lng": -78.696953
+          }
+        }
+      },
+      "place_id": "ChIJK5zZIDmo04kRpVqV0xk0v_c",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "14052",
+          "short_name": "14052",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "East Aurora",
+          "short_name": "East Aurora",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "East Aurora, NY 14052, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.8685599,
+            "lng": -78.463233
+          },
+          "southwest": {
+            "lat": 42.69371590000001,
+            "lng": -78.6888171
+          }
+        },
+        "location": {
+          "lat": 42.7441063,
+          "lng": -78.6341996
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.8685599,
+            "lng": -78.463233
+          },
+          "southwest": {
+            "lat": 42.69371590000001,
+            "lng": -78.6888171
+          }
+        }
+      },
+      "place_id": "ChIJEyLWmQ-m04kRxmKLosGLabA",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Erie County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.098676,
+            "lng": -78.4620461
+          },
+          "southwest": {
+            "lat": 42.437997,
+            "lng": -79.1371803
+          }
+        },
+        "location": {
+          "lat": 42.9023958,
+          "lng": -78.8661589
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.098676,
+            "lng": -78.4620461
+          },
+          "southwest": {
+            "lat": 42.437997,
+            "lng": -79.1371803
+          }
+        }
+      },
+      "place_id": "ChIJRRlv_BcQ04kRP2qzyO_pHxA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

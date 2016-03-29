@@ -1,0 +1,547 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "501-599",
+          "short_name": "501-599",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "West 24th Street",
+          "short_name": "W 24th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Ashtabula",
+          "short_name": "Ashtabula",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ashtabula Township",
+          "short_name": "Ashtabula Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ashtabula County",
+          "short_name": "Ashtabula County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "44004",
+          "short_name": "44004",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3422",
+          "short_name": "3422",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "501-599 W 24th St, Ashtabula, OH 44004, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.8803516,
+            "lng": -80.7976815
+          },
+          "southwest": {
+            "lat": 41.8798308,
+            "lng": -80.79851839999999
+          }
+        },
+        "location": {
+          "lat": 41.8801214,
+          "lng": -80.7980807
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.8814401802915,
+            "lng": -80.79675096970848
+          },
+          "southwest": {
+            "lat": 41.87874221970851,
+            "lng": -80.7994489302915
+          }
+        }
+      },
+      "place_id": "Eis1MDEtNTk5IFcgMjR0aCBTdCwgQXNodGFidWxhLCBPSCA0NDAwNCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ashtabula",
+          "short_name": "Ashtabula",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ashtabula Township",
+          "short_name": "Ashtabula Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ashtabula County",
+          "short_name": "Ashtabula County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "44004",
+          "short_name": "44004",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Ashtabula, OH 44004, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.911646,
+            "lng": -80.76738089999999
+          },
+          "southwest": {
+            "lat": 41.843579,
+            "lng": -80.8371949
+          }
+        },
+        "location": {
+          "lat": 41.8650534,
+          "lng": -80.7898089
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.911646,
+            "lng": -80.76738089999999
+          },
+          "southwest": {
+            "lat": 41.843579,
+            "lng": -80.8371949
+          }
+        }
+      },
+      "place_id": "ChIJLeULNPsfMogRI3rIHUepS9o",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ashtabula Township",
+          "short_name": "Ashtabula Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ashtabula County",
+          "short_name": "Ashtabula County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ashtabula Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.92202590000001,
+            "lng": -80.7129379
+          },
+          "southwest": {
+            "lat": 41.833075,
+            "lng": -80.810976
+          }
+        },
+        "location": {
+          "lat": 41.87528409999999,
+          "lng": -80.7768613
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.92202590000001,
+            "lng": -80.7129379
+          },
+          "southwest": {
+            "lat": 41.833075,
+            "lng": -80.810976
+          }
+        }
+      },
+      "place_id": "ChIJ73kQIkkfMogRF8lKgEgSzB0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "44004",
+          "short_name": "44004",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Ashtabula",
+          "short_name": "Ashtabula",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ashtabula County",
+          "short_name": "Ashtabula County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ashtabula, OH 44004, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.926929,
+            "lng": -80.65769
+          },
+          "southwest": {
+            "lat": 41.78893410000001,
+            "lng": -80.9218549
+          }
+        },
+        "location": {
+          "lat": 41.84662160000001,
+          "lng": -80.7879407
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.926929,
+            "lng": -80.65769
+          },
+          "southwest": {
+            "lat": 41.78893410000001,
+            "lng": -80.9218549
+          }
+        }
+      },
+      "place_id": "ChIJGTA31RUgMogRcrWwhqIHGEE",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ashtabula",
+          "short_name": "Ashtabula",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ashtabula, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.977523,
+            "lng": -80.51915699999999
+          },
+          "southwest": {
+            "lat": 41.4993271,
+            "lng": -81.00473099999999
+          }
+        },
+        "location": {
+          "lat": 41.7820827,
+          "lng": -80.7214417
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.977523,
+            "lng": -80.51915699999999
+          },
+          "southwest": {
+            "lat": 41.4993271,
+            "lng": -81.00473099999999
+          }
+        }
+      },
+      "place_id": "ChIJ29wo0CAmMogRewiXWaJIkNk",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ashtabula County",
+          "short_name": "Ashtabula County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ashtabula County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5191579
+          },
+          "southwest": {
+            "lat": 41.499327,
+            "lng": -81.004763
+          }
+        },
+        "location": {
+          "lat": 41.9396982,
+          "lng": -80.7214417
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5191579
+          },
+          "southwest": {
+            "lat": 41.499327,
+            "lng": -81.004763
+          }
+        }
+      },
+      "place_id": "ChIJkVos8EOOMYgRKh344_0-RPE",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

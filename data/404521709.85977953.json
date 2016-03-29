@@ -1,0 +1,468 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "20",
+          "short_name": "20",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Brookside Avenue",
+          "short_name": "Brookside Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Menands",
+          "short_name": "Menands",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Colonie",
+          "short_name": "Colonie",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Albany County",
+          "short_name": "Albany County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "12204",
+          "short_name": "12204",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "20 Brookside Ave, Menands, NY 12204, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.69138299999999,
+          "lng": -73.727407
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.69273198029149,
+            "lng": -73.72605801970849
+          },
+          "southwest": {
+            "lat": 42.6900340197085,
+            "lng": -73.7287559802915
+          }
+        }
+      },
+      "place_id": "ChIJ8dwsAUkJ3okRQJawvkRuPrY",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Menands",
+          "short_name": "Menands",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Colonie",
+          "short_name": "Colonie",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Albany County",
+          "short_name": "Albany County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Menands, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.709077,
+            "lng": -73.7046884
+          },
+          "southwest": {
+            "lat": 42.6734405,
+            "lng": -73.7518351
+          }
+        },
+        "location": {
+          "lat": 42.6920233,
+          "lng": -73.72456389999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.709077,
+            "lng": -73.7046884
+          },
+          "southwest": {
+            "lat": 42.6734405,
+            "lng": -73.7518351
+          }
+        }
+      },
+      "place_id": "ChIJL7uWF0cJ3okRlaEHGGtq4mw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "12204",
+          "short_name": "12204",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Albany",
+          "short_name": "Albany",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Albany, NY 12204, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7092169,
+            "lng": -73.7029211
+          },
+          "southwest": {
+            "lat": 42.6596436,
+            "lng": -73.7540339
+          }
+        },
+        "location": {
+          "lat": 42.68433760000001,
+          "lng": -73.7301331
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7092169,
+            "lng": -73.7029211
+          },
+          "southwest": {
+            "lat": 42.6596436,
+            "lng": -73.7540339
+          }
+        }
+      },
+      "place_id": "ChIJcedSdEYJ3okRf4ngp7KuCPE",
+      "postcode_localities": [
+        "Albany",
+        "Menands"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Colonie",
+          "short_name": "Colonie",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Albany County",
+          "short_name": "Albany County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Colonie, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.8225768,
+            "lng": -73.694717
+          },
+          "southwest": {
+            "lat": 42.6734405,
+            "lng": -73.933672
+          }
+        },
+        "location": {
+          "lat": 42.7236699,
+          "lng": -73.77132
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.8225768,
+            "lng": -73.694717
+          },
+          "southwest": {
+            "lat": 42.6734405,
+            "lng": -73.933672
+          }
+        }
+      },
+      "place_id": "ChIJjdt8v-EM3okRMbldCtQQdlc",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Albany County",
+          "short_name": "Albany County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Albany County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.8225768,
+            "lng": -73.67788279999999
+          },
+          "southwest": {
+            "lat": 42.40712690000001,
+            "lng": -74.26486299999999
+          }
+        },
+        "location": {
+          "lat": 42.57567969999999,
+          "lng": -73.93598209999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.8225768,
+            "lng": -73.67788279999999
+          },
+          "southwest": {
+            "lat": 42.40712690000001,
+            "lng": -74.26486299999999
+          }
+        }
+      },
+      "place_id": "ChIJKXDqHfHY3YkR58pus3faMs8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

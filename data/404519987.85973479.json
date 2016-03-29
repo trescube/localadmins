@@ -1,0 +1,575 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "300-14132",
+          "short_name": "300-14132",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Walsh Drive",
+          "short_name": "Walsh Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "West Omaha",
+          "short_name": "West Omaha",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Boys Town",
+          "short_name": "Boys Town",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McArdle",
+          "short_name": "McArdle",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Douglas County",
+          "short_name": "Douglas County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68010",
+          "short_name": "68010",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "300-14132 Walsh Dr, Boys Town, NE 68010, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.258587,
+            "lng": -96.1316854
+          },
+          "southwest": {
+            "lat": 41.2574432,
+            "lng": -96.1346559
+          }
+        },
+        "location": {
+          "lat": 41.2575095,
+          "lng": -96.13306519999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2593640802915,
+            "lng": -96.1316854
+          },
+          "southwest": {
+            "lat": 41.25666611970851,
+            "lng": -96.1346559
+          }
+        }
+      },
+      "place_id": "EiwzMDAtMTQxMzIgV2Fsc2ggRHIsIEJveXMgVG93biwgTkUgNjgwMTAsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Boys Town",
+          "short_name": "Boys Town",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "McArdle",
+          "short_name": "McArdle",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Douglas County",
+          "short_name": "Douglas County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Boys Town, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2644341,
+            "lng": -96.119704
+          },
+          "southwest": {
+            "lat": 41.2485689,
+            "lng": -96.14836799999999
+          }
+        },
+        "location": {
+          "lat": 41.2611099,
+          "lng": -96.1319649
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2644341,
+            "lng": -96.119704
+          },
+          "southwest": {
+            "lat": 41.2485689,
+            "lng": -96.14836799999999
+          }
+        }
+      },
+      "place_id": "ChIJvyXv0hvyk4cREwOp1CNmQps",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "West Omaha",
+          "short_name": "West Omaha",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Omaha",
+          "short_name": "Omaha",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Douglas County",
+          "short_name": "Douglas County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "West Omaha, Omaha, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.277756,
+            "lng": -96.0813112
+          },
+          "southwest": {
+            "lat": 41.21807099999999,
+            "lng": -96.23470499999999
+          }
+        },
+        "location": {
+          "lat": 41.2559461,
+          "lng": -96.17391160000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.277756,
+            "lng": -96.0813112
+          },
+          "southwest": {
+            "lat": 41.21807099999999,
+            "lng": -96.23470499999999
+          }
+        }
+      },
+      "place_id": "ChIJZRzTSo_xk4cRvhz3r9kUPS4",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68010",
+          "short_name": "68010",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "West Omaha",
+          "short_name": "West Omaha",
+          "types": [
+            "neighborhood",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Boys Town",
+          "short_name": "Boys Town",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Douglas County",
+          "short_name": "Douglas County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Boys Town, NE 68010, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.263266,
+            "lng": -96.1195668
+          },
+          "southwest": {
+            "lat": 41.2485689,
+            "lng": -96.14836799999999
+          }
+        },
+        "location": {
+          "lat": 41.2555702,
+          "lng": -96.13414309999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.263266,
+            "lng": -96.1195668
+          },
+          "southwest": {
+            "lat": 41.2485689,
+            "lng": -96.14836799999999
+          }
+        }
+      },
+      "place_id": "ChIJuVuKh0Dyk4cRQFJvfh8q_hw",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "McArdle",
+          "short_name": "McArdle",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Douglas County",
+          "short_name": "Douglas County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "McArdle, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3065991,
+            "lng": -96.076562
+          },
+          "southwest": {
+            "lat": 41.2485689,
+            "lng": -96.17738899999999
+          }
+        },
+        "location": {
+          "lat": 41.2918095,
+          "lng": -96.15800109999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3065991,
+            "lng": -96.076562
+          },
+          "southwest": {
+            "lat": 41.2485689,
+            "lng": -96.17738899999999
+          }
+        }
+      },
+      "place_id": "ChIJqyMkRXXyk4cRpd-u-DlRyRw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Douglas County",
+          "short_name": "Douglas County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Douglas County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3934681,
+            "lng": -95.871141
+          },
+          "southwest": {
+            "lat": 41.18999900000001,
+            "lng": -96.4707201
+          }
+        },
+        "location": {
+          "lat": 41.3148116,
+          "lng": -96.19513200000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3934681,
+            "lng": -95.871141
+          },
+          "southwest": {
+            "lat": 41.18999900000001,
+            "lng": -96.4707201
+          }
+        }
+      },
+      "place_id": "ChIJC0RFNDPik4cR6q2GEvMovcw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

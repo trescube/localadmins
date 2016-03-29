@@ -1,0 +1,553 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "23",
+          "short_name": "23",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Westgate Road",
+          "short_name": "Westgate Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Buffalo",
+          "short_name": "Buffalo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tonawanda",
+          "short_name": "Tonawanda",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14217",
+          "short_name": "14217",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "2317",
+          "short_name": "2317",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "23 Westgate Rd, Buffalo, NY 14217, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.96476,
+          "lng": -78.871251
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.96610898029149,
+            "lng": -78.86990201970849
+          },
+          "southwest": {
+            "lat": 42.9634110197085,
+            "lng": -78.87259998029151
+          }
+        }
+      },
+      "place_id": "ChIJKVQWTBdt04kRoxm3cdYJdo8",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kenmore",
+          "short_name": "Kenmore",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tonawanda",
+          "short_name": "Tonawanda",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kenmore, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.9732399,
+            "lng": -78.853032
+          },
+          "southwest": {
+            "lat": 42.958571,
+            "lng": -78.8892779
+          }
+        },
+        "location": {
+          "lat": 42.9658907,
+          "lng": -78.870036
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.9732399,
+            "lng": -78.853032
+          },
+          "southwest": {
+            "lat": 42.958571,
+            "lng": -78.8892779
+          }
+        }
+      },
+      "place_id": "ChIJC9T9uBBt04kRtLgqBykpTnY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "14217",
+          "short_name": "14217",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Buffalo",
+          "short_name": "Buffalo",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Buffalo, NY 14217, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.994805,
+            "lng": -78.8526809
+          },
+          "southwest": {
+            "lat": 42.958571,
+            "lng": -78.9098728
+          }
+        },
+        "location": {
+          "lat": 42.9752741,
+          "lng": -78.87789459999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.994805,
+            "lng": -78.8526809
+          },
+          "southwest": {
+            "lat": 42.958571,
+            "lng": -78.9098728
+          }
+        }
+      },
+      "place_id": "ChIJ56VM4ARt04kRqR-B3BJVls4",
+      "postcode_localities": [
+        "Buffalo",
+        "Kenmore",
+        "TN OF TONA"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tonawanda",
+          "short_name": "Tonawanda",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Tonawanda, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.0310779,
+            "lng": -78.822177
+          },
+          "southwest": {
+            "lat": 42.940332,
+            "lng": -78.94456079999999
+          }
+        },
+        "location": {
+          "lat": 42.989131,
+          "lng": -78.8722341
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.0310779,
+            "lng": -78.822177
+          },
+          "southwest": {
+            "lat": 42.940332,
+            "lng": -78.94456079999999
+          }
+        }
+      },
+      "place_id": "ChIJM29ofFNs04kR5sPrpfEfQ9s",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tonawanda",
+          "short_name": "Tonawanda",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Tonawanda, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.0310779,
+            "lng": -78.822177
+          },
+          "southwest": {
+            "lat": 42.940332,
+            "lng": -78.94456079999999
+          }
+        },
+        "location": {
+          "lat": 42.989131,
+          "lng": -78.8722341
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.0310779,
+            "lng": -78.822177
+          },
+          "southwest": {
+            "lat": 42.940332,
+            "lng": -78.94456079999999
+          }
+        }
+      },
+      "place_id": "ChIJS74SqjJs04kR7KM64scLVhY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Erie County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.098676,
+            "lng": -78.4620461
+          },
+          "southwest": {
+            "lat": 42.437997,
+            "lng": -79.1371803
+          }
+        },
+        "location": {
+          "lat": 42.9023958,
+          "lng": -78.8661589
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.098676,
+            "lng": -78.4620461
+          },
+          "southwest": {
+            "lat": 42.437997,
+            "lng": -79.1371803
+          }
+        }
+      },
+      "place_id": "ChIJRRlv_BcQ04kRP2qzyO_pHxA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

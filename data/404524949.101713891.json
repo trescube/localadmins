@@ -1,0 +1,562 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "8685",
+          "short_name": "8685",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Cincinnati Dayton Road",
+          "short_name": "Cincinnati Dayton Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Olde West Chester",
+          "short_name": "Olde West Chester",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "West Chester",
+          "short_name": "West Chester",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45069",
+          "short_name": "45069",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3041",
+          "short_name": "3041",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "8685 Cincinnati Dayton Rd, West Chester, OH 45069, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.335621,
+          "lng": -84.40327099999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.33696998029149,
+            "lng": -84.40192201970848
+          },
+          "southwest": {
+            "lat": 39.3342720197085,
+            "lng": -84.40461998029149
+          }
+        }
+      },
+      "place_id": "ChIJGaLak2ZQQIgRlwamQkXnHNI",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cincinnati Dayton Rd & Cresthaven",
+          "short_name": "Cincinnati Dayton Rd & Cresthaven",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Olde West Chester",
+          "short_name": "Olde West Chester",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "West Chester",
+          "short_name": "West Chester",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45069",
+          "short_name": "45069",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Cincinnati Dayton Rd & Cresthaven, Olde West Chester, OH 45069, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.335013,
+          "lng": -84.402891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.33636198029149,
+            "lng": -84.40154201970849
+          },
+          "southwest": {
+            "lat": 39.3336640197085,
+            "lng": -84.4042399802915
+          }
+        }
+      },
+      "place_id": "ChIJRywZ6mZQQIgRkIEyWhIX5X4",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Olde West Chester",
+          "short_name": "Olde West Chester",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "West Chester",
+          "short_name": "West Chester",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45069",
+          "short_name": "45069",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Olde West Chester, OH 45069, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.342158,
+            "lng": -84.394041
+          },
+          "southwest": {
+            "lat": 39.3275639,
+            "lng": -84.411941
+          }
+        },
+        "location": {
+          "lat": 39.3317246,
+          "lng": -84.4071639
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.342158,
+            "lng": -84.394041
+          },
+          "southwest": {
+            "lat": 39.3275639,
+            "lng": -84.411941
+          }
+        }
+      },
+      "place_id": "ChIJX00G8GZQQIgRxGy7zZcrzd4",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "45069",
+          "short_name": "45069",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "West Chester",
+          "short_name": "West Chester",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "West Chester, OH 45069, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3776321,
+            "lng": -84.34651989999999
+          },
+          "southwest": {
+            "lat": 39.2984421,
+            "lng": -84.4808779
+          }
+        },
+        "location": {
+          "lat": 39.341965,
+          "lng": -84.406761
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3776321,
+            "lng": -84.34651989999999
+          },
+          "southwest": {
+            "lat": 39.2984421,
+            "lng": -84.4808779
+          }
+        }
+      },
+      "place_id": "ChIJL3DSRGVQQIgRnNdpBIKYMYs",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "West Chester",
+          "short_name": "West Chester",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "West Chester, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.3748569,
+            "lng": -84.34633090000001
+          },
+          "southwest": {
+            "lat": 39.29229,
+            "lng": -84.48320609999999
+          }
+        },
+        "location": {
+          "lat": 39.3321262,
+          "lng": -84.41726659999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.3748569,
+            "lng": -84.34633090000001
+          },
+          "southwest": {
+            "lat": 39.29229,
+            "lng": -84.48320609999999
+          }
+        }
+      },
+      "place_id": "ChIJ9xxKSzNRQIgR2YBZzy5nJXc",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Butler County",
+          "short_name": "Butler County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Butler County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5910249,
+            "lng": -84.332038
+          },
+          "southwest": {
+            "lat": 39.29229,
+            "lng": -84.8194591
+          }
+        },
+        "location": {
+          "lat": 39.440463,
+          "lng": -84.5222189
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5910249,
+            "lng": -84.332038
+          },
+          "southwest": {
+            "lat": 39.29229,
+            "lng": -84.8194591
+          }
+        }
+      },
+      "place_id": "ChIJ0z2oQpSKQIgR-S814rYmYxA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

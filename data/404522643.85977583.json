@@ -1,0 +1,629 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "49",
+          "short_name": "49",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Railroad Avenue",
+          "short_name": "Railroad Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Hilton",
+          "short_name": "Hilton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Parma",
+          "short_name": "Parma",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14468",
+          "short_name": "14468",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1116",
+          "short_name": "1116",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "49 Railroad Ave, Hilton, NY 14468, USA",
+      "geometry": {
+        "location": {
+          "lat": 43.2897945,
+          "lng": -77.79231229999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 43.2911434802915,
+            "lng": -77.7909633197085
+          },
+          "southwest": {
+            "lat": 43.2884455197085,
+            "lng": -77.7936612802915
+          }
+        }
+      },
+      "place_id": "ChIJ-YhYDYCl1okROd-LbwKQKZY",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lake & Railroad",
+          "short_name": "Lake & Railroad",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Hilton",
+          "short_name": "Hilton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Parma",
+          "short_name": "Parma",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14468",
+          "short_name": "14468",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Lake & Railroad, Hilton, NY 14468, USA",
+      "geometry": {
+        "location": {
+          "lat": 43.289756,
+          "lng": -77.792951
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.2911049802915,
+            "lng": -77.79160201970849
+          },
+          "southwest": {
+            "lat": 43.2884070197085,
+            "lng": -77.7942999802915
+          }
+        }
+      },
+      "place_id": "ChIJ22NTcICl1okR6ilLuM5aaGI",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hilton",
+          "short_name": "Hilton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Parma",
+          "short_name": "Parma",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14468",
+          "short_name": "14468",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Hilton, NY 14468, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.3028579,
+            "lng": -77.774676
+          },
+          "southwest": {
+            "lat": 43.277933,
+            "lng": -77.8100821
+          }
+        },
+        "location": {
+          "lat": 43.2881161,
+          "lng": -77.79334229999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.3028579,
+            "lng": -77.774676
+          },
+          "southwest": {
+            "lat": 43.277933,
+            "lng": -77.8100821
+          }
+        }
+      },
+      "place_id": "ChIJVbhyaX6l1okR3bJLACOhI6g",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Parma",
+          "short_name": "Parma",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Parma, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.3418067,
+            "lng": -77.7484418
+          },
+          "southwest": {
+            "lat": 43.203407,
+            "lng": -77.8709719
+          }
+        },
+        "location": {
+          "lat": 43.2343532,
+          "lng": -77.8138553
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.3418067,
+            "lng": -77.7484418
+          },
+          "southwest": {
+            "lat": 43.203407,
+            "lng": -77.8709719
+          }
+        }
+      },
+      "place_id": "ChIJ5b8GDWuv1okRT97T_DTMdUY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "14468",
+          "short_name": "14468",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Hilton",
+          "short_name": "Hilton",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hilton, NY 14468, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.3549351,
+            "lng": -77.7054101
+          },
+          "southwest": {
+            "lat": 43.222859,
+            "lng": -77.9324489
+          }
+        },
+        "location": {
+          "lat": 43.3105948,
+          "lng": -77.8138553
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.3549351,
+            "lng": -77.7054101
+          },
+          "southwest": {
+            "lat": 43.222859,
+            "lng": -77.9324489
+          }
+        }
+      },
+      "place_id": "ChIJxRv-G1-v1okRzrg1WbjPNBk",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Monroe County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.3688195,
+            "lng": -77.371364
+          },
+          "southwest": {
+            "lat": 42.9399638,
+            "lng": -77.99728999999999
+          }
+        },
+        "location": {
+          "lat": 43.2841246,
+          "lng": -77.7452081
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.3688195,
+            "lng": -77.371364
+          },
+          "southwest": {
+            "lat": 42.9399638,
+            "lng": -77.99728999999999
+          }
+        }
+      },
+      "place_id": "ChIJXXYP0I-w1okRe6s6YQ1JZnw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rochester",
+          "short_name": "Rochester",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rochester, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.37650499999999,
+            "lng": -76.702356
+          },
+          "southwest": {
+            "lat": 42.471216,
+            "lng": -78.46648309999999
+          }
+        },
+        "location": {
+          "lat": 42.938004,
+          "lng": -77.3783789
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.37650499999999,
+            "lng": -76.702356
+          },
+          "southwest": {
+            "lat": 42.471216,
+            "lng": -78.46648309999999
+          }
+        }
+      },
+      "place_id": "ChIJgc_bWiY20YkRqU2QPLS42jQ",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

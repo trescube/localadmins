@@ -1,0 +1,484 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "24",
+          "short_name": "24",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Talisman Drive",
+          "short_name": "Talisman Dr",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Dix Hills",
+          "short_name": "Dix Hills",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Huntington",
+          "short_name": "Huntington",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11746",
+          "short_name": "11746",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5322",
+          "short_name": "5322",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "24 Talisman Dr, Dix Hills, NY 11746, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.803599,
+          "lng": -73.336946
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8049479802915,
+            "lng": -73.3355970197085
+          },
+          "southwest": {
+            "lat": 40.8022500197085,
+            "lng": -73.33829498029151
+          }
+        }
+      },
+      "place_id": "ChIJV6fm6e0u6IkRhuFhQSnECn8",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Dix Hills",
+          "short_name": "Dix Hills",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Huntington",
+          "short_name": "Huntington",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Dix Hills, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.838557,
+            "lng": -73.293477
+          },
+          "southwest": {
+            "lat": 40.7670869,
+            "lng": -73.38287799999999
+          }
+        },
+        "location": {
+          "lat": 40.8048207,
+          "lng": -73.3362298
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.838557,
+            "lng": -73.293477
+          },
+          "southwest": {
+            "lat": 40.7670869,
+            "lng": -73.38287799999999
+          }
+        }
+      },
+      "place_id": "ChIJH9uukI0u6IkRx1X6cR8v898",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11746",
+          "short_name": "11746",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Huntington Station",
+          "short_name": "Huntington Station",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Huntington Station, NY 11746, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.86499389999999,
+            "lng": -73.2888919
+          },
+          "southwest": {
+            "lat": 40.765372,
+            "lng": -73.44188
+          }
+        },
+        "location": {
+          "lat": 40.8126648,
+          "lng": -73.3590802
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.86499389999999,
+            "lng": -73.2888919
+          },
+          "southwest": {
+            "lat": 40.765372,
+            "lng": -73.44188
+          }
+        }
+      },
+      "place_id": "ChIJbYzyFdAu6IkR_q-Kn_dlte8",
+      "postcode_localities": [
+        "Dix Hills",
+        "HUNTINGTN STA",
+        "Huntington Station"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Huntington",
+          "short_name": "Huntington",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Huntington, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9557223,
+            "lng": -73.28644
+          },
+          "southwest": {
+            "lat": 40.751311,
+            "lng": -73.4971345
+          }
+        },
+        "location": {
+          "lat": 40.8867997,
+          "lng": -73.3944466
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9557223,
+            "lng": -73.28644
+          },
+          "southwest": {
+            "lat": 40.751311,
+            "lng": -73.4971345
+          }
+        }
+      },
+      "place_id": "ChIJTyWIrhUm6IkRIXE67Cf2oFw",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffolk County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2923797,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        },
+        "location": {
+          "lat": 40.9848784,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2923194,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        }
+      },
+      "place_id": "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,501 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "28",
+          "short_name": "28",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Waterman Farm Road",
+          "short_name": "Waterman Farm Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Barre",
+          "short_name": "Barre",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Vermont",
+          "short_name": "VT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "05641",
+          "short_name": "05641",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "28 Waterman Farm Rd, Barre, VT 05641, USA",
+      "geometry": {
+        "location": {
+          "lat": 44.151531,
+          "lng": -72.452057
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 44.1528799802915,
+            "lng": -72.4507080197085
+          },
+          "southwest": {
+            "lat": 44.1501820197085,
+            "lng": -72.4534059802915
+          }
+        }
+      },
+      "place_id": "ChIJ5wyswy8CtUwRRFxVb1bN1SM",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Barre",
+          "short_name": "Barre",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Vermont",
+          "short_name": "VT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Barre, VT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.241667,
+            "lng": -72.419747
+          },
+          "southwest": {
+            "lat": 44.1286689,
+            "lng": -72.5596879
+          }
+        },
+        "location": {
+          "lat": 44.1767937,
+          "lng": -72.4687538
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.241667,
+            "lng": -72.419747
+          },
+          "southwest": {
+            "lat": 44.1286689,
+            "lng": -72.5596879
+          }
+        }
+      },
+      "place_id": "ChIJI1FS9DUBtUwR-iuktksVSBY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "05641",
+          "short_name": "05641",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Barre",
+          "short_name": "Barre",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Vermont",
+          "short_name": "VT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Barre, VT 05641, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.2433149,
+            "lng": -72.35735389999999
+          },
+          "southwest": {
+            "lat": 44.1263801,
+            "lng": -72.5831472
+          }
+        },
+        "location": {
+          "lat": 44.2019646,
+          "lng": -72.50846779999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.2433149,
+            "lng": -72.35735389999999
+          },
+          "southwest": {
+            "lat": 44.1263801,
+            "lng": -72.5831472
+          }
+        }
+      },
+      "place_id": "ChIJowVmLTcBtUwRalCY7RFv-lQ",
+      "postcode_localities": [
+        "Barre",
+        "Orange"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Barre",
+          "short_name": "Barre",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Vermont",
+          "short_name": "VT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Barre, VT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.506098,
+            "lng": -72.21710999999999
+          },
+          "southwest": {
+            "lat": 44.0083111,
+            "lng": -72.782261
+          }
+        },
+        "location": {
+          "lat": 44.1686127,
+          "lng": -72.505358
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.506098,
+            "lng": -72.21710999999999
+          },
+          "southwest": {
+            "lat": 44.0083111,
+            "lng": -72.782261
+          }
+        }
+      },
+      "place_id": "ChIJG4xiCbeptUwRkyhBMoft6wI",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Barre",
+          "short_name": "Barre",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Vermont",
+          "short_name": "VT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Barre, VT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.506098,
+            "lng": -72.21710999999999
+          },
+          "southwest": {
+            "lat": 44.012938,
+            "lng": -72.9529269
+          }
+        },
+        "location": {
+          "lat": 44.1986663,
+          "lng": -72.6972529
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.506098,
+            "lng": -72.21710999999999
+          },
+          "southwest": {
+            "lat": 44.012938,
+            "lng": -72.9529269
+          }
+        }
+      },
+      "place_id": "ChIJAdUX426ntUwRvtPPEkTZ1Eo",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Washington County",
+          "short_name": "Washington County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Vermont",
+          "short_name": "VT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Washington County, VT, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 44.506098,
+            "lng": -72.2171209
+          },
+          "southwest": {
+            "lat": 44.012938,
+            "lng": -72.9521669
+          }
+        },
+        "location": {
+          "lat": 44.1986663,
+          "lng": -72.6972529
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 44.506098,
+            "lng": -72.2176108
+          },
+          "southwest": {
+            "lat": 44.012938,
+            "lng": -72.9521669
+          }
+        }
+      },
+      "place_id": "ChIJn7hY3CevtUwRx3bYHTRG3hA",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Vermont",
+          "short_name": "VT",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Vermont, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.0166591,
+            "lng": -71.46503899999999
+          },
+          "southwest": {
+            "lat": 42.7268499,
+            "lng": -73.43055980000001
+          }
+        },
+        "location": {
+          "lat": 44.5588028,
+          "lng": -72.57784149999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.0166591,
+            "lng": -71.46503899999999
+          },
+          "southwest": {
+            "lat": 42.7268499,
+            "lng": -73.43055980000001
+          }
+        }
+      },
+      "place_id": "ChIJ_87aSGzctEwRtGtUNnSJTSY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

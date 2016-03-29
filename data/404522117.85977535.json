@@ -1,0 +1,533 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2137",
+          "short_name": "2137",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "College Avenue",
+          "short_name": "College Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Elmira",
+          "short_name": "Elmira",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Horseheads",
+          "short_name": "Horseheads",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chemung County",
+          "short_name": "Chemung County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14903",
+          "short_name": "14903",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1659",
+          "short_name": "1659",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "2137 College Ave, Elmira, NY 14903, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.126809,
+          "lng": -76.825591
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1281579802915,
+            "lng": -76.82424201970849
+          },
+          "southwest": {
+            "lat": 42.12546001970851,
+            "lng": -76.82693998029151
+          }
+        }
+      },
+      "place_id": "ChIJlVLUBp5q0IkRGpyvGfUN--Q",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Elmira Heights",
+          "short_name": "Elmira Heights",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chemung County",
+          "short_name": "Chemung County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14903",
+          "short_name": "14903",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Elmira Heights, NY 14903, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1346769,
+            "lng": -76.8111929
+          },
+          "southwest": {
+            "lat": 42.1179738,
+            "lng": -76.841075
+          }
+        },
+        "location": {
+          "lat": 42.1297967,
+          "lng": -76.8207898
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1346769,
+            "lng": -76.8111929
+          },
+          "southwest": {
+            "lat": 42.1179738,
+            "lng": -76.841075
+          }
+        }
+      },
+      "place_id": "ChIJXx0mpSBA0IkRfOocdXo7a4s",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "14903",
+          "short_name": "14903",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Elmira",
+          "short_name": "Elmira",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chemung County",
+          "short_name": "Chemung County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Elmira, NY 14903, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.16060909999999,
+            "lng": -76.8021201
+          },
+          "southwest": {
+            "lat": 42.0809531,
+            "lng": -76.93188289999999
+          }
+        },
+        "location": {
+          "lat": 42.1385729,
+          "lng": -76.8836261
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.16060909999999,
+            "lng": -76.8021201
+          },
+          "southwest": {
+            "lat": 42.0809531,
+            "lng": -76.93188289999999
+          }
+        }
+      },
+      "place_id": "ChIJVWGZl4pA0IkRlC-i5EBrq7A",
+      "postcode_localities": [
+        "Elmira",
+        "Elmira Heights"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Horseheads",
+          "short_name": "Horseheads",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Chemung County",
+          "short_name": "Chemung County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Horseheads, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.200742,
+            "lng": -76.723827
+          },
+          "southwest": {
+            "lat": 42.1233741,
+            "lng": -76.86177579999999
+          }
+        },
+        "location": {
+          "lat": 42.1583307,
+          "lng": -76.8028933
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.200742,
+            "lng": -76.723827
+          },
+          "southwest": {
+            "lat": 42.1233741,
+            "lng": -76.86177579999999
+          }
+        }
+      },
+      "place_id": "ChIJM5pyXTpq0IkRdkPG-nnDfm0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Elmira",
+          "short_name": "Elmira",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Elmira, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.294339,
+            "lng": -76.5357819
+          },
+          "southwest": {
+            "lat": 42.000155,
+            "lng": -76.965986
+          }
+        },
+        "location": {
+          "lat": 42.1362071,
+          "lng": -76.7798172
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.294339,
+            "lng": -76.5357819
+          },
+          "southwest": {
+            "lat": 42.000155,
+            "lng": -76.965986
+          }
+        }
+      },
+      "place_id": "ChIJCRJFB6Nr0IkRxg5f0_Ss1Rw",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Chemung County",
+          "short_name": "Chemung County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Chemung County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.2944241,
+            "lng": -76.5357789
+          },
+          "southwest": {
+            "lat": 42.000149,
+            "lng": -76.9661091
+          }
+        },
+        "location": {
+          "lat": 42.1362071,
+          "lng": -76.7798172
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.2944241,
+            "lng": -76.5357789
+          },
+          "southwest": {
+            "lat": 42.000149,
+            "lng": -76.9661091
+          }
+        }
+      },
+      "place_id": "ChIJN_Suxcxr0IkR15KGed9wnWM",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

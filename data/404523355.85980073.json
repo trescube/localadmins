@@ -1,0 +1,485 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "59-111",
+          "short_name": "59-111",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Cortlandt Street",
+          "short_name": "Cortlandt St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Croton-on-Hudson",
+          "short_name": "Croton-On-Hudson",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cortlandt Manor",
+          "short_name": "Cortlandt Manor",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10520",
+          "short_name": "10520",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "59-111 Cortlandt St, Croton-On-Hudson, NY 10520, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2290223,
+            "lng": -73.9229446
+          },
+          "southwest": {
+            "lat": 41.2265144,
+            "lng": -73.9235546
+          }
+        },
+        "location": {
+          "lat": 41.2279098,
+          "lng": -73.923566
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2291173302915,
+            "lng": -73.92190061970848
+          },
+          "southwest": {
+            "lat": 41.2264193697085,
+            "lng": -73.9245985802915
+          }
+        }
+      },
+      "place_id": "EjQ1OS0xMTEgQ29ydGxhbmR0IFN0LCBDcm90b24tT24tSHVkc29uLCBOWSAxMDUyMCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Crugers",
+          "short_name": "Crugers",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Cortlandt Manor",
+          "short_name": "Cortlandt Manor",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10520",
+          "short_name": "10520",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Crugers, NY 10520, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.240659,
+            "lng": -73.911468
+          },
+          "southwest": {
+            "lat": 41.2239546,
+            "lng": -73.9290889
+          }
+        },
+        "location": {
+          "lat": 41.2334275,
+          "lng": -73.9226383
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.240659,
+            "lng": -73.911468
+          },
+          "southwest": {
+            "lat": 41.2239546,
+            "lng": -73.9290889
+          }
+        }
+      },
+      "place_id": "ChIJexnEC27GwokRV-RS21p7yAk",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "10520",
+          "short_name": "10520",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Croton-on-Hudson",
+          "short_name": "Croton-On-Hudson",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Croton-On-Hudson, NY 10520, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.253492,
+            "lng": -73.81259709999999
+          },
+          "southwest": {
+            "lat": 41.157295,
+            "lng": -73.950947
+          }
+        },
+        "location": {
+          "lat": 41.2025169,
+          "lng": -73.88485279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.253492,
+            "lng": -73.81259709999999
+          },
+          "southwest": {
+            "lat": 41.157295,
+            "lng": -73.950947
+          }
+        }
+      },
+      "place_id": "ChIJfVnHHKXHwokRS4dDlw2nyVg",
+      "postcode_localities": [
+        "CROTON HDSN",
+        "Croton-on-Hudson"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Cortlandt Manor",
+          "short_name": "Cortlandt Manor",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cortlandt Manor, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3342639,
+            "lng": -73.837885
+          },
+          "southwest": {
+            "lat": 41.1682104,
+            "lng": -73.98062070000002
+          }
+        },
+        "location": {
+          "lat": 41.2369243,
+          "lng": -73.9124674
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3342639,
+            "lng": -73.837885
+          },
+          "southwest": {
+            "lat": 41.1682104,
+            "lng": -73.98062070000002
+          }
+        }
+      },
+      "place_id": "ChIJXbqq-0LJwokRVxqVIanz2xY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Westchester County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.366375,
+            "lng": -73.4827091
+          },
+          "southwest": {
+            "lat": 40.8764415,
+            "lng": -73.98062070000002
+          }
+        },
+        "location": {
+          "lat": 41.1220194,
+          "lng": -73.7948516
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.366375,
+            "lng": -73.4827091
+          },
+          "southwest": {
+            "lat": 40.8764415,
+            "lng": -73.98062070000002
+          }
+        }
+      },
+      "place_id": "ChIJr1lrnWrJwokRidu9ImLYDjc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

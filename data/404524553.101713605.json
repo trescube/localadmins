@@ -1,0 +1,456 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-299",
+          "short_name": "101-299",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Columbus Crystal Rock Avenue",
+          "short_name": "Columbus Crystal Rock Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Sandusky",
+          "short_name": "Sandusky",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Margaretta Township",
+          "short_name": "Margaretta Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "44870",
+          "short_name": "44870",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "101-299 Columbus Crystal Rock Ave, Sandusky, OH 44870, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4489891,
+            "lng": -82.8417817
+          },
+          "southwest": {
+            "lat": 41.4466669,
+            "lng": -82.8418403
+          }
+        },
+        "location": {
+          "lat": 41.4477884,
+          "lng": -82.84182880000002
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4491769802915,
+            "lng": -82.8404620197085
+          },
+          "southwest": {
+            "lat": 41.4464790197085,
+            "lng": -82.8431599802915
+          }
+        }
+      },
+      "place_id": "EjoxMDEtMjk5IENvbHVtYnVzIENyeXN0YWwgUm9jayBBdmUsIFNhbmR1c2t5LCBPSCA0NDg3MCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Margaretta Township",
+          "short_name": "Margaretta Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Margaretta Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.4845748,
+            "lng": -82.73641099999999
+          },
+          "southwest": {
+            "lat": 41.360692,
+            "lng": -82.90184140000001
+          }
+        },
+        "location": {
+          "lat": 41.3959939,
+          "lng": -82.79941939999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4845748,
+            "lng": -82.73641099999999
+          },
+          "southwest": {
+            "lat": 41.360692,
+            "lng": -82.90184140000001
+          }
+        }
+      },
+      "place_id": "ChIJhXQuz7VLOogRI9OhU9CpkiY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "44870",
+          "short_name": "44870",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Sandusky",
+          "short_name": "Sandusky",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sandusky, OH 44870, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.5028071,
+            "lng": -82.6105379
+          },
+          "southwest": {
+            "lat": 41.3243809,
+            "lng": -82.84858009999999
+          }
+        },
+        "location": {
+          "lat": 41.4091138,
+          "lng": -82.6915429
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.5028071,
+            "lng": -82.6105379
+          },
+          "southwest": {
+            "lat": 41.3243809,
+            "lng": -82.84858009999999
+          }
+        }
+      },
+      "place_id": "ChIJy94i4mpEOogR2r-T0fR9Mx8",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Sandusky",
+          "short_name": "Sandusky",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Sandusky, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.619629,
+            "lng": -82.342542
+          },
+          "southwest": {
+            "lat": 41.2835629,
+            "lng": -82.95310599999999
+          }
+        },
+        "location": {
+          "lat": 41.4091138,
+          "lng": -82.6915429
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4939451,
+            "lng": -82.342542
+          },
+          "southwest": {
+            "lat": 41.2835629,
+            "lng": -82.95310599999999
+          }
+        }
+      },
+      "place_id": "ChIJje0lfaVAOogRojLvQJlj-jk",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Erie County",
+          "short_name": "Erie County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Erie County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.62447299999999,
+            "lng": -82.34231489999999
+          },
+          "southwest": {
+            "lat": 41.283555,
+            "lng": -82.90184140000001
+          }
+        },
+        "location": {
+          "lat": 41.4349882,
+          "lng": -82.4752757
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4974749,
+            "lng": -82.34231489999999
+          },
+          "southwest": {
+            "lat": 41.283555,
+            "lng": -82.90184140000001
+          }
+        }
+      },
+      "place_id": "ChIJ463rPBdsOogRjV2mOxviDlE",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

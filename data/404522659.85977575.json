@@ -1,0 +1,547 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "14-16",
+          "short_name": "14-16",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Wyvil Avenue",
+          "short_name": "Wyvil Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Scottsville",
+          "short_name": "Scottsville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wheatland",
+          "short_name": "Wheatland",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14546",
+          "short_name": "14546",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1231",
+          "short_name": "1231",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "14-16 Wyvil Ave, Scottsville, NY 14546, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.0233358,
+            "lng": -77.7552084
+          },
+          "southwest": {
+            "lat": 43.0195651,
+            "lng": -77.7574516
+          }
+        },
+        "location": {
+          "lat": 43.0221662,
+          "lng": -77.7557202
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 43.0233358,
+            "lng": -77.75498101970848
+          },
+          "southwest": {
+            "lat": 43.0195651,
+            "lng": -77.7576789802915
+          }
+        }
+      },
+      "place_id": "EisxNC0xNiBXeXZpbCBBdmUsIFNjb3R0c3ZpbGxlLCBOWSAxNDU0NiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Scottsville",
+          "short_name": "Scottsville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Wheatland",
+          "short_name": "Wheatland",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14546",
+          "short_name": "14546",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Scottsville, NY 14546, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.0314659,
+            "lng": -77.7376549
+          },
+          "southwest": {
+            "lat": 43.009011,
+            "lng": -77.771483
+          }
+        },
+        "location": {
+          "lat": 43.0258957,
+          "lng": -77.7452826
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.0314659,
+            "lng": -77.7376549
+          },
+          "southwest": {
+            "lat": 43.009011,
+            "lng": -77.771483
+          }
+        }
+      },
+      "place_id": "ChIJJzR0qCtQ0YkR7ruht-rOxbM",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Wheatland",
+          "short_name": "Wheatland",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Wheatland, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.037963,
+            "lng": -77.7212881
+          },
+          "southwest": {
+            "lat": 42.9877618,
+            "lng": -77.909832
+          }
+        },
+        "location": {
+          "lat": 43.0134418,
+          "lng": -77.81830520000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.037963,
+            "lng": -77.7212881
+          },
+          "southwest": {
+            "lat": 42.9877618,
+            "lng": -77.909832
+          }
+        }
+      },
+      "place_id": "ChIJ__a5L8BQ0YkR7abMyQ_diec",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "14546",
+          "short_name": "14546",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Scottsville",
+          "short_name": "Scottsville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Scottsville, NY 14546, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.0898928,
+            "lng": -77.68465479999999
+          },
+          "southwest": {
+            "lat": 42.9738421,
+            "lng": -77.866084
+          }
+        },
+        "location": {
+          "lat": 43.0383054,
+          "lng": -77.76809519999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.0898928,
+            "lng": -77.68465479999999
+          },
+          "southwest": {
+            "lat": 42.9738421,
+            "lng": -77.866084
+          }
+        }
+      },
+      "place_id": "ChIJnd4Ja6JR0YkRPcqSNluG34I",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Monroe County",
+          "short_name": "Monroe County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Monroe County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.3688195,
+            "lng": -77.371364
+          },
+          "southwest": {
+            "lat": 42.9399638,
+            "lng": -77.99728999999999
+          }
+        },
+        "location": {
+          "lat": 43.2841246,
+          "lng": -77.7452081
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.3688195,
+            "lng": -77.371364
+          },
+          "southwest": {
+            "lat": 42.9399638,
+            "lng": -77.99728999999999
+          }
+        }
+      },
+      "place_id": "ChIJXXYP0I-w1okRe6s6YQ1JZnw",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rochester",
+          "short_name": "Rochester",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rochester, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.37650499999999,
+            "lng": -76.702356
+          },
+          "southwest": {
+            "lat": 42.471216,
+            "lng": -78.46648309999999
+          }
+        },
+        "location": {
+          "lat": 42.938004,
+          "lng": -77.3783789
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.37650499999999,
+            "lng": -76.702356
+          },
+          "southwest": {
+            "lat": 42.471216,
+            "lng": -78.46648309999999
+          }
+        }
+      },
+      "place_id": "ChIJgc_bWiY20YkRqU2QPLS42jQ",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

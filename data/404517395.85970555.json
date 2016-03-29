@@ -1,0 +1,541 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "101-115",
+          "short_name": "101-115",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Whiteside",
+          "short_name": "Whiteside",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Union Township",
+          "short_name": "Union Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63387",
+          "short_name": "63387",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "101-115 Main St, Whiteside, MO 63387, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.1844619,
+            "lng": -91.016436
+          },
+          "southwest": {
+            "lat": 39.1840302,
+            "lng": -91.0174981
+          }
+        },
+        "location": {
+          "lat": 39.1842709,
+          "lng": -91.01699289999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1855950302915,
+            "lng": -91.0156180697085
+          },
+          "southwest": {
+            "lat": 39.1828970697085,
+            "lng": -91.01831603029152
+          }
+        }
+      },
+      "place_id": "EikxMDEtMTE1IE1haW4gU3QsIFdoaXRlc2lkZSwgTU8gNjMzODcsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Whiteside",
+          "short_name": "Whiteside",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Union Township",
+          "short_name": "Union Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Whiteside, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.186456,
+            "lng": -91.011808
+          },
+          "southwest": {
+            "lat": 39.1805669,
+            "lng": -91.0206681
+          }
+        },
+        "location": {
+          "lat": 39.185324,
+          "lng": -91.01680449999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.186456,
+            "lng": -91.011808
+          },
+          "southwest": {
+            "lat": 39.1805669,
+            "lng": -91.0206681
+          }
+        }
+      },
+      "place_id": "ChIJcVh5MlKO3ocR8UiJL0rh8lY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63387",
+          "short_name": "63387",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Whiteside",
+          "short_name": "Whiteside",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Union Township",
+          "short_name": "Union Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Whiteside, MO 63387, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.1856119,
+            "lng": -91.01468
+          },
+          "southwest": {
+            "lat": 39.1826838,
+            "lng": -91.018095
+          }
+        },
+        "location": {
+          "lat": 39.1844109,
+          "lng": -91.0161365
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1856119,
+            "lng": -91.01468
+          },
+          "southwest": {
+            "lat": 39.1826838,
+            "lng": -91.018095
+          }
+        }
+      },
+      "place_id": "ChIJ07Oo7FOO3ocRvo6u527Pll0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Union Township",
+          "short_name": "Union Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Union Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2250948,
+            "lng": -90.9510091
+          },
+          "southwest": {
+            "lat": 39.0488489,
+            "lng": -91.06853079999999
+          }
+        },
+        "location": {
+          "lat": 39.1292724,
+          "lng": -91.0011902
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.2250948,
+            "lng": -90.9510091
+          },
+          "southwest": {
+            "lat": 39.0488489,
+            "lng": -91.06853079999999
+          }
+        }
+      },
+      "place_id": "ChIJCYoRikaQ3ocRkGkdoQzH0p8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Lincoln County",
+          "short_name": "Lincoln County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Lincoln County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2272649,
+            "lng": -90.665565
+          },
+          "southwest": {
+            "lat": 38.87086499999999,
+            "lng": -91.264287
+          }
+        },
+        "location": {
+          "lat": 39.0669568,
+          "lng": -90.9820668
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.2272649,
+            "lng": -90.665565
+          },
+          "southwest": {
+            "lat": 38.87086499999999,
+            "lng": -91.264287
+          }
+        }
+      },
+      "place_id": "ChIJ0zFN5hjA3ocRICgMLP-f8dI",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Louis",
+          "short_name": "St. Louis",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Louis, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        },
+        "location": {
+          "lat": 38.8196814,
+          "lng": -90.4502368
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        }
+      },
+      "place_id": "ChIJneBzzj4z34cRFGg2ez6q57o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

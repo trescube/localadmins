@@ -1,0 +1,475 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "97",
+          "short_name": "97",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Van Wart Avenue",
+          "short_name": "Van Wart Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Tarrytown",
+          "short_name": "Tarrytown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Greenburgh",
+          "short_name": "Greenburgh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10591",
+          "short_name": "10591",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5716",
+          "short_name": "5716",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "97 Van Wart Ave, Tarrytown, NY 10591, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.064799,
+          "lng": -73.867305
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0661479802915,
+            "lng": -73.86595601970849
+          },
+          "southwest": {
+            "lat": 41.0634500197085,
+            "lng": -73.86865398029151
+          }
+        }
+      },
+      "place_id": "ChIJm5yEaejqwokRkDElgPV06Z0",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tarrytown",
+          "short_name": "Tarrytown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Greenburgh",
+          "short_name": "Greenburgh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Tarrytown, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0869579,
+            "lng": -73.8309938
+          },
+          "southwest": {
+            "lat": 41.046445,
+            "lng": -73.8709014
+          }
+        },
+        "location": {
+          "lat": 41.0762077,
+          "lng": -73.85874609999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0869579,
+            "lng": -73.8309938
+          },
+          "southwest": {
+            "lat": 41.046445,
+            "lng": -73.8709014
+          }
+        }
+      },
+      "place_id": "ChIJPVEpK8nqwokRb3Jm_Y5VQl8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "10591",
+          "short_name": "10591",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Tarrytown",
+          "short_name": "Tarrytown",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Tarrytown, NY 10591, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.12108,
+            "lng": -73.8052211
+          },
+          "southwest": {
+            "lat": 41.046454,
+            "lng": -73.89488
+          }
+        },
+        "location": {
+          "lat": 41.0813932,
+          "lng": -73.8536683
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.12108,
+            "lng": -73.8052211
+          },
+          "southwest": {
+            "lat": 41.046454,
+            "lng": -73.89488
+          }
+        }
+      },
+      "place_id": "ChIJDV_knKvqwokRIGXiFDcUU50",
+      "postcode_localities": [
+        "Sleepy Hollow",
+        "Tarrytown"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Greenburgh",
+          "short_name": "Greenburgh",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Greenburgh, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0869579,
+            "lng": -73.7716219
+          },
+          "southwest": {
+            "lat": 40.976565,
+            "lng": -73.888718
+          }
+        },
+        "location": {
+          "lat": 41.0339576,
+          "lng": -73.86542949999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0869579,
+            "lng": -73.7716219
+          },
+          "southwest": {
+            "lat": 40.976565,
+            "lng": -73.888718
+          }
+        }
+      },
+      "place_id": "ChIJ8R8b9KqTwokRTdmJVVjMDPc",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Westchester County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.366375,
+            "lng": -73.4827091
+          },
+          "southwest": {
+            "lat": 40.8764415,
+            "lng": -73.98062070000002
+          }
+        },
+        "location": {
+          "lat": 41.1220194,
+          "lng": -73.7948516
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.366375,
+            "lng": -73.4827091
+          },
+          "southwest": {
+            "lat": 40.8764415,
+            "lng": -73.98062070000002
+          }
+        }
+      },
+      "place_id": "ChIJr1lrnWrJwokRidu9ImLYDjc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

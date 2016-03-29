@@ -1,0 +1,489 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1-99",
+          "short_name": "1-99",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Cynthia Court",
+          "short_name": "Cynthia Ct",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Florida",
+          "short_name": "Florida",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Warwick",
+          "short_name": "Warwick",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10921",
+          "short_name": "10921",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1612",
+          "short_name": "1612",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "1-99 Cynthia Ct, Florida, NY 10921, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.33167,
+            "lng": -74.351716
+          },
+          "southwest": {
+            "lat": 41.331376,
+            "lng": -74.353605
+          }
+        },
+        "location": {
+          "lat": 41.3314086,
+          "lng": -74.3534841
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.33287198029149,
+            "lng": -74.3513115197085
+          },
+          "southwest": {
+            "lat": 41.3301740197085,
+            "lng": -74.35400948029151
+          }
+        }
+      },
+      "place_id": "EicxLTk5IEN5bnRoaWEgQ3QsIEZsb3JpZGEsIE5ZIDEwOTIxLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Florida",
+          "short_name": "Florida",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Warwick",
+          "short_name": "Warwick",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Florida, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3435279,
+            "lng": -74.334413
+          },
+          "southwest": {
+            "lat": 41.314862,
+            "lng": -74.3731829
+          }
+        },
+        "location": {
+          "lat": 41.3317606,
+          "lng": -74.35682
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3435279,
+            "lng": -74.334413
+          },
+          "southwest": {
+            "lat": 41.314862,
+            "lng": -74.3731829
+          }
+        }
+      },
+      "place_id": "ChIJE8P_pATXwokRCZLShQ7K7G8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "10921",
+          "short_name": "10921",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Florida",
+          "short_name": "Florida",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Florida, NY 10921, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3629539,
+            "lng": -74.327294
+          },
+          "southwest": {
+            "lat": 41.2879229,
+            "lng": -74.4193848
+          }
+        },
+        "location": {
+          "lat": 41.3275569,
+          "lng": -74.347017
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3629539,
+            "lng": -74.327294
+          },
+          "southwest": {
+            "lat": 41.2879229,
+            "lng": -74.4193848
+          }
+        }
+      },
+      "place_id": "ChIJYUHhjoQvw4kRx2ncLN57SH4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Warwick",
+          "short_name": "Warwick",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Warwick, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3435279,
+            "lng": -74.2420838
+          },
+          "southwest": {
+            "lat": 41.14675889999999,
+            "lng": -74.53676
+          }
+        },
+        "location": {
+          "lat": 41.2638494,
+          "lng": -74.3822058
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3435279,
+            "lng": -74.2420838
+          },
+          "southwest": {
+            "lat": 41.14675889999999,
+            "lng": -74.53676
+          }
+        }
+      },
+      "place_id": "ChIJF3HkUackw4kRcFA41VNNrX0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Orange County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.6327378,
+            "lng": -73.9507237
+          },
+          "southwest": {
+            "lat": 41.142883,
+            "lng": -74.76262299999999
+          }
+        },
+        "location": {
+          "lat": 41.3911653,
+          "lng": -74.3118212
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.6327378,
+            "lng": -73.9507237
+          },
+          "southwest": {
+            "lat": 41.142883,
+            "lng": -74.76262299999999
+          }
+        }
+      },
+      "place_id": "ChIJC1B7Fc3S3IkRu6ik0rYBvT4",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

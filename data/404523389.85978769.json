@@ -1,0 +1,475 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "32",
+          "short_name": "32",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Country Ridge Circle",
+          "short_name": "Country Ridge Cir",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Rye Brook",
+          "short_name": "Rye Brook",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rye",
+          "short_name": "Rye",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10573",
+          "short_name": "10573",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1039",
+          "short_name": "1039",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "32 Country Ridge Cir, Rye Brook, NY 10573, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.030107,
+          "lng": -73.68607
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0314559802915,
+            "lng": -73.6847210197085
+          },
+          "southwest": {
+            "lat": 41.0287580197085,
+            "lng": -73.68741898029151
+          }
+        }
+      },
+      "place_id": "ChIJPXOSqqeXwokR-H_SnuZFvk8",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rye Brook",
+          "short_name": "Rye Brook",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rye",
+          "short_name": "Rye",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rye Brook, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0740709,
+            "lng": -73.666597
+          },
+          "southwest": {
+            "lat": 40.994703,
+            "lng": -73.7067309
+          }
+        },
+        "location": {
+          "lat": 41.0192641,
+          "lng": -73.68346210000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0740709,
+            "lng": -73.666597
+          },
+          "southwest": {
+            "lat": 40.994703,
+            "lng": -73.7067309
+          }
+        }
+      },
+      "place_id": "ChIJlUJzuqWXwokREC1V2XGCFQc",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "10573",
+          "short_name": "10573",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Port Chester",
+          "short_name": "Port Chester",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Port Chester, NY 10573, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.05979,
+            "lng": -73.6552059
+          },
+          "southwest": {
+            "lat": 40.9854989,
+            "lng": -73.70708909999999
+          }
+        },
+        "location": {
+          "lat": 41.0125894,
+          "lng": -73.6830521
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.05979,
+            "lng": -73.6552059
+          },
+          "southwest": {
+            "lat": 40.9854989,
+            "lng": -73.70708909999999
+          }
+        }
+      },
+      "place_id": "ChIJCVNSIwuXwokRZndxplxfRXM",
+      "postcode_localities": [
+        "Port Chester",
+        "Rye Brook"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rye",
+          "short_name": "Rye",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rye, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.0740709,
+            "lng": -73.6554189
+          },
+          "southwest": {
+            "lat": 40.9414096,
+            "lng": -73.7366369
+          }
+        },
+        "location": {
+          "lat": 41.0125894,
+          "lng": -73.6830521
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.0740709,
+            "lng": -73.6554189
+          },
+          "southwest": {
+            "lat": 40.9867104,
+            "lng": -73.7067309
+          }
+        }
+      },
+      "place_id": "ChIJ59bcHyeXwokRqla6WUFrLjI",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Westchester County",
+          "short_name": "Westchester County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Westchester County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.366375,
+            "lng": -73.4827091
+          },
+          "southwest": {
+            "lat": 40.8764415,
+            "lng": -73.98062070000002
+          }
+        },
+        "location": {
+          "lat": 41.1220194,
+          "lng": -73.7948516
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.366375,
+            "lng": -73.4827091
+          },
+          "southwest": {
+            "lat": 40.8764415,
+            "lng": -73.98062070000002
+          }
+        }
+      },
+      "place_id": "ChIJr1lrnWrJwokRidu9ImLYDjc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

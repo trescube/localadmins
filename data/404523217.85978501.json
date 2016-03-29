@@ -1,0 +1,621 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "82",
+          "short_name": "82",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Avenue",
+          "short_name": "North Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Owego",
+          "short_name": "Owego",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Owego",
+          "short_name": "Owego",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tioga County",
+          "short_name": "Tioga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "13827",
+          "short_name": "13827",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1360",
+          "short_name": "1360",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "82 North Ave, Owego, NY 13827, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.104702,
+          "lng": -76.26290399999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.10605098029149,
+            "lng": -76.2615550197085
+          },
+          "southwest": {
+            "lat": 42.10335301970849,
+            "lng": -76.2642529802915
+          }
+        }
+      },
+      "place_id": "ChIJo7JJjFCX2okRI7dyJMO2wjo",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tioga Transport Inc.",
+          "short_name": "Tioga Transport Inc.",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "72",
+          "short_name": "72",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "North Avenue",
+          "short_name": "North Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Owego",
+          "short_name": "Owego",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Owego",
+          "short_name": "Owego",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tioga County",
+          "short_name": "Tioga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "13827",
+          "short_name": "13827",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Tioga Transport Inc., 72 North Ave, Owego, NY 13827, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.104509,
+          "lng": -76.26261
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1058579802915,
+            "lng": -76.26126101970848
+          },
+          "southwest": {
+            "lat": 42.1031600197085,
+            "lng": -76.26395898029149
+          }
+        }
+      },
+      "place_id": "ChIJadZyiVCX2okRe53KrlPCehY",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "moving_company",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Owego",
+          "short_name": "Owego",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Owego",
+          "short_name": "Owego",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tioga County",
+          "short_name": "Tioga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Owego, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.121074,
+            "lng": -76.24225400000002
+          },
+          "southwest": {
+            "lat": 42.0872259,
+            "lng": -76.2791549
+          }
+        },
+        "location": {
+          "lat": 42.1034075,
+          "lng": -76.2621549
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.121074,
+            "lng": -76.24225400000002
+          },
+          "southwest": {
+            "lat": 42.0872259,
+            "lng": -76.2791549
+          }
+        }
+      },
+      "place_id": "ChIJiQwCJbuW2okRSaJLgljgLjw",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Owego",
+          "short_name": "Owego",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Tioga County",
+          "short_name": "Tioga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Owego, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1856099,
+            "lng": -76.1048299
+          },
+          "southwest": {
+            "lat": 41.998346,
+            "lng": -76.2791549
+          }
+        },
+        "location": {
+          "lat": 42.069927,
+          "lng": -76.2247366
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1856099,
+            "lng": -76.1048299
+          },
+          "southwest": {
+            "lat": 41.998346,
+            "lng": -76.2791549
+          }
+        }
+      },
+      "place_id": "ChIJk1MTOLZs0IkRtuXj_uUi0E0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "13827",
+          "short_name": "13827",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Owego",
+          "short_name": "Owego",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Owego, NY 13827, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.1945001,
+            "lng": -76.1128509
+          },
+          "southwest": {
+            "lat": 41.998346,
+            "lng": -76.4171429
+          }
+        },
+        "location": {
+          "lat": 42.1310032,
+          "lng": -76.247912
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.1945001,
+            "lng": -76.1128509
+          },
+          "southwest": {
+            "lat": 41.998346,
+            "lng": -76.4171429
+          }
+        }
+      },
+      "place_id": "ChIJeRoWDZaQ2okR4GBFR65JKSc",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tioga County",
+          "short_name": "Tioga County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Tioga County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.4103371,
+            "lng": -76.08068089999999
+          },
+          "southwest": {
+            "lat": 41.9983449,
+            "lng": -76.5635889
+          }
+        },
+        "location": {
+          "lat": 42.1256317,
+          "lng": -76.3637285
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.4103371,
+            "lng": -76.08068089999999
+          },
+          "southwest": {
+            "lat": 41.9983449,
+            "lng": -76.5635889
+          }
+        }
+      },
+      "place_id": "ChIJBzj53KOE2okRjzPEnB155Zc",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Binghamton",
+          "short_name": "Binghamton",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Binghamton, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.415702,
+            "lng": -75.359579
+          },
+          "southwest": {
+            "lat": 41.99786400000001,
+            "lng": -76.563394
+          }
+        },
+        "location": {
+          "lat": 42.23530170000001,
+          "lng": -75.9927652
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.415702,
+            "lng": -75.359579
+          },
+          "southwest": {
+            "lat": 41.99786400000001,
+            "lng": -76.563394
+          }
+        }
+      },
+      "place_id": "ChIJKXR4A3fy2okRw-zjlmmLqOA",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

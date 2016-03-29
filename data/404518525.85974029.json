@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "301-399",
+          "short_name": "301-399",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Pine Street",
+          "short_name": "Pine St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Elgin",
+          "short_name": "Elgin",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Logan",
+          "short_name": "Logan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Antelope County",
+          "short_name": "Antelope County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68636",
+          "short_name": "68636",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "4447",
+          "short_name": "4447",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "301-399 Pine St, Elgin, NE 68636, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9832691,
+            "lng": -98.08091119999999
+          },
+          "southwest": {
+            "lat": 41.9832529,
+            "lng": -98.0827555
+          }
+        },
+        "location": {
+          "lat": 41.98324,
+          "lng": -98.0826391
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9846099802915,
+            "lng": -98.08048436970849
+          },
+          "southwest": {
+            "lat": 41.9819120197085,
+            "lng": -98.0831823302915
+          }
+        }
+      },
+      "place_id": "EiUzMDEtMzk5IFBpbmUgU3QsIEVsZ2luLCBORSA2ODYzNiwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Elgin",
+          "short_name": "Elgin",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Logan",
+          "short_name": "Logan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Antelope County",
+          "short_name": "Antelope County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68636",
+          "short_name": "68636",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Elgin, NE 68636, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.991051,
+            "lng": -98.074246
+          },
+          "southwest": {
+            "lat": 41.974185,
+            "lng": -98.08945
+          }
+        },
+        "location": {
+          "lat": 41.9833412,
+          "lng": -98.08367729999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.991051,
+            "lng": -98.074246
+          },
+          "southwest": {
+            "lat": 41.974185,
+            "lng": -98.08945
+          }
+        }
+      },
+      "place_id": "ChIJWfmVSlC-mocRSUwcyZXxfoU",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Logan",
+          "short_name": "Logan",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Antelope County",
+          "short_name": "Antelope County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Logan, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.0020041,
+            "lng": -98.06492000000001
+          },
+          "southwest": {
+            "lat": 41.9151309,
+            "lng": -98.1808181
+          }
+        },
+        "location": {
+          "lat": 41.96934,
+          "lng": -98.1120116
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0020041,
+            "lng": -98.06492000000001
+          },
+          "southwest": {
+            "lat": 41.9151309,
+            "lng": -98.1808181
+          }
+        }
+      },
+      "place_id": "ChIJK00nVeW_mocRHHUi4uvFMlY",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68636",
+          "short_name": "68636",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Elgin",
+          "short_name": "Elgin",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Elgin, NE 68636, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.12291,
+            "lng": -98.0181899
+          },
+          "southwest": {
+            "lat": 41.88578400000001,
+            "lng": -98.334874
+          }
+        },
+        "location": {
+          "lat": 42.0056228,
+          "lng": -98.1557066
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.12291,
+            "lng": -98.0181899
+          },
+          "southwest": {
+            "lat": 41.88578400000001,
+            "lng": -98.334874
+          }
+        }
+      },
+      "place_id": "ChIJja065Ba-mocRW3I1TpBm9CQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Antelope County",
+          "short_name": "Antelope County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Antelope County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.437684,
+            "lng": -97.833288
+          },
+          "southwest": {
+            "lat": 41.9149539,
+            "lng": -98.300714
+          }
+        },
+        "location": {
+          "lat": 42.1902446,
+          "lng": -98.04651849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.437684,
+            "lng": -97.833288
+          },
+          "southwest": {
+            "lat": 41.9149539,
+            "lng": -98.300714
+          }
+        }
+      },
+      "place_id": "ChIJ_2yQeY2zmocRFHQKP0W835k",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

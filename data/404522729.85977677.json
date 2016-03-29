@@ -1,0 +1,484 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "4",
+          "short_name": "4",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Park Circle",
+          "short_name": "Park Cir",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Kings Point",
+          "short_name": "Kings Point",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Hempstead",
+          "short_name": "North Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11024",
+          "short_name": "11024",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "4 Park Cir, Kings Point, NY 11024, USA",
+      "geometry": {
+        "location": {
+          "lat": 40.817186,
+          "lng": -73.740786
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8185349802915,
+            "lng": -73.73943701970849
+          },
+          "southwest": {
+            "lat": 40.8158370197085,
+            "lng": -73.7421349802915
+          }
+        }
+      },
+      "place_id": "ChIJj61jI2eJwokR1Ytf6LbDiVo",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kings Point",
+          "short_name": "Kings Point",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Hempstead",
+          "short_name": "North Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kings Point, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8383561,
+            "lng": -73.71506889999999
+          },
+          "southwest": {
+            "lat": 40.7994956,
+            "lng": -73.7650574
+          }
+        },
+        "location": {
+          "lat": 40.8198231,
+          "lng": -73.7351316
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8383561,
+            "lng": -73.71506889999999
+          },
+          "southwest": {
+            "lat": 40.7994956,
+            "lng": -73.7650574
+          }
+        }
+      },
+      "place_id": "ChIJ22Zj4mCJwokRCj0czJl1iUI",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11024",
+          "short_name": "11024",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Great Neck",
+          "short_name": "Great Neck",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "North Hempstead",
+          "short_name": "North Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Great Neck, NY 11024, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8404248,
+            "lng": -73.713318
+          },
+          "southwest": {
+            "lat": 40.7975649,
+            "lng": -73.7653
+          }
+        },
+        "location": {
+          "lat": 40.8143687,
+          "lng": -73.7419017
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8404248,
+            "lng": -73.713318
+          },
+          "southwest": {
+            "lat": 40.7975649,
+            "lng": -73.7653
+          }
+        }
+      },
+      "place_id": "ChIJw4bzz2aJwokRBbE4Id4NVy8",
+      "postcode_localities": [
+        "Great Neck",
+        "Kings Point"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "North Hempstead",
+          "short_name": "North Hempstead",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "North Hempstead, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.8702434,
+            "lng": -73.549553
+          },
+          "southwest": {
+            "lat": 40.72783099999999,
+            "lng": -73.7650574
+          }
+        },
+        "location": {
+          "lat": 40.8099413,
+          "lng": -73.6771662
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.8702434,
+            "lng": -73.549553
+          },
+          "southwest": {
+            "lat": 40.72783099999999,
+            "lng": -73.7650574
+          }
+        }
+      },
+      "place_id": "ChIJDRQO56WGwokR5LZK05ql6qs",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nassau County",
+          "short_name": "Nassau County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nassau County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.9478348,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        },
+        "location": {
+          "lat": 40.6546145,
+          "lng": -73.55941279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.9478286,
+            "lng": -73.4232586
+          },
+          "southwest": {
+            "lat": 40.5730904,
+            "lng": -73.7667408
+          }
+        }
+      },
+      "place_id": "ChIJoQxey52xwokRap4G05mKJBs",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

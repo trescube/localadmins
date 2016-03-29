@@ -1,0 +1,482 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "2-38",
+          "short_name": "2-38",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Golden Avenue",
+          "short_name": "Golden Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Deer Park",
+          "short_name": "Deer Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Babylon",
+          "short_name": "Babylon",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "11729",
+          "short_name": "11729",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "2-38 Golden Ave, Deer Park, NY 11729, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.76238900000001,
+            "lng": -73.321635
+          },
+          "southwest": {
+            "lat": 40.762187,
+            "lng": -73.32252299999999
+          }
+        },
+        "location": {
+          "lat": 40.7623189,
+          "lng": -73.321878
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7636369802915,
+            "lng": -73.32073001970849
+          },
+          "southwest": {
+            "lat": 40.7609390197085,
+            "lng": -73.3234279802915
+          }
+        }
+      },
+      "place_id": "EikyLTM4IEdvbGRlbiBBdmUsIERlZXIgUGFyaywgTlkgMTE3MjksIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Deer Park",
+          "short_name": "Deer Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Babylon",
+          "short_name": "Babylon",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Deer Park, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7842969,
+            "lng": -73.2949661
+          },
+          "southwest": {
+            "lat": 40.74061810000001,
+            "lng": -73.3543547
+          }
+        },
+        "location": {
+          "lat": 40.7617653,
+          "lng": -73.3292857
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7842969,
+            "lng": -73.2949661
+          },
+          "southwest": {
+            "lat": 40.74061810000001,
+            "lng": -73.3543547
+          }
+        }
+      },
+      "place_id": "ChIJQ3eS0jQs6IkR4McmcuSyztA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "11729",
+          "short_name": "11729",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Deer Park",
+          "short_name": "Deer Park",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Deer Park, NY 11729, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.784996,
+            "lng": -73.292935
+          },
+          "southwest": {
+            "lat": 40.741467,
+            "lng": -73.35375599999999
+          }
+        },
+        "location": {
+          "lat": 40.7622141,
+          "lng": -73.317812
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.784996,
+            "lng": -73.292935
+          },
+          "southwest": {
+            "lat": 40.741467,
+            "lng": -73.35375599999999
+          }
+        }
+      },
+      "place_id": "ChIJQ3eS0jQs6IkR97rsbJtKQPY",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Babylon",
+          "short_name": "Babylon",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Babylon, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.7842969,
+            "lng": -73.2635619
+          },
+          "southwest": {
+            "lat": 40.6094168,
+            "lng": -73.4384999
+          }
+        },
+        "location": {
+          "lat": 40.6432284,
+          "lng": -73.3472901
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.7842969,
+            "lng": -73.2635619
+          },
+          "southwest": {
+            "lat": 40.6094168,
+            "lng": -73.4384999
+          }
+        }
+      },
+      "place_id": "ChIJ_V4T6KnT6YkR7p8spOZchh0",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffolk County",
+          "short_name": "Suffolk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffolk County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2923797,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        },
+        "location": {
+          "lat": 40.9848784,
+          "lng": -72.61511689999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2923194,
+            "lng": -71.8562082
+          },
+          "southwest": {
+            "lat": 40.6094203,
+            "lng": -73.497125
+          }
+        }
+      },
+      "place_id": "ChIJ1_mbyICu4IkRU18dDUkMxJU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -1,0 +1,576 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "177-201",
+          "short_name": "177-201",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Lafayette Avenue",
+          "short_name": "Lafayette Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Suffern",
+          "short_name": "Suffern",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ramapo",
+          "short_name": "Ramapo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rockland County",
+          "short_name": "Rockland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10901",
+          "short_name": "10901",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "177-201 Lafayette Ave, Suffern, NY 10901, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1146768,
+            "lng": -74.13862619999999
+          },
+          "southwest": {
+            "lat": 41.1130023,
+            "lng": -74.1432018
+          }
+        },
+        "location": {
+          "lat": 41.1141183,
+          "lng": -74.1419341
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1151885302915,
+            "lng": -74.13862619999999
+          },
+          "southwest": {
+            "lat": 41.11249056970851,
+            "lng": -74.1432018
+          }
+        }
+      },
+      "place_id": "Ei0xNzctMjAxIExhZmF5ZXR0ZSBBdmUsIFN1ZmZlcm4sIE5ZIDEwOTAxLCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "177-219",
+          "short_name": "177-219",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "New York 59",
+          "short_name": "NY-59",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Suffern",
+          "short_name": "Suffern",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ramapo",
+          "short_name": "Ramapo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rockland County",
+          "short_name": "Rockland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "10901",
+          "short_name": "10901",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "177-219 NY-59, Suffern, NY 10901, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1146768,
+            "lng": -74.13862619999999
+          },
+          "southwest": {
+            "lat": 41.1130023,
+            "lng": -74.1432018
+          }
+        },
+        "location": {
+          "lat": 41.1141183,
+          "lng": -74.1419341
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1151885302915,
+            "lng": -74.13862619999999
+          },
+          "southwest": {
+            "lat": 41.11249056970851,
+            "lng": -74.1432018
+          }
+        }
+      },
+      "place_id": "EiUxNzctMjE5IE5ZLTU5LCBTdWZmZXJuLCBOWSAxMDkwMSwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Suffern",
+          "short_name": "Suffern",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ramapo",
+          "short_name": "Ramapo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rockland County",
+          "short_name": "Rockland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffern, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.126695,
+            "lng": -74.1084077
+          },
+          "southwest": {
+            "lat": 41.098213,
+            "lng": -74.1610449
+          }
+        },
+        "location": {
+          "lat": 41.1148179,
+          "lng": -74.1495889
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.126695,
+            "lng": -74.1084077
+          },
+          "southwest": {
+            "lat": 41.098213,
+            "lng": -74.1610449
+          }
+        }
+      },
+      "place_id": "ChIJARdwer_gwokRT_nWVvEGlwY",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "10901",
+          "short_name": "10901",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Suffern",
+          "short_name": "Suffern",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Suffern, NY 10901, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.193985,
+            "lng": -74.050735
+          },
+          "southwest": {
+            "lat": 41.0907341,
+            "lng": -74.17471710000001
+          }
+        },
+        "location": {
+          "lat": 41.1411152,
+          "lng": -74.1357407
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.193985,
+            "lng": -74.050735
+          },
+          "southwest": {
+            "lat": 41.0907341,
+            "lng": -74.17471710000001
+          }
+        }
+      },
+      "place_id": "ChIJE5csyPrdwokRJSryQaXqsK0",
+      "postcode_localities": [
+        "Airmont",
+        "Montebello",
+        "Suffern"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ramapo",
+          "short_name": "Ramapo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Rockland County",
+          "short_name": "Rockland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ramapo, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.195794,
+            "lng": -74.0181851
+          },
+          "southwest": {
+            "lat": 41.0635959,
+            "lng": -74.234473
+          }
+        },
+        "location": {
+          "lat": 41.1459654,
+          "lng": -74.10050439999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.195794,
+            "lng": -74.0181851
+          },
+          "southwest": {
+            "lat": 41.0635959,
+            "lng": -74.234473
+          }
+        }
+      },
+      "place_id": "ChIJpwtvQ__dwokRYnyhNE0k0v8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rockland County",
+          "short_name": "Rockland County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rockland County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3212605,
+            "lng": -73.8959295
+          },
+          "southwest": {
+            "lat": 40.99730419999999,
+            "lng": -74.234473
+          }
+        },
+        "location": {
+          "lat": 41.1489458,
+          "lng": -73.98300290000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3212605,
+            "lng": -73.8959295
+          },
+          "southwest": {
+            "lat": 40.99730419999999,
+            "lng": -74.234473
+          }
+        }
+      },
+      "place_id": "ChIJJ3Ea8crJwokRTmgPSjoWmB8",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

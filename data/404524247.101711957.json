@@ -1,0 +1,549 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "200-204",
+          "short_name": "200-204",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "King Street",
+          "short_name": "King St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Bettsville",
+          "short_name": "Bettsville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Liberty Township",
+          "short_name": "Liberty Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Seneca County",
+          "short_name": "Seneca County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "44815",
+          "short_name": "44815",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "200-204 King St, Bettsville, OH 44815, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2445206,
+            "lng": -83.2342297
+          },
+          "southwest": {
+            "lat": 41.2435522,
+            "lng": -83.2342686
+          }
+        },
+        "location": {
+          "lat": 41.244045,
+          "lng": -83.2342307
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2453853802915,
+            "lng": -83.23290016970849
+          },
+          "southwest": {
+            "lat": 41.2426874197085,
+            "lng": -83.23559813029149
+          }
+        }
+      },
+      "place_id": "EioyMDAtMjA0IEtpbmcgU3QsIEJldHRzdmlsbGUsIE9IIDQ0ODE1LCBVU0E",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bettsville",
+          "short_name": "Bettsville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Liberty Township",
+          "short_name": "Liberty Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Seneca County",
+          "short_name": "Seneca County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bettsville, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.251066,
+            "lng": -83.228206
+          },
+          "southwest": {
+            "lat": 41.237558,
+            "lng": -83.240353
+          }
+        },
+        "location": {
+          "lat": 41.2464423,
+          "lng": -83.2357552
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.251066,
+            "lng": -83.228206
+          },
+          "southwest": {
+            "lat": 41.237558,
+            "lng": -83.240353
+          }
+        }
+      },
+      "place_id": "ChIJqaV9lrTCO4gRSEzhRbTAucU",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "44815",
+          "short_name": "44815",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Bettsville",
+          "short_name": "Bettsville",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Liberty Township",
+          "short_name": "Liberty Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Seneca County",
+          "short_name": "Seneca County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bettsville, OH 44815, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.2496699,
+            "lng": -83.229683
+          },
+          "southwest": {
+            "lat": 41.237558,
+            "lng": -83.240313
+          }
+        },
+        "location": {
+          "lat": 41.2440286,
+          "lng": -83.235879
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.2496699,
+            "lng": -83.229683
+          },
+          "southwest": {
+            "lat": 41.237558,
+            "lng": -83.240313
+          }
+        }
+      },
+      "place_id": "ChIJg0S0VbTCO4gRQHK4MMxH5Lw",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Liberty Township",
+          "short_name": "Liberty Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Seneca County",
+          "short_name": "Seneca County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Liberty Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.25491299999999,
+            "lng": -83.18661
+          },
+          "southwest": {
+            "lat": 41.166509,
+            "lng": -83.304215
+          }
+        },
+        "location": {
+          "lat": 41.2223788,
+          "lng": -83.2291862
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.25491299999999,
+            "lng": -83.18661
+          },
+          "southwest": {
+            "lat": 41.166509,
+            "lng": -83.304215
+          }
+        }
+      },
+      "place_id": "ChIJG3rRfXzdO4gRB_LuNqaB-Vg",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Tiffin",
+          "short_name": "Tiffin",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Tiffin, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.256808,
+            "lng": -82.829494
+          },
+          "southwest": {
+            "lat": 40.992023,
+            "lng": -83.4212989
+          }
+        },
+        "location": {
+          "lat": 41.1585179,
+          "lng": -83.1649001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.256808,
+            "lng": -82.829494
+          },
+          "southwest": {
+            "lat": 40.992023,
+            "lng": -83.4212989
+          }
+        }
+      },
+      "place_id": "ChIJRfB61AXZO4gRT762cZnxyPI",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Seneca County",
+          "short_name": "Seneca County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Seneca County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.256903,
+            "lng": -82.8295119
+          },
+          "southwest": {
+            "lat": 40.991889,
+            "lng": -83.4212989
+          }
+        },
+        "location": {
+          "lat": 41.1585179,
+          "lng": -83.1649001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.256903,
+            "lng": -82.8295119
+          },
+          "southwest": {
+            "lat": 40.991889,
+            "lng": -83.4212989
+          }
+        }
+      },
+      "place_id": "ChIJ8wLepMXRO4gRMzP6DUxVS1A",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

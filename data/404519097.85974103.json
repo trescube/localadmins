@@ -1,0 +1,456 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "509",
+          "short_name": "509",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "5th Street",
+          "short_name": "5th St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Stromsburg",
+          "short_name": "Stromsburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "West Stromsburg",
+          "short_name": "West Stromsburg",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Polk County",
+          "short_name": "Polk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "68666",
+          "short_name": "68666",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "509 5th St, Stromsburg, NE 68666, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.1158774,
+          "lng": -97.59116309999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1172263802915,
+            "lng": -97.58981411970848
+          },
+          "southwest": {
+            "lat": 41.1145284197085,
+            "lng": -97.5925120802915
+          }
+        }
+      },
+      "place_id": "ChIJU9pBn_SxkIcRQn-8oLR3MnM",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Stromsburg",
+          "short_name": "Stromsburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Polk County",
+          "short_name": "Polk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Stromsburg, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.1290791,
+            "lng": -97.57441879999999
+          },
+          "southwest": {
+            "lat": 41.1051748,
+            "lng": -97.6041109
+          }
+        },
+        "location": {
+          "lat": 41.1153115,
+          "lng": -97.5916443
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.1290791,
+            "lng": -97.57441879999999
+          },
+          "southwest": {
+            "lat": 41.1051748,
+            "lng": -97.6041109
+          }
+        }
+      },
+      "place_id": "ChIJvXG5AvWxkIcR0NuKISBxmE0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "West Stromsburg",
+          "short_name": "West Stromsburg",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Polk County",
+          "short_name": "Polk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "West Stromsburg, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.148316,
+            "lng": -97.57888799999999
+          },
+          "southwest": {
+            "lat": 41.04661710000001,
+            "lng": -97.6949209
+          }
+        },
+        "location": {
+          "lat": 41.0883008,
+          "lng": -97.63311300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.148316,
+            "lng": -97.57888799999999
+          },
+          "southwest": {
+            "lat": 41.04661710000001,
+            "lng": -97.6949209
+          }
+        }
+      },
+      "place_id": "ChIJ3WnsOMOtkIcRti_QUW0pmwQ",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "68666",
+          "short_name": "68666",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Stromsburg",
+          "short_name": "Stromsburg",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Stromsburg, NE 68666, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.177408,
+            "lng": -97.483369
+          },
+          "southwest": {
+            "lat": 41.0240421,
+            "lng": -97.79063900000001
+          }
+        },
+        "location": {
+          "lat": 41.0940249,
+          "lng": -97.54638849999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.177408,
+            "lng": -97.483369
+          },
+          "southwest": {
+            "lat": 41.0240421,
+            "lng": -97.79063900000001
+          }
+        }
+      },
+      "place_id": "ChIJu-DcxwGukIcReW9ngyYxKW0",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Polk County",
+          "short_name": "Polk County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Polk County, NE, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.3964158,
+            "lng": -97.3680219
+          },
+          "southwest": {
+            "lat": 41.0464799,
+            "lng": -97.8284189
+          }
+        },
+        "location": {
+          "lat": 41.1526688,
+          "lng": -97.56805949999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.3964158,
+            "lng": -97.3680219
+          },
+          "southwest": {
+            "lat": 41.0464799,
+            "lng": -97.8284189
+          }
+        }
+      },
+      "place_id": "ChIJNxzIv5mwkIcRVsd2x7BDFUk",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nebraska",
+          "short_name": "NE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Nebraska, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        },
+        "location": {
+          "lat": 41.4925374,
+          "lng": -99.9018131
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.00170689999999,
+            "lng": -95.30829000000001
+          },
+          "southwest": {
+            "lat": 39.999932,
+            "lng": -104.053514
+          }
+        }
+      },
+      "place_id": "ChIJ7fwMtciNk4cRxArzDwyQJ6E",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

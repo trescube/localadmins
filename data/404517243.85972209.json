@@ -1,0 +1,610 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "9631",
+          "short_name": "9631",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Manchester Road",
+          "short_name": "Manchester Rd",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "St. Louis",
+          "short_name": "St. Louis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clayton Township",
+          "short_name": "Clayton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Louis County",
+          "short_name": "St Louis County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63119",
+          "short_name": "63119",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1333",
+          "short_name": "1333",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "9631 Manchester Rd, St. Louis, MO 63119, USA",
+      "geometry": {
+        "location": {
+          "lat": 38.6089045,
+          "lng": -90.3675354
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6102534802915,
+            "lng": -90.36618641970848
+          },
+          "southwest": {
+            "lat": 38.60755551970851,
+            "lng": -90.3688843802915
+          }
+        }
+      },
+      "place_id": "ChIJdx9u84LL2IcRH_gfsPrpMOo",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Manchester Rd @ 9604 Manchester Rd EB",
+          "short_name": "Manchester Rd @ 9604 Manchester Rd EB",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "Rock Hill",
+          "short_name": "Rock Hill",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clayton Township",
+          "short_name": "Clayton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Louis County",
+          "short_name": "St Louis County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "63119",
+          "short_name": "63119",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Manchester Rd @ 9604 Manchester Rd EB, Rock Hill, MO 63119, USA",
+      "geometry": {
+        "location": {
+          "lat": 38.608664,
+          "lng": -90.36719099999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6100129802915,
+            "lng": -90.36584201970848
+          },
+          "southwest": {
+            "lat": 38.6073150197085,
+            "lng": -90.3685399802915
+          }
+        }
+      },
+      "place_id": "ChIJH7_V8YLL2IcRzbfGV2gFn7M",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Rock Hill",
+          "short_name": "Rock Hill",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clayton Township",
+          "short_name": "Clayton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Louis County",
+          "short_name": "St Louis County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Rock Hill, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.618752,
+            "lng": -90.35511609999999
+          },
+          "southwest": {
+            "lat": 38.6002519,
+            "lng": -90.380517
+          }
+        },
+        "location": {
+          "lat": 38.6075525,
+          "lng": -90.37845050000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.618752,
+            "lng": -90.35511609999999
+          },
+          "southwest": {
+            "lat": 38.6002519,
+            "lng": -90.380517
+          }
+        }
+      },
+      "place_id": "ChIJd-waYoLL2IcRFEct_rS0u4M",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "63119",
+          "short_name": "63119",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "St. Louis",
+          "short_name": "St. Louis",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Louis, MO 63119, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.6157871,
+            "lng": -90.313287
+          },
+          "southwest": {
+            "lat": 38.562372,
+            "lng": -90.38038309999999
+          }
+        },
+        "location": {
+          "lat": 38.5842641,
+          "lng": -90.3513021
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.6157871,
+            "lng": -90.313287
+          },
+          "southwest": {
+            "lat": 38.562372,
+            "lng": -90.38038309999999
+          }
+        }
+      },
+      "place_id": "ChIJZaOHRsfL2IcRq8ORd_mkKMg",
+      "postcode_localities": [
+        "St. Louis",
+        "Webster Groves"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clayton Township",
+          "short_name": "Clayton Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "St. Louis County",
+          "short_name": "St Louis County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clayton Township, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.661615,
+            "lng": -90.3201139
+          },
+          "southwest": {
+            "lat": 38.598652,
+            "lng": -90.4253179
+          }
+        },
+        "location": {
+          "lat": 38.6314692,
+          "lng": -90.3560076
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.661615,
+            "lng": -90.3201139
+          },
+          "southwest": {
+            "lat": 38.598652,
+            "lng": -90.4253179
+          }
+        }
+      },
+      "place_id": "ChIJSQyNhB_L2IcRePh-IybzBZk",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Louis County",
+          "short_name": "St Louis County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St Louis County, MO, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 38.8911839,
+            "lng": -90.11770709999999
+          },
+          "southwest": {
+            "lat": 38.396902,
+            "lng": -90.7365301
+          }
+        },
+        "location": {
+          "lat": 38.6103023,
+          "lng": -90.4125181
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 38.8911839,
+            "lng": -90.11770709999999
+          },
+          "southwest": {
+            "lat": 38.396902,
+            "lng": -90.7365301
+          }
+        }
+      },
+      "place_id": "ChIJBe3muPnK2IcRO8QfrOB9Xn0",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "St. Louis",
+          "short_name": "St. Louis",
+          "types": [
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "St. Louis, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        },
+        "location": {
+          "lat": 38.8196814,
+          "lng": -90.4502368
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.5233661,
+            "lng": -89.138356
+          },
+          "southwest": {
+            "lat": 37.7341961,
+            "lng": -91.4186371
+          }
+        }
+      },
+      "place_id": "ChIJneBzzj4z34cRFGg2ez6q57o",
+      "types": [
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Missouri",
+          "short_name": "MO",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Missouri, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        },
+        "location": {
+          "lat": 37.9642529,
+          "lng": -91.8318334
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 40.61364,
+            "lng": -89.09949399999999
+          },
+          "southwest": {
+            "lat": 35.9956829,
+            "lng": -95.774704
+          }
+        }
+      },
+      "place_id": "ChIJfeMiSNXmwIcRcr1mBFnEW7U",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

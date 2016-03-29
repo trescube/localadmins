@@ -1,0 +1,402 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "7416",
+          "short_name": "7416",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Elm Street",
+          "short_name": "Elm St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Cincinnati",
+          "short_name": "Cincinnati",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Columbia Township",
+          "short_name": "Columbia Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hamilton County",
+          "short_name": "Hamilton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45227",
+          "short_name": "45227",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "3854",
+          "short_name": "3854",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "7416 Elm St, Cincinnati, OH 45227, USA",
+      "geometry": {
+        "location": {
+          "lat": 39.14382,
+          "lng": -84.359184
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 39.14516898029149,
+            "lng": -84.35783501970849
+          },
+          "southwest": {
+            "lat": 39.1424710197085,
+            "lng": -84.36053298029151
+          }
+        }
+      },
+      "place_id": "ChIJqdDws4CsQYgRkeJkcH9JB_4",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "45227",
+          "short_name": "45227",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Cincinnati",
+          "short_name": "Cincinnati",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hamilton County",
+          "short_name": "Hamilton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Cincinnati, OH 45227, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.1873549,
+            "lng": -84.32287989999999
+          },
+          "southwest": {
+            "lat": 39.1344939,
+            "lng": -84.422889
+          }
+        },
+        "location": {
+          "lat": 39.1495912,
+          "lng": -84.39099910000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1873549,
+            "lng": -84.32287989999999
+          },
+          "southwest": {
+            "lat": 39.1344939,
+            "lng": -84.422889
+          }
+        }
+      },
+      "place_id": "ChIJiSaM-5SsQYgRU8MqJaRwr58",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Columbia Township",
+          "short_name": "Columbia Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Hamilton County",
+          "short_name": "Hamilton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Columbia Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.192918,
+            "lng": -84.288288
+          },
+          "southwest": {
+            "lat": 39.13383,
+            "lng": -84.43848190000001
+          }
+        },
+        "location": {
+          "lat": 39.1421894,
+          "lng": -84.3988806
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.176689,
+            "lng": -84.3215379
+          },
+          "southwest": {
+            "lat": 39.13383,
+            "lng": -84.4306259
+          }
+        }
+      },
+      "place_id": "ChIJo_gxc5isQYgRM6Uz_jE7wpM",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Hamilton County",
+          "short_name": "Hamilton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Hamilton County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.312056,
+            "lng": -84.25639090000001
+          },
+          "southwest": {
+            "lat": 39.0216,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 39.2355447,
+          "lng": -84.56414699999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.312056,
+            "lng": -84.25639090000001
+          },
+          "southwest": {
+            "lat": 39.0216,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJ1808oWhQQIgRMC9c5Ml8hMo",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

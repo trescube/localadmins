@@ -1,0 +1,492 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "940-952",
+          "short_name": "940-952",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Tarragon Lane",
+          "short_name": "Tarragon Ln",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Milford",
+          "short_name": "Milford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Miami Township",
+          "short_name": "Miami Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clermont County",
+          "short_name": "Clermont County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45150",
+          "short_name": "45150",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "5507",
+          "short_name": "5507",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "940-952 Tarragon Ln, Milford, OH 45150, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.19811199999999,
+            "lng": -84.25
+          },
+          "southwest": {
+            "lat": 39.197359,
+            "lng": -84.251053
+          }
+        },
+        "location": {
+          "lat": 39.1975854,
+          "lng": -84.25096239999999
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 39.1990844802915,
+            "lng": -84.24917751970851
+          },
+          "southwest": {
+            "lat": 39.1963865197085,
+            "lng": -84.25187548029152
+          }
+        }
+      },
+      "place_id": "Eis5NDAtOTUyIFRhcnJhZ29uIExuLCBNaWxmb3JkLCBPSCA0NTE1MCwgVVNB",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Mulberry",
+          "short_name": "Mulberry",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Miami Township",
+          "short_name": "Miami Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clermont County",
+          "short_name": "Clermont County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "45150",
+          "short_name": "45150",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Mulberry, OH 45150, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2101871,
+            "lng": -84.2350159
+          },
+          "southwest": {
+            "lat": 39.183797,
+            "lng": -84.263655
+          }
+        },
+        "location": {
+          "lat": 39.1933932,
+          "lng": -84.2421586
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.2101871,
+            "lng": -84.2350159
+          },
+          "southwest": {
+            "lat": 39.183797,
+            "lng": -84.263655
+          }
+        }
+      },
+      "place_id": "ChIJcYCDKsD_QIgRO1uUvJrRfKo",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "45150",
+          "short_name": "45150",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Milford",
+          "short_name": "Milford",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Milford, OH 45150, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.224824,
+            "lng": -84.160713
+          },
+          "southwest": {
+            "lat": 39.1091818,
+            "lng": -84.3196949
+          }
+        },
+        "location": {
+          "lat": 39.1680808,
+          "lng": -84.238417
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.224824,
+            "lng": -84.160713
+          },
+          "southwest": {
+            "lat": 39.1091818,
+            "lng": -84.3196949
+          }
+        }
+      },
+      "place_id": "ChIJkZnIKS0AQYgRFtdsdud36ak",
+      "postcode_localities": [
+        "Day Heights",
+        "Milford"
+      ],
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Miami Township",
+          "short_name": "Miami Township",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Clermont County",
+          "short_name": "Clermont County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Miami Township, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2699139,
+            "lng": -84.17298
+          },
+          "southwest": {
+            "lat": 39.1302979,
+            "lng": -84.320088
+          }
+        },
+        "location": {
+          "lat": 39.2095414,
+          "lng": -84.238417
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.2699139,
+            "lng": -84.17298
+          },
+          "southwest": {
+            "lat": 39.1302979,
+            "lng": -84.320088
+          }
+        }
+      },
+      "place_id": "ChIJJSwbg7__QIgR_bJgXuC2IJg",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Clermont County",
+          "short_name": "Clermont County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Clermont County, OH, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.2707949,
+            "lng": -83.9899191
+          },
+          "southwest": {
+            "lat": 38.770399,
+            "lng": -84.320088
+          }
+        },
+        "location": {
+          "lat": 39.0928449,
+          "lng": -84.1857115
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.2707949,
+            "lng": -83.9899191
+          },
+          "southwest": {
+            "lat": 38.770399,
+            "lng": -84.320088
+          }
+        }
+      },
+      "place_id": "ChIJt9jjIbHkQIgR3qqTM-ZfhiQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ohio",
+          "short_name": "OH",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Ohio, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        },
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 41.9773019,
+            "lng": -80.5182
+          },
+          "southwest": {
+            "lat": 38.4034229,
+            "lng": -84.8203049
+          }
+        }
+      },
+      "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

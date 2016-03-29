@@ -1,0 +1,488 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "24-98",
+          "short_name": "24-98",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Main Street",
+          "short_name": "Main St",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Penn Yan",
+          "short_name": "Penn Yan",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Milo",
+          "short_name": "Milo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Yates County",
+          "short_name": "Yates County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14527",
+          "short_name": "14527",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "1616",
+          "short_name": "1616",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "24-98 Main St, Penn Yan, NY 14527, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.6609489,
+            "lng": -77.0532439
+          },
+          "southwest": {
+            "lat": 42.66020400000001,
+            "lng": -77.0536499
+          }
+        },
+        "location": {
+          "lat": 42.66085229999999,
+          "lng": -77.0536155
+        },
+        "location_type": "RANGE_INTERPOLATED",
+        "viewport": {
+          "northeast": {
+            "lat": 42.66192543029151,
+            "lng": -77.05209791970849
+          },
+          "southwest": {
+            "lat": 42.65922746970851,
+            "lng": -77.05479588029151
+          }
+        }
+      },
+      "place_id": "EiYyNC05OCBNYWluIFN0LCBQZW5uIFlhbiwgTlkgMTQ1MjcsIFVTQQ",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Penn Yan",
+          "short_name": "Penn Yan",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Milo",
+          "short_name": "Milo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Yates County",
+          "short_name": "Yates County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "14527",
+          "short_name": "14527",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Penn Yan, NY 14527, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.676564,
+            "lng": -77.034193
+          },
+          "southwest": {
+            "lat": 42.645572,
+            "lng": -77.08704709999999
+          }
+        },
+        "location": {
+          "lat": 42.6609026,
+          "lng": -77.0538577
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.676564,
+            "lng": -77.034193
+          },
+          "southwest": {
+            "lat": 42.646422,
+            "lng": -77.069976
+          }
+        }
+      },
+      "place_id": "ChIJ08LrFDLk0IkR05Euz8mewrI",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Milo",
+          "short_name": "Milo",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Yates County",
+          "short_name": "Yates County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Milo, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.6698618,
+            "lng": -76.9160718
+          },
+          "southwest": {
+            "lat": 42.5777171,
+            "lng": -77.0864151
+          }
+        },
+        "location": {
+          "lat": 42.6106716,
+          "lng": -77.03341790000002
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.6698618,
+            "lng": -76.9160718
+          },
+          "southwest": {
+            "lat": 42.5777171,
+            "lng": -77.0864151
+          }
+        }
+      },
+      "place_id": "ChIJHUkLp3bv0IkRaaZLc7J6eZ8",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "14527",
+          "short_name": "14527",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Penn Yan",
+          "short_name": "Penn Yan",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Penn Yan, NY 14527, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.765662,
+            "lng": -76.8947061
+          },
+          "southwest": {
+            "lat": 42.494279,
+            "lng": -77.225109
+          }
+        },
+        "location": {
+          "lat": 42.7095794,
+          "lng": -77.0564464
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.765662,
+            "lng": -76.8947061
+          },
+          "southwest": {
+            "lat": 42.494279,
+            "lng": -77.225109
+          }
+        }
+      },
+      "place_id": "ChIJvVIYwCnk0IkRyisQV2x14YQ",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Yates County",
+          "short_name": "Yates County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Yates County, NY, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 42.7642211,
+            "lng": -76.9033851
+          },
+          "southwest": {
+            "lat": 42.459187,
+            "lng": -77.36710579999999
+          }
+        },
+        "location": {
+          "lat": 42.64308459999999,
+          "lng": -77.1485163
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 42.7642211,
+            "lng": -76.9033851
+          },
+          "southwest": {
+            "lat": 42.459187,
+            "lng": -77.36710579999999
+          }
+        }
+      },
+      "place_id": "ChIJdyUXzDDj0IkRbdlhXnMURkU",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "New York, USA",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 45.015865,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        },
+        "location": {
+          "lat": 43.2994285,
+          "lng": -74.21793260000001
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 45.015859,
+            "lng": -71.85620639999999
+          },
+          "southwest": {
+            "lat": 40.496091,
+            "lng": -79.76214379999999
+          }
+        }
+      },
+      "place_id": "ChIJqaUj8fBLzEwRZ5UY3sHGz90",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "United States",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 71.3867745,
+            "lng": -66.9502861
+          },
+          "southwest": {
+            "lat": 18.9106768,
+            "lng": 172.4458955
+          }
+        },
+        "location": {
+          "lat": 37.09024,
+          "lng": -95.712891
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 49.38,
+            "lng": -66.94
+          },
+          "southwest": {
+            "lat": 25.82,
+            "lng": -124.39
+          }
+        }
+      },
+      "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}
